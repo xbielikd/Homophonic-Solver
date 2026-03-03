@@ -1,67 +1,45 @@
 import parsers.CiphertextParser;
 import helpers.PreprocessResult;
 import helpers.Preprocessor;
-import scorers.*;
+import scorers.QuadGramScorer;
 import solvers.HomophonicAnnealingSolver;
 import solvers.SolverResult;
-import solvers.MonoAnnealingSolver;
 
 public class HomophonicSolverMain {
 
     public static void main(String[] args) throws Exception {
 
         // ======= CIPHERTEXT as integers =======
-        // mono ct = 26 homophones -------> zvladne to (pri 0.0 reassign, aj pri 0.15, na tom asi nezalezi pri mono), teplota 20 asi
-//        String ct = "19 7 4 16 20 8 2 10 1 17 14 22 13 5 14 23 9 20 12 15 18 14 21 4 17 19 7 4 11 0 25 24 3 14 6 0 13 3 19 7 4 13 17 20 13 18 8 13 19 14 5 14 17 4 18 19 22 7 4 17 4 8 19 12 4 4 19 18 0 13 14 19 7 4 17 5 14 23 19 7 0 19 19 4 11 11 18 0 18 19 17 0 13 6 4 18 19 14 17 24 0 1 14 20 19 7 8 3 3 4 13 19 17 4 0 18 20 17 4 0 13 3 18 4 2 17 4 19 12 0 15 18 1 20 17 8 4 3 20 13 3 4 17 14 11 3 14 0 10 19 17 4 4 18";
+        // 31 homophones
+//        String ct = "24 9 6 20 25 11 3 13 2 21 17 27 16 7 18 28 12 25 15 19 22 18 26 5 21 24 9 6 14 1 30 29 4 18 8 1 16 4 23 9 5 16 21 25 16 22 10 16 24 17 7 17 21 5 22 23 27 9 6 21 5 11 24 15 6 5 23 22 0 16 18 24 9 5 21 7 17 28 23 9 1 24 23 5 14 14 22 1 22 23 21 0 16 8 6 22 23 17 21 29 1 2 17 25 23 9 11 4 4 5 16 24 21 6 1 22 25 21 5 1 16 4 22 6 3 21 6 23 15 0 19 22 2 25 21 11 5 4 25 16 4 5 21 18 14 4 18 0 13 23 21 5 5 22";
 
-        // homophonic ct = 27 homophones ------> zvladlo to pri 0.15 reassing, teplota 20
-//        String ct = "20 8 4 17 21 9 2 11 1 18 15 23 14 6 15 24 10 21 13 16 19 15 22 5 18 20 8 4 12 0 26 25 3 15 7 0 14 3 20 8 4 14 18 21 14 19 9 14 20 15 6 15 18 5 19 20 23 8 4 18 4 9 20 13 4 5 20 19 0 14 15 20 8 5 18 6 15 24 20 8 0 20 20 5 12 12 19 0 19 20 18 0 14 7 5 19 20 15 18 25 0 1 15 21 20 8 9 3 3 5 14 20 18 5 0 19 21 18 4 0 14 3 19 4 2 18 4 20 13 0 16 19 1 21 18 9 5 3 21 14 3 4 18 15 12 3 15 0 11 20 18 4 4 19";
-
-        // 28 (a 2, e 2) ----------> zvladne to pri reassign 0.5, teplota 20
-//        String ct = "21 9 5 18 22 10 3 12 2 19 16 24 15 7 16 25 11 22 14 17 20 16 23 6 19 21 9 5 13 1 27 26 4 16 8 0 15 4 21 9 6 15 19 22 15 20 10 15 21 16 7 16 19 5 20 21 24 9 5 19 5 10 21 14 5 5 21 20 1 15 16 21 9 6 19 7 16 25 21 9 0 21 21 5 13 13 20 1 20 21 19 1 15 8 5 20 21 16 19 26 0 2 16 22 21 9 10 4 4 6 15 21 19 6 0 20 22 19 5 0 15 4 20 5 3 19 6 21 14 1 17 20 2 22 19 10 6 4 22 15 4 6 19 16 13 4 16 1 12 21 19 6 5 20";
-
-        // 29 96.75%, teplota 20
-//        String ct = "22 9 6 19 23 10 3 12 2 20 16 25 15 7 17 26 11 23 14 18 21 16 24 6 20 22 9 5 13 0 28 27 4 16 8 1 15 4 22 9 6 15 20 23 15 21 10 15 22 16 7 16 20 6 21 22 25 9 6 20 6 10 22 14 6 5 22 21 0 15 17 22 9 5 20 7 16 26 22 9 1 22 22 6 13 13 21 0 21 22 20 1 15 8 5 21 22 17 20 27 1 2 16 23 22 9 10 4 4 5 15 22 20 5 0 21 23 20 6 1 15 4 21 6 3 20 5 22 14 0 18 21 2 23 20 10 5 4 23 15 4 6 20 16 13 4 17 1 12 22 20 5 6 21";
-
-        // 30
-//        String ct = "22 9 5 19 24 10 3 12 2 20 16 26 15 7 17 27 11 24 14 18 21 16 25 5 20 23 9 6 13 0 29 28 4 17 8 0 15 4 22 9 5 15 20 24 15 21 10 15 22 16 7 17 20 6 21 23 26 9 5 20 6 10 23 14 6 5 22 21 1 15 16 23 9 6 20 7 16 27 22 9 0 23 22 6 13 13 21 0 21 22 20 0 15 8 5 21 22 17 20 28 0 2 16 24 23 9 10 4 4 6 15 22 20 5 0 21 24 20 5 0 15 4 21 5 3 20 6 22 14 1 18 21 2 24 20 10 6 4 24 15 4 6 20 17 13 4 16 0 12 23 20 6 5 21 \n";
-
-        // 31
-        String ct = "24 9 6 20 25 11 3 13 2 21 17 27 16 7 18 28 12 25 15 19 22 18 26 5 21 24 9 6 14 1 30 29 4 18 8 1 16 4 23 9 5 16 21 25 16 22 10 16 24 17 7 17 21 5 22 23 27 9 6 21 5 11 24 15 6 5 23 22 0 16 18 24 9 5 21 7 17 28 23 9 1 24 23 5 14 14 22 1 22 23 21 0 16 8 6 22 23 17 21 29 1 2 17 25 23 9 11 4 4 5 16 24 21 6 1 22 25 21 5 1 16 4 22 6 3 21 6 23 15 0 19 22 2 25 21 11 5 4 25 16 4 5 21 18 14 4 18 0 13 23 21 5 5 22";
-
+        // 55
+        String ct = "45 18 13 41 49 29 39 34 41 11 34 50 14 38 46 18 13 33 25 8 6 20 45 53 51 2 25 26 42 2 31 8 44 18 12 27 0 40 24 12 47 36 26 0 6 13 5 1 27 9 1 25 20 50 13 51 21 47 19 45 19 14 41 33 48 31 7 41 33 15 50 9 29 8 34 38 43 5 3 25 26 20 30 16 32 49 47 45 18 11 21 38 36 39 21 6 10 43 15 39 9 41 19 15 38 49 22 45 42 3 31 8 50 11 16 12 47 2 4 25 11 43 51 12 38 10 36 22 25 10 7 18 21 16 17 32 30 6 1 38 45 43 51 33 34 8 12 30 5 39 3 47 9 41 32 15 3 36 36 25 11 43 35 38 0 29 16 9 42 0 29 8 36 12 3 40 41 43 2 46 3 26 35 31 16 43 22 8 10 4 3 43 24 12 45 42 34 15 9 16 16 41 29 9 51 26 53 4 2 24 12 8 4 38 9 0 8 15 22 26 26 11 8 46 19 9 3 22 40 51 21 47 17 0 38 20 6 19 41 6 11 29 45 4 48 46 46 13 39 43 45 22 25 26 16 25 22 42 47 14 29 22 29 16 15 39 33 28 44 17 12 5 17 48 39 42 46 32 32 7 30 10 1 40 45 18 13 15 33 48 29 46 2 22 30 51 19 11 38 11 51 34 27 12 29 19 1 7 16 0 46 17 10 39 10 7 44 33 15 14 46 5 19 46 17 14 20 38 27 35 40 31 22 31 16 51 3 47 12 40 47 19 9 6 17 20 26 8 40 12 30 38 0 30 36 1 43 46 25 1 48 16 19 20 30 16 1 31 8 43 17 34 49 46 20 30 16 51 18 20 25 12 47 18 14 20 39 36 0 38 14 30 45 42 4 1 40 46 12 39 14 8 30 33 20 43 22 26 53 51 22 44 17 28 9 38 5 18 2 31 46 42 51 18 35 41 12 43 46 2 26 26 43 42 45 38 9 45 6 17 9 8 1 26 34 29 16 46 17 12 30 2 38 39 33 51 5 32 4 4 25 9 42 45 34 30 13 41 47 40 13 9 44 3 31 32 26 7 27 0 29 51 22 44 19 0 16 38 14 53 4 10 0 38 8 41 2 45 37 49 21 11 45 25 53 35 30 0 41 46 32 29 12 4 9 30 6 17 30 13 2 39 44 19 13 12 31 44 40 3 30 5 9 47 33 47 19 12 27 0 39 24 14 45 36 26 3 6 11 17 12 51 0 47 5 17 12 7 47 17 12 4 49 43 25 53 5 38 33 51 7 51 22 47 18 51 22 41 10 53 10 42 0 30 7 42 28 21 25 14 7 42 32 15 46 26 53";
 
 
         int[] rawCipher = CiphertextParser.parseCiphertext(ct);
 
-
         // ======= Preprocessing =======
         PreprocessResult prep = Preprocessor.preprocessCiphertext(rawCipher);
+        System.out.println("Cipher symbols: " + prep.numCipherSymbols);
+        System.out.println("Text length:    " + prep.ctIdx.length);
 
-        // ======= Solver =======
-        NGramScorer scorer = new NGramScorer();
-        scorer.uni = new UniGramsScorer();
-        scorer.bi = new BiGramScorer();
-        scorer.tri = new TriGramScorer();
-        scorer.quad = new QuadGramScorer();
+        // ======= Scorer — quadgrams only =======
+        QuadGramScorer quad = new QuadGramScorer();
+        quad.loadFromTxt("src/main/resources/quadgrams.txt");
 
-        // load grams
-        scorer.uni.loadFromTxt("src/main/resources/unigrams.txt");
-        scorer.bi.loadFromTxt("src/main/resources/bigrams.txt");
-        scorer.tri.loadFromTxt("src/main/resources/trigrams.txt");
-        scorer.quad.loadFromTxt("src/main/resources/quadgrams.txt");
-
-        HomophonicAnnealingSolver homophonicAnnealingSolver = new HomophonicAnnealingSolver(prep, scorer);
-        SolverResult result = homophonicAnnealingSolver.solve();
-
+        // ======= Solve =======
+        HomophonicAnnealingSolver solver = new HomophonicAnnealingSolver(prep, quad);
+        SolverResult result = solver.solve();
 
         // ======= Print =======
-        System.out.println("=== BEST SCORE ===");
+        System.out.println("\n=== BEST SCORE ===");
         System.out.println(result.score);
 
-        System.out.println("=== PLAINTEXT ===");
+        System.out.println("\n=== PLAINTEXT ===");
         System.out.println(result.plaintext);
 
-        System.out.println("=== KEY (cipher -> plain) ===");
+        System.out.println("\n=== KEY (cipher -> plain) ===");
         result.printKey();
     }
 }

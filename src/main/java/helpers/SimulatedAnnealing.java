@@ -2,58 +2,67 @@ package helpers;
 
 import java.util.Random;
 
+/**
+ * Simulated Annealing with geometric (exponential) cooling.
+ *
+ * Key differences from the old version:
+ *  - Geometric cooling (T *= alpha each step) instead of linear subtraction.
+ *    This spends proportionally more time at low temperatures where good
+ *    solutions are refined — the standard approach in SA literature.
+ *  - Standard Boltzmann acceptance: exp(delta/T) > random().
+ *    The old version had a hardcoded threshold of 0.0085 that wrongly
+ *    blocked valid uphill moves at low temperature.
+ *  - isHot() now checks iteration count, not temperature crossing zero.
+ */
 public class SimulatedAnnealing {
+
     private final Random random = new Random();
-    private final double startTemperature;
+
     private double currentTemperature;
-    private final double steps;
-    private final double stepSize;
+    private final double alpha;         // cooling factor per step, e.g. 0.99995
+    private final long totalSteps;
+    private long stepsDone = 0;
 
-    public SimulatedAnnealing(double temperature, double steps) {
-        this.currentTemperature = temperature;
-        this.startTemperature = temperature;
-        this.steps = steps;
-        this.stepSize = startTemperature / steps;
+    /**
+     * @param startTemperature  initial temperature (e.g. 10.0)
+     * @param endTemperature    final temperature (e.g. 0.001)
+     * @param totalSteps        number of SA iterations (e.g. 500_000)
+     *
+     * alpha is derived automatically so temperature decays from start to end
+     * over exactly totalSteps steps: alpha = (end/start)^(1/steps)
+     */
+    public SimulatedAnnealing(double startTemperature, double endTemperature, long totalSteps) {
+        this.currentTemperature = startTemperature;
+        this.totalSteps = totalSteps;
+        // geometric decay: T_final = T_start * alpha^steps  =>  alpha = (T_final/T_start)^(1/steps)
+        this.alpha = Math.pow(endTemperature / startTemperature, 1.0 / totalSteps);
     }
 
     /**
-     * Simulated Annealing Acceptance Function
-     * @param newKeyScore the score of the new key
-     * @param currentKeyScore the score of the current key
-     * @return whether the new key is accepted
+     * Standard SA acceptance.
+     * Better moves always accepted.
+     * Worse moves accepted with probability exp(delta / T).
+     * Temperature is decreased by one step each call.
      */
-    public boolean acceptWithTemperature(double newKeyScore, double currentKeyScore) {
-        currentTemperature -= stepSize;
+    public boolean accept(double newScore, double currentScore) {
+        stepsDone++;
+        currentTemperature *= alpha;
 
-        // Always accept better keys
-        if (newKeyScore >= currentKeyScore) {
-            return true;
-        }
+        if (newScore >= currentScore) return true;
 
-        double degradation = -Math.abs(currentKeyScore - newKeyScore);
-        double acceptanceProbability = Math.exp(degradation / currentTemperature);
-
-        return acceptanceProbability > 0.0085 && random.nextDouble() < acceptanceProbability;
+        double prob = Math.exp((newScore - currentScore) / currentTemperature);
+        return random.nextDouble() < prob;
     }
 
-    /**
-     * Returns true as long as we did not reach the end temperature
-     * @return whether the process is still "hot"
-     */
     public boolean isHot() {
-        return currentTemperature > 0;
+        return stepsDone < totalSteps;
     }
-
-    /**
-     * Returns the current progress of the simulated annealing process
-     * @return progress as a percentage
-     */
-    public double getProgress() {
-        return (startTemperature - currentTemperature) / startTemperature;
-    }
-
 
     public double getTemperatureRatio() {
-        return currentTemperature / startTemperature;
+        return (double)(totalSteps - stepsDone) / totalSteps;
+    }
+
+    public double getCurrentTemperature() {
+        return currentTemperature;
     }
 }

@@ -53,18 +53,51 @@ public class HomophonicCipherGenerator {
 
     public static void main(String[] args) {
 
+//        String plaintext =
+//                "THEQUICKBROWNFOXJUMPSOVERTHELAZYDOGANDTHENRUNSINTOFORESTWHEREITMEETSANOTHERFOXTHATTELLSASTRANGESTORYABOUTHIDDENTREASUREANDSECRETMAPSBURIEDUNDEROLDOAKTREES";
+//
+//        int[] homophoneCounts = new int[26];
+//
+//        for (int i = 0; i < 26; i++) homophoneCounts[i] = 1;
+//
+//        homophoneCounts['E' - 'A'] = 2;
+//        homophoneCounts['T' - 'A'] = 2;
+//        homophoneCounts['A' - 'A'] = 2;
+//        homophoneCounts['O' - 'A'] = 2;
+//        homophoneCounts['I' - 'A'] = 2;
         String plaintext =
-                "THEQUICKBROWNFOXJUMPSOVERTHELAZYDOGANDTHENRUNSINTOFORESTWHEREITMEETSANOTHERFOXTHATTELLSASTRANGESTORYABOUTHIDDENTREASUREANDSECRETMAPSBURIEDUNDEROLDOAKTREES";
+                "THESUNROSEOVERTHEOLDCITYWALLSANDTHEMARKETPLACECAMEALIVEWITHTHESOUNDSOFVENDORSCALLINGOUTTHEIRPRICESFRESHFRUITSANDVEGETABLESWEREPILEDHIGHONCARTSWOODENCRATESOFAPPLESORANGESANDPEARSSATALONGSIDEBASKETSOFEGGSNEWLYBAKEDBREADFILLEDTHEAIRWITHARICHSCENTBUTTERSTILLGLISTENINGFROMTHECHURSTOODNEARTHEFOUNTAINWHEREWOMENHADGATHEREDTOFETCHTHEIRMORNINGWATERTHECHILDRENRANPASTLAUGHINGANDSHOUTINGWHILETHEIRPARENTSBARTEREDNOISILYWITHMERCHANTSWHOSESTALLSSTRETCHEDALONGTHENARROWCOBBLESTONESTREETANOLDMANWITHAGREYBEARDSATQUIETLYONASTONEBENCHNEARTHEENTRANCETOTHEMARKETPLACEHEWATCHEDTHEBUSLYCROWDWITHWISEYESANDSMILEDSOFTLY";
 
         int[] homophoneCounts = new int[26];
 
+// base: every letter gets 1
         for (int i = 0; i < 26; i++) homophoneCounts[i] = 1;
 
-        homophoneCounts['E' - 'A'] = 2;
-        homophoneCounts['T' - 'A'] = 2;
-        homophoneCounts['A' - 'A'] = 2;
-        homophoneCounts['O' - 'A'] = 2;
-        homophoneCounts['I' - 'A'] = 2;
+// extra homophones for high-frequency letters
+        homophoneCounts['E' - 'A'] = 6;
+        homophoneCounts['T' - 'A'] = 4;
+        homophoneCounts['A' - 'A'] = 4;
+        homophoneCounts['O' - 'A'] = 4;
+        homophoneCounts['I' - 'A'] = 3;
+        homophoneCounts['N' - 'A'] = 3;
+        homophoneCounts['S' - 'A'] = 3;
+        homophoneCounts['H' - 'A'] = 3;
+        homophoneCounts['R' - 'A'] = 3;
+        homophoneCounts['L' - 'A'] = 2;
+
+        homophoneCounts['D' - 'A'] = 2;
+        homophoneCounts['C' - 'A'] = 2;
+        homophoneCounts['U' - 'A'] = 2;
+        homophoneCounts['M' - 'A'] = 2;
+
+
+
+
+
+// verify
+        int total = Arrays.stream(homophoneCounts).sum(); // should be 50
+        System.out.println("Total homophones: " + total);
+
 
         List<Integer>[] key = generateKey(homophoneCounts);
 
