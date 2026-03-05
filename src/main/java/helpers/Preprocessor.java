@@ -31,6 +31,12 @@ public class Preprocessor {
             positions[ctIdx[i]].add(i);
         }
 
-        return new PreprocessResult(ctIdx, positions, next);
+        // Build reverse map: internal index → original symbol number
+        int[] originalSymbol = new int[next];
+        for (var entry : map.int2IntEntrySet()) {
+            originalSymbol[entry.getIntValue()] = entry.getIntKey();
+        }
+
+        return new PreprocessResult(ctIdx, positions, next, originalSymbol);
     }
 }

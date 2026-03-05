@@ -19,7 +19,7 @@ public class SimulatedAnnealing {
     private final Random random = new Random();
 
     private double currentTemperature;
-    private final double alpha;         // cooling factor per step, e.g. 0.99995
+    private final double alpha;         // cooling factor per step, e.g. 0.99999995
     private final long totalSteps;
     private long stepsDone = 0;
 

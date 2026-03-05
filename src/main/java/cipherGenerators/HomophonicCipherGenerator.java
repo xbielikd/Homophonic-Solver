@@ -15,13 +15,19 @@ public class HomophonicCipherGenerator {
         @SuppressWarnings("unchecked")
         List<Integer>[] key = new List[26];
 
-        int symbolCounter = 0;
+        // Build a shuffled pool of all symbol numbers
+        int total = 0;
+        for (int c : homophoneCounts) total += c;
 
+        List<Integer> symbolPool = new ArrayList<>(total);
+        for (int i = 0; i < total; i++) symbolPool.add(i);
+        Collections.shuffle(symbolPool, rand);  // randomise symbol assignment
+
+        int poolIdx = 0;
         for (int i = 0; i < 26; i++) {
             key[i] = new ArrayList<>();
-
             for (int j = 0; j < homophoneCounts[i]; j++) {
-                key[i].add(symbolCounter++);
+                key[i].add(symbolPool.get(poolIdx++));
             }
         }
 
@@ -74,28 +80,38 @@ public class HomophonicCipherGenerator {
         for (int i = 0; i < 26; i++) homophoneCounts[i] = 1;
 
 // extra homophones for high-frequency letters
-        homophoneCounts['E' - 'A'] = 6;
-        homophoneCounts['T' - 'A'] = 4;
-        homophoneCounts['A' - 'A'] = 4;
-        homophoneCounts['O' - 'A'] = 4;
-        homophoneCounts['I' - 'A'] = 3;
-        homophoneCounts['N' - 'A'] = 3;
-        homophoneCounts['S' - 'A'] = 3;
-        homophoneCounts['H' - 'A'] = 3;
-        homophoneCounts['R' - 'A'] = 3;
-        homophoneCounts['L' - 'A'] = 2;
+//        homophoneCounts['E' - 'A'] = 6;
+//        homophoneCounts['T' - 'A'] = 4;
+//        homophoneCounts['A' - 'A'] = 4;
+//        homophoneCounts['O' - 'A'] = 4;
+//        homophoneCounts['I' - 'A'] = 3;
+//        homophoneCounts['N' - 'A'] = 3;
+//        homophoneCounts['S' - 'A'] = 3;
+//        homophoneCounts['H' - 'A'] = 3;
+//        homophoneCounts['R' - 'A'] = 3;
+//        homophoneCounts['L' - 'A'] = 2;
+//
+//        homophoneCounts['D' - 'A'] = 2;
+//        homophoneCounts['C' - 'A'] = 2;
+//        homophoneCounts['U' - 'A'] = 2;
+//        homophoneCounts['M' - 'A'] = 2;
 
-        homophoneCounts['D' - 'A'] = 2;
-        homophoneCounts['C' - 'A'] = 2;
-        homophoneCounts['U' - 'A'] = 2;
-        homophoneCounts['M' - 'A'] = 2;
+        homophoneCounts['C' - 'A'] = 5;
+        homophoneCounts['M' - 'A'] = 4;
+        homophoneCounts['F' - 'A'] = 4;
+        homophoneCounts['R' - 'A'] = 4;
+        homophoneCounts['T' - 'A'] = 3;
+        homophoneCounts['W' - 'A'] = 3;
+        homophoneCounts['H' - 'A'] = 3;
+        homophoneCounts['I' - 'A'] = 3;
+        homophoneCounts['V' - 'A'] = 3;
 
 
 
 
 
 // verify
-        int total = Arrays.stream(homophoneCounts).sum(); // should be 50
+        int total = Arrays.stream(homophoneCounts).sum();
         System.out.println("Total homophones: " + total);
 
 
