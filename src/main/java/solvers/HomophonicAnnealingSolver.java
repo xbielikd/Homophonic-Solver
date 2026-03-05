@@ -12,13 +12,12 @@ import java.util.Random;
 
 public class HomophonicAnnealingSolver {
 
-    // ── Tuning parameters ────────────────────────────────────────────────────
+    // Tuning parameters
     public static final int    NUM_RESTARTS      = 30;
     public static final long   STEPS_PER_RESTART = 3_000_000L;
     public static final double START_TEMP        = 10.0;
     public static final double END_TEMP          = 0.001;
     public static final double MAX_REASSIGN_PROB = 0.15;
-    // ─────────────────────────────────────────────────────────────────────────
 
     private static final double[] ENGLISH_FREQ = {
             0.08167, 0.01492, 0.02782, 0.04253, 0.12702, 0.02228, 0.02015,
@@ -50,7 +49,7 @@ public class HomophonicAnnealingSolver {
         this.affected = new int[textLen];
     }
 
-    // ── Entry point ──────────────────────────────────────────────────────────
+    // Entry point
 
     public SolverResult solve() {
 
@@ -337,7 +336,7 @@ public class HomophonicAnnealingSolver {
         return alloc;
     }
 
-    // ── Utility ───────────────────────────────────────────────────────────────
+    // Utility
 
     private int[] applyKeyFull(int[] key) {
         int[] pt = new int[textLen];
