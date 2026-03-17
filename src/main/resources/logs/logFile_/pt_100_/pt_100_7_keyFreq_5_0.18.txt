@@ -1,0 +1,91 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 36
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [29, 5]
+B(1) [19]
+C(2) [12]
+D(3) [27]
+E(4) [9, 32, 15]
+F(5) [7]
+G(6) [14]
+H(7) [26, 0]
+I(8) [3, 10]
+J(9) [17]
+K(10) [18]
+L(11) [25]
+M(12) [30]
+N(13) [11, 13]
+O(14) [16, 33]
+P(15) [1]
+Q(16) [4]
+R(17) [22, 34]
+S(18) [31, 20]
+T(19) [24, 6]
+U(20) [23]
+V(21) [35]
+W(22) [2]
+X(23) [28]
+Y(24) [8]
+Z(25) [21]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   31
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+19 25 3 11 18 10 11 14 29 2 29 8 24 26 9 19 34 3 14 0 6 11 15 31 20 16 7 6 0 9 31 6 22 9 32 6 16 23 6 31 10 27 32 30 8 9 8 9 31 1 10 12 18 32 27 0 10 30 33 23 24 16 19 20 12 23 22 15 25 8 10 11 24 26 9 29 11 6 32 34 33 33 30 6 29 25 18 3 11 14 24 33 29 11 16 24 0 9 22 30 5 13
+
+--- DECRYPTED PLAINTEXT ---
+BRANEINGAJAMEVEBYAGRENODUCKEREDEFELECHEDIPLEMEMEDWITELPRIESHECBUTHFORMINEVEANELYSSEEAREANGESANCEREFEXQ
+
+--- SCORE ---
+-1035.3468
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 102 chars correct (29.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> W
+2      -> J
+3      -> A
+5      -> X
+6      -> E
+7      -> K
+8      -> M
+9      -> E
+10     -> I
+11     -> N
+12     -> T
+13     -> Q
+14     -> G
+15     -> O
+16     -> C
+18     -> E
+19     -> B
+20     -> U
+22     -> F
+23     -> H
+24     -> E
+25     -> R
+26     -> V
+27     -> P
+29     -> A
+30     -> E
+31     -> D
+32     -> L
+33     -> S
+34     -> Y

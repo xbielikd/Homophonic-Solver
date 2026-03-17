@@ -1,0 +1,86 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 32
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 9]
+B(1) [11]
+C(2) [3]
+D(3) [21]
+E(4) [31, 6]
+F(5) [15]
+G(6) [19]
+H(7) [8]
+I(8) [16, 17]
+J(9) [29]
+K(10) [26]
+L(11) [7]
+M(12) [0]
+N(13) [1, 4]
+O(14) [12, 20]
+P(15) [18]
+Q(16) [5]
+R(17) [2]
+S(18) [25]
+T(19) [24, 28]
+U(20) [14]
+V(21) [13]
+W(22) [10]
+X(23) [27]
+Y(24) [30]
+Z(25) [23]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   26
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+ANDASIWALKEDONIWASLONELYNOLONGERIWASAGUIDEAPATHFINDERANORIGINALSETTLERHEHADCASUALLYCONFERREDONMETHEFREEDOM
+
+--- CIPHERTEXT ---
+22 4 21 9 25 17 10 9 7 26 6 21 12 1 17 10 9 25 7 20 1 31 7 30 1 12 7 20 1 19 31 2 16 10 22 25 22 19 14 16 21 31 9 18 22 24 8 15 16 4 21 6 2 22 4 12 2 17 19 16 1 22 7 25 31 28 28 7 31 2 8 6 8 22 21 3 9 25 14 22 7 7 30 3 20 1 15 6 2 2 6 21 12 4 0 6 24 8 31 15 2 31 31 21 12 0
+
+--- DECRYPTED PLAINTEXT ---
+AFTEDCHENQUTISCHEDNKSONGSINKSLORYHADALVYTOEXAMPBYFTURAFIRCLYSANDOZZNORPUPATWEDVANNGWKSBURRUTIFJUMPOBROOTIJ
+
+--- SCORE ---
+-1301.3206
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 106 chars correct (14.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> J
+1      -> S
+2      -> R
+3      -> W
+4      -> F
+6      -> U
+7      -> N
+8      -> P
+9      -> E
+10     -> H
+12     -> I
+14     -> V
+15     -> B
+16     -> Y
+17     -> C
+18     -> X
+19     -> L
+20     -> K
+21     -> T
+22     -> A
+24     -> M
+25     -> D
+26     -> Q
+28     -> Z
+30     -> G
+31     -> O

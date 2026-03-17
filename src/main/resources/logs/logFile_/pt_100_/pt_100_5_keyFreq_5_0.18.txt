@@ -1,0 +1,88 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 36
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 32]
+B(1) [19]
+C(2) [25]
+D(3) [5]
+E(4) [2, 29, 8]
+F(5) [0]
+G(6) [12]
+H(7) [9, 30]
+I(8) [20, 35]
+J(9) [3]
+K(10) [6]
+L(11) [1]
+M(12) [7]
+N(13) [23, 18]
+O(14) [11, 16]
+P(15) [27]
+Q(16) [4]
+R(17) [34, 31]
+S(18) [26, 24]
+T(19) [10, 17]
+U(20) [21]
+V(21) [15]
+W(22) [14]
+X(23) [33]
+Y(24) [28]
+Z(25) [13]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   28
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+35 9 32 5 19 8 8 18 32 25 10 21 32 1 1 28 20 18 15 20 10 2 5 22 25 9 32 21 0 0 8 21 34 35 18 22 21 23 35 0 11 34 7 11 0 31 11 19 20 18 26 2 12 12 19 1 21 8 25 34 11 24 26 29 5 7 28 1 22 14 18 8 32 34 1 28 10 9 22 17 24 32 17 21 34 5 22 28 7 11 34 23 35 23 12 14 35 10 9 22
+
+--- DECRYPTED PLAINTEXT ---
+EHASBEENAPTEALLYINWITCSEPHAEFFEERENEEDEFORTOFJOBINGCOOBLEEPROMGUSTYLEVNEARLYTHEKMAKERSEYTORDEDOVETHE
+
+--- SCORE ---
+-1038.9248
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 54 / 100 chars correct (54.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> L
+2      -> C
+5      -> S
+7      -> T
+8      -> E
+9      -> H
+10     -> T
+11     -> O
+12     -> O
+14     -> V
+15     -> W
+17     -> K
+18     -> N
+19     -> B
+20     -> I
+21     -> E
+22     -> E
+23     -> D
+24     -> M
+25     -> P
+26     -> G
+28     -> Y
+29     -> U
+31     -> J
+32     -> A
+34     -> R
+35     -> E

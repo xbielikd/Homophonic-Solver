@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [88, 26, 46, 78]
+B(1) [32, 8, 18, 58]
+C(2) [12, 43, 66, 98]
+D(3) [14, 84, 33, 40]
+E(4) [3, 36, 23, 102]
+F(5) [38, 41, 21, 57]
+G(6) [64, 82, 25, 30]
+H(7) [65, 49, 60, 96]
+I(8) [76, 73, 4, 35]
+J(9) [94, 2, 37, 87]
+K(10) [52, 11, 15, 39]
+L(11) [27, 24, 103, 80]
+M(12) [56, 19, 34, 47]
+N(13) [7, 92, 13, 93]
+O(14) [69, 53, 100, 55]
+P(15) [45, 81, 22, 83]
+Q(16) [44, 79, 75, 42]
+R(17) [59, 101, 85, 48]
+S(18) [51, 99, 90, 29]
+T(19) [72, 5, 67, 20]
+U(20) [0, 68, 89, 17]
+V(21) [1, 63, 91, 28]
+W(22) [16, 70, 62, 71]
+X(23) [74, 54, 61, 77]
+Y(24) [31, 10, 50, 6]
+Z(25) [9, 97, 86, 95]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+20 96 102 68 13 40 36 48 30 48 46 40 17 46 67 36 93 100 40 14 23 14 76 7 78 98 10 13 76 43 26 24 19 102 80 26 13 66 60 55 103 6 16 88 6 67 65 3 32 88 59 71 65 23 101 23 71 23 64 103 88 93 43 23 33 38 76 85 99 20 62 88 99 66 101 100 62 40 23 33 32 17 72 25 88 5 90 18 10 16 26 51 13 100 67 72 96 36 101 36
+
+--- DECRYPTED PLAINTEXT ---
+ELEARTEMOMETHEHENETHEHANEXTRADEQUEZERICKETHATHESTAGREEVEREJEANDERSAFTERATIVERTERTHEWASBYTHEPREHELEVE
+
+--- SCORE ---
+-885.2955
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 100 chars correct (20.0%)
+
+--- KEY (cipher -> plain) ---
+3      -> S
+5      -> S
+6      -> T
+7      -> N
+10     -> T
+13     -> R
+14     -> H
+16     -> H
+17     -> H
+18     -> Y
+19     -> U
+20     -> E
+23     -> E
+24     -> Q
+25     -> W
+26     -> E
+30     -> O
+32     -> T
+33     -> R
+36     -> E
+38     -> S
+40     -> T
+43     -> D
+46     -> E
+48     -> M
+51     -> P
+55     -> K
+59     -> G
+60     -> C
+62     -> R
+64     -> J
+65     -> E
+66     -> I
+67     -> H
+68     -> A
+71     -> R
+72     -> E
+76     -> A
+78     -> E
+80     -> Z
+85     -> F
+88     -> A
+90     -> B
+93     -> N
+96     -> L
+98     -> X
+99     -> T
+100    -> E
+101    -> V
+102    -> E
+103    -> E

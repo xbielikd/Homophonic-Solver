@@ -1,0 +1,79 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 26
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [20]
+B(1) [12]
+C(2) [16]
+D(3) [8]
+E(4) [10]
+F(5) [15]
+G(6) [14]
+H(7) [19]
+I(8) [4]
+J(9) [9]
+K(10) [1]
+L(11) [22]
+M(12) [24]
+N(13) [7]
+O(14) [23]
+P(15) [3]
+Q(16) [13]
+R(17) [21]
+S(18) [5]
+T(19) [2]
+U(20) [0]
+V(21) [25]
+W(22) [6]
+X(23) [18]
+Y(24) [17]
+Z(25) [11]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        1.0
+CIPHER SYMBOLS:   19
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+5 19 10 6 20 5 20 5 22 10 7 8 10 21 5 24 20 22 22 12 21 10 20 5 2 10 8 14 4 21 22 6 4 2 19 20 7 10 21 10 16 2 16 20 21 21 4 20 14 10 6 19 4 16 19 5 19 10 20 16 16 10 7 2 0 20 2 10 8 12 17 2 19 21 23 6 4 7 14 19 10 21 12 23 8 17 12 20 16 1 6 20 21 8 20 2 2 19 10 5 19 23 0 22 8 10 21 5
+
+--- DECRYPTED PLAINTEXT ---
+SHEWASASLENDERSFALLMREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDMYTHROWINGHERMODYMACPWARDATTHESHOULDERS
+
+--- SCORE ---
+-1050.5832
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 102 / 108 chars correct (94.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> U
+1      -> P
+2      -> T
+4      -> I
+5      -> S
+6      -> W
+7      -> N
+8      -> D
+10     -> E
+12     -> M
+14     -> G
+16     -> C
+17     -> Y
+19     -> H
+20     -> A
+21     -> R
+22     -> L
+23     -> O
+24     -> F

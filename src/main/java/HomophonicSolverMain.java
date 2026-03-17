@@ -1,3 +1,5 @@
+import cipherGenerators.HomophonicCipherGenerator;
+import cipherGenerators.KeyType;
 import parsers.CiphertextParser;
 import helpers.PreprocessResult;
 import helpers.Preprocessor;
@@ -5,42 +7,182 @@ import scorers.QuadGramScorer;
 import solvers.HomophonicAnnealingSolver;
 import solvers.SolverResult;
 
+import java.nio.file.Files;
+import java.nio.file.Path;
+import java.time.LocalTime;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+
 public class HomophonicSolverMain {
 
+    private static Double FREQ_CONST = 0.10;
+    private static Double freqTempVariable = 0.10;
+
+    private static Integer FIXED_CONST = 2;
+    private static Integer fixTempVariable = 2;
+
+    private static final Integer NUMBER_OF_TEXTS = 10;
+//    private static String PATH_TO_FILES_LENGTH_100 = "src/main/resources/plaintexts/length100/";
+//    private static String PATH_TO_FILES_LENGTH_200 = "src/main/resources/plaintexts/length200/";
+//    private static String PATH_TO_FILES_LENGTH_500 = "src/main/resources/plaintexts/length500/";
+//    private static String PATH_TO_FILES_LENGTH_1000 = "src/main/resources/plaintexts/length1000/";
+
+    private static String PATH_TO_FILES_LENGTH_100 = "src/main/resources/extracted/length100/";
+    private static String PATH_TO_FILES_LENGTH_200 = "src/main/resources/extracted/length200/";
+    private static String PATH_TO_FILES_LENGTH_500 = "src/main/resources/extracted/length500/";
+    private static String PATH_TO_FILES_LENGTH_1000 = "src/main/resources/extracted/length1000/";
+
+    private static String FILENAME_PREFIX_100 = "pt_100_";
+    private static String FILENAME_PREFIX_200 = "pt_200_";
+    private static String FILENAME_PREFIX_500 = "pt_500_";
+    private static String FILENAME_PREFIX_1000 = "pt_1000_";
     public static void main(String[] args) throws Exception {
 
-        // ======= CIPHERTEXT as integers =======
-        // 31 homophones
-//        String ct = "24 9 6 20 25 11 3 13 2 21 17 27 16 7 18 28 12 25 15 19 22 18 26 5 21 24 9 6 14 1 30 29 4 18 8 1 16 4 23 9 5 16 21 25 16 22 10 16 24 17 7 17 21 5 22 23 27 9 6 21 5 11 24 15 6 5 23 22 0 16 18 24 9 5 21 7 17 28 23 9 1 24 23 5 14 14 22 1 22 23 21 0 16 8 6 22 23 17 21 29 1 2 17 25 23 9 11 4 4 5 16 24 21 6 1 22 25 21 5 1 16 4 22 6 3 21 6 23 15 0 19 22 2 25 21 11 5 4 25 16 4 5 21 18 14 4 18 0 13 23 21 5 5 22";
+        System.out.println("Started at: " + LocalTime.now());
 
-        // 55
-//        String ct = "53 16 11 0 35 3 2 13 4 11 5 19 12 2 53 17 11 13 30 51 34 36 53 49 27 50 30 30 0 45 48 39 41 16 12 18 24 33 29 12 28 23 31 37 20 12 20 45 9 11 24 30 8 19 46 27 8 41 17 42 16 12 54 7 35 3 51 54 13 14 19 11 3 39 6 10 0 34 50 30 31 8 3 44 7 35 53 42 16 12 36 2 23 10 22 34 43 54 14 33 43 4 16 14 33 35 36 42 4 45 3 51 19 46 44 43 42 24 47 30 46 0 27 21 33 21 23 8 31 46 39 17 36 44 17 5 3 20 45 10 42 0 27 5 13 51 52 38 20 33 37 53 46 54 6 14 50 23 23 30 46 54 13 2 37 38 44 46 4 50 38 39 23 11 24 2 0 0 37 28 45 30 13 48 44 54 8 51 11 47 24 4 29 21 41 54 6 14 43 44 44 0 38 43 27 30 49 47 50 29 21 39 47 10 12 45 51 14 22 31 30 46 51 28 40 21 45 22 2 27 36 41 40 37 33 22 34 16 54 34 43 3 41 47 1 28 28 21 2 54 28 36 30 30 44 31 36 0 28 43 48 8 3 44 14 33 6 18 28 17 11 34 17 1 10 0 28 5 6 39 38 46 50 10 42 16 21 14 7 1 48 42 50 22 38 27 17 12 33 46 27 5 18 43 3 16 37 39 44 24 42 17 21 33 43 39 41 13 14 43 53 20 16 42 17 52 36 10 18 7 2 3 8 3 44 27 37 41 52 33 41 40 11 20 16 22 30 51 10 12 48 10 24 3 23 45 4 53 31 45 35 44 40 22 38 44 37 38 51 54 16 6 1 42 8 3 44 27 17 8 31 21 41 17 12 36 33 23 24 2 21 3 41 0 47 24 33 41 52 33 11 51 48 6 8 4 22 31 49 27 22 41 40 9 21 2 20 17 37 38 42 4 27 40 6 0 12 0 42 50 31 30 54 0 41 2 46 41 20 40 21 51 37 31 7 38 44 42 16 43 3 45 2 33 13 27 20 6 47 47 30 12 54 41 6 38 11 54 41 2 46 43 42 50 38 13 31 39 18 37 3 27 8 41 17 50 44 10 43 49 47 52 45 10 51 54 50 28 15 35 36 52 53 30 49 13 38 24 4 53 7 38 43 47 21 48 20 17 38 46 50 10 28 17 11 11 38 53 33 50 48 34 12 53 13 28 16 11 9 37 2 29 21 42 23 30 50 34 12 16 12 27 45 28 34 40 21 51 42 40 12 47 1 54 30 49 34 10 7 27 51 27 36 42 17 27 36 54 46 49 12 4 37 3 51 4 9 22 31 52 39 0 13 14 28 31 49";
-        String ct = "42 3 15 16 8 5 47 27 16 15 27 31 15 11 34 19 15 27 4 17 24 41 34 21 1 44 4 4 16 44 5 17 38 3 15 26 44 14 0 15 38 18 4 44 20 15 20 44 37 15 44 4 41 31 15 1 41 42 35 38 19 15 16 27 8 5 17 16 27 22 29 15 5 17 27 11 16 20 44 4 4 10 5 6 27 8 34 38 35 15 41 47 18 36 2 33 15 16 25 14 15 16 3 48 11 8 2 42 16 44 5 17 31 15 6 15 34 44 13 4 15 16 40 15 47 15 18 41 4 15 17 35 2 6 19 27 5 33 44 36 38 16 39 27 27 17 15 5 20 36 44 34 15 16 27 43 44 18 18 4 15 16 27 36 44 5 6 15 16 44 5 17 18 15 44 36 16 16 44 38 44 4 27 5 6 16 41 17 15 13 44 16 0 15 42 16 27 43 15 6 6 16 5 15 40 4 21 13 44 0 15 17 13 14 15 44 17 22 10 4 4 15 17 34 3 15 44 10 36 40 2 34 19 44 11 41 24 3 16 24 15 5 34 13 8 34 38 15 14 16 42 2 4 4 6 4 2 16 38 15 5 2 5 6 22 14 27 7 34 3 15 12 35 8 11 16 42 27 27 17 5 15 44 36 38 19 15 22 27 8 5 38 44 2 5 40 35 15 11 15 40 27 26 15 5 3 44 17 6 44 38 3 15 11 15 17 34 27 25 15 42 45 19 34 19 15 2 36 28 27 14 5 2 5 6 39 44 34 15 47 38 19 15 12 19 41 4 17 47 15 5 36 44 5 18 44 16 42 4 44 8 6 35 2 5 6 44 5 17 16 35 27 8 34 41 5 6 40 35 10 4 15 38 19 15 10 14 18 44 47 15 5 42 16 13 44 11 42 15 47 15 17 5 27 2 16 2 4 21 39 41 34 19 37 15 36 12 19 44 5 42 16 40 19 27 16 15 16 42 44 4 4 16 16 34 47 15 42 12 19 15 17 44 4 27 5 6 42 19 15 5 44 36 36 27 1 45 27 13 13 4 15 16 34 27 5 15 16 34 11 15 15 34 44 5 27 4 17 37 44 5 40 2 38 3 44 6 11 15 21 13 15 44 11 17 16 44 34 23 8 2 15 34 4 21 27 5 44 16 34 27 5 15 13 15 5 20 19 5 15 44 36 38 19 15 15 5 42 47 44 5 12 15 42 27 38 3 15 7 44 47 0 15 34 18 4 44 33 15 19 15 40 44 42 12 3 15 17 42 19 15 13 8 16 4 21 24 11 27 39 17 39 10 38 35 1 2 16 15 21 15 16 44 5 17 16 37 2 4 15 17 16 27 48 42 4 21";
+        doLoop(PATH_TO_FILES_LENGTH_100, FILENAME_PREFIX_100, KeyType.FIXED);
+        doLoop(PATH_TO_FILES_LENGTH_200, FILENAME_PREFIX_200, KeyType.FIXED);
+        doLoop(PATH_TO_FILES_LENGTH_500, FILENAME_PREFIX_500, KeyType.FIXED);
+        doLoop(PATH_TO_FILES_LENGTH_1000, FILENAME_PREFIX_1000, KeyType.FIXED);
 
 
-        int[] rawCipher = CiphertextParser.parseCiphertext(ct);
+        System.out.println("Ended at: " + LocalTime.now());
 
-        // ======= Preprocessing =======
-        PreprocessResult prep = Preprocessor.preprocessCiphertext(rawCipher);
-        System.out.println("Cipher symbols: " + prep.numCipherSymbols);
-        System.out.println("Text length:    " + prep.ctIdx.length);
+    }
 
+    public static void doLoop(String path, String fileNamePrefix, KeyType type) throws Exception {
+//        freqTempVariable = FREQ_CONST;
+        fixTempVariable = FIXED_CONST;
         // ======= Scorer — quadgrams only =======
         QuadGramScorer quad = new QuadGramScorer();
         quad.loadFromTxt("src/main/resources/quadgrams.txt");
+        for (int i = 1; i<=NUMBER_OF_TEXTS; i++) {
+            for (int j=0; j<5; j++) {
+//                freqTempVariable = FREQ_CONST + (j * 0.02);
+                fixTempVariable = FIXED_CONST + (j - 1);
+                StringBuilder log = new StringBuilder(); // one log per iteration
 
-        // ======= Solve =======
-        HomophonicAnnealingSolver solver = new HomophonicAnnealingSolver(prep, quad);
-        SolverResult result = solver.solve();
+                String inputFilename = fileNamePrefix + i;
+//                String inputFilename = fileNamePrefix + i + "_keyFix_" + j;
+                String plaintext = extractFromTxtFile(STR."\{path}\{inputFilename}.txt");
+                List<Integer>[] key = generateKey(plaintext, type, log);
+                String ct = generateCT(plaintext, key);
 
-        // ======= Print =======
-        System.out.println("\n=== BEST SCORE ===");
-        System.out.println(result.score);
 
-        System.out.println("\n=== PLAINTEXT ===");
-        System.out.println(result.plaintext);
+                int[] rawCipher = CiphertextParser.parseCiphertext(ct);
 
-        System.out.println("\n=== KEY (cipher -> plain) ===");
-        result.printKey();
+                // ======= Preprocessing =======
+                PreprocessResult prep = Preprocessor.preprocessCiphertext(rawCipher);
+                System.out.println("Cipher symbols: " + prep.numCipherSymbols);
+                System.out.println("Text length:    " + prep.ctIdx.length);
+
+
+                // ======= Solve =======
+                HomophonicAnnealingSolver solver = new HomophonicAnnealingSolver(prep, quad);
+                SolverResult result = solver.solve();
+
+                // ======= Print =======
+                System.out.println("\n=== BEST SCORE ===");
+                System.out.println(result.score);
+
+                System.out.println("\n=== PLAINTEXT ===");
+                System.out.println(result.plaintext);
+
+                System.out.println("\n=== KEY (cipher -> plain) ===");
+                result.printKey();
+
+                // ======= Log to file =======
+//            String logPath = "src/main/resources/logs/"+ fileNamePrefix +"/logFile_" + inputFilename + FREQ_CONST +".txt";
+//                String logPath = "src/main/resources/logs/logFile_/" + fileNamePrefix +"/" + inputFilename + "_keyFreq_" + (j+1) + "_" + freqTempVariable + ".txt";
+                String logPath = "src/main/resources/logs/logFile_/" + fileNamePrefix +"/" + inputFilename + "_keyFix_" + (j+1) + "_" + fixTempVariable + ".txt";
+                writeLog(logPath, plaintext, ct, prep, result, type, log);
+            }
+
+        }
     }
+
+    public static List<Integer>[] generateKey(String plaintext, KeyType type, StringBuilder log){
+        List<Integer>[] key = null;
+        if (type == KeyType.FREQ){
+            key = HomophonicCipherGenerator.generateHomophonicKey(plaintext, freqTempVariable, log);
+        } else if (type == KeyType.FIXED) {
+            key = HomophonicCipherGenerator.generateHomophonicKey(plaintext, fixTempVariable, log);
+        }
+        return key;
+    }
+
+    public static String generateCT(String plaintext, List<Integer>[] key){
+        int[] ciphertext = HomophonicCipherGenerator.encrypt(plaintext, key);
+        return Arrays.stream(ciphertext)
+                .mapToObj(String::valueOf)
+                .collect(Collectors.joining(" "));
+    }
+
+    public static String extractFromTxtFile(String filepath) throws Exception {
+        return Files.readString(Path.of(filepath)).trim().toUpperCase().replaceAll("[^A-Z]", "");
+    }
+
+
+    public static void writeLog(String logPath, String plaintext, String ct,
+                                PreprocessResult prep, SolverResult result, KeyType type, StringBuilder log) throws Exception {
+
+        StringBuilder sb = new StringBuilder();
+
+        sb.append("=====================================\n");
+        sb.append("  HOMOPHONIC SOLVER LOG\n");
+        sb.append("=====================================\n\n");
+
+        sb.append("--- GENERATOR INFO ---\n");
+        sb.append(log).append("\n\n"); // append everything collected from the generator
+
+        sb.append("KEY TYPE:         ").append(type).append("\n");
+        sb.append("KEY CONST:        ").append(type == KeyType.FIXED ? fixTempVariable : freqTempVariable).append("\n");
+
+        sb.append("CIPHER SYMBOLS:   ").append(prep.numCipherSymbols).append("\n");
+        sb.append("TEXT LENGTH:      ").append(prep.ctIdx.length).append("\n\n");
+
+        sb.append("--- ORIGINAL PLAINTEXT ---\n");
+        sb.append(plaintext).append("\n\n");
+
+        sb.append("--- CIPHERTEXT ---\n");
+        sb.append(ct).append("\n\n");
+
+        sb.append("--- DECRYPTED PLAINTEXT ---\n");
+        sb.append(result.plaintext).append("\n\n");
+
+        sb.append("--- SCORE ---\n");
+        sb.append(String.format("%.4f%n%n", result.score));
+
+
+
+        // count how many chars match for partial score
+        int correct = 0;
+        for (int i = 0; i < Math.min(plaintext.length(), result.plaintext.length()); i++) {
+            if (plaintext.charAt(i) == result.plaintext.charAt(i)) correct++;
+        }
+        double pct = 100.0 * correct / plaintext.length();
+
+        sb.append("--- CORRECT? ---\n");
+        sb.append(pct>=80 ? "YES - MATCH" : "NO - MISMATCH").append("\n\n");
+
+        sb.append(String.format("ACCURACY: %d / %d chars correct (%.1f%%)%n%n", correct, plaintext.length(), pct));
+
+        sb.append("--- KEY (cipher -> plain) ---\n");
+        int[] origSymbols = result.state.prep.originalSymbol;
+        Integer[] indices = new Integer[result.state.key.length];
+        for (int i = 0; i < indices.length; i++) indices[i] = i;
+        Arrays.sort(indices, (a, b) -> origSymbols[a] - origSymbols[b]);
+        for (int idx : indices) {
+            sb.append(String.format("%-6d -> %c%n", origSymbols[idx], (char)('A' + result.state.key[idx])));
+        }
+
+        // create logs directory if it doesn't exist
+        Path logFile = Path.of(logPath);
+        Files.createDirectories(logFile.getParent());
+        Files.writeString(logFile, sb.toString());
+
+        System.out.println("Log written to: " + logPath);
+    }
+
 }

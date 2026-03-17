@@ -1,0 +1,134 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 205
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [89, 41, 48, 54, 119]
+B(1) [46, 95, 9, 84, 15]
+C(2) [115, 104, 76, 27, 44]
+D(3) [45, 26, 52, 107, 110]
+E(4) [22, 20, 17, 75, 85]
+F(5) [24, 99, 74, 91, 121]
+G(6) [33, 23, 90, 116, 67]
+H(7) [103, 109, 66, 82, 37]
+I(8) [79, 1, 128, 36, 12]
+J(9) [34, 18, 70, 38, 16]
+K(10) [7, 57, 40, 127, 111]
+L(11) [97, 8, 5, 77, 71]
+M(12) [29, 114, 81, 64, 62]
+N(13) [61, 69, 87, 106, 10]
+O(14) [39, 35, 86, 47, 58]
+P(15) [102, 51, 117, 11, 6]
+Q(16) [32, 105, 83, 92, 120]
+R(17) [50, 125, 65, 73, 13]
+S(18) [122, 28, 98, 21, 25]
+T(19) [118, 80, 59, 14, 49]
+U(20) [0, 124, 113, 72, 68]
+V(21) [96, 2, 93, 108, 78]
+W(22) [100, 4, 42, 94, 88]
+X(23) [56, 63, 101, 55, 53]
+Y(24) [3, 123, 60, 129, 19]
+Z(25) [30, 43, 112, 31, 126]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   74
+TEXT LENGTH:      205
+
+--- ORIGINAL PLAINTEXT ---
+MCKEEAWOKEFROMHISDOZEANDSTARTEDINADAZETOWARDTHEDOORWHENHEHADGONEHALFWAYHETURNEDAROUNDANDSTAREDATTHESCENEHISWIFEANDCATHERINESCOLDINGANDCONSOLINGASTHEYSTUMBLEDHEREANDTHEREAMONGTHECROWDEDFURNITUREWITHARTICLES
+
+--- CIPHERTEXT ---
+62 76 40 17 22 48 88 39 57 75 99 73 86 64 109 12 28 107 86 112 17 48 69 26 98 59 119 50 49 20 26 1 61 54 52 119 31 75 118 35 88 48 73 45 49 66 17 107 86 35 73 42 109 17 106 66 85 82 41 45 33 39 10 22 109 48 77 99 100 119 123 103 85 59 0 65 69 85 110 119 13 47 0 69 110 48 69 107 98 118 119 50 20 52 48 80 80 66 17 21 44 75 61 85 109 12 28 88 79 99 75 48 61 52 104 119 118 66 85 13 79 87 75 98 44 47 97 107 12 10 116 48 106 107 115 35 106 21 35 8 79 69 23 119 98 49 66 75 60 28 118 0 114 46 97 17 110 66 20 125 17 89 61 52 118 103 85 50 17 119 62 86 69 33 118 109 75 76 125 47 88 110 22 107 91 68 65 106 12 80 68 73 17 94 128 14 82 41 50 118 36 104 77 85 21
+
+--- DECRYPTED PLAINTEXT ---
+TAKESANIZETRICHISTIMEANDSTARTEDERBEAVETENARNTHETIERTHESHELANGINSHARTHATHETERNETAREENTANTSTAREEATTHETHEREHISNATEAREEATHERATESHERTINJASTHESTEXANWASTHEYSTEFORETHEREPRETHEREATINGTHEARENTSTHERSITEREQUALARTHERET
+
+--- SCORE ---
+-1792.4573
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 111 / 205 chars correct (54.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> E
+8      -> X
+10     -> N
+12     -> I
+13     -> R
+14     -> A
+17     -> E
+20     -> E
+21     -> T
+22     -> S
+23     -> W
+26     -> D
+28     -> S
+31     -> V
+33     -> G
+35     -> E
+36     -> H
+39     -> I
+40     -> K
+41     -> A
+42     -> T
+44     -> H
+45     -> N
+46     -> O
+47     -> E
+48     -> A
+49     -> T
+50     -> R
+52     -> E
+54     -> B
+57     -> Z
+59     -> T
+60     -> Y
+61     -> R
+62     -> T
+64     -> C
+65     -> R
+66     -> H
+68     -> E
+69     -> N
+73     -> R
+75     -> E
+76     -> A
+77     -> R
+79     -> A
+80     -> T
+82     -> L
+85     -> E
+86     -> I
+87     -> T
+88     -> N
+89     -> P
+91     -> H
+94     -> Q
+97     -> R
+98     -> S
+99     -> T
+100    -> H
+103    -> H
+104    -> E
+106    -> S
+107    -> T
+109    -> H
+110    -> T
+112    -> M
+114    -> F
+115    -> H
+116    -> J
+118    -> T
+119    -> A
+123    -> T
+125    -> R
+128    -> U

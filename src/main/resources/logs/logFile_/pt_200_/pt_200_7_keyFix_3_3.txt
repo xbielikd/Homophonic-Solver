@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 203
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 47, 44]
+B(1) [15, 65, 24]
+C(2) [8, 26, 6]
+D(3) [30, 70, 71]
+E(4) [19, 51, 56]
+F(5) [22, 17, 29]
+G(6) [76, 58, 64]
+H(7) [3, 23, 4]
+I(8) [37, 31, 33]
+J(9) [35, 1, 48]
+K(10) [13, 57, 53]
+L(11) [60, 74, 75]
+M(12) [18, 39, 68]
+N(13) [62, 72, 52]
+O(14) [54, 21, 14]
+P(15) [10, 41, 20]
+Q(16) [46, 61, 73]
+R(17) [42, 12, 67]
+S(18) [16, 9, 63]
+T(19) [77, 69, 59]
+U(20) [49, 34, 27]
+V(21) [55, 40, 28]
+W(22) [50, 2, 11]
+X(23) [43, 36, 0]
+Y(24) [32, 7, 25]
+Z(25) [45, 66, 38]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      203
+
+--- ORIGINAL PLAINTEXT ---
+AWAFEROFAMOONWASSHININGOVERGATSBYSHOUSEMAKINGTHENIGHTFINEASBEFOREANDSURVIVINGTHELAUGHTERANDTHESOUNDOFHISSTILLGLOWINGGARDENASUDDENEMPTINESSSEEMEDTOFLOWNOWFROMTHEWINDOWSANDTHEGREATDOORSENDOWINGWITHCOMPLETE
+
+--- CIPHERTEXT ---
+5 50 5 29 56 42 14 17 47 18 54 21 52 2 47 9 16 3 33 62 33 62 58 14 28 51 12 64 5 77 63 24 25 9 3 21 27 9 51 39 44 53 33 72 76 77 3 51 72 37 76 23 77 29 37 72 56 5 9 15 19 29 14 67 51 5 72 71 63 49 67 40 33 40 33 62 64 69 23 51 75 5 49 64 3 69 51 67 47 62 71 69 3 19 63 14 49 72 30 14 29 4 33 63 63 69 37 75 75 58 60 21 11 33 52 76 58 47 12 70 51 62 44 16 49 70 71 51 72 56 39 20 59 31 52 19 16 16 9 19 51 18 56 30 77 54 17 74 21 2 62 14 50 22 67 21 68 77 3 56 11 33 72 70 54 2 16 47 62 30 69 23 51 58 42 19 47 69 30 14 14 67 9 19 72 70 54 2 37 62 58 11 37 69 4 6 14 39 41 74 51 59 51
+
+--- DECRYPTED PLAINTEXT ---
+EVEREHEEACHENEATSHININTEMENSETSOFTHEXTERAZINGTHENIGHTRINEETWERESEENTSASTITINSTHELEASHTESANTTHESEANDERAISSTILLTHERINGTANTENASATTENERYJUNESSTEECEDTHEBEENEVESEPTHERINTHESANDTHETHEATDEESTENTHEINTRITAKERQBEJE
+
+--- SCORE ---
+-1874.0101
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 104 / 203 chars correct (51.2%)
+
+--- KEY (cipher -> plain) ---
+2      -> E
+3      -> H
+4      -> A
+5      -> E
+6      -> K
+9      -> T
+11     -> R
+12     -> N
+14     -> E
+15     -> W
+16     -> S
+17     -> E
+18     -> C
+19     -> E
+20     -> Y
+21     -> E
+22     -> E
+23     -> H
+24     -> O
+25     -> F
+27     -> X
+28     -> M
+29     -> R
+30     -> D
+31     -> U
+33     -> I
+37     -> I
+39     -> R
+40     -> T
+41     -> Q
+42     -> H
+44     -> A
+47     -> A
+49     -> A
+50     -> V
+51     -> E
+52     -> N
+53     -> Z
+54     -> H
+56     -> E
+58     -> T
+59     -> J
+60     -> H
+62     -> N
+63     -> S
+64     -> S
+67     -> S
+68     -> P
+69     -> T
+70     -> T
+71     -> T
+72     -> N
+74     -> B
+75     -> L
+76     -> G
+77     -> T

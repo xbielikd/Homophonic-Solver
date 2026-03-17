@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [44, 47]
+B(1) [41, 23]
+C(2) [15, 11]
+D(3) [16, 12]
+E(4) [5, 35]
+F(5) [7, 46]
+G(6) [14, 32]
+H(7) [10, 33]
+I(8) [17, 36]
+J(9) [27, 24]
+K(10) [25, 37]
+L(11) [43, 26]
+M(12) [29, 21]
+N(13) [45, 38]
+O(14) [3, 22]
+P(15) [20, 30]
+Q(16) [31, 34]
+R(17) [4, 8]
+S(18) [42, 39]
+T(19) [0, 9]
+U(20) [48, 51]
+V(21) [2, 19]
+W(22) [28, 18]
+X(23) [13, 49]
+Y(24) [1, 50]
+Z(25) [6, 40]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+32 22 44 38 16 41 51 50 9 35 45 29 22 8 5 16 22 32 39 18 36 0 33 17 9 18 35 16 4 3 19 35 22 2 5 4 9 3 7 17 7 9 33 44 19 5 45 51 35 28 47 8 21 47 45 12 39 22 46 9 47 43 29 22 42 9 20 44 42 0 22 4 44 26 22 38 0 33 35 39 48 21 21 35 8 42 48 38 16 44 50 47 46 9 35 4 38 3 3 38
+
+--- DECRYPTED PLAINTEXT ---
+BEENDJECTERPEREDEBULYTHATLEDROWEEKERTOFAFTHEWEREEZERGERQUESTEXPENTMENTEREVENTHEUIGGERNINDECESTERNOON
+
+--- SCORE ---
+-970.6072
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 45 / 100 chars correct (45.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+2      -> K
+3      -> O
+4      -> R
+5      -> E
+7      -> F
+8      -> R
+9      -> T
+12     -> Q
+16     -> D
+17     -> A
+18     -> L
+19     -> W
+20     -> M
+21     -> G
+22     -> E
+26     -> V
+28     -> Z
+29     -> P
+32     -> B
+33     -> H
+35     -> E
+36     -> Y
+38     -> N
+39     -> U
+41     -> J
+42     -> N
+43     -> X
+44     -> E
+45     -> R
+46     -> S
+47     -> E
+48     -> I
+50     -> C
+51     -> E

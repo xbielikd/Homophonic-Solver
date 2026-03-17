@@ -1,0 +1,101 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 58, 1]
+B(1) [32, 31, 23]
+C(2) [63, 41, 71]
+D(3) [6, 57, 0]
+E(4) [14, 74, 52]
+F(5) [29, 15, 55]
+G(6) [30, 21, 18]
+H(7) [36, 4, 47]
+I(8) [68, 43, 26]
+J(9) [51, 12, 38]
+K(10) [22, 77, 19]
+L(11) [48, 45, 8]
+M(12) [53, 60, 56]
+N(13) [64, 20, 69]
+O(14) [62, 49, 25]
+P(15) [75, 46, 65]
+Q(16) [70, 24, 39]
+R(17) [7, 42, 40]
+S(18) [9, 72, 34]
+T(19) [73, 37, 35]
+U(20) [13, 54, 28]
+V(21) [17, 3, 5]
+W(22) [2, 66, 44]
+X(23) [33, 67, 61]
+Y(24) [76, 59, 16]
+Z(25) [27, 50, 11]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   41
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+34 4 74 2 1 72 1 9 8 52 20 0 52 40 72 60 58 45 8 31 7 52 1 34 37 14 6 18 26 42 48 44 26 37 36 10 64 52 7 14 71 37 71 58 7 7 26 58 30 52 66 47 68 63 36 72 4 14 10 71 71 14 20 37 28 10 37 52 57 31 59 37 4 42 49 66 68 64 30 4 52 7 32 49 0 16 32 58 71 22 44 58 42 6 10 37 37 36 14 72 47 49 28 8 0 52 7 9
+
+--- DECRYPTED PLAINTEXT ---
+SHQUITIVEENSEXTJAZEAREISTEMBEROFETHANERECTCARREATEDHIGHTHEACCENTRATEWAYTHREDINTHERLESPLACKFARMATTHETHERESERV
+
+--- SCORE ---
+-1001.7602
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 63 / 108 chars correct (58.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> I
+2      -> U
+4      -> H
+6      -> M
+7      -> R
+8      -> E
+9      -> V
+10     -> A
+14     -> E
+16     -> P
+18     -> B
+20     -> N
+22     -> K
+26     -> E
+28     -> R
+30     -> T
+31     -> A
+32     -> L
+34     -> S
+36     -> H
+37     -> T
+40     -> X
+42     -> R
+44     -> F
+45     -> Z
+47     -> H
+48     -> O
+49     -> E
+52     -> E
+57     -> W
+58     -> A
+59     -> Y
+60     -> J
+63     -> G
+64     -> N
+66     -> D
+68     -> I
+71     -> C
+72     -> T
+74     -> Q

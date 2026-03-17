@@ -1,0 +1,137 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 201
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [70, 33, 14, 75, 88]
+B(1) [127, 66, 114, 78, 110]
+C(2) [31, 79, 91, 90, 94]
+D(3) [89, 64, 62, 106, 122]
+E(4) [20, 45, 13, 123, 59]
+F(5) [71, 129, 52, 73, 69]
+G(6) [116, 128, 61, 67, 38]
+H(7) [58, 56, 23, 76, 22]
+I(8) [41, 26, 86, 29, 112]
+J(9) [48, 1, 6, 46, 118]
+K(10) [19, 92, 68, 2, 57]
+L(11) [102, 34, 37, 115, 108]
+M(12) [74, 99, 49, 84, 104]
+N(13) [97, 77, 32, 35, 100]
+O(14) [54, 21, 111, 15, 87]
+P(15) [53, 107, 96, 51, 80]
+Q(16) [121, 81, 27, 28, 9]
+R(17) [119, 25, 0, 124, 10]
+S(18) [60, 72, 5, 42, 40]
+T(19) [18, 55, 3, 109, 93]
+U(20) [65, 95, 101, 105, 113]
+V(21) [16, 11, 44, 126, 83]
+W(22) [8, 50, 24, 117, 30]
+X(23) [36, 98, 85, 47, 63]
+Y(24) [103, 7, 39, 17, 4]
+Z(25) [120, 125, 43, 12, 82]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   77
+TEXT LENGTH:      201
+
+--- ORIGINAL PLAINTEXT ---
+WEHADANAWFULTIMEGETTINGBACKICANTELLYOUGODHOWIHATEDTHATTOWNTHELATEAFTERNOONSKYBLOOMEDINTHEWINDOWFORAMOMENTLIKETHEBLUEHONEYOFTHEMEDITERRANEANTHENTHESHRILLVOICEOFMRSMCKEECALLEDMEBACKINTOTHEROOMIALMOSTMADE
+
+--- CIPHERTEXT ---
+24 20 22 14 64 88 97 33 30 69 65 108 3 29 99 13 116 13 55 18 41 32 38 78 70 94 19 41 91 70 32 18 59 108 102 17 111 95 67 21 62 22 54 50 112 58 70 18 20 122 18 22 14 55 3 111 117 100 109 22 45 115 33 3 13 75 69 3 13 10 97 15 21 35 40 68 39 114 108 111 111 104 13 122 41 32 18 56 59 50 86 100 106 87 24 129 87 10 70 84 54 84 20 100 109 102 112 19 13 93 76 45 114 37 105 20 23 21 35 59 39 111 69 109 23 123 104 20 122 29 18 123 25 10 88 100 59 70 32 55 76 45 77 18 56 20 72 56 0 26 108 108 44 15 41 79 123 54 129 49 0 40 49 79 92 123 13 94 88 102 108 59 122 104 123 78 14 90 92 41 32 93 21 55 23 123 25 21 111 84 112 88 37 49 21 5 55 84 33 64 123
+
+--- DECRYPTED PLAINTEXT ---
+PEHENTSOFTHERAVEBETTINGMENTIZENTEERJACKETHERALETEDTHETRAYSTHEFOREXTRESSUESTHEREAAREDINTHERESTEPRESERERESTRATETHEREWEHESEEATTHEREDATERSTSEENTHESTHETHEREEQUITEERSETSTHEENTREEDREMETHINTETHEREARATESENTRONE
+
+--- SCORE ---
+-1751.2808
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 74 / 201 chars correct (36.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+3      -> R
+5      -> N
+10     -> S
+13     -> E
+14     -> E
+15     -> U
+17     -> J
+18     -> T
+19     -> T
+20     -> E
+21     -> E
+22     -> H
+23     -> H
+24     -> P
+25     -> R
+26     -> R
+29     -> A
+30     -> F
+32     -> N
+33     -> O
+35     -> S
+37     -> E
+38     -> G
+39     -> E
+40     -> T
+41     -> I
+44     -> Q
+45     -> E
+49     -> S
+50     -> R
+54     -> E
+55     -> T
+56     -> H
+58     -> L
+59     -> E
+62     -> T
+64     -> N
+65     -> H
+67     -> K
+68     -> H
+69     -> T
+70     -> E
+72     -> T
+75     -> X
+76     -> H
+77     -> S
+78     -> M
+79     -> T
+84     -> R
+86     -> E
+87     -> E
+88     -> T
+90     -> T
+91     -> Z
+92     -> H
+93     -> T
+94     -> N
+95     -> C
+97     -> S
+99     -> V
+100    -> S
+102    -> R
+104    -> R
+105    -> W
+106    -> T
+108    -> E
+109    -> T
+111    -> A
+112    -> A
+114    -> R
+115    -> F
+116    -> B
+117    -> Y
+122    -> D
+123    -> E
+129    -> R

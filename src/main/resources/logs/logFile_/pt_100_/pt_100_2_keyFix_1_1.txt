@@ -1,0 +1,80 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 26
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4]
+B(1) [23]
+C(2) [11]
+D(3) [21]
+E(4) [2]
+F(5) [5]
+G(6) [13]
+H(7) [22]
+I(8) [9]
+J(9) [8]
+K(10) [14]
+L(11) [19]
+M(12) [16]
+N(13) [6]
+O(14) [25]
+P(15) [10]
+Q(16) [1]
+R(17) [20]
+S(18) [18]
+T(19) [12]
+U(20) [7]
+V(21) [0]
+W(22) [24]
+X(23) [15]
+Y(24) [17]
+Z(25) [3]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        1.0
+CIPHER SYMBOLS:   20
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+4 18 18 25 25 6 4 18 9 4 20 20 9 0 2 21 9 16 4 21 2 4 6 4 12 12 2 16 10 12 12 25 5 9 6 21 16 17 22 25 18 12 23 7 12 12 22 2 12 24 25 25 20 12 22 20 2 2 10 2 25 10 19 2 25 5 24 22 25 16 9 4 18 14 2 21 22 9 18 24 22 2 20 2 4 23 25 7 12 18 18 12 4 20 2 21 4 12 16 2
+
+--- DECRYPTED PLAINTEXT ---
+ASSOONASIARRICEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASGEDHISWHEREABOUTSSTAREDATME
+
+--- SCORE ---
+-970.1286
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 98 / 100 chars correct (98.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> C
+2      -> E
+4      -> A
+5      -> F
+6      -> N
+7      -> U
+9      -> I
+10     -> P
+12     -> T
+14     -> G
+16     -> M
+17     -> Y
+18     -> S
+19     -> L
+20     -> R
+21     -> D
+22     -> H
+23     -> B
+24     -> W
+25     -> O

@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 205
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [36, 51, 24]
+B(1) [57, 26, 42]
+C(2) [77, 25, 63]
+D(3) [66, 8, 32]
+E(4) [2, 53, 21]
+F(5) [60, 43, 37]
+G(6) [62, 22, 13]
+H(7) [29, 23, 38]
+I(8) [44, 18, 30]
+J(9) [50, 28, 65]
+K(10) [6, 39, 67]
+L(11) [12, 11, 41]
+M(12) [27, 45, 58]
+N(13) [40, 52, 16]
+O(14) [35, 19, 73]
+P(15) [72, 70, 17]
+Q(16) [49, 5, 55]
+R(17) [76, 14, 33]
+S(18) [15, 64, 46]
+T(19) [69, 34, 1]
+U(20) [0, 56, 47]
+V(21) [31, 48, 4]
+W(22) [75, 61, 59]
+X(23) [74, 3, 7]
+Y(24) [9, 54, 71]
+Z(25) [10, 68, 20]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      205
+
+--- ORIGINAL PLAINTEXT ---
+MCKEEAWOKEFROMHISDOZEANDSTARTEDINADAZETOWARDTHEDOORWHENHEHADGONEHALFWAYHETURNEDAROUNDANDSTAREDATTHESCENEHISWIFEANDCATHERINESCOLDINGANDCONSOLINGASTHEYSTUMBLEDHEREANDTHEREAMONGTHECROWDEDFURNITUREWITHARTICLES
+
+--- CIPHERTEXT ---
+45 63 39 2 21 36 75 73 67 53 60 14 35 45 23 30 64 8 35 68 2 36 16 8 15 1 51 14 69 53 32 18 40 36 66 51 10 21 69 73 61 36 33 66 1 29 53 32 35 73 76 59 23 21 16 38 53 23 36 66 13 35 40 2 23 51 11 60 61 24 54 38 53 34 0 33 52 21 32 36 14 19 47 16 66 36 52 66 46 34 36 76 53 66 36 34 34 23 2 15 25 21 40 2 38 44 46 61 30 43 21 36 40 8 63 51 1 38 53 76 18 40 21 64 77 19 11 32 30 16 62 51 40 66 63 73 16 64 73 11 18 52 22 24 46 1 29 2 71 64 69 0 58 26 41 53 32 29 2 14 2 24 16 66 69 23 21 33 53 51 58 35 16 22 34 38 2 25 14 35 59 8 2 32 37 0 33 16 18 34 47 76 21 59 44 1 38 24 76 1 30 63 41 2 64
+
+--- DECRYPTED PLAINTEXT ---
+TSBEEAGAZEARETHISEEMEANEXTERTESERADEVETALANDTHESEATSHENHEHADJEREHERALATHETONNESAREANDANDSTATEDATTHEXPEREHESLIKEARESETHETERESWERSINFERDSANSARENTASTHEYSTORQUESHEREANDTHENEERENTTHEPRESEESCONNETATESETHATTISUES
+
+--- SCORE ---
+-1872.7689
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 111 / 205 chars correct (54.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> O
+1      -> T
+2      -> E
+8      -> E
+10     -> V
+11     -> R
+13     -> J
+14     -> R
+15     -> X
+16     -> N
+18     -> E
+19     -> E
+21     -> E
+22     -> T
+23     -> H
+24     -> A
+25     -> P
+26     -> Q
+29     -> H
+30     -> I
+32     -> S
+33     -> N
+34     -> T
+35     -> E
+36     -> A
+37     -> C
+38     -> H
+39     -> B
+40     -> R
+41     -> U
+43     -> K
+44     -> E
+45     -> T
+46     -> S
+47     -> A
+51     -> E
+52     -> N
+53     -> E
+54     -> T
+58     -> R
+59     -> S
+60     -> A
+61     -> L
+62     -> F
+63     -> S
+64     -> S
+66     -> D
+67     -> Z
+68     -> M
+69     -> T
+71     -> Y
+73     -> A
+75     -> G
+76     -> T
+77     -> W

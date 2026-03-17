@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [87, 18, 96, 31]
+B(1) [28, 34, 49, 41]
+C(2) [103, 16, 15, 17]
+D(3) [22, 51, 78, 75]
+E(4) [92, 48, 56, 98]
+F(5) [63, 12, 20, 64]
+G(6) [86, 7, 38, 37]
+H(7) [102, 79, 74, 59]
+I(8) [50, 54, 5, 99]
+J(9) [23, 93, 53, 46]
+K(10) [101, 33, 30, 1]
+L(11) [36, 69, 65, 4]
+M(12) [10, 91, 61, 71]
+N(13) [80, 95, 9, 94]
+O(14) [66, 84, 27, 26]
+P(15) [83, 62, 72, 68]
+Q(16) [29, 40, 21, 76]
+R(17) [19, 44, 52, 3]
+S(18) [81, 24, 60, 73]
+T(19) [13, 6, 57, 88]
+U(20) [97, 70, 2, 14]
+V(21) [45, 100, 43, 82]
+W(22) [32, 77, 67, 25]
+X(23) [11, 89, 47, 35]
+Y(24) [55, 85, 90, 8]
+Z(25) [58, 39, 42, 0]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+59 98 16 96 10 48 84 9 36 90 27 80 17 56 99 95 32 74 54 57 92 101 80 99 15 30 92 44 49 27 16 33 92 52 60 18 9 51 102 18 75 96 20 99 86 102 57 25 99 6 74 31 28 2 10 95 31 10 48 75 92 88 13 55 5 9 88 74 98 86 18 44 78 48 80 20 19 27 10 64 87 19 13 102 98 3 26 97 88 26 94 6 102 56 50 81 69 31 94 78
+
+--- DECRYPTED PLAINTEXT ---
+QATEDTHINKEEPREIGHEREMEETHEARETHECITIZETHERESERVETHEJUDIEDTHETHEWITHASTATTERTEDBYTHEALEXTENTEROFTENT
+
+--- SCORE ---
+-854.9576
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 100 chars correct (15.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> U
+3      -> L
+5      -> W
+6      -> T
+9      -> I
+10     -> D
+13     -> H
+15     -> T
+16     -> T
+17     -> P
+18     -> T
+19     -> T
+20     -> R
+25     -> V
+26     -> E
+27     -> E
+28     -> J
+30     -> H
+31     -> E
+32     -> G
+33     -> H
+36     -> N
+44     -> A
+48     -> T
+49     -> R
+50     -> O
+51     -> Z
+52     -> C
+54     -> E
+55     -> E
+56     -> R
+57     -> R
+59     -> Q
+60     -> I
+64     -> B
+69     -> T
+74     -> H
+75     -> H
+78     -> T
+80     -> E
+81     -> F
+84     -> H
+86     -> S
+87     -> Y
+88     -> T
+90     -> K
+92     -> E
+94     -> N
+95     -> I
+96     -> E
+97     -> X
+98     -> A
+99     -> E
+101    -> M
+102    -> E

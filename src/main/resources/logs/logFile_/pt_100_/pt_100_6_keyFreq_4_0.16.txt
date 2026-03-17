@@ -1,0 +1,86 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 34
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 27]
+B(1) [28]
+C(2) [3]
+D(3) [4]
+E(4) [22, 1, 29]
+F(5) [15]
+G(6) [23]
+H(7) [25]
+I(8) [13, 5]
+J(9) [32]
+K(10) [0]
+L(11) [10]
+M(12) [20]
+N(13) [24, 21]
+O(14) [19, 18]
+P(15) [26]
+Q(16) [2]
+R(17) [17]
+S(18) [33, 14]
+T(19) [9, 12]
+U(20) [16]
+V(21) [8]
+W(22) [11]
+X(23) [30]
+Y(24) [7]
+Z(25) [31]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   26
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+12 25 29 16 24 4 29 17 23 17 6 4 16 27 12 29 24 19 4 4 1 4 5 24 6 3 7 21 5 3 27 10 20 29 10 27 21 3 25 19 10 7 11 6 7 9 25 29 28 27 17 11 25 22 17 29 11 1 23 10 6 24 3 1 4 15 13 17 33 12 11 6 33 3 17 19 11 4 22 4 28 16 9 23 27 12 33 28 7 11 6 14 24 19 12 9 25 1 17 1
+
+--- DECRYPTED PLAINTEXT ---
+UINGTENABASEGMUNTFEEDEPTSHOWPHMYZNYMWHIFYORSOLINKMARIVANRDBYSTHDEXJACURSCHAFREVEKGLBMUCKORSQTFULIDAD
+
+--- SCORE ---
+-1255.5577
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 100 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> D
+3      -> H
+4      -> E
+5      -> P
+6      -> S
+7      -> O
+9      -> L
+10     -> Y
+11     -> R
+12     -> U
+13     -> J
+14     -> Q
+15     -> X
+16     -> G
+17     -> A
+19     -> F
+20     -> Z
+21     -> W
+22     -> V
+23     -> B
+24     -> T
+25     -> I
+27     -> M
+28     -> K
+29     -> N
+33     -> C

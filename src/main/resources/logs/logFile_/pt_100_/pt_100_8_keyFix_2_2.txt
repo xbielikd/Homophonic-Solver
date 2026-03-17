@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 7]
+B(1) [28, 49]
+C(2) [42, 23]
+D(3) [30, 10]
+E(4) [33, 2]
+F(5) [22, 44]
+G(6) [38, 0]
+H(7) [36, 34]
+I(8) [37, 32]
+J(9) [45, 47]
+K(10) [15, 31]
+L(11) [41, 25]
+M(12) [20, 46]
+N(13) [9, 50]
+O(14) [43, 12]
+P(15) [24, 19]
+Q(16) [17, 3]
+R(17) [8, 27]
+S(18) [18, 5]
+T(19) [39, 11]
+U(20) [48, 14]
+V(21) [26, 13]
+W(22) [29, 4]
+X(23) [16, 6]
+Y(24) [21, 40]
+Z(25) [35, 1]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+18 36 33 4 7 5 7 18 41 2 50 30 2 27 5 46 51 41 25 28 8 2 51 5 39 2 10 38 32 8 25 4 32 39 34 7 9 2 27 33 23 39 42 51 27 27 37 7 38 2 4 36 32 42 34 5 36 2 7 23 23 33 9 11 48 51 11 33 30 28 21 39 34 8 43 4 32 9 0 34 33 27 49 43 30 21 49 51 23 15 4 7 27 10 51 39 11 36 2 18 36 12 14 41 30 33 8 5
+
+--- DECRYPTED PLAINTEXT ---
+PHETOTOPLEXDESTVALAGREATTEMBERATETIONESECTWASSJOBETHEWITHEOCCENTYATEDGETIRETENZIESFEDEFACKTOSMATTHEPHQULDERT
+
+--- SCORE ---
+-1103.4462
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 53 / 108 chars correct (49.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> Z
+2      -> E
+4      -> T
+5      -> T
+7      -> O
+8      -> R
+9      -> N
+10     -> M
+11     -> T
+12     -> Q
+14     -> U
+15     -> K
+18     -> P
+21     -> E
+23     -> C
+25     -> A
+27     -> S
+28     -> G
+30     -> D
+32     -> E
+33     -> E
+34     -> I
+36     -> H
+37     -> J
+38     -> B
+39     -> T
+41     -> L
+42     -> W
+43     -> E
+46     -> V
+48     -> Y
+49     -> F
+50     -> X
+51     -> A

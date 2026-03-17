@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 202
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [14, 22, 74]
+B(1) [13, 32, 5]
+C(2) [16, 47, 24]
+D(3) [65, 17, 56]
+E(4) [33, 21, 9]
+F(5) [12, 27, 4]
+G(6) [28, 38, 49]
+H(7) [45, 42, 29]
+I(8) [18, 7, 41]
+J(9) [46, 34, 59]
+K(10) [75, 43, 68]
+L(11) [20, 44, 77]
+M(12) [36, 67, 70]
+N(13) [35, 61, 11]
+O(14) [1, 39, 0]
+P(15) [25, 52, 62]
+Q(16) [58, 15, 31]
+R(17) [10, 19, 30]
+S(18) [48, 69, 3]
+T(19) [63, 8, 23]
+U(20) [76, 40, 64]
+V(21) [55, 6, 51]
+W(22) [66, 60, 73]
+X(23) [50, 71, 72]
+Y(24) [2, 26, 37]
+Z(25) [53, 54, 57]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      202
+
+--- ORIGINAL PLAINTEXT ---
+TOACERTAINTEMPERAMENTTHESITUATIONMIGHTHAVESEEMEDINTRIGUINGMYOWNINSTINCTWASTOTELEPHONEIMMEDIATELYFORTHEPOLICETHEHORSESNEEDLESSTOSAYWERENOTMENTIONEDAGAINTOMANDMISSBAKERWITHSEVERALFEETOFTWILIGHTBETWEENTHEM
+
+--- CIPHERTEXT ---
+23 1 14 24 21 30 8 74 41 35 8 33 67 62 9 19 22 70 9 11 63 63 45 21 3 18 8 40 14 63 41 39 11 70 18 49 29 8 45 14 51 21 69 33 33 36 33 17 41 11 23 10 18 38 76 7 11 28 70 2 0 60 11 41 11 3 8 7 11 24 63 73 22 69 23 1 63 21 77 33 25 45 0 11 21 18 70 67 21 17 41 74 8 9 20 37 12 39 10 8 29 21 52 39 20 18 47 21 8 29 21 29 0 19 69 33 69 35 33 33 65 20 33 48 69 8 39 3 74 26 73 21 19 33 61 39 23 36 21 61 8 18 1 11 33 17 14 49 74 7 35 63 0 36 74 11 65 67 18 69 69 13 14 68 21 19 60 18 8 42 48 33 6 21 19 22 20 27 33 33 63 1 4 8 60 7 20 41 38 29 23 13 9 23 73 9 9 35 8 42 9 67
+
+--- DECRYPTED PLAINTEXT ---
+TOADEXTEISTETHERESENTTHESITHATIONSIGHTHATESEEMERINTSITYANKSBEENINSTANDTHESTOTELECHENEISTERIETESQUOSTHEJOSIZETHEHERSESSEEASERSTOSETHERENOTMENTIONERAGEASTEMENATISSHAVEREITHREWERESPEETOFTEASITHTHETHEESTHET
+
+--- SCORE ---
+-1814.9610
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 132 / 202 chars correct (65.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> O
+2      -> B
+3      -> S
+4      -> F
+6      -> W
+7      -> A
+8      -> T
+9      -> E
+10     -> S
+11     -> N
+12     -> U
+13     -> H
+14     -> A
+17     -> R
+18     -> I
+19     -> R
+20     -> S
+21     -> E
+22     -> E
+23     -> T
+24     -> D
+25     -> C
+26     -> T
+27     -> P
+28     -> K
+29     -> H
+30     -> X
+33     -> E
+35     -> S
+36     -> M
+37     -> Q
+38     -> T
+39     -> O
+40     -> H
+41     -> I
+42     -> H
+45     -> H
+47     -> Z
+48     -> R
+49     -> G
+51     -> T
+52     -> J
+60     -> E
+61     -> N
+62     -> H
+63     -> T
+65     -> A
+67     -> T
+68     -> V
+69     -> S
+70     -> S
+73     -> H
+74     -> E
+76     -> Y
+77     -> L

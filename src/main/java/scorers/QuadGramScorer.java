@@ -39,6 +39,7 @@ public class QuadGramScorer {
             lines.add(line);
             String[] parts = line.split("\\s+");
             total += Long.parseLong(parts[1]);
+            // TODO log this, number of lines , total
         }
         br.close();
 
@@ -89,8 +90,8 @@ public class QuadGramScorer {
     // ----------- helpers -----------
 
     private int quadToInt(String q) {
-        return (q.charAt(0) - 'A') * 17576
-             + (q.charAt(1) - 'A') * 676
+        return (q.charAt(0) - 'A') * 17576 // 26 * 26 * 26
+             + (q.charAt(1) - 'A') * 676 // 26 * 26
              + (q.charAt(2) - 'A') * 26
              + (q.charAt(3) - 'A');
     }

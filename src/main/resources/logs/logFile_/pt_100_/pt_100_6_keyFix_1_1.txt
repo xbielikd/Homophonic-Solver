@@ -1,0 +1,79 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 26
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12]
+B(1) [16]
+C(2) [4]
+D(3) [19]
+E(4) [13]
+F(5) [18]
+G(6) [6]
+H(7) [1]
+I(8) [11]
+J(9) [0]
+K(10) [2]
+L(11) [3]
+M(12) [8]
+N(13) [15]
+O(14) [20]
+P(15) [14]
+Q(16) [21]
+R(17) [10]
+S(18) [5]
+T(19) [23]
+U(20) [22]
+V(21) [7]
+W(22) [24]
+X(23) [9]
+Y(24) [17]
+Z(25) [25]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        1.0
+CIPHER SYMBOLS:   19
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+23 1 13 22 15 19 13 10 6 10 12 19 22 12 23 13 15 20 19 19 13 19 11 15 12 4 17 15 11 4 12 3 8 13 3 12 15 4 1 20 3 17 24 12 17 23 1 13 16 12 10 24 1 13 10 13 24 13 6 3 12 15 4 13 19 18 11 10 5 23 24 12 5 4 10 20 24 19 13 19 16 22 23 6 12 23 5 16 17 24 12 5 15 20 23 23 1 13 10 13
+
+--- DECRYPTED PLAINTEXT ---
+THEUNDERPRADUATENODDEDINACYNICALGELANCHOLYWAYTHEMARWHEREWEPLANCEDFIRSTWASCROWDEDMUTPATSMYWASNOTTHERE
+
+--- SCORE ---
+-994.5555
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 93 / 100 chars correct (93.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> H
+3      -> L
+4      -> C
+5      -> S
+6      -> P
+8      -> G
+10     -> R
+11     -> I
+12     -> A
+13     -> E
+15     -> N
+16     -> M
+17     -> Y
+18     -> F
+19     -> D
+20     -> O
+22     -> U
+23     -> T
+24     -> W

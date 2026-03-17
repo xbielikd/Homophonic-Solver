@@ -1,0 +1,83 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 29
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 22]
+B(1) [15]
+C(2) [27]
+D(3) [16]
+E(4) [26, 14]
+F(5) [0]
+G(6) [6]
+H(7) [9]
+I(8) [1]
+J(9) [17]
+K(10) [4]
+L(11) [25]
+M(12) [19]
+N(13) [20]
+O(14) [3]
+P(15) [2]
+Q(16) [11]
+R(17) [18]
+S(18) [24]
+T(19) [10, 28]
+U(20) [7]
+V(21) [12]
+W(22) [23]
+X(23) [13]
+Y(24) [8]
+Z(25) [5]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   23
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+9 1 24 28 22 20 20 14 16 24 4 1 20 23 22 24 16 18 22 23 20 22 10 10 18 21 27 28 1 12 14 25 8 10 1 6 9 28 3 20 9 1 24 0 21 27 14 22 20 16 9 1 24 24 9 3 18 28 9 22 1 18 25 3 3 4 14 16 22 24 28 9 3 7 6 9 1 28 23 26 18 14 28 18 1 19 19 14 16 14 12 26 18 8 16 21 8 1 27 3 7 25 16
+
+--- DECRYPTED PLAINTEXT ---
+HISTANNEDSMINWASDRAWNAFFRACTIVELYFIGHTONHISPACEANDHISSHORTHAIRLOOMEDASTHOUGHITWERETRIBBEDEVERYDAYICOULD
+
+--- SCORE ---
+-988.0826
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 95 / 103 chars correct (92.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> P
+1      -> I
+3      -> O
+4      -> M
+6      -> G
+7      -> U
+8      -> Y
+9      -> H
+10     -> F
+12     -> V
+14     -> E
+16     -> D
+18     -> R
+19     -> B
+20     -> N
+21     -> A
+22     -> A
+23     -> W
+24     -> S
+25     -> L
+26     -> E
+27     -> C
+28     -> T

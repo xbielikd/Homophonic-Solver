@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [31, 23]
+B(1) [6, 30]
+C(2) [49, 1]
+D(3) [28, 10]
+E(4) [27, 9]
+F(5) [32, 20]
+G(6) [8, 44]
+H(7) [19, 36]
+I(8) [45, 15]
+J(9) [26, 4]
+K(10) [18, 42]
+L(11) [33, 40]
+M(12) [43, 11]
+N(13) [21, 47]
+O(14) [14, 38]
+P(15) [51, 46]
+Q(16) [50, 16]
+R(17) [22, 17]
+S(18) [13, 24]
+T(19) [0, 7]
+U(20) [35, 25]
+V(21) [48, 39]
+W(22) [3, 41]
+X(23) [5, 2]
+Y(24) [29, 34]
+Z(25) [37, 12]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+0 19 9 35 47 28 27 17 44 22 31 28 35 23 7 9 47 14 10 28 27 28 45 21 23 49 34 47 15 49 31 33 43 27 33 31 21 49 36 38 40 29 3 23 29 0 19 27 6 23 22 3 36 9 22 27 41 27 8 33 31 21 49 9 28 20 45 22 24 0 3 23 13 1 22 14 3 28 27 10 6 25 7 8 31 7 24 6 34 41 23 24 21 38 0 7 19 9 17 27
+
+--- DECRYPTED PLAINTEXT ---
+HINGOESKJEREGRENOBLESEPEREMOVERAYSAREEDTOWERWHISAREEDNESESFAREENEXPECHERQUEBEESLAZEFRECAMERCETHEINKS
+
+--- SCORE ---
+-998.6349
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 100 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> U
+3      -> E
+6      -> A
+7      -> E
+8      -> F
+9      -> N
+10     -> L
+13     -> Q
+14     -> B
+15     -> V
+17     -> K
+19     -> I
+20     -> X
+21     -> E
+22     -> E
+23     -> R
+24     -> C
+25     -> Z
+27     -> S
+28     -> E
+29     -> W
+31     -> R
+33     -> A
+34     -> M
+35     -> G
+36     -> D
+38     -> T
+40     -> O
+41     -> E
+43     -> Y
+44     -> J
+45     -> P
+47     -> O
+49     -> E

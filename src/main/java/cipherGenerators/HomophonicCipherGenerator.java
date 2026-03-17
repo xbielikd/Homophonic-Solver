@@ -1,11 +1,16 @@
 package cipherGenerators;
 
 
+import solvers.HomophonicAnnealingSolver;
+
 import java.util.*;
 
 public class HomophonicCipherGenerator {
 
     private static Random rand = new Random();
+//    private static final double CONST = 0.1;
+//    private static final int FIXED_NUMBER = 5;
+
 
     public static List<Integer>[] generateKey(int[] homophoneCounts) {
 
@@ -58,73 +63,103 @@ public class HomophonicCipherGenerator {
     }
 
     public static void main(String[] args) {
-
-//        String plaintext =
-//                "THEQUICKBROWNFOXJUMPSOVERTHELAZYDOGANDTHENRUNSINTOFORESTWHEREITMEETSANOTHERFOXTHATTELLSASTRANGESTORYABOUTHIDDENTREASUREANDSECRETMAPSBURIEDUNDEROLDOAKTREES";
-//
-//        int[] homophoneCounts = new int[26];
-//
-//        for (int i = 0; i < 26; i++) homophoneCounts[i] = 1;
-//
-//        homophoneCounts['E' - 'A'] = 2;
-//        homophoneCounts['T' - 'A'] = 2;
-//        homophoneCounts['A' - 'A'] = 2;
-//        homophoneCounts['O' - 'A'] = 2;
-//        homophoneCounts['I' - 'A'] = 2;
         String plaintext =
                 "THESUNROSEOVERTHEOLDCITYWALLSANDTHEMARKETPLACECAMEALIVEWITHTHESOUNDSOFVENDORSCALLINGOUTTHEIRPRICESFRESHFRUITSANDVEGETABLESWEREPILEDHIGHONCARTSWOODENCRATESOFAPPLESORANGESANDPEARSSATALONGSIDEBASKETSOFEGGSNEWLYBAKEDBREADFILLEDTHEAIRWITHARICHSCENTBUTTERSTILLGLISTENINGFROMTHECHURSTOODNEARTHEFOUNTAINWHEREWOMENHADGATHEREDTOFETCHTHEIRMORNINGWATERTHECHILDRENRANPASTLAUGHINGANDSHOUTINGWHILETHEIRPARENTSBARTEREDNOISILYWITHMERCHANTSWHOSESTALLSSTRETCHEDALONGTHENARROWCOBBLESTONESTREETANOLDMANWITHAGREYBEARDSATQUIETLYONASTONEBENCHNEARTHEENTRANCETOTHEMARKETPLACEHEWATCHEDTHEBUSLYCROWDWITHWISEYESANDSMILEDSOFTLY";
 
+//        String plaintext1000 = "THESUNHADBEENRISINGOVERTHEOLDCITYWALLSFORCENTURIESANDTHEPEOPLEWHOLIVEDTHEREHADGROWNUSEDTOTHESIGHTOFITSGOLDENRAYSFALLINGONTHEANCIENTBUILDINGSANDSTONEPAVEDSQUARESTHEMARKETPLACEWASALWAYSTHEFIRSTPLACETOCOMEALIVEEACHMORNINGWITHVENDORSSETTINGUPTHEIRSTALLSANDSHOUTINGOUTTHEIRPRICESTOPASSERSBYOLDWOMENWITHWORNHANDSSOLDBASKETSOFEGGSBREADANDFRESHVEGETABLESWHILEFISHMENSMELLINGOFTHESEAVOIFEROUSLYADVERTISEDTHEIRDAILYCATCHYOUNGBOYSDARTEDTHROUGHTHECROWDSDELIVERINGMESSAGESANDSTEALINGSMALLFRUITSWHENNOBODYWATCHEDTHEBLACKSMITHINTHEFARCORNERHADBEENWORKINGSINCEBEFOREDAWNHISHAMMERRINGOUTALOUDRHYTHMICCLANGINGTHATSOUNDEDACROSSTHESQUAREWOMENBARTEREDNOISILYWITHMERCHANTSFORNEWFABRICSANDSPICESIMPORTEDFROMDISTANTLANDSACROSSTHESEAANDOLDERMENSMOKINGPIPESSATONBENCHESDISCUSSINGNEWSOFUPCOMINGHARVESTSANDPOLITICALDISPUTESFROMNEIGHBORINGVILLAGESTHECHILDRENRANPASTLAUGHINGANDSHOUTINGATEVERYTHINGANDNOTHINGWITHOUTACAREINTHEWORLDTHEAIRWASTHICKWITHSOUNDSANDSMELLSOFLIFEANDCOMMERCE";
+//        String plaintext1760 = "THESUNHADBEENRISINGOVERTHEOLDCITYWALLSFORCENTURIESANDTHEPEOPLEWHOLIVEDTHEREHADGROWNUSEDTOTHESIGHTOFITSGOLDENRAYSFALLINGONTHEANCIENTBUILDINGSANDSTONEPAVEDSQUARESTHEMARKETPLACEWASALWAYSTHEFIRSTPLACETOCOMEALIVEEACHMORNINGWITHVENDORSSETTINGUPTHEIRSTALLSANDSHOUTINGOUTTHEIRPRICESTOPASSERSBYOLDWOMENWITHWORNHANDSSOLDBASKETSOFEGGSBREADANDFRESHVEGETABLESWHILEFISHMENSMELLINGOFTHESEAVOIFEROUSLYADVERTISEDTHEIRDAILYCATCHYOUNGBOYSDARTEDTHROUGHTHECROWDSDELIVERINGMESSAGESANDSTEALINGSMALLFRUITSWHENNOBODYWATCHEDTHEBLACKSMITHINTHEFARCORNERHADBEENWORKINGSINCEBEFOREDAWNHISHAMMERRINGOUTALOUDRHYTHMICCLANGINGTHATSOUNDEDACROSSTHESQUAREWOMENBARTEREDNOISILYWITHMERCHANTSFORnewfabricsandspicesimportedfromdistantlandsacrosstheseaandoldermensmokingpipessatonbenchesdiscussingnewsofupcomingharvestsandpoliticaldisputesfromneighboringvillagesthechildrenranpastlaughingandshoutingateverythingandnothingwithoutacareintheworldtheairwasthickwithsoundsandsmellsoflifeandcommercethefountainatthecenterofthesquarebabbledsoftlyandpigeonsgatheredarounditspedestallookingforanythingdecenttoeatthecathedralbelltowerstoodtalloverthetilerooftopsandeveryhouritsdeepbronzebellsoundedoutacrosstherooftopsofthewholedowntownneighborhoodcausingpigeonsbattersleepyresidentstowakeupandcursetheirfatethelibraryanexoldbuildingthatsmelledlikemoldypaperwasopenedonlyonwednesdaysandwhenithappenedseveralyoungerscribessatinsidecopyingDOCUMENTSBYLIGHTTHATCAMEINFRIGHTFULLYSLOWTHROUGHSTONEARCHWAYSTHEYCOPIEDTREATIESANDBORINGSERMONSWHILETHEIRDREAMSWEREFULLOFADVENTUREANDTRAVELINGUNKNOWNROADSTHROUGHWILDLANDSSTILLUNMAPPEDBYANYCARTOGRAPHEROVERALLOFTHISSCENETHEMAYORINHISHIGHWINDOWWATCHEDTHECOMINGSANDGOINGSOFHISPEOPLEHEHADDONESOFORDECADESANDWASCONVINCEDTHATKNOWINGTHEIRCUSTOMSANDRHYTHMSWASWHATHADKEPTHIMINFAVORSOLONG".toUpperCase();
+
+//        List<Integer>[] key = generateHomophonicKey(plaintext, 5);
+//        int[] cipherText = encrypt(plaintext, key);
+//
+//
+//        System.out.println("Ciphertext:");
+//        for (int i =0; i< cipherText.length; i++){
+//            System.out.print(cipherText[i] + " ");
+//        }
+    }
+
+    public static List<Integer>[] generateHomophonicKey(String plaintext, Integer value, StringBuilder log) {
         int[] homophoneCounts = new int[26];
 
-// base: every letter gets 1
+        // base: every letter gets 1
         for (int i = 0; i < 26; i++) homophoneCounts[i] = 1;
 
-// extra homophones for high-frequency letters
-//        homophoneCounts['E' - 'A'] = 6;
-//        homophoneCounts['T' - 'A'] = 4;
-//        homophoneCounts['A' - 'A'] = 4;
-//        homophoneCounts['O' - 'A'] = 4;
-//        homophoneCounts['I' - 'A'] = 3;
-//        homophoneCounts['N' - 'A'] = 3;
-//        homophoneCounts['S' - 'A'] = 3;
-//        homophoneCounts['H' - 'A'] = 3;
-//        homophoneCounts['R' - 'A'] = 3;
-//        homophoneCounts['L' - 'A'] = 2;
+        homophoneCountBasedOnFixedNumber(homophoneCounts,value);
+
+//        System.out.println("Plaintext legth: " + plaintext.length());
+//        int total = Arrays.stream(homophoneCounts).sum();
+//        System.out.println("Total homophones: " + total);
 //
-//        homophoneCounts['D' - 'A'] = 2;
-//        homophoneCounts['C' - 'A'] = 2;
-//        homophoneCounts['U' - 'A'] = 2;
-//        homophoneCounts['M' - 'A'] = 2;
-
-        homophoneCounts['C' - 'A'] = 5;
-        homophoneCounts['M' - 'A'] = 4;
-        homophoneCounts['F' - 'A'] = 4;
-        homophoneCounts['R' - 'A'] = 4;
-        homophoneCounts['T' - 'A'] = 3;
-        homophoneCounts['W' - 'A'] = 3;
-        homophoneCounts['H' - 'A'] = 3;
-        homophoneCounts['I' - 'A'] = 3;
-        homophoneCounts['V' - 'A'] = 3;
-
-
-
-
-
-// verify
-        int total = Arrays.stream(homophoneCounts).sum();
-        System.out.println("Total homophones: " + total);
-
+//        System.out.println("Number of symbols: " +
+//                Arrays.stream(homophoneCounts).sum());
+//
+//
+//        List<Integer>[] key= generateKey(homophoneCounts);
+//        for (int i = 0; i< key.length; i++){
+//            System.out.println( (char)('A' + i)+ "(" + i + ") " + key[i]);
+//        }
+        log.append("Plaintext length: ").append(plaintext.length()).append("\n");
+        log.append("Total homophones: ").append(Arrays.stream(homophoneCounts).sum()).append("\n\n");
+        log.append("--- HOMOPHONE KEY DISTRIBUTION ---\n");
 
         List<Integer>[] key = generateKey(homophoneCounts);
+        for (int i = 0; i < key.length; i++) {
+            log.append((char)('A' + i)).append("(").append(i).append(") ").append(key[i]).append("\n");
+        }
 
-        int[] ciphertext = encrypt(plaintext, key);
+        return key;
+    }
 
-        System.out.println("Number of symbols: " +
-                Arrays.stream(homophoneCounts).sum());
+    public static List<Integer>[] generateHomophonicKey(String plaintext, Double value, StringBuilder log) {
+        int[] homophoneCounts = new int[26];
 
-        System.out.println("Ciphertext:");
-        for (int i =0; i< ciphertext.length; i++){
-            System.out.print(ciphertext[i] + " ");
+        // base: every letter gets 1
+        for (int i = 0; i < 26; i++) homophoneCounts[i] = 1;
+
+        homophoneCountBasedOnFreq(homophoneCounts, plaintext, value);
+
+//        System.out.println("Plaintext legth: " + plaintext.length());
+//        int total = Arrays.stream(homophoneCounts).sum();
+//        System.out.println("Total homophones: " + total);
+//
+//        System.out.println("Number of symbols: " +
+//                Arrays.stream(homophoneCounts).sum());
+//
+//
+//        List<Integer>[] key= generateKey(homophoneCounts);
+//        for (int i = 0; i< key.length; i++){
+//            System.out.println( (char)('A' + i)+ "(" + i + ") " + key[i]);
+//        }
+        homophoneCountBasedOnFreq(homophoneCounts, plaintext, value);
+
+        log.append("Plaintext length: ").append(plaintext.length()).append("\n");
+        log.append("Total homophones: ").append(Arrays.stream(homophoneCounts).sum()).append("\n\n");
+        log.append("--- HOMOPHONE KEY DISTRIBUTION ---\n");
+
+        List<Integer>[] key = generateKey(homophoneCounts);
+        for (int i = 0; i < key.length; i++) {
+            log.append((char)('A' + i)).append("(").append(i).append(") ").append(key[i]).append("\n");
+        }
+        return key;
+    }
+
+
+    private static void homophoneCountBasedOnFreq(int[] homophoneCounts, String plaintext, Double value) {
+        for (int i = 0; i<26; i++){
+            homophoneCounts[i]= (int) Math.ceil(HomophonicAnnealingSolver.ENGLISH_FREQ[i] * plaintext.length() * value);
         }
     }
+
+    private static void homophoneCountBasedOnFixedNumber(int[] homophoneCounts, Integer value) {
+        for (int i = 0; i<26; i++){
+            homophoneCounts[i]= value;
+        }
+    }
+
+
+    // TODO auto generate number of homophones : |CT|*freq[i]*someConstant (0-1 range)
+    // 1 func - fix (same number of homophones per letter, A = X = D = 5 e.g.)
+    // 2 func - automatic by frequency
+    // cyclicka struktura generovania kluca, pridat tiez do prace
 }

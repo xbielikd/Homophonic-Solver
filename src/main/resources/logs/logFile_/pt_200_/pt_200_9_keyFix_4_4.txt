@@ -1,0 +1,125 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 201
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 62, 37, 26]
+B(1) [86, 38, 45, 72]
+C(2) [96, 56, 8, 101]
+D(3) [52, 61, 71, 49]
+E(4) [81, 73, 60, 54]
+F(5) [16, 35, 24, 76]
+G(6) [11, 30, 44, 55]
+H(7) [32, 29, 41, 19]
+I(8) [33, 65, 66, 67]
+J(9) [99, 7, 93, 40]
+K(10) [95, 80, 58, 10]
+L(11) [79, 28, 27, 13]
+M(12) [31, 64, 17, 14]
+N(13) [50, 100, 20, 70]
+O(14) [23, 42, 12, 25]
+P(15) [94, 78, 84, 57]
+Q(16) [98, 63, 88, 103]
+R(17) [48, 15, 22, 34]
+S(18) [3, 82, 74, 68]
+T(19) [69, 47, 6, 83]
+U(20) [91, 51, 21, 9]
+V(21) [90, 97, 75, 59]
+W(22) [92, 1, 53, 4]
+X(23) [2, 36, 87, 43]
+Y(24) [102, 89, 39, 0]
+Z(25) [18, 77, 85, 46]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   65
+TEXT LENGTH:      201
+
+--- ORIGINAL PLAINTEXT ---
+ITSTOOLATEHELOOKEDATHISWATCHASIFTHEREWASSOMEPRESSINGDEMANDONHISTIMEELSEWHEREICANTWAITALLDAYDONTBESILLYITSJUSTTWOMINUTESTOFOURHESATDOWNMISERABLYASIFIHADPUSHEDHIMANDSIMULTANEOUSLYTHEREWASTHESOUNDOFAMOTOR
+
+--- CIPHERTEXT ---
+33 69 74 47 25 23 13 26 6 60 41 54 27 42 23 10 54 52 62 69 29 67 82 1 37 6 96 19 37 74 66 24 69 41 73 48 81 1 26 3 68 25 64 54 84 34 73 82 3 67 20 55 52 81 14 37 70 49 12 70 41 65 74 47 65 31 60 81 79 68 81 53 19 81 22 73 67 8 62 20 47 53 26 33 47 62 79 13 52 37 0 52 25 20 69 72 60 82 67 28 79 102 33 47 3 40 51 68 69 47 1 23 14 66 100 91 69 73 74 6 25 16 23 51 22 19 60 68 37 83 52 42 4 70 64 66 82 73 22 62 45 13 89 62 68 33 16 67 32 62 49 57 51 3 32 81 71 32 67 31 26 20 49 74 65 14 91 13 6 26 20 60 12 21 3 79 39 47 19 73 22 73 4 26 82 6 19 81 82 23 91 70 71 42 35 37 31 23 83 42 48
+
+--- DECRYPTED PLAINTEXT ---
+AESTEATETERTHEALTHEEJERRETTHESTHEREFEREISESTQUERIENTHEREADCARESTEREENSETHESEEMENTTEATENTHEWHENEVEREANZATIONSETRARTYSEESTERANSHESETHEPASTRESEXTHESARETEDINITERTERENDSERSTTENECKINGTHESEPERTHERASAREBERATEF
+
+--- SCORE ---
+-1796.1096
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 56 / 201 chars correct (27.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> W
+1      -> R
+3      -> I
+4      -> P
+6      -> T
+8      -> M
+10     -> L
+12     -> C
+13     -> T
+14     -> R
+16     -> R
+19     -> H
+20     -> N
+21     -> K
+22     -> S
+23     -> A
+24     -> H
+25     -> E
+26     -> E
+27     -> H
+28     -> A
+29     -> J
+31     -> R
+32     -> T
+33     -> A
+34     -> U
+35     -> B
+37     -> E
+39     -> G
+40     -> O
+41     -> R
+42     -> E
+45     -> X
+47     -> T
+48     -> F
+49     -> D
+51     -> N
+52     -> H
+53     -> T
+54     -> T
+55     -> T
+57     -> I
+60     -> E
+62     -> E
+64     -> S
+65     -> E
+66     -> T
+67     -> E
+68     -> S
+69     -> E
+70     -> A
+71     -> R
+72     -> V
+73     -> E
+74     -> S
+79     -> N
+81     -> E
+82     -> R
+83     -> T
+84     -> Q
+89     -> H
+91     -> S
+96     -> T
+100    -> Y
+102    -> Z

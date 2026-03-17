@@ -1,0 +1,81 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 27
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21]
+B(1) [26]
+C(2) [3]
+D(3) [2]
+E(4) [5, 17]
+F(5) [15]
+G(6) [19]
+H(7) [0]
+I(8) [6]
+J(9) [16]
+K(10) [18]
+L(11) [14]
+M(12) [20]
+N(13) [4]
+O(14) [22]
+P(15) [11]
+Q(16) [10]
+R(17) [24]
+S(18) [25]
+T(19) [12]
+U(20) [7]
+V(21) [8]
+W(22) [9]
+X(23) [13]
+Y(24) [23]
+Z(25) [1]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   21
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+19 22 21 4 2 26 7 23 12 5 4 20 22 24 5 2 22 19 25 9 6 12 0 6 12 9 5 2 24 22 8 5 22 8 17 24 12 22 15 6 15 12 0 21 8 5 4 7 5 9 21 24 20 21 4 2 25 22 15 12 21 14 20 22 25 12 11 21 25 12 22 24 21 14 22 4 12 0 5 25 7 20 20 5 24 25 7 4 2 21 23 21 15 12 17 24 4 22 22 4
+
+--- DECRYPTED PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROPEOPERTOFIFTHAPENUEWARMANDSOFTALMOSTCASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- SCORE ---
+-955.8548
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 96 / 100 chars correct (96.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+2      -> D
+4      -> N
+5      -> E
+6      -> I
+7      -> U
+8      -> P
+9      -> W
+11     -> C
+12     -> T
+14     -> L
+15     -> F
+17     -> E
+19     -> G
+20     -> M
+21     -> A
+22     -> O
+23     -> Y
+24     -> R
+25     -> S
+26     -> B

@@ -1,0 +1,89 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 36
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 12]
+B(1) [21]
+C(2) [35]
+D(3) [13]
+E(4) [28, 11, 6]
+F(5) [4]
+G(6) [20]
+H(7) [8, 2]
+I(8) [23, 7]
+J(9) [14]
+K(10) [26]
+L(11) [1]
+M(12) [27]
+N(13) [18, 33]
+O(14) [24, 17]
+P(15) [31]
+Q(16) [0]
+R(17) [16, 10]
+S(18) [15, 30]
+T(19) [32, 22]
+U(20) [34]
+V(21) [3]
+W(22) [9]
+X(23) [25]
+Y(24) [29]
+Z(25) [19]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   29
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+30 2 6 9 12 30 12 15 1 6 18 13 28 10 30 27 5 1 1 21 16 6 5 15 22 11 13 20 7 10 1 9 7 22 2 12 18 28 16 6 35 32 35 5 10 10 23 12 20 6 9 2 7 35 8 30 8 6 12 35 35 28 33 22 34 5 22 11 13 21 29 32 2 16 17 9 23 33 20 8 28 16 21 24 13 29 21 12 35 26 9 12 10 13 12 22 32 8 11 30 2 17 34 1 13 6 10 30
+
+--- DECRYPTED PLAINTEXT ---
+EADERERULDBEAGEWALLONDAUTHEINGLENTARBANDEYEAGGPRIDEANESESDREEARTKATHEOFYANCEPRISANOMEFOREVERGERTYSHEACKLEDGE
+
+--- SCORE ---
+-1089.2488
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 108 chars correct (13.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> L
+2      -> A
+5      -> A
+6      -> D
+7      -> N
+8      -> S
+9      -> E
+10     -> G
+11     -> H
+12     -> R
+13     -> E
+15     -> U
+16     -> N
+17     -> C
+18     -> B
+20     -> I
+21     -> O
+22     -> T
+23     -> P
+24     -> M
+26     -> V
+27     -> W
+28     -> A
+29     -> F
+30     -> E
+32     -> Y
+33     -> R
+34     -> K
+35     -> E

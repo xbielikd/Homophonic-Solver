@@ -1,0 +1,90 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 36
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 23]
+B(1) [16]
+C(2) [28]
+D(3) [21]
+E(4) [33, 13, 7]
+F(5) [12]
+G(6) [34]
+H(7) [29, 18]
+I(8) [10, 1]
+J(9) [6]
+K(10) [24]
+L(11) [9]
+M(12) [8]
+N(13) [20, 4]
+O(14) [25, 35]
+P(15) [26]
+Q(16) [15]
+R(17) [19, 3]
+S(18) [27, 32]
+T(19) [5, 30]
+U(20) [22]
+V(21) [31]
+W(22) [14]
+X(23) [0]
+Y(24) [17]
+Z(25) [2]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.1
+CIPHER SYMBOLS:   30
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+1 30 14 23 27 4 5 22 4 30 10 9 30 18 13 20 30 29 23 5 1 28 25 4 4 33 28 5 7 21 30 29 1 32 34 23 5 32 16 17 14 1 30 29 5 18 13 25 12 12 10 28 13 3 1 4 29 13 3 14 18 10 5 13 28 11 19 14 18 13 4 6 35 3 21 23 20 16 23 24 7 19 18 23 21 12 1 4 10 27 18 7 21 30 7 9 9 1 4 34
+
+--- DECRYPTED PLAINTEXT ---
+ESTOWNTUNSELSHERSTOTEDANNJDTEMSTEIGOTICKTESTTHEAPPEDERENTERTHETEDBYTHENFORMORCOVEYHOMPENEWHEMSELLENG
+
+--- SCORE ---
+-983.6031
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 40 / 100 chars correct (40.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+3      -> R
+4      -> N
+5      -> T
+6      -> F
+7      -> E
+9      -> L
+10     -> E
+11     -> B
+12     -> P
+13     -> E
+14     -> T
+16     -> C
+17     -> K
+18     -> H
+19     -> Y
+20     -> R
+21     -> M
+22     -> U
+23     -> O
+24     -> V
+25     -> A
+27     -> W
+28     -> D
+29     -> T
+30     -> S
+32     -> I
+33     -> J
+34     -> G
+35     -> O

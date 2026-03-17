@@ -1,0 +1,144 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 202
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [110, 35, 124, 52, 105]
+B(1) [27, 97, 82, 96, 34]
+C(2) [11, 44, 111, 66, 127]
+D(3) [0, 70, 75, 88, 30]
+E(4) [7, 29, 28, 79, 78]
+F(5) [38, 80, 57, 60, 93]
+G(6) [2, 61, 48, 3, 112]
+H(7) [72, 119, 49, 24, 101]
+I(8) [19, 20, 10, 55, 22]
+J(9) [9, 13, 14, 64, 65]
+K(10) [77, 23, 12, 56, 31]
+L(11) [114, 98, 73, 40, 115]
+M(12) [123, 68, 103, 18, 50]
+N(13) [74, 126, 47, 37, 129]
+O(14) [5, 6, 54, 8, 67]
+P(15) [125, 108, 116, 118, 42]
+Q(16) [63, 51, 106, 17, 89]
+R(17) [62, 100, 85, 107, 91]
+S(18) [21, 1, 76, 120, 16]
+T(19) [121, 71, 84, 4, 86]
+U(20) [46, 53, 83, 109, 45]
+V(21) [90, 92, 99, 33, 104]
+W(22) [26, 58, 41, 32, 113]
+X(23) [15, 87, 94, 43, 102]
+Y(24) [69, 128, 81, 39, 59]
+Z(25) [25, 117, 95, 36, 122]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   84
+TEXT LENGTH:      202
+
+--- ORIGINAL PLAINTEXT ---
+YOUREJUSTSUPPOSEDTOINVITEHERTOTEAWEPASSEDABARRIEROFDARKTREESANDTHENTHEFAADEOFFIFTYNINTHSTREETABLOCKOFDELICATEPALELIGHTBEAMEDDOWNINTOTHEPARKUNLIKEGATSBYANDTOMBUCHANANIHADNOGIRLWHOSEDISEMBODIEDFACEFLOATED
+
+--- CIPHERTEXT ---
+59 6 45 91 29 64 45 21 84 16 45 125 125 6 16 28 30 121 5 55 47 92 22 71 78 101 7 107 86 54 86 78 35 32 29 108 35 1 16 78 0 124 82 52 85 85 22 7 100 67 80 88 124 62 31 71 85 29 28 1 105 47 70 84 49 79 37 121 119 28 60 35 124 0 29 5 60 38 20 93 84 39 37 20 126 121 49 16 84 107 29 28 71 52 97 40 67 11 77 6 57 0 28 114 22 11 124 4 28 118 35 40 78 115 22 112 24 71 96 28 105 103 79 75 88 54 113 129 10 126 4 5 84 101 78 42 105 100 31 109 47 114 19 23 29 2 124 71 76 34 59 124 37 30 71 6 103 97 83 44 101 52 74 105 126 22 24 35 88 47 5 2 55 107 40 32 101 6 120 28 30 19 21 28 68 27 67 70 10 28 88 38 124 127 28 80 115 67 110 4 28 75
+
+--- DECRYPTED PLAINTEXT ---
+ETERTHEREHELLTHESTESIZESTSTANINTEDTHECHTRANTSSETHETRAJESSTECTINETENTHEREARTEREGREINGHTTHEATESTENERATERENERAREMENTHENTSBETHEPRIVETHREESTOTHEFINEXTRASTHEANSSTHEWASTOTHETERIERSANDSTHESEREQUENTEREAKETHEYREP
+
+--- SCORE ---
+-1754.5200
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 202 chars correct (14.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> C
+2      -> R
+4      -> R
+5      -> E
+6      -> T
+7      -> T
+10     -> T
+11     -> R
+16     -> H
+19     -> E
+20     -> G
+21     -> R
+22     -> E
+23     -> X
+24     -> T
+27     -> U
+28     -> E
+29     -> T
+30     -> S
+31     -> E
+32     -> D
+34     -> H
+35     -> E
+37     -> N
+38     -> E
+39     -> I
+40     -> N
+42     -> O
+44     -> A
+45     -> E
+47     -> I
+49     -> T
+52     -> T
+54     -> I
+55     -> S
+57     -> E
+59     -> E
+60     -> R
+62     -> J
+64     -> H
+67     -> E
+68     -> Q
+70     -> N
+71     -> S
+74     -> O
+75     -> P
+76     -> T
+77     -> A
+78     -> T
+79     -> E
+80     -> T
+82     -> N
+83     -> W
+84     -> E
+85     -> S
+86     -> N
+88     -> R
+91     -> R
+92     -> Z
+93     -> R
+96     -> B
+97     -> E
+100    -> H
+101    -> S
+103    -> H
+105    -> T
+107    -> A
+108    -> H
+109    -> F
+110    -> Y
+112    -> N
+113    -> V
+114    -> N
+115    -> H
+118    -> M
+119    -> H
+120    -> H
+121    -> T
+124    -> A
+125    -> L
+126    -> H
+127    -> K
+129    -> E

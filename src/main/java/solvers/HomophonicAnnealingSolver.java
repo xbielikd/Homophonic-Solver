@@ -14,12 +14,12 @@ public class HomophonicAnnealingSolver {
 
     // Tuning parameters
     public static final int    NUM_RESTARTS      = 30;
-    public static final long   STEPS_PER_RESTART = 3_000_000L;
+    public static final long   STEPS_PER_RESTART = 1_000_000L;
     public static final double START_TEMP        = 10.0;
     public static final double END_TEMP          = 0.001;
     public static final double MAX_REASSIGN_PROB = 0.15;
 
-    private static final double[] ENGLISH_FREQ = {
+    public static final double[] ENGLISH_FREQ = {
             0.08167, 0.01492, 0.02782, 0.04253, 0.12702, 0.02228, 0.02015,
             0.06094, 0.06966, 0.00153, 0.00772, 0.04025, 0.02406, 0.06749,
             0.07507, 0.01929, 0.00095, 0.05987, 0.06327, 0.09056, 0.02758,
@@ -59,14 +59,18 @@ public class HomophonicAnnealingSolver {
 
         for (int r = 0; r < NUM_RESTARTS; r++) {
 
-            int[]  key   = (N == 26) ? initPermutation() : initFrequencyBased();
+//            int[]  key   = (N == 26) ? initPermutation() : initFrequencyBased();
+            int[]  key   = (N == 26) ? initPermutation() : initFixedHomophones();
+
+            // TODO one more method for fixed number of homophones, use it only when u generate key using that fix number of homo
+            // pocet pouzitych homofonov / 26, zaokruhlime nahor, cize ak bude pouzitych 40 homo, predpokladame ze mame 2 znaky per letter
             int[]  pt    = applyKeyFull(key);
             double score = quad.score(pt);
 
             SimulatedAnnealing sa = new SimulatedAnnealing(START_TEMP, END_TEMP, STEPS_PER_RESTART);
 
-            while (sa.isHot()) {
-                if (N > 26 && rng.nextDouble() < MAX_REASSIGN_PROB * sa.getTemperatureRatio()) {
+            while (sa.isHot() && sa.getCurrentTemperature() > END_TEMP)   {
+                if (rng.nextDouble() < MAX_REASSIGN_PROB * sa.getTemperatureRatio()) {
                     score = doReassign(key, pt, score, sa);
                 } else {
                     score = doSwap(key, pt, score, sa);
@@ -74,8 +78,6 @@ public class HomophonicAnnealingSolver {
             }
 
             score = hillClimb(key, pt, score);
-            score = fixRareSymbols(key, pt, score);  // ← add this
-
 
             if (score > bestScore) {
                 bestScore = score;
@@ -322,6 +324,59 @@ public class HomophonicAnnealingSolver {
         return key;
     }
 
+    /**
+     * Initialize key for FIXED homophone case — every letter gets exactly
+     * the same number of homophones (N / 26), so N must be a multiple of 26.
+     *
+     * Example: N=52 → each letter gets exactly 2 symbols
+     *          N=78 → each letter gets exactly 3 symbols
+     *
+     * The solver doesn't care which symbols go to which letter initially —
+     * we assign them round-robin then shuffle within each letter's group
+     * for restart diversity.
+     */
+    private int[] initFixedHomophones() {
+
+        int perLetter = N / 26; // integer division — e.g. 55/26 = 2, 78/26 = 3
+
+        double[] cipherFreq = new double[N];
+        for (int sym : ctIdx) cipherFreq[sym]++;
+        for (int i = 0; i < N; i++) cipherFreq[i] /= textLen;
+
+        Integer[] sortedSyms = new Integer[N];
+        for (int i = 0; i < N; i++) sortedSyms[i] = i;
+        Arrays.sort(sortedSyms, (x, y) -> Double.compare(cipherFreq[y], cipherFreq[x]));
+
+        Integer[] sortedLetters = new Integer[26];
+        for (int i = 0; i < 26; i++) sortedLetters[i] = i;
+        Arrays.sort(sortedLetters, (x, y) -> Double.compare(ENGLISH_FREQ[y], ENGLISH_FREQ[x]));
+
+        int[] key = new int[N];
+        int symIdx = 0;
+        List<Integer> group = new ArrayList<>();
+
+        for (int li = 0; li < 26; li++) {
+            int letter = sortedLetters[li];
+
+            group.clear();
+            for (int k = 0; k < perLetter && symIdx < N; k++) {
+                group.add(sortedSyms[symIdx++]);
+            }
+
+            Collections.shuffle(group, rng);
+            for (int sym : group) key[sym] = letter;
+        }
+
+        // any leftover symbols from integer division remainder
+        // assign to highest frequency letters (front of sortedLetters)
+        int li = 0;
+        while (symIdx < N) {
+            key[sortedSyms[symIdx++]] = sortedLetters[li++ % 26];
+        }
+
+        return key;
+    }
+
     private int[] computeAllocation(int total, Integer[] sortedLetters) {
         double freqSum = 0;
         for (double f : ENGLISH_FREQ) freqSum += f;
@@ -340,7 +395,9 @@ public class HomophonicAnnealingSolver {
 
     private int[] applyKeyFull(int[] key) {
         int[] pt = new int[textLen];
-        for (int i = 0; i < textLen; i++) pt[i] = key[ctIdx[i]];
+        for (int i = 0; i < textLen; i++) {
+            pt[i] = key[ctIdx[i]];
+        }
         return pt;
     }
 
@@ -363,43 +420,7 @@ public class HomophonicAnnealingSolver {
         return new SolverResult(s, sb.toString());
     }
 
-    // After hill climb, for any cipher symbol appearing <= RARE_THRESHOLD times,
-    // try all 26 letter assignments and keep the best
-    private double fixRareSymbols(int[] key, int[] pt, double score) {
-        for (int c = 0; c < N; c++) {
-            if (prep.positionsOfCipher[c].size() <= 3) {
-                int bestLetter = key[c];
-                double bestScore = score;
-                int oldLetter = key[c];
 
-                for (int letter = 0; letter < 26; letter++) {
-                    if (letter == oldLetter) continue;
-                    // don't strip any letter of its last symbol unless it has no ciphertext positions
-                    if (countForLetter(key, oldLetter) <= 1 && letterHasCiphertextPositions(key, oldLetter)) continue;
-
-                    // try reassigning c -> letter
-                    key[c] = letter;
-                    for (int pos : prep.positionsOfCipher[c]) pt[pos] = letter;
-                    double s = quad.score(pt);  // full rescore — only done once per rare symbol
-                    if (s > bestScore) {
-                        bestScore = s;
-                        bestLetter = letter;
-                    }
-                    // undo
-                    key[c] = oldLetter;
-                    for (int pos : prep.positionsOfCipher[c]) pt[pos] = oldLetter;
-                }
-
-                // apply best
-                if (bestLetter != oldLetter) {
-                    key[c] = bestLetter;
-                    for (int pos : prep.positionsOfCipher[c]) pt[pos] = bestLetter;
-                    score = bestScore;
-                }
-            }
-        }
-        return score;
-    }
 
     /**
      * Returns true if at least one cipher symbol currently mapped to `letter`
