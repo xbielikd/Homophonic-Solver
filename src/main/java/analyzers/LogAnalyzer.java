@@ -64,8 +64,18 @@ public class LogAnalyzer {
         return m.find() ? m.group(1).trim() : defaultVal;
     }
 
+    private static final String DORIAN_GRAY= "dorianGray";
+    private static final String FRANKENSTEIN= "frankenstein";
+    private static final String GREAT_GATSBY= "greatGatsby";
+    private static final String GREAT_GATSBY_N_GRAMS= "greatGatsbyNGrams";
+    private static final String GREAT_GATSBY_3000_STEPS= "greatGatsby3000steps";
+
     static void main() throws Exception {
-        extractToCsv("src/main/resources/logs/logFile_/pt_1000_", "src/main/resources/logs/logResults1000.csv");
+        String placeholder = GREAT_GATSBY;
+        extractToCsv("src/main/resources/logs/"+placeholder+"/pt_100_", "src/main/resources/logs/"+placeholder+"/logResults100.csv");
+        extractToCsv("src/main/resources/logs/"+placeholder+"/pt_500_", "src/main/resources/logs/"+placeholder+"/logResults500.csv");
+        extractToCsv("src/main/resources/logs/"+placeholder+"/pt_1000_", "src/main/resources/logs/"+placeholder+"/logResults1000.csv");
+        extractToCsv("src/main/resources/logs/"+placeholder+"/pt_2000_", "src/main/resources/logs/"+placeholder+"/logResults2000.csv");
     }
 
 }

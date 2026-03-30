@@ -4,6 +4,7 @@ package cipherGenerators;
 import solvers.HomophonicAnnealingSolver;
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class HomophonicCipherGenerator {
 
@@ -138,16 +139,25 @@ public class HomophonicCipherGenerator {
         log.append("--- HOMOPHONE KEY DISTRIBUTION ---\n");
 
         List<Integer>[] key = generateKey(homophoneCounts);
+        //TODO this is mine
         for (int i = 0; i < key.length; i++) {
             log.append((char)('A' + i)).append("(").append(i).append(") ").append(key[i]).append("\n");
         }
+
+        //this is for laco
+//        for (int i = 0; i < key.length; i++) {
+//            String formattedSymbols = key[i].stream()
+//                    .map(n -> String.format("%02d", n))
+//                    .collect(Collectors.joining(", ", "[", "]"));
+//            log.append((char)('A' + i)).append("(").append(i).append(") ").append(formattedSymbols).append("\n");
+//        }
         return key;
     }
 
 
     private static void homophoneCountBasedOnFreq(int[] homophoneCounts, String plaintext, Double value) {
         for (int i = 0; i<26; i++){
-            homophoneCounts[i]= (int) Math.ceil(HomophonicAnnealingSolver.ENGLISH_FREQ[i] * plaintext.length() * value);
+            homophoneCounts[i]= (int) Math.ceil(HomophonicAnnealingSolver.ENGLISH_FREQ[i] * 100 * value);
         }
     }
 
