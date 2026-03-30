@@ -5,7 +5,6 @@ import java.nio.file.Path;
 import java.util.Random;
 
 public class TextExtractor {
-
     private static final Random rand = new Random();
     private static final int MAX_ATTEMPTS = 50;
 
@@ -119,12 +118,12 @@ public class TextExtractor {
     }
 
     public static void storeIntoTxtFile(String text, String filename) throws Exception {
-        Path outputPath = Path.of("src/main/resources/extracted/" + filename);
+        Path outputPath = Path.of("src/main/resources/extracted/greatGatsby/length"+MIN_LETTERS+"/" + filename);
         Files.createDirectories(outputPath.getParent());
         Files.writeString(outputPath, text);
     }
 
-    public static int MIN_LETTERS = 500;
+    public static int MIN_LETTERS = 250;
     static void main() throws Exception {
         for (int i = 1; i<=10; i++) {
             String text = TextExtractor.extractFromTxtFile("src/main/resources/book/greatGatsby.txt", MIN_LETTERS);
