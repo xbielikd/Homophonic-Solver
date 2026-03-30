@@ -1,8 +1,9 @@
 package solvers;
 
+import cipherGenerators.KeyType;
 import helpers.PreprocessResult;
 import helpers.SimulatedAnnealing;
-import scorers.QuadGramScorer;
+import scorers.*;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -27,11 +28,13 @@ public class HomophonicAnnealingSolver {
     };
 
     private final PreprocessResult prep;
-    private final QuadGramScorer   quad;
+    private final QuintGramScorer   quad;
     private final Random           rng     = new Random();
     private final int[]            ctIdx;
     private final int              textLen;
     private final int              N;
+    // add this field to the constructor
+    private final int ngramOrder; // 2 for bigrams, 3 for trigrams, 4 for quadgrams
 
     // Reusable scratch buffers — avoids allocation in the hot inner loop.
     // visited[] is a dedup flag array (indexed by quadgram start position).
@@ -39,7 +42,7 @@ public class HomophonicAnnealingSolver {
     private final boolean[] visited;
     private final int[]     affected;
 
-    public HomophonicAnnealingSolver(PreprocessResult prep, QuadGramScorer quad) {
+    public HomophonicAnnealingSolver(PreprocessResult prep, QuintGramScorer quad) {
         this.prep    = prep;
         this.quad    = quad;
         this.ctIdx   = prep.ctIdx;
@@ -47,20 +50,25 @@ public class HomophonicAnnealingSolver {
         this.N       = prep.numCipherSymbols;
         this.visited = new boolean[textLen];
         this.affected = new int[textLen];
+        this.ngramOrder = 5; // bigram
+
     }
 
     // Entry point
 
-    public SolverResult solve() {
+    public SolverResult solve(KeyType type) {
 
         int[]  bestKey   = null;
         int[]  bestPt    = null;
         double bestScore = Double.NEGATIVE_INFINITY;
 
         for (int r = 0; r < NUM_RESTARTS; r++) {
+            int[]  key ;
 
-//            int[]  key   = (N == 26) ? initPermutation() : initFrequencyBased();
-            int[]  key   = (N == 26) ? initPermutation() : initFixedHomophones();
+            if (type== KeyType.FREQ)
+                key   =/* (N == 26) ? initPermutation() :*/ initFrequencyBased();
+            else
+                key   = /*(N == 26) ? initPermutation() :*/ initFixedHomophones();
 
             // TODO one more method for fixed number of homophones, use it only when u generate key using that fix number of homo
             // pocet pouzitych homofonov / 26, zaokruhlime nahor, cize ak bude pouzitych 40 homo, predpokladame ze mame 2 znaky per letter
@@ -178,12 +186,15 @@ public class HomophonicAnnealingSolver {
     }
 
     // Hill climb
-
     private double hillClimb(int[] key, int[] pt, double score) {
 
         boolean improved;
+        int iteration = 0;
+        int maxIterations = 100;
+
         do {
             improved = false;
+            iteration++;
 
             for (int a = 0; a < N - 1; a++) {
                 for (int b = a + 1; b < N; b++) {
@@ -205,7 +216,7 @@ public class HomophonicAnnealingSolver {
 
                     double delta = newSum - oldSum;
 
-                    if (delta > 0.0) {
+                    if (delta > 1e-10) {
                         key[a] = letterB;
                         key[b] = letterA;
                         score += delta;
@@ -216,10 +227,52 @@ public class HomophonicAnnealingSolver {
                     }
                 }
             }
-        } while (improved);
+        } while (improved && iteration < maxIterations);
 
         return score;
     }
+
+//    private double hillClimb(int[] key, int[] pt, double score) {
+//
+//        boolean improved;
+//        do {
+//            improved = false;
+//
+//            for (int a = 0; a < N - 1; a++) {
+//                for (int b = a + 1; b < N; b++) {
+//
+//                    int letterA = key[a];
+//                    int letterB = key[b];
+//                    if (letterA == letterB) continue;
+//
+//                    int n = collectAffected(a, b);
+//
+//                    double oldSum = 0.0;
+//                    for (int i = 0; i < n; i++) oldSum += quad.scoreAt(pt, affected[i]);
+//
+//                    for (int pos : prep.positionsOfCipher[a]) pt[pos] = letterB;
+//                    for (int pos : prep.positionsOfCipher[b]) pt[pos] = letterA;
+//
+//                    double newSum = 0.0;
+//                    for (int i = 0; i < n; i++) newSum += quad.scoreAt(pt, affected[i]);
+//
+//                    double delta = newSum - oldSum;
+//
+//                    if (delta > 0.0) {
+//                        key[a] = letterB;
+//                        key[b] = letterA;
+//                        score += delta;
+//                        improved = true;
+//                    } else {
+//                        for (int pos : prep.positionsOfCipher[a]) pt[pos] = letterA;
+//                        for (int pos : prep.positionsOfCipher[b]) pt[pos] = letterB;
+//                    }
+//                }
+//            }
+//        } while (improved);
+//
+//        return score;
+//    }
 
     // Affected-quadgram index collection
     //
@@ -233,33 +286,34 @@ public class HomophonicAnnealingSolver {
 
     private int collectAffected(int symA, int symB) {
         int count = 0;
+        int window = ngramOrder - 1; // bigram=1, trigram=2, quadgram=3
 
         for (int pos : prep.positionsOfCipher[symA]) {
-            int lo = Math.max(0, pos - 3);
-            int hi = Math.min(textLen - 4, pos);
+            int lo = Math.max(0, pos - window);
+            int hi = Math.min(textLen - ngramOrder, pos);
             for (int q = lo; q <= hi; q++) {
                 if (!visited[q]) { visited[q] = true; affected[count++] = q; }
             }
         }
         for (int pos : prep.positionsOfCipher[symB]) {
-            int lo = Math.max(0, pos - 3);
-            int hi = Math.min(textLen - 4, pos);
+            int lo = Math.max(0, pos - window);
+            int hi = Math.min(textLen - ngramOrder, pos);
             for (int q = lo; q <= hi; q++) {
                 if (!visited[q]) { visited[q] = true; affected[count++] = q; }
             }
         }
 
-        // clear only the flags we set
         for (int i = 0; i < count; i++) visited[affected[i]] = false;
         return count;
     }
 
     private int collectAffectedSingle(int sym) {
         int count = 0;
+        int window = ngramOrder - 1;
 
         for (int pos : prep.positionsOfCipher[sym]) {
-            int lo = Math.max(0, pos - 3);
-            int hi = Math.min(textLen - 4, pos);
+            int lo = Math.max(0, pos - window);
+            int hi = Math.min(textLen - ngramOrder, pos);
             for (int q = lo; q <= hi; q++) {
                 if (!visited[q]) { visited[q] = true; affected[count++] = q; }
             }
