@@ -1,0 +1,171 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [93, 48, 122, 121, 32, 5, 67, 31, 16, 55]
+B(1) [78, 81]
+C(2) [124, 59, 21, 95]
+D(3) [7, 77, 96, 28, 43, 58]
+E(4) [38, 47, 57, 70, 105, 99, 52, 14, 132, 129, 74, 8, 73, 50, 82, 9]
+F(5) [66, 22, 126]
+G(6) [88, 19, 112]
+H(7) [56, 130, 23, 2, 123, 90, 37, 109]
+I(8) [34, 134, 75, 71, 51, 103, 87, 3, 60]
+J(9) [40]
+K(10) [92]
+L(11) [24, 110, 20, 15, 33]
+M(12) [6, 72, 62]
+N(13) [42, 49, 102, 45, 115, 44, 83, 107, 12]
+O(14) [36, 13, 18, 10, 94, 79, 54, 91, 131, 39]
+P(15) [120, 17, 98]
+Q(16) [128]
+R(17) [113, 25, 85, 65, 1, 63, 97, 104]
+S(18) [46, 11, 4, 111, 108, 64, 61, 127]
+T(19) [35, 119, 117, 116, 89, 125, 101, 26, 100, 133, 76]
+U(20) [29, 84, 86, 80]
+V(21) [41, 69]
+W(22) [30, 53, 118]
+X(23) [114]
+Y(24) [106, 0, 27]
+Z(25) [68]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   111
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+SWEETANDBELOVEDELIZABETHIREADANDREREADHERLETTERANDSOMESOFTENEDFEELINGSSTOLEINTOMYHEARTANDDAREDTOWHISPERPARADISIACALDREAMSOFLOVEANDJOYBUTTHEAPPLEWASALREADYEATENANDTHEANGELSARMBAREDTODRIVEMEFROMALLHOPEYETIWOULDDIETOMAKEHERHAPPYIFTHEMONSTEREXECUTEDHISTHREAT
+
+--- CIPHERTEXT ---
+61 53 74 47 119 32 102 43 81 105 20 13 69 9 28 38 24 103 68 55 81 74 89 37 71 97 52 48 7 48 107 7 113 105 104 82 67 28 130 47 65 24 52 35 116 38 65 93 115 96 111 131 62 73 11 94 126 119 8 107 38 77 126 14 99 15 3 49 112 4 11 35 13 110 50 134 12 26 79 62 106 56 8 93 97 117 31 42 43 96 31 1 8 58 76 18 30 123 3 61 98 129 85 17 16 85 121 58 51 11 103 55 59 55 20 96 63 70 5 72 64 18 126 15 79 69 82 55 44 43 40 10 0 78 84 100 26 130 105 16 98 98 33 73 118 55 46 31 24 85 70 93 43 106 82 48 116 8 107 122 107 43 116 130 132 122 115 19 14 33 11 48 1 72 78 55 104 47 96 26 10 43 113 60 69 70 6 9 66 63 54 6 5 110 33 56 79 120 57 106 52 89 71 53 36 84 15 77 58 3 74 116 18 62 31 92 50 37 82 65 37 16 120 17 0 134 66 35 23 129 62 91 49 61 119 50 104 132 114 132 21 84 133 8 58 123 51 111 100 56 104 38 55 116
+
+--- DECRYPTED PLAINTEXT ---
+ANEARTHANESTHETEINGENESSIONSASTATERESTHANINATENSITERSEEXTRATESTEVERSAREATTENCESSREASOFTHATTHATJUSTRATINMANYTHENEWESTHESECUTESHEEPANDEDTHEHEATTHEBESTINESARESTATSTATHESIZEHESHEDERATEDATTHERETHERSTHESTERNSINATESTRETUSTHESENSATMENTALISKSAREREVERTHATTHEHEREET
+
+--- SCORE ---
+-2679.8918
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 48 / 254 chars correct (18.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> H
+3      -> R
+4      -> R
+5      -> S
+6      -> R
+7      -> A
+8      -> A
+9      -> E
+10     -> D
+11     -> E
+12     -> C
+13     -> T
+14     -> E
+15     -> E
+16     -> A
+17     -> M
+18     -> U
+19     -> Z
+20     -> S
+21     -> R
+23     -> L
+24     -> I
+26     -> E
+28     -> T
+30     -> S
+31     -> T
+32     -> T
+33     -> H
+35     -> A
+36     -> A
+37     -> S
+38     -> E
+40     -> N
+42     -> H
+43     -> A
+44     -> P
+46     -> S
+47     -> A
+48     -> S
+49     -> S
+50     -> E
+51     -> H
+52     -> N
+53     -> N
+54     -> E
+55     -> E
+56     -> E
+57     -> E
+58     -> T
+59     -> W
+60     -> T
+61     -> A
+62     -> S
+63     -> H
+64     -> C
+65     -> N
+66     -> T
+67     -> S
+68     -> G
+69     -> H
+70     -> E
+71     -> I
+72     -> E
+73     -> E
+74     -> E
+76     -> J
+77     -> S
+78     -> D
+79     -> S
+81     -> N
+82     -> E
+84     -> T
+85     -> N
+89     -> S
+91     -> K
+92     -> H
+93     -> S
+94     -> X
+96     -> T
+97     -> O
+98     -> T
+99     -> V
+100    -> H
+102    -> H
+103    -> N
+104    -> R
+105    -> E
+106    -> R
+107    -> T
+110    -> T
+111    -> E
+112    -> A
+113    -> T
+114    -> V
+115    -> I
+116    -> T
+117    -> F
+118    -> B
+119    -> R
+120    -> T
+121    -> Y
+122    -> S
+123    -> T
+126    -> T
+129    -> I
+130    -> H
+131    -> R
+132    -> E
+133    -> H
+134    -> N

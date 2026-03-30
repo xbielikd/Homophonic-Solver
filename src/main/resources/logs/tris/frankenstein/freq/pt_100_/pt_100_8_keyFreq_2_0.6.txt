@@ -1,0 +1,110 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [63, 60, 51, 1, 68]
+B(1) [42]
+C(2) [65, 50]
+D(3) [52, 62, 37]
+E(4) [55, 40, 24, 22, 4, 45, 74, 20]
+F(5) [12, 15]
+G(6) [6, 67]
+H(7) [33, 44, 0, 61]
+I(8) [48, 3, 36, 70, 5]
+J(9) [69]
+K(10) [14]
+L(11) [32, 23, 49]
+M(12) [25, 11]
+N(13) [39, 56, 2, 21, 47]
+O(14) [58, 66, 53, 8, 64]
+P(15) [28, 27]
+Q(16) [46]
+R(17) [54, 57, 43, 19]
+S(18) [38, 16, 7, 71]
+T(19) [35, 59, 13, 10, 17, 9]
+U(20) [29, 34]
+V(21) [41]
+W(22) [26, 30]
+X(23) [18]
+Y(24) [73, 31]
+Z(25) [72]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   50
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+61 3 71 37 51 34 67 0 35 22 54 1 10 17 24 21 52 4 62 0 48 25 30 5 35 33 35 33 24 67 19 74 1 9 40 16 35 10 24 2 52 22 19 2 22 16 38 42 34 17 71 44 4 16 51 30 26 70 10 44 37 55 71 27 63 5 43 13 44 51 17 10 0 74 70 57 49 48 59 59 49 4 12 34 47 62 30 63 16 19 1 28 36 37 32 73 52 55 50 54 40 1 16 48 21 67
+
+--- DECRYPTED PLAINTEXT ---
+ZWHESERETHETHTECORPERGESTHTHERANTERETHETOHATHEMBETHERESEDTHEETHERSQUESTHENTFORTTORKEXPEREATIVELYOTJERTERCR
+
+--- SCORE ---
+-732.0055
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 17 / 106 chars correct (16.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> T
+2      -> T
+3      -> W
+4      -> R
+5      -> S
+9      -> E
+10     -> H
+12     -> K
+13     -> U
+16     -> E
+17     -> T
+19     -> A
+21     -> C
+22     -> H
+24     -> E
+25     -> G
+26     -> D
+27     -> E
+28     -> I
+30     -> E
+32     -> L
+33     -> H
+34     -> E
+35     -> T
+36     -> V
+37     -> E
+38     -> M
+40     -> R
+42     -> B
+43     -> Q
+44     -> E
+47     -> X
+48     -> R
+49     -> O
+50     -> J
+51     -> S
+52     -> O
+54     -> E
+55     -> T
+57     -> F
+59     -> T
+61     -> Z
+62     -> P
+63     -> R
+67     -> R
+70     -> T
+71     -> H
+73     -> Y
+74     -> N

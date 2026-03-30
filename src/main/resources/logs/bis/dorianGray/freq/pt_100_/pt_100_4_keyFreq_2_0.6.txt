@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [15, 28, 19, 52, 46]
+B(1) [39]
+C(2) [29, 2]
+D(3) [38, 33, 73]
+E(4) [63, 4, 72, 17, 24, 71, 59, 68]
+F(5) [60, 51]
+G(6) [7, 48]
+H(7) [56, 10, 61, 69]
+I(8) [35, 50, 64, 1, 41]
+J(9) [57]
+K(10) [70]
+L(11) [13, 30, 45]
+M(12) [6, 47]
+N(13) [34, 55, 36, 27, 22]
+O(14) [58, 21, 9, 11, 16]
+P(15) [8, 54]
+Q(16) [18]
+R(17) [14, 3, 49, 42]
+S(18) [44, 12, 20, 32]
+T(19) [31, 62, 0, 74, 23, 40]
+U(20) [43, 26]
+V(21) [66]
+W(22) [37, 25]
+X(23) [5]
+Y(24) [65, 67]
+Z(25) [53]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+35 31 37 46 44 28 20 6 19 45 30 8 19 42 0 65 48 21 74 43 54 42 46 74 10 24 14 1 55 15 61 43 3 14 65 39 67 13 19 38 65 36 46 14 39 16 49 21 43 48 61 37 61 11 37 52 44 15 66 59 3 65 2 45 72 66 68 42 37 16 47 28 36 37 1 31 61 25 69 19 23 30 11 42 73 69 59 55 3 67 43 44 4 33 0 21 38 72 20 2 3 64 39 71
+
+--- DECRYPTED PLAINTEXT ---
+XPRSTHEBETOMEEREDEANGESANTHETHENTHEEIZETEESHEAKENDEREFRYTHESTESTHELERATHEREPEWEECOFEVESTTINTJURETHESTHEQ
+
+--- SCORE ---
+-504.1729
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 1 / 104 chars correct (1.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> E
+2      -> S
+3      -> T
+4      -> J
+6      -> B
+8      -> M
+10     -> N
+11     -> F
+13     -> Z
+14     -> H
+15     -> H
+16     -> A
+19     -> E
+20     -> E
+21     -> E
+23     -> C
+24     -> T
+25     -> W
+28     -> H
+30     -> O
+31     -> P
+33     -> U
+35     -> X
+36     -> E
+37     -> R
+38     -> T
+39     -> E
+42     -> E
+43     -> N
+44     -> T
+45     -> T
+46     -> S
+47     -> T
+48     -> D
+49     -> K
+52     -> Y
+54     -> G
+55     -> T
+59     -> S
+61     -> E
+64     -> H
+65     -> E
+66     -> E
+67     -> I
+68     -> L
+69     -> E
+71     -> Q
+72     -> H
+73     -> V
+74     -> A

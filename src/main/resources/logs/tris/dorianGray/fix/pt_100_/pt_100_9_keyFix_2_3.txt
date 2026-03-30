@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 15, 55]
+B(1) [19, 54, 60]
+C(2) [8, 41, 57]
+D(3) [47, 4, 16]
+E(4) [62, 44, 42]
+F(5) [45, 36, 27]
+G(6) [25, 43, 46]
+H(7) [74, 48, 21]
+I(8) [1, 0, 6]
+J(9) [3, 38, 69]
+K(10) [32, 70, 50]
+L(11) [33, 18, 53]
+M(12) [72, 66, 2]
+N(13) [22, 10, 9]
+O(14) [59, 20, 75]
+P(15) [28, 40, 68]
+Q(16) [14, 7, 29]
+R(17) [65, 11, 63]
+S(18) [31, 13, 30]
+T(19) [5, 34, 77]
+U(20) [39, 12, 26]
+V(21) [51, 24, 67]
+W(22) [49, 52, 71]
+X(23) [17, 76, 61]
+Y(24) [56, 35, 58]
+Z(25) [73, 64, 37]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+56 44 30 74 42 52 15 13 41 42 63 34 15 0 9 53 58 71 59 22 4 42 65 27 39 53 18 56 74 23 22 47 13 59 2 42 52 0 34 21 48 1 31 27 1 9 44 33 58 41 39 63 51 62 47 31 8 15 63 18 42 77 53 0 28 31 48 6 13 27 11 15 22 50 19 53 39 44 44 35 42 30 21 1 13 41 11 6 13 28 25 59 18 16 74 55 1 65 5 21 42 63 44
+
+--- DECRYPTED PLAINTEXT ---
+HEYEANEREASHETREPLERJAMERETHEFRERECANTHEHATEAREXPERSQUETHESTAKETITHEREVEROWEREEDAYEAREVERIZETHEGAMBEASE
+
+--- SCORE ---
+-717.5148
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 103 chars correct (6.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> A
+2      -> C
+4      -> J
+5      -> B
+6      -> E
+8      -> H
+9      -> R
+11     -> V
+13     -> R
+15     -> E
+16     -> H
+18     -> T
+19     -> W
+21     -> E
+22     -> R
+23     -> F
+25     -> Z
+27     -> E
+28     -> I
+30     -> Y
+31     -> T
+33     -> X
+34     -> H
+35     -> D
+39     -> R
+41     -> E
+42     -> A
+44     -> E
+47     -> E
+48     -> H
+50     -> O
+51     -> Q
+52     -> N
+53     -> E
+55     -> G
+56     -> H
+58     -> P
+59     -> E
+62     -> U
+63     -> S
+65     -> M
+71     -> L
+74     -> E
+77     -> K

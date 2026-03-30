@@ -1,0 +1,100 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [40, 17, 41]
+B(1) [71, 20, 9]
+C(2) [35, 25, 45]
+D(3) [12, 64, 54]
+E(4) [39, 51, 65]
+F(5) [23, 4, 56]
+G(6) [72, 67, 5]
+H(7) [61, 46, 22]
+I(8) [19, 37, 0]
+J(9) [68, 59, 13]
+K(10) [34, 2, 8]
+L(11) [47, 43, 58]
+M(12) [49, 3, 60]
+N(13) [75, 66, 55]
+O(14) [32, 14, 76]
+P(15) [10, 36, 62]
+Q(16) [74, 31, 33]
+R(17) [42, 21, 50]
+S(18) [18, 70, 26]
+T(19) [57, 69, 29]
+U(20) [7, 52, 24]
+V(21) [48, 27, 77]
+W(22) [28, 11, 6]
+X(23) [53, 15, 1]
+Y(24) [30, 44, 16]
+Z(25) [63, 73, 38]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   40
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+28 65 40 21 65 55 14 57 70 65 75 69 37 66 69 76 69 61 65 28 76 42 47 12 57 14 41 0 50 14 52 21 49 32 50 41 47 36 21 65 13 52 54 0 25 51 70 0 55 51 48 39 42 29 17 8 51 40 55 44 75 14 57 37 45 39 32 23 11 61 41 57 45 32 49 3 14 55 36 39 14 10 43 65 70 40 44 40 75 54 37 55 65 48 65 50 37 75 57 65 50 23 65 21 65
+
+--- DECRYPTED PLAINTEXT ---
+PETHERERSETIEFILIMEPLENGREEARECHWERENTHEXCHAVESAREDHEJOKETRATERETHEBYMERTEWZERTHEQUESTATTHEREDERETRERBEHE
+
+--- SCORE ---
+-765.8497
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 22 / 105 chars correct (21.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+3      -> Z
+8      -> K
+10     -> Q
+11     -> Y
+12     -> G
+13     -> X
+14     -> E
+17     -> O
+21     -> H
+23     -> B
+25     -> V
+28     -> P
+29     -> J
+32     -> E
+36     -> T
+37     -> E
+39     -> H
+40     -> T
+41     -> E
+42     -> E
+43     -> U
+44     -> A
+45     -> T
+47     -> N
+48     -> D
+49     -> W
+50     -> R
+51     -> E
+52     -> C
+54     -> H
+55     -> R
+57     -> R
+61     -> M
+65     -> E
+66     -> F
+69     -> I
+70     -> S
+75     -> T
+76     -> L

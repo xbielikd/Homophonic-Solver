@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 4, 33, 57, 65]
+B(1) [60]
+C(2) [39, 44]
+D(3) [3, 71, 27]
+E(4) [18, 1, 38, 17, 13, 15, 62, 0]
+F(5) [72, 52]
+G(6) [29, 66]
+H(7) [35, 20, 58, 21]
+I(8) [56, 30, 46, 2, 10]
+J(9) [16]
+K(10) [7]
+L(11) [50, 14, 74]
+M(12) [67, 64]
+N(13) [45, 51, 63, 23, 22]
+O(14) [34, 24, 36, 37, 41]
+P(15) [59, 49]
+Q(16) [73]
+R(17) [42, 9, 8, 40]
+S(18) [53, 5, 61, 26]
+T(19) [6, 47, 69, 28, 43, 25]
+U(20) [32, 31]
+V(21) [70]
+W(22) [54, 48]
+X(23) [68]
+Y(24) [55, 12]
+Z(25) [19]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+53 20 1 48 33 26 57 61 50 18 45 27 13 8 26 64 33 50 50 60 9 62 33 5 69 62 3 66 2 40 74 48 30 6 21 57 63 0 9 62 44 69 39 4 8 40 10 11 29 1 48 21 2 44 35 26 21 62 11 44 39 1 45 43 31 4 25 15 71 60 12 69 35 9 36 48 46 63 29 58 17 40 60 41 27 55 60 11 39 7 48 4 42 71 57 25 6 20 0 26 20 24 32 50 71 18 9 5
+
+--- DECRYPTED PLAINTEXT ---
+KSTERETHETHEWHEGREETHERENEXPEELEVERTOTHEANDTHEMENTEREATEREEADTHEFTHENTINTHJECONIZETYEATEDBETINTHESTESQUENTHE
+
+--- SCORE ---
+-724.9926
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 108 chars correct (6.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> T
+2      -> E
+3      -> X
+4      -> T
+5      -> E
+6      -> E
+7      -> B
+8      -> H
+9      -> H
+10     -> M
+11     -> E
+12     -> I
+13     -> W
+15     -> E
+17     -> Z
+18     -> T
+20     -> S
+21     -> R
+24     -> Q
+25     -> H
+26     -> E
+27     -> E
+29     -> N
+30     -> V
+31     -> F
+32     -> U
+33     -> R
+35     -> T
+36     -> J
+39     -> D
+40     -> E
+41     -> Y
+42     -> I
+43     -> E
+44     -> A
+45     -> H
+46     -> C
+48     -> E
+50     -> E
+53     -> K
+55     -> A
+57     -> T
+58     -> I
+60     -> T
+61     -> H
+62     -> E
+63     -> O
+64     -> G
+66     -> P
+69     -> N
+71     -> N
+74     -> L

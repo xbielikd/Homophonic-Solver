@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 9, 49]
+B(1) [48, 45, 38]
+C(2) [18, 53, 22]
+D(3) [16, 64, 24]
+E(4) [62, 21, 41]
+F(5) [75, 44, 35]
+G(6) [12, 28, 47]
+H(7) [25, 50, 66]
+I(8) [26, 30, 67]
+J(9) [59, 31, 57]
+K(10) [19, 77, 0]
+L(11) [46, 23, 70]
+M(12) [13, 8, 10]
+N(13) [33, 39, 56]
+O(14) [72, 6, 52]
+P(15) [2, 15, 29]
+Q(16) [14, 40, 69]
+R(17) [27, 20, 42]
+S(18) [65, 73, 54]
+T(19) [71, 37, 76]
+U(20) [3, 32, 11]
+V(21) [43, 36, 34]
+W(22) [4, 1, 5]
+X(23) [60, 7, 63]
+Y(24) [68, 58, 55]
+Z(25) [61, 17, 74]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+66 30 73 71 49 39 33 41 64 65 0 67 56 4 9 54 64 20 9 4 39 49 76 37 27 49 53 71 30 34 62 23 68 37 26 47 50 76 52 39 25 26 65 75 9 18 21 9 39 24 50 30 54 54 66 72 42 71 25 9 67 20 46 6 72 77 62 64 9 54 37 25 72 32 28 25 67 71 1 41 42 41 37 20 67 8 13 62 64 21 34 62 42 55 64 49 68 26 53 52 11 23 24
+
+--- DECRYPTED PLAINTEXT ---
+TEXTINGETAKEQUESTHEUNISTRICTEDAYSTHERSONSHAVEBEENPRESSTARTSEEHOWAMATESTSAJOSETHERETHEFLATEDARITISHCOZYP
+
+--- SCORE ---
+-1133.2322
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 103 chars correct (29.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> K
+1      -> H
+4      -> U
+6      -> W
+8      -> F
+9      -> E
+11     -> Z
+13     -> L
+18     -> B
+20     -> H
+21     -> E
+23     -> Y
+24     -> P
+25     -> S
+26     -> H
+27     -> R
+28     -> O
+30     -> E
+32     -> J
+33     -> G
+34     -> D
+37     -> T
+39     -> N
+41     -> E
+42     -> R
+46     -> O
+47     -> E
+49     -> I
+50     -> R
+52     -> O
+53     -> C
+54     -> S
+55     -> I
+56     -> Q
+62     -> A
+64     -> T
+65     -> A
+66     -> T
+67     -> E
+68     -> S
+71     -> T
+72     -> A
+73     -> X
+75     -> V
+76     -> S
+77     -> M

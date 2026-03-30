@@ -1,0 +1,109 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [60, 11, 21]
+B(1) [55, 35, 66]
+C(2) [23, 32, 3]
+D(3) [10, 63, 25]
+E(4) [59, 51, 7]
+F(5) [27, 40, 6]
+G(6) [58, 33, 71]
+H(7) [26, 38, 1]
+I(8) [49, 62, 75]
+J(9) [41, 5, 30]
+K(10) [68, 46, 15]
+L(11) [22, 65, 28]
+M(12) [48, 45, 52]
+N(13) [34, 20, 36]
+O(14) [56, 31, 77]
+P(15) [54, 70, 67]
+Q(16) [24, 19, 13]
+R(17) [74, 4, 39]
+S(18) [64, 69, 47]
+T(19) [72, 53, 17]
+U(20) [37, 12, 8]
+V(21) [76, 9, 57]
+W(22) [14, 42, 0]
+X(23) [29, 43, 18]
+Y(24) [2, 50, 73]
+Z(25) [16, 61, 44]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   49
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+75 72 14 60 47 11 69 48 11 28 22 54 11 74 72 73 71 56 53 8 67 4 60 17 1 51 74 62 34 60 1 37 39 39 2 66 73 22 21 10 50 20 21 74 35 56 39 77 12 33 26 14 26 77 14 21 47 21 57 7 39 73 3 28 51 57 59 4 14 77 45 60 34 14 49 53 1 0 38 60 72 22 77 4 63 38 59 20 39 50 12 47 59 63 72 31 63 7 64 23 39 75 66 7
+
+--- DECRYPTED PLAINTEXT ---
+ZREENTOFTHESTARSTHEMTHEGREALDERBEEKISEEXCHEATHESEASESSEENESSESTHESTHESPEDEVERYWERESHOWTHECENTORJOSQUEZIS
+
+--- SCORE ---
+-1143.4418
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 2 / 104 chars correct (1.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> R
+2      -> K
+3      -> T
+4      -> H
+7      -> S
+8      -> M
+10     -> X
+11     -> T
+12     -> E
+14     -> E
+17     -> G
+20     -> H
+21     -> E
+22     -> E
+23     -> U
+26     -> S
+28     -> H
+31     -> J
+33     -> A
+34     -> D
+35     -> T
+37     -> B
+38     -> W
+39     -> E
+45     -> P
+47     -> N
+48     -> F
+49     -> V
+50     -> C
+51     -> E
+53     -> E
+54     -> S
+56     -> H
+57     -> S
+59     -> T
+60     -> E
+62     -> L
+63     -> O
+64     -> Q
+66     -> I
+67     -> T
+69     -> O
+71     -> T
+72     -> R
+73     -> S
+74     -> A
+75     -> Z
+77     -> S

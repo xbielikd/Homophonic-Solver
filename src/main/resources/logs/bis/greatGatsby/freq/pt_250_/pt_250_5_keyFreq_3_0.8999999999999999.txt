@@ -1,0 +1,150 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 257
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [39, 13, 22, 92, 61, 10, 45, 12]
+B(1) [62, 91]
+C(2) [18, 59, 88]
+D(3) [34, 32, 15, 1]
+E(4) [55, 89, 63, 84, 102, 83, 50, 78, 26, 20, 2, 99]
+F(5) [65, 98, 100]
+G(6) [57, 0]
+H(7) [80, 42, 27, 74, 9, 49]
+I(8) [79, 38, 96, 70, 47, 71, 6]
+J(9) [75]
+K(10) [67]
+L(11) [43, 66, 90, 48]
+M(12) [69, 25, 103]
+N(13) [19, 14, 28, 37, 77, 64, 97]
+O(14) [73, 76, 29, 94, 81, 60, 56]
+P(15) [51, 44]
+Q(16) [33]
+R(17) [95, 5, 54, 7, 46, 87]
+S(18) [101, 93, 41, 8, 40, 35]
+T(19) [23, 36, 86, 52, 53, 30, 72, 31, 17]
+U(20) [11, 21, 85]
+V(21) [104]
+W(22) [68, 58, 3]
+X(23) [24]
+Y(24) [82, 16]
+Z(25) [4]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   90
+TEXT LENGTH:      257
+
+--- ORIGINAL PLAINTEXT ---
+IFHELEFTTHEROOMFORAMINUTESHEDLOOKAROUNDUNEASILYANDSAYWHERESTOMGONEANDWEARTHEMOSTABSTRACTEDEXPRESSIONUNTILSHESAWHIMCOMINGINTHEDOORSHEUSEDTOSITONTHESANDWITHHISHEADINHERLAPBYTHEHOURRUBBINGHERFINGERSOVERHISEYESANDLOOKINGATHIMWITHUNFATHOMABLEDELIGHTITWASTOUCHING
+
+--- CIPHERTEXT ---
+6 98 42 84 66 99 98 86 36 42 99 87 60 29 25 65 73 5 13 25 6 77 85 86 26 101 49 84 32 66 81 60 67 22 54 94 85 19 32 21 37 102 13 93 38 90 82 39 97 34 93 22 16 58 80 20 7 55 8 86 94 69 0 73 77 63 92 28 32 68 55 39 87 17 27 26 69 94 101 23 12 62 93 30 46 39 59 17 84 15 20 24 51 87 89 93 93 79 29 77 85 37 86 38 90 93 74 83 41 13 68 27 47 103 59 29 103 79 77 0 70 19 23 74 2 15 94 56 54 93 80 20 21 40 83 32 53 56 8 71 30 56 28 52 9 50 93 39 64 1 58 79 17 42 80 71 8 9 78 92 34 79 77 49 83 54 90 13 44 62 82 86 49 78 9 73 85 54 87 21 62 62 79 97 0 74 83 54 98 79 37 57 63 5 40 56 104 55 54 9 38 8 2 16 50 35 10 37 1 66 60 56 67 70 19 0 39 30 49 38 69 58 38 86 42 21 28 100 39 36 9 60 25 10 62 43 50 1 102 43 47 57 74 86 96 23 68 12 40 86 94 21 18 27 70 64 57
+
+--- DECRYPTED PLAINTEXT ---
+NETETHEESTHEENOWHETONTEERETETTHERERRESTANTTTHEHENDTERTHEZERERETHTHENTHEEENERERETETTRKEANEPEMBEFTTINTENEHETHEXTHEATANTITTESTHEPRERTHEARETHERERENGTETEASTINTHERTHEDITTERETYTHETHTHEREATTINTHEREINTHEREVERTHREREQUNSTEERESTERTHETHETANJESTEOUTHESTHATHECTHERERALEEAT
+
+--- SCORE ---
+-1196.4476
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 52 / 257 chars correct (20.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> S
+2      -> E
+5      -> E
+6      -> N
+7      -> Z
+8      -> R
+9      -> T
+10     -> U
+12     -> E
+13     -> T
+15     -> P
+16     -> R
+17     -> N
+18     -> L
+19     -> S
+20     -> E
+21     -> A
+22     -> E
+23     -> T
+24     -> M
+25     -> O
+26     -> R
+27     -> E
+28     -> N
+29     -> N
+30     -> R
+32     -> T
+34     -> D
+35     -> Q
+36     -> S
+37     -> N
+38     -> H
+39     -> E
+40     -> R
+41     -> X
+42     -> T
+43     -> H
+44     -> Y
+46     -> K
+47     -> A
+49     -> T
+50     -> E
+51     -> B
+52     -> G
+53     -> H
+54     -> R
+55     -> E
+56     -> E
+57     -> T
+58     -> T
+59     -> A
+60     -> E
+62     -> T
+63     -> H
+64     -> A
+65     -> W
+66     -> T
+67     -> R
+68     -> H
+69     -> E
+70     -> E
+71     -> E
+73     -> H
+74     -> H
+77     -> T
+78     -> H
+79     -> I
+80     -> H
+81     -> H
+82     -> H
+83     -> E
+84     -> E
+85     -> E
+86     -> E
+87     -> E
+89     -> F
+90     -> E
+92     -> E
+93     -> T
+94     -> R
+96     -> C
+97     -> N
+98     -> E
+99     -> H
+100    -> J
+101    -> E
+102    -> T
+103    -> T
+104    -> V

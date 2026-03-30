@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 18, 22]
+B(1) [6]
+C(2) [33]
+D(3) [1, 17]
+E(4) [25, 13, 36, 37]
+F(5) [32]
+G(6) [9]
+H(7) [3, 0]
+I(8) [4, 34, 11]
+J(9) [38]
+K(10) [20]
+L(11) [24, 19]
+M(12) [35]
+N(13) [28, 7, 21]
+O(14) [40, 5, 12]
+P(15) [26]
+Q(16) [29]
+R(17) [8, 41]
+S(18) [43, 15]
+T(19) [42, 23, 39]
+U(20) [14]
+V(21) [16]
+W(22) [27]
+X(23) [31]
+Y(24) [30]
+Z(25) [2]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+THINLIPPEDWISDOMSPOKEATHERFROMTHEWORNCHAIRHINTEDATPRUDENCEQUOTEDFROMTHATBOOKOFCOWARDICEWHOSEAUTHORAPES
+
+--- CIPHERTEXT ---
+23 3 4 21 19 11 26 26 13 1 27 11 15 1 12 35 43 26 12 20 36 22 23 0 36 8 32 8 5 35 23 0 13 27 40 41 21 33 0 10 34 41 3 4 28 39 13 1 10 39 26 8 14 1 13 21 33 36 29 14 40 42 36 1 32 8 5 35 42 0 10 39 6 40 5 20 40 32 33 5 27 10 41 1 11 33 37 27 0 5 43 25 18 14 23 3 12 8 10 26 36 15
+
+--- DECRYPTED PLAINTEXT ---
+TRYSWILLINSIGNENCLEFORTHOMEMONTHISSESTHEVERYPAINEALMUNISTOJUSTONEMONTHEADSOFSETOSEENITZSHOCKBUTREMELOG
+
+--- SCORE ---
+-1178.1566
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 22 / 102 chars correct (21.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> N
+3      -> R
+4      -> Y
+5      -> O
+6      -> D
+8      -> M
+10     -> E
+11     -> I
+12     -> E
+13     -> I
+14     -> U
+15     -> G
+18     -> B
+19     -> W
+20     -> F
+21     -> S
+22     -> R
+23     -> T
+25     -> K
+26     -> L
+27     -> S
+28     -> P
+29     -> J
+32     -> E
+33     -> T
+34     -> V
+35     -> N
+36     -> O
+37     -> Z
+39     -> A
+40     -> S
+41     -> E
+42     -> T
+43     -> C

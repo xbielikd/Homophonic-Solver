@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 38, 5, 69, 60, 14, 70, 44]
+B(1) [59, 2]
+C(2) [31, 6, 50]
+D(3) [97, 75, 37, 26]
+E(4) [7, 39, 41, 100, 83, 88, 57, 46, 81, 1, 82, 102]
+F(5) [99, 47, 61]
+G(6) [36, 95]
+H(7) [22, 65, 98, 21, 24, 89]
+I(8) [72, 35, 18, 4, 43, 8, 34]
+J(9) [9]
+K(10) [66]
+L(11) [74, 63, 73, 80]
+M(12) [94, 90, 67]
+N(13) [92, 56, 48, 15, 28, 33, 62]
+O(14) [68, 25, 11, 49, 40, 32, 29]
+P(15) [19, 71]
+Q(16) [54]
+R(17) [58, 30, 76, 104, 17, 86]
+S(18) [20, 91, 27, 0, 103, 12]
+T(19) [42, 79, 78, 93, 101, 51, 64, 77, 84]
+U(20) [13, 16, 96]
+V(21) [53]
+W(22) [52, 85, 45]
+X(23) [87]
+Y(24) [23, 55]
+Z(25) [3]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ASHERODEHOMEHISEYESWEREFULLOFTEARSFORHEKNEWHEWASSAFETHEREISNOUSEYOURTELLINGMETHATYOUAREGOINGTOBEGOODCRIEDLORDHENRYDIPPINGHISWHITEFINGERSINTOAREDCOPPERBOWLFILLEDWITHROSEWATERYOUAREQUITEPERFECTPRAYDONTCHANGEDORIANGRAYSHOOKHISHEADNOHARRYIHAVEDONETOOMANY
+
+--- CIPHERTEXT ---
+38 103 22 100 58 40 26 100 98 49 67 82 24 8 27 83 23 83 103 85 46 86 7 61 96 74 80 25 99 78 82 70 86 12 61 25 58 89 83 66 48 1 45 89 57 85 44 103 20 60 61 1 64 24 7 17 57 4 103 33 29 13 103 83 55 25 96 76 42 41 74 74 8 56 36 90 83 93 24 14 51 55 40 13 10 17 46 36 49 8 62 36 93 68 2 82 95 68 25 37 31 86 43 39 26 73 11 30 26 89 41 28 76 55 75 35 19 71 8 62 95 98 4 91 45 24 18 51 88 99 72 28 95 82 104 20 34 15 101 11 44 17 7 75 6 29 71 19 83 76 2 68 45 80 61 35 63 73 46 97 45 43 79 65 17 11 103 100 52 14 84 39 17 55 25 96 69 86 81 54 16 35 42 7 71 7 30 61 7 31 78 19 30 38 55 97 11 62 84 50 89 38 48 36 46 26 68 58 4 60 92 36 17 5 23 12 21 40 11 66 89 18 27 21 39 10 26 56 29 21 5 104 86 23 4 65 14 53 39 75 68 15 100 42 25 49 67 10 28 55
+
+--- DECRYPTED PLAINTEXT ---
+STZARETAILYERSTARATETOATRENETHEPOSTEREASTHEESENTISTHERASSETHESTATERSTREESHASAGREATESSSTALSTAGEWEREEXCOMETEASTERESTRUESSTRIEVERSATTHEREFINDIANSARRESEASWEENTURETHEMASSATAKETESTERJOSEBUTASASTACHESSTHATTHESTATTERESEASERSREASESTRESTHEREFORESEVEREDATELYSET
+
+--- SCORE ---
+-2730.3341
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 21 / 250 chars correct (8.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> H
+2      -> W
+4      -> E
+5      -> E
+6      -> R
+7      -> A
+8      -> S
+10     -> S
+11     -> A
+12     -> S
+13     -> S
+14     -> E
+15     -> D
+16     -> B
+17     -> S
+18     -> S
+19     -> E
+20     -> I
+21     -> R
+22     -> Z
+23     -> R
+24     -> R
+25     -> E
+26     -> T
+27     -> T
+28     -> E
+29     -> E
+30     -> S
+31     -> C
+33     -> H
+34     -> N
+35     -> U
+36     -> A
+37     -> X
+38     -> S
+39     -> E
+40     -> E
+41     -> R
+42     -> T
+43     -> M
+44     -> N
+45     -> E
+46     -> T
+48     -> T
+49     -> L
+50     -> H
+51     -> A
+52     -> K
+53     -> V
+54     -> E
+55     -> T
+56     -> H
+57     -> S
+58     -> R
+60     -> S
+61     -> T
+62     -> T
+63     -> R
+64     -> E
+65     -> S
+66     -> S
+67     -> Y
+68     -> E
+69     -> J
+70     -> P
+71     -> S
+72     -> H
+73     -> E
+74     -> E
+75     -> R
+76     -> S
+78     -> H
+79     -> A
+80     -> N
+81     -> S
+82     -> E
+83     -> A
+84     -> T
+85     -> E
+86     -> O
+88     -> T
+89     -> E
+90     -> S
+91     -> V
+92     -> E
+93     -> G
+95     -> R
+96     -> R
+97     -> H
+98     -> I
+99     -> T
+100    -> A
+101    -> I
+103    -> T
+104    -> F

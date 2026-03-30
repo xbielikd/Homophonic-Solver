@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 13]
+B(1) [3, 28]
+C(2) [46, 50]
+D(3) [23, 29]
+E(4) [51, 6]
+F(5) [17, 18]
+G(6) [14, 38]
+H(7) [33, 0]
+I(8) [19, 36]
+J(9) [24, 30]
+K(10) [2, 40]
+L(11) [48, 49]
+M(12) [43, 9]
+N(13) [1, 35]
+O(14) [34, 20]
+P(15) [39, 42]
+Q(16) [44, 16]
+R(17) [47, 32]
+S(18) [41, 11]
+T(19) [45, 26]
+U(20) [27, 21]
+V(21) [12, 37]
+W(22) [31, 4]
+X(23) [10, 7]
+Y(24) [22, 15]
+Z(25) [25, 8]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+1 34 9 5 35 46 34 9 6 11 5 50 47 20 11 11 26 31 34 19 23 6 5 48 26 33 36 1 14 11 17 51 31 50 20 9 51 13 50 32 20 41 41 20 35 51 19 50 5 35 26 6 7 39 48 5 19 1 36 45 45 34 15 34 21 28 5 11 36 48 3 27 26 36 43 21 11 26 1 51 12 51 47 11 36 26 45 20 22 34 27 5 38 5 36 35 45 33 6 47 6
+
+--- DECRYPTED PLAINTEXT ---
+TERINGERESITBESSTRENCEINTHATYSPORTEROFTWELLENONTINTEQUNINTATTEMEEXISANDSTAKESTTOJOBSATTEVESIZIANTHEBE
+
+--- SCORE ---
+-968.6167
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 28 / 101 chars correct (27.7%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+3      -> D
+5      -> I
+6      -> E
+7      -> Q
+9      -> R
+11     -> S
+12     -> J
+13     -> F
+14     -> Y
+15     -> M
+17     -> P
+19     -> N
+20     -> E
+21     -> E
+22     -> V
+23     -> C
+26     -> T
+27     -> S
+28     -> X
+31     -> R
+32     -> W
+33     -> H
+34     -> E
+35     -> N
+36     -> A
+38     -> Z
+39     -> U
+41     -> L
+43     -> K
+45     -> T
+46     -> G
+47     -> B
+48     -> N
+50     -> T
+51     -> O

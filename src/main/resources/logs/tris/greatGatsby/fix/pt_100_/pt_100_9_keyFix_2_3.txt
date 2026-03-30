@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [20, 22, 9]
+B(1) [32, 51, 14]
+C(2) [28, 53, 3]
+D(3) [5, 75, 61]
+E(4) [70, 30, 10]
+F(5) [73, 27, 67]
+G(6) [16, 31, 37]
+H(7) [77, 60, 49]
+I(8) [8, 65, 2]
+J(9) [17, 63, 55]
+K(10) [13, 12, 74]
+L(11) [26, 68, 76]
+M(12) [35, 1, 54]
+N(13) [66, 24, 43]
+O(14) [64, 48, 21]
+P(15) [6, 56, 62]
+Q(16) [44, 36, 7]
+R(17) [0, 29, 47]
+S(18) [23, 11, 39]
+T(19) [19, 38, 42]
+U(20) [46, 41, 57]
+V(21) [15, 58, 71]
+W(22) [40, 25, 72]
+X(23) [59, 69, 18]
+Y(24) [4, 52, 50]
+Z(25) [33, 45, 34]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+31 48 20 24 75 51 46 4 38 30 43 35 21 29 10 5 21 37 23 25 8 19 77 65 38 72 30 61 47 48 15 70 64 15 70 0 19 64 27 8 73 19 77 22 71 30 24 41 30 40 9 47 54 9 24 5 11 48 27 42 22 76 54 21 23 38 56 22 23 42 64 0 20 26 64 24 42 60 70 39 41 54 35 10 0 11 41 24 5 22 50 9 67 42 10 29 43 48 21 24
+
+--- DECRYPTED PLAINTEXT ---
+ZEINGJOBEETHERETEANDTHEPEREQUEAREARTHESTWHEAMENEEYOUTONTHESTACTENEXANTETIVENTORKETHETHENTALOFTERTEEN
+
+--- SCORE ---
+-687.9884
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 100 chars correct (24.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+4      -> B
+5      -> T
+8      -> T
+9      -> O
+10     -> E
+11     -> H
+15     -> A
+19     -> H
+20     -> I
+21     -> E
+22     -> A
+23     -> N
+24     -> N
+25     -> D
+26     -> V
+27     -> S
+29     -> R
+30     -> E
+31     -> Z
+35     -> H
+37     -> A
+38     -> E
+39     -> K
+40     -> Y
+41     -> E
+42     -> T
+43     -> T
+46     -> O
+47     -> U
+48     -> E
+50     -> L
+51     -> J
+54     -> T
+56     -> X
+60     -> O
+61     -> Q
+64     -> E
+65     -> P
+67     -> F
+70     -> R
+71     -> M
+72     -> R
+73     -> W
+75     -> G
+76     -> C
+77     -> E

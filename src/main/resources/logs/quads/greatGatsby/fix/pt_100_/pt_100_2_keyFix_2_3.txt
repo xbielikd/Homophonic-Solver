@@ -1,0 +1,104 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 58, 45]
+B(1) [47, 17, 75]
+C(2) [28, 52, 16]
+D(3) [31, 44, 43]
+E(4) [4, 36, 65]
+F(5) [35, 12, 37]
+G(6) [30, 11, 32]
+H(7) [6, 41, 34]
+I(8) [1, 76, 24]
+J(9) [2, 51, 59]
+K(10) [5, 64, 19]
+L(11) [67, 29, 69]
+M(12) [55, 23, 14]
+N(13) [38, 48, 0]
+O(14) [61, 73, 26]
+P(15) [62, 54, 25]
+Q(16) [71, 56, 13]
+R(17) [8, 15, 60]
+S(18) [46, 33, 9]
+T(19) [7, 50, 72]
+U(20) [49, 63, 70]
+V(21) [40, 10, 53]
+W(22) [42, 27, 66]
+X(23) [22, 3, 39]
+Y(24) [57, 68, 77]
+Z(25) [18, 20, 74]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   44
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+45 46 46 26 73 38 58 9 24 45 60 60 76 53 4 44 1 14 21 43 65 21 0 21 50 7 4 14 54 50 72 26 37 76 38 31 55 68 6 73 9 7 47 70 7 50 34 4 72 42 61 61 60 50 34 15 36 4 25 4 61 54 67 36 73 35 66 41 61 55 76 58 46 64 36 44 41 76 46 66 34 65 60 36 58 17 61 49 7 46 33 7 58 60 36 31 21 7 55 65
+
+--- DECRYPTED PLAINTEXT ---
+UTTINADEQUEENJACKLEYREFEREALERSIONAMAZINEEXPEREASESSEREBEAWASEVENTHESANDTHECENTHEREEDISGETHEDEEMEEAR
+
+--- SCORE ---
+-909.2461
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 100 chars correct (5.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> K
+4      -> A
+6      -> I
+7      -> E
+9      -> E
+14     -> L
+15     -> B
+17     -> I
+21     -> E
+24     -> Q
+25     -> W
+26     -> I
+31     -> M
+33     -> H
+34     -> E
+35     -> T
+36     -> E
+37     -> O
+38     -> A
+41     -> E
+42     -> E
+43     -> Y
+44     -> C
+45     -> U
+46     -> T
+47     -> X
+49     -> G
+50     -> R
+53     -> J
+54     -> E
+55     -> A
+58     -> D
+60     -> E
+61     -> S
+64     -> H
+65     -> R
+66     -> H
+67     -> V
+68     -> Z
+70     -> P
+72     -> S
+73     -> N
+76     -> N

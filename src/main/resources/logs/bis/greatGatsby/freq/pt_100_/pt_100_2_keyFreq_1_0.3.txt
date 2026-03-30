@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 35, 3]
+B(1) [40]
+C(2) [33]
+D(3) [26, 9]
+E(4) [5, 29, 10, 24]
+F(5) [8]
+G(6) [30]
+H(7) [7, 25]
+I(8) [6, 23, 36]
+J(9) [0]
+K(10) [1]
+L(11) [4, 18]
+M(12) [34]
+N(13) [31, 32, 12]
+O(14) [27, 28, 13]
+P(15) [41]
+Q(16) [38]
+R(17) [20, 21]
+S(18) [14, 17]
+T(19) [43, 16, 39]
+U(20) [19]
+V(21) [22]
+W(22) [42]
+X(23) [15]
+Y(24) [2]
+Z(25) [37]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+11 17 14 28 13 32 3 14 23 3 20 20 36 22 24 9 6 34 3 26 5 35 12 3 43 43 10 34 41 43 39 28 8 6 32 9 34 2 7 13 14 39 40 19 43 39 25 29 39 42 27 27 21 39 25 21 29 24 41 24 13 41 18 5 28 8 42 25 27 34 23 35 14 1 29 26 25 6 17 42 7 10 21 5 3 40 13 19 16 17 14 16 3 20 24 9 11 43 34 5
+
+--- DECRYPTED PLAINTEXT ---
+EMATEWEAVEDDQUTHEEEFREZEEEKESENTHEWHEXCEANGBENTONELLINTIOTSTESPRTHETLEVEAJOFTEMECKIREGEBYMAYEDTHEEER
+
+--- SCORE ---
+-535.5815
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 100 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> J
+2      -> X
+3      -> E
+5      -> R
+6      -> E
+7      -> C
+8      -> H
+9      -> H
+10     -> K
+11     -> E
+12     -> Z
+13     -> E
+14     -> A
+16     -> Y
+17     -> M
+18     -> P
+19     -> B
+20     -> D
+21     -> I
+22     -> U
+23     -> V
+24     -> T
+25     -> T
+26     -> F
+27     -> L
+28     -> T
+29     -> O
+32     -> W
+34     -> E
+35     -> E
+36     -> Q
+39     -> N
+40     -> G
+41     -> S
+42     -> E
+43     -> E

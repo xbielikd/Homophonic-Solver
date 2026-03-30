@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [9, 22, 41, 71, 76, 35, 12, 84, 122, 69]
+B(1) [87, 88]
+C(2) [131, 83, 44, 30]
+D(3) [96, 0, 72, 6, 77, 112]
+E(4) [1, 24, 36, 46, 13, 34, 10, 57, 94, 25, 107, 130, 78, 62, 23, 110]
+F(5) [98, 53, 90]
+G(6) [119, 58, 14]
+H(7) [51, 133, 18, 47, 40, 127, 49, 129]
+I(8) [70, 43, 20, 101, 33, 50, 38, 102, 80]
+J(9) [113]
+K(10) [85]
+L(11) [125, 5, 105, 4, 99]
+M(12) [134, 124, 116]
+N(13) [67, 31, 39, 117, 115, 86, 106, 103, 97]
+O(14) [8, 79, 66, 56, 3, 11, 15, 48, 7, 21]
+P(15) [118, 19, 100]
+Q(16) [29]
+R(17) [59, 16, 17, 54, 81, 109, 42, 132]
+S(18) [75, 32, 68, 74, 123, 55, 2, 27]
+T(19) [89, 120, 95, 92, 111, 93, 104, 121, 37, 128, 61]
+U(20) [65, 26, 82, 60]
+V(21) [64, 126]
+W(22) [45, 91, 63]
+X(23) [52]
+Y(24) [28, 108, 114]
+Z(25) [73]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ORDINARYWOMENALWAYSCONSOLETHEMSELVESSOMEOFTHEMDOITBYGOINGINFORSENTIMENTALCOLOURSNEVERTRUSTAWOMANWHOWEARSMAUVEWHATEVERHERAGEMAYBEORAWOMANOVERTHIRTYFIVEWHOISFONDOFPINKRIBBONSITALWAYSMEANSTHATTHEYHAVEAHISTORYOTHERSFINDAGREATCONSOLATIONINSUDDENLYDISCOVERING
+
+--- CIPHERTEXT ---
+8 54 96 43 117 76 54 114 91 56 116 10 67 35 105 45 69 28 32 44 11 39 2 79 4 34 93 51 78 116 32 62 4 64 110 32 27 66 134 13 48 98 92 18 78 124 72 66 102 92 87 114 14 8 33 86 119 20 97 90 3 109 32 78 39 121 80 134 62 67 120 71 105 83 48 125 7 26 132 2 97 23 126 25 59 93 132 60 68 128 84 91 7 124 122 115 91 51 7 91 107 41 109 32 124 76 60 64 23 63 47 69 95 34 126 57 59 127 62 16 35 119 57 134 69 108 87 94 11 42 84 91 3 116 76 97 11 126 78 54 37 18 101 17 37 28 53 102 126 46 63 49 48 43 2 90 15 103 96 3 53 118 38 103 85 16 102 88 87 48 106 75 33 89 84 5 91 22 28 123 134 36 41 117 32 121 47 76 89 61 127 94 108 129 12 64 1 69 51 33 55 95 21 17 28 7 93 49 94 42 27 98 20 103 112 9 58 132 62 71 93 83 56 39 27 11 5 84 128 20 56 39 38 31 75 26 0 72 34 97 105 114 77 102 27 44 48 126 57 109 33 86 14
+
+--- DECRYPTED PLAINTEXT ---
+WANTHEARETHETHEGATEATESATTHSTHESTAKESBEENINETHEBENERSWERENTOTHETETHESTATEANYTIESTSOFTHERJERETHERESTEDTHEHERASTHATTOTTESTHETEASERTERETHETTOTAREPARTHEOFTENTSOMENTHERENTERENTHEAREENTHESTHETHEAVERSQUALASEDTHATTHERESINEXTRESTHATESTERENTERTHIZETTERCESANOTHERS
+
+--- SCORE ---
+-2134.7580
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 253 chars correct (7.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> Z
+1      -> L
+2      -> S
+3      -> T
+4      -> T
+5      -> E
+7      -> T
+8      -> W
+9      -> T
+10     -> E
+11     -> T
+12     -> U
+13     -> E
+14     -> S
+15     -> M
+16     -> T
+17     -> A
+18     -> E
+20     -> N
+21     -> H
+22     -> N
+23     -> S
+25     -> F
+26     -> I
+27     -> S
+28     -> T
+31     -> T
+32     -> E
+33     -> E
+34     -> T
+35     -> H
+36     -> S
+37     -> R
+38     -> R
+39     -> E
+41     -> T
+42     -> E
+43     -> T
+44     -> A
+45     -> G
+46     -> F
+47     -> H
+48     -> N
+49     -> E
+51     -> S
+53     -> H
+54     -> A
+55     -> D
+56     -> T
+57     -> T
+58     -> R
+59     -> T
+60     -> R
+61     -> V
+62     -> S
+63     -> T
+64     -> A
+66     -> B
+67     -> T
+68     -> J
+69     -> A
+71     -> T
+72     -> E
+75     -> H
+76     -> E
+77     -> C
+78     -> T
+79     -> A
+80     -> H
+83     -> A
+84     -> R
+85     -> N
+86     -> R
+87     -> E
+88     -> R
+89     -> A
+90     -> O
+91     -> E
+92     -> N
+93     -> H
+94     -> R
+95     -> T
+96     -> N
+97     -> T
+98     -> I
+101    -> P
+102    -> E
+103    -> E
+105    -> E
+106    -> T
+107    -> D
+108    -> S
+109    -> H
+110    -> K
+112    -> X
+114    -> R
+115    -> R
+116    -> H
+117    -> H
+118    -> E
+119    -> E
+120    -> A
+121    -> T
+122    -> E
+123    -> H
+124    -> H
+125    -> Y
+126    -> O
+127    -> E
+128    -> E
+129    -> Q
+132    -> E
+134    -> E

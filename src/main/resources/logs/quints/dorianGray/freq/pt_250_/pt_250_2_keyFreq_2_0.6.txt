@@ -1,0 +1,131 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [19, 40, 11, 33, 60]
+B(1) [23]
+C(2) [45, 4]
+D(3) [24, 30, 57]
+E(4) [26, 51, 0, 1, 47, 35, 69, 10]
+F(5) [5, 62]
+G(6) [3, 44]
+H(7) [22, 73, 52, 29]
+I(8) [70, 25, 55, 2, 14]
+J(9) [12]
+K(10) [67]
+L(11) [53, 59, 17]
+M(12) [28, 8]
+N(13) [31, 18, 36, 48, 16]
+O(14) [42, 64, 66, 37, 32]
+P(15) [72, 7]
+Q(16) [34]
+R(17) [43, 38, 68, 58]
+S(18) [65, 71, 20, 21]
+T(19) [54, 61, 74, 50, 15, 49]
+U(20) [13, 41]
+V(21) [46]
+W(22) [9, 39]
+X(23) [56]
+Y(24) [6, 63]
+Z(25) [27]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   71
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+40 74 26 38 43 14 23 59 26 29 66 72 51 62 59 13 74 50 10 58 47 30 72 60 71 61 22 55 28 22 69 45 59 13 50 4 22 35 30 33 50 70 50 28 40 57 59 63 9 52 1 43 10 55 20 15 73 1 23 66 30 6 29 0 1 56 45 53 11 55 8 1 24 34 13 14 45 67 14 28 13 65 15 71 47 0 14 49 60 74 37 31 4 51 55 50 25 71 25 16 11 18 69 28 7 49 6 21 54 60 23 53 10 55 18 54 73 1 22 42 28 51 5 11 43 8 71 25 38 15 29 10 5 66 17 67 57 32 18 54 53 14 67 10 61 42 22 33 46 47 61 29 40 61 20 32 43 15 42 5 74 73 25 16 44 2 16 74 29 35 14 43 22 64 13 20 26 71 49 52 69 6 65 19 6 40 4 42 68 72 20 0 23 58 55 16 3 21 23 33 30 17 41 4 67 61 29 26 22 32 28 26 62 19 43 8 3 66 49 73 0 58 51 60 15 64 48 45 51 11 18 24 28 26 69 15 8 51 74 0 59 53 66 31 10 66 62 74 52 69
+
+--- DECRYPTED PLAINTEXT ---
+SREVERSLESTERALARTSTHREETISSESRELATESARETUTESALIKENESSTEENSTRESENCEANSANDPAREDREAGETHERHERJEERSTITIONARETHEYWESASSAWENSTERINEATIVESSITEDASAWARDSITSEXHISSITSEETIREIONFORSARESTATETHEREGRESETBETESTSONYSEREMEDISESSEEAREANTHEETREETHERNADEEREARRELATESTARER
+
+--- SCORE ---
+-2891.9946
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 27 / 250 chars correct (10.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> N
+2      -> F
+3      -> N
+4      -> E
+5      -> I
+6      -> E
+7      -> T
+8      -> A
+9      -> K
+10     -> S
+11     -> N
+13     -> A
+14     -> R
+15     -> E
+16     -> O
+17     -> E
+18     -> A
+19     -> R
+20     -> T
+21     -> Y
+22     -> S
+23     -> S
+24     -> D
+25     -> I
+26     -> E
+28     -> E
+29     -> S
+30     -> R
+31     -> E
+32     -> S
+33     -> E
+34     -> P
+35     -> A
+37     -> J
+38     -> V
+40     -> S
+41     -> M
+42     -> T
+43     -> E
+44     -> N
+45     -> E
+46     -> X
+47     -> H
+48     -> H
+49     -> H
+50     -> T
+51     -> R
+52     -> E
+53     -> A
+54     -> W
+55     -> S
+56     -> C
+57     -> A
+58     -> T
+59     -> L
+60     -> E
+61     -> I
+62     -> A
+63     -> I
+64     -> T
+65     -> G
+66     -> T
+67     -> D
+68     -> B
+69     -> R
+70     -> U
+71     -> T
+72     -> E
+73     -> E
+74     -> R

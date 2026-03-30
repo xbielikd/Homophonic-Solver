@@ -1,0 +1,157 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 256
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [49, 20, 41, 70, 61, 50, 48, 15]
+B(1) [16, 24]
+C(2) [7, 73, 97]
+D(3) [14, 4, 37, 39]
+E(4) [103, 98, 75, 26, 101, 32, 11, 89, 69, 93, 91, 81]
+F(5) [8, 36, 40]
+G(6) [54, 17]
+H(7) [19, 43, 95, 42, 94, 5]
+I(8) [92, 64, 27, 60, 44, 71, 30]
+J(9) [79]
+K(10) [67]
+L(11) [28, 0, 45, 38]
+M(12) [6, 1, 100]
+N(13) [52, 25, 33, 65, 31, 62, 9]
+O(14) [21, 78, 87, 88, 74, 47, 68]
+P(15) [72, 23]
+Q(16) [85]
+R(17) [35, 55, 86, 96, 34, 2]
+S(18) [59, 90, 83, 51, 99, 10]
+T(19) [66, 102, 56, 22, 3, 58, 18, 57, 76]
+U(20) [104, 82, 84]
+V(21) [77]
+W(22) [13, 63, 46]
+X(23) [53]
+Y(24) [80, 29]
+Z(25) [12]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   97
+TEXT LENGTH:      256
+
+--- ORIGINAL PLAINTEXT ---
+HEWASATURKISHMERCHANTANDHADINHABITEDPARISFORMANYYEARSWHENFORSOMEREASONWHICHICOULDNOTLEARNHEBECAMEOBNOXIOUSTOTHEGOVERNMENTHEWASSEIZEDANDCASTINTOPRISONTHEVERYDAYTHATSAFIEARRIVEDFROMCONSTANTINOPLETOJOINHIMHEWASTRIEDANDCONDEMNEDTODEATHTHEINJUSTICEOFHISSENTENCE
+
+--- CIPHERTEXT ---
+19 98 13 70 90 70 22 104 34 67 30 51 43 1 98 96 97 5 15 25 56 50 65 14 5 20 37 92 62 95 70 24 92 76 81 39 72 48 86 60 10 40 88 35 100 70 65 29 29 32 70 96 10 46 43 89 25 8 68 86 90 21 100 101 34 103 50 99 68 65 63 43 27 97 94 30 97 87 84 0 37 33 47 76 0 103 15 2 65 19 89 16 91 7 20 100 101 21 24 33 68 53 71 47 82 90 76 74 58 94 89 17 68 77 81 34 31 100 81 52 57 42 26 46 15 90 90 69 92 12 89 14 70 33 14 97 41 83 57 30 25 76 87 72 96 30 59 68 25 18 42 93 77 11 2 29 4 49 80 56 94 41 102 99 49 8 27 89 48 2 96 60 77 98 14 40 96 68 6 97 21 52 99 57 48 33 58 64 9 78 72 45 75 102 88 79 47 60 31 19 30 100 94 75 13 48 59 58 2 44 81 37 61 33 4 7 47 62 14 81 6 65 98 14 22 78 37 89 61 57 43 66 43 98 92 52 79 104 59 102 44 97 32 21 36 5 92 99 83 75 65 58 11 25 97 91
+
+--- DECRYPTED PLAINTEXT ---
+HERESEAREWEREVERTEENTASSEESNAMEINTEXTENTGERATESTTHERGREENTENSETHELATESTERTHETAKESSETELEASHEFORETHEISEQUEZSTOTHEREHEESTEDHEPRESSINJESESSTETHENTATRESENCETHEATASETHEATSTREEARTHESERESTEDTHESTERSTYEAREETSHETHERESTATESTSAREASESSESASSETHEBEENDERSATTHESENTTESTENTO
+
+--- SCORE ---
+-2768.3391
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 59 / 256 chars correct (23.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> V
+2      -> A
+4      -> A
+5      -> E
+6      -> S
+7      -> R
+8      -> T
+9      -> R
+10     -> G
+11     -> E
+12     -> J
+13     -> R
+14     -> S
+15     -> E
+16     -> F
+17     -> R
+18     -> C
+19     -> H
+20     -> E
+21     -> E
+22     -> A
+24     -> I
+25     -> N
+26     -> P
+27     -> R
+29     -> T
+30     -> E
+31     -> S
+32     -> H
+33     -> S
+34     -> E
+35     -> A
+36     -> S
+37     -> S
+39     -> X
+40     -> E
+41     -> E
+42     -> E
+43     -> E
+44     -> T
+45     -> Y
+46     -> R
+47     -> E
+48     -> E
+49     -> S
+50     -> A
+51     -> R
+52     -> D
+53     -> Q
+56     -> T
+57     -> H
+58     -> T
+59     -> S
+60     -> T
+61     -> T
+62     -> A
+63     -> T
+64     -> E
+65     -> S
+66     -> B
+67     -> W
+68     -> E
+69     -> I
+70     -> E
+71     -> U
+72     -> T
+74     -> O
+75     -> E
+76     -> T
+77     -> H
+78     -> S
+79     -> E
+80     -> E
+81     -> E
+82     -> Z
+83     -> T
+84     -> K
+86     -> N
+87     -> A
+88     -> R
+89     -> E
+90     -> S
+91     -> O
+92     -> N
+93     -> T
+94     -> H
+95     -> M
+96     -> R
+97     -> T
+98     -> E
+99     -> T
+100    -> T
+101    -> H
+102    -> A
+103    -> L
+104    -> R

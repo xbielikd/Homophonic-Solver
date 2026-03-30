@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 0]
+B(1) [34, 2]
+C(2) [8, 5]
+D(3) [10, 26]
+E(4) [31, 41]
+F(5) [48, 18]
+G(6) [29, 38]
+H(7) [24, 43]
+I(8) [42, 23]
+J(9) [9, 32]
+K(10) [46, 14]
+L(11) [39, 3]
+M(12) [19, 30]
+N(13) [28, 44]
+O(14) [13, 50]
+P(15) [35, 6]
+Q(16) [12, 45]
+R(17) [25, 47]
+S(18) [15, 40]
+T(19) [7, 37]
+U(20) [20, 17]
+V(21) [22, 11]
+W(22) [27, 36]
+X(23) [4, 1]
+Y(24) [49, 21]
+Z(25) [33, 16]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+23 7 27 0 40 44 37 20 28 7 42 3 7 43 31 44 37 24 0 37 42 8 13 28 28 31 8 7 31 10 37 43 23 15 29 51 37 40 34 49 36 42 37 24 37 24 31 50 48 48 23 8 41 47 42 44 43 41 25 36 24 23 7 41 5 51 47 36 43 31 28 32 50 25 26 0 44 2 0 46 41 25 24 51 26 48 42 28 42 15 24 31 10 7 41 3 3 42 44 38
+
+--- DECRYPTED PLAINTEXT ---
+ETWIONTYETESTHENTHITERMEEERTEFTHECKETOQUTETHTHEPLLEREDENHEATHETEVEDTHEEXPABINGIZEAHEBLEEECHEFTESSENJ
+
+--- SCORE ---
+-513.1673
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 40 / 100 chars correct (40.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> I
+2      -> G
+3      -> S
+5      -> V
+7      -> T
+8      -> R
+10     -> F
+13     -> M
+15     -> C
+20     -> Y
+23     -> E
+24     -> H
+25     -> A
+26     -> B
+27     -> W
+28     -> E
+29     -> K
+31     -> E
+32     -> X
+34     -> Q
+36     -> T
+37     -> T
+38     -> J
+40     -> O
+41     -> E
+42     -> E
+43     -> H
+44     -> N
+46     -> Z
+47     -> D
+48     -> L
+49     -> U
+50     -> P
+51     -> E

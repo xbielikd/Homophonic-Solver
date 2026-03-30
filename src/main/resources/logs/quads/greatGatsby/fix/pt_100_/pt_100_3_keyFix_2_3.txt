@@ -1,0 +1,101 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [59, 32, 52]
+B(1) [15, 3, 76]
+C(2) [4, 25, 31]
+D(3) [27, 55, 28]
+E(4) [20, 16, 38]
+F(5) [41, 67, 21]
+G(6) [72, 63, 1]
+H(7) [36, 5, 64]
+I(8) [61, 17, 45]
+J(9) [74, 9, 51]
+K(10) [58, 47, 39]
+L(11) [34, 54, 12]
+M(12) [70, 68, 69]
+N(13) [19, 56, 30]
+O(14) [26, 22, 57]
+P(15) [49, 42, 46]
+Q(16) [66, 7, 43]
+R(17) [37, 60, 71]
+S(18) [48, 23, 62]
+T(19) [40, 10, 73]
+U(20) [75, 65, 29]
+V(21) [33, 14, 77]
+W(22) [18, 8, 53]
+X(23) [0, 2, 44]
+Y(24) [24, 11, 6]
+Z(25) [50, 13, 35]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   41
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+45 73 8 59 62 19 73 65 56 73 61 12 73 5 20 30 40 5 59 10 61 31 22 56 19 16 4 40 20 27 73 64 17 48 1 32 40 62 76 11 53 17 73 64 10 64 20 22 67 21 45 25 38 60 61 30 64 20 60 53 64 45 73 16 4 32 71 8 5 16 30 51 22 60 27 32 30 3 52 47 16 71 64 59 27 67 17 56 61 62 5 16 28 40 38 12 54 17 19 72
+
+--- DECRYPTED PLAINTEXT ---
+ETWASTTERTERTHENTHATEFORTERTEDTHECKITSBYTETHTHEOPLEVERENHERTHETERISWHENJORDINGQUESHADPERESHEXTERMETZ
+
+--- SCORE ---
+-917.6075
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 58 / 100 chars correct (58.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> K
+3      -> G
+4      -> R
+5      -> H
+8      -> W
+10     -> T
+11     -> Y
+12     -> R
+16     -> E
+17     -> E
+19     -> T
+20     -> E
+21     -> L
+22     -> O
+25     -> V
+27     -> D
+28     -> X
+30     -> N
+31     -> F
+32     -> I
+38     -> E
+40     -> T
+45     -> E
+47     -> U
+48     -> C
+51     -> J
+52     -> Q
+53     -> T
+54     -> M
+56     -> R
+59     -> A
+60     -> R
+61     -> E
+62     -> S
+64     -> H
+65     -> E
+67     -> P
+71     -> S
+72     -> Z
+73     -> T
+76     -> B

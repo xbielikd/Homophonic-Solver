@@ -1,0 +1,150 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [83, 92, 61, 56, 27, 93, 33, 96]
+B(1) [46, 89]
+C(2) [84, 50, 5]
+D(3) [35, 102, 18, 22]
+E(4) [78, 76, 34, 66, 25, 70, 29, 15, 3, 77, 10, 30]
+F(5) [65, 79, 37]
+G(6) [101, 28]
+H(7) [95, 55, 69, 17, 97, 86]
+I(8) [53, 99, 52, 21, 73, 26, 14]
+J(9) [81]
+K(10) [44]
+L(11) [13, 20, 71, 98]
+M(12) [16, 12, 54]
+N(13) [24, 74, 1, 59, 63, 85, 47]
+O(14) [48, 39, 41, 8, 42, 36, 49]
+P(15) [68, 40]
+Q(16) [75]
+R(17) [62, 58, 80, 51, 90, 94]
+S(18) [11, 45, 43, 67, 72, 4]
+T(19) [82, 7, 2, 100, 32, 64, 91, 31, 60]
+U(20) [0, 9, 23]
+V(21) [38]
+W(22) [103, 19, 88]
+X(23) [104]
+Y(24) [87, 6]
+Z(25) [57]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   90
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SUDDENLYTHEBROADDISKOFTHEMOONAROSEANDSHONEFULLUPONHISGHASTLYANDDISTORTEDSHAPEASHEFLEDWITHMORETHANMORTALSPEEDIPURSUEDHIMANDFORMANYMONTHSTHISHASBEENMYTASKGUIDEDBYASLIGHTCLUEIFOLLOWEDTHEWINDINGSOFTHERHONEBUTVAINLYTHEBLUEMEDITERRANEANAPPEAREDANDBYASTRANGE
+
+--- CIPHERTEXT ---
+45 9 102 102 3 47 71 87 82 86 70 46 94 41 56 22 18 73 43 44 41 65 32 86 25 16 49 39 63 96 90 48 43 66 56 59 18 4 17 36 59 3 65 23 13 20 23 40 48 24 17 73 45 28 17 56 43 7 98 87 27 24 35 35 21 45 91 49 62 91 77 102 11 17 93 68 66 96 45 69 77 65 71 70 22 103 53 100 95 12 41 51 66 82 17 27 59 16 8 94 91 92 20 72 68 30 70 22 52 68 0 80 45 9 77 102 95 26 16 56 85 22 37 8 62 54 96 63 87 16 42 74 82 69 4 2 86 53 45 86 92 45 89 15 66 59 16 6 32 27 4 44 101 23 52 18 77 102 89 6 83 43 98 53 101 17 2 50 20 23 66 52 65 39 20 20 42 88 77 35 91 95 76 103 53 63 102 14 63 28 4 48 37 91 95 10 58 55 42 63 34 46 23 32 38 56 14 47 13 87 60 95 76 89 20 23 70 16 76 22 21 31 78 62 58 83 24 70 96 74 96 68 40 15 92 51 66 18 83 1 22 46 6 83 72 100 51 27 24 101 77
+
+--- DECRYPTED PLAINTEXT ---
+ATEENTHESTETEREATERERTITOTHEREPEREEATHEFANTTHETHEREEATEERERETREELATHETHEDEXTEEATHTHEARETHEREESETATHETHESTHEASTQUATHEHETEJATHEVERETERSTHATEATHATTEATHITHETTSTHETHERRETEAMETESTEEEEGHETHEREREARTHETTHERKERETTIZEATHECHETETETEALYBEREREERETHTHEETEWATHESTETRTH
+
+--- SCORE ---
+-1167.3742
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 32 / 251 chars correct (12.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+1      -> W
+2      -> A
+3      -> N
+4      -> H
+6      -> H
+7      -> E
+8      -> H
+9      -> T
+10     -> E
+11     -> D
+12     -> E
+13     -> H
+14     -> A
+15     -> T
+16     -> T
+17     -> E
+18     -> T
+20     -> E
+21     -> L
+22     -> A
+23     -> T
+24     -> R
+25     -> O
+26     -> E
+27     -> T
+28     -> T
+30     -> H
+31     -> Y
+32     -> I
+34     -> E
+35     -> E
+36     -> F
+37     -> T
+38     -> Z
+39     -> E
+40     -> H
+41     -> R
+42     -> E
+43     -> R
+44     -> E
+45     -> A
+46     -> T
+47     -> T
+48     -> E
+49     -> H
+50     -> M
+51     -> E
+52     -> S
+53     -> E
+54     -> V
+55     -> K
+56     -> E
+58     -> R
+59     -> A
+60     -> C
+62     -> E
+63     -> R
+65     -> T
+66     -> E
+68     -> T
+69     -> T
+70     -> E
+71     -> H
+72     -> S
+73     -> E
+74     -> R
+76     -> E
+77     -> H
+78     -> B
+80     -> U
+82     -> S
+83     -> E
+85     -> J
+86     -> T
+87     -> E
+88     -> G
+89     -> T
+90     -> P
+91     -> T
+92     -> H
+93     -> X
+94     -> E
+95     -> H
+96     -> E
+98     -> R
+100    -> T
+101    -> T
+102    -> E
+103    -> R

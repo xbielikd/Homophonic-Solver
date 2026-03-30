@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [16, 44, 49, 38, 24]
+B(1) [18]
+C(2) [68, 30]
+D(3) [46, 37, 58]
+E(4) [42, 39, 8, 70, 66, 48, 33, 73]
+F(5) [45, 55]
+G(6) [59, 52]
+H(7) [11, 20, 69, 4]
+I(8) [64, 40, 17, 25, 35]
+J(9) [63]
+K(10) [51]
+L(11) [72, 74, 5]
+M(12) [14, 22]
+N(13) [6, 57, 1, 32, 27]
+O(14) [23, 28, 50, 43, 3]
+P(15) [62, 12]
+Q(16) [19]
+R(17) [60, 56, 65, 31]
+S(18) [34, 9, 29, 53]
+T(19) [67, 71, 26, 10, 54, 47]
+U(20) [36, 15]
+V(21) [2]
+W(22) [13, 41]
+X(23) [61]
+Y(24) [7, 21]
+Z(25) [0]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+22 7 62 16 65 70 57 54 53 41 42 56 48 62 3 53 53 42 53 34 70 58 18 21 47 4 70 2 73 31 21 29 62 35 31 17 10 50 45 51 35 57 37 1 66 53 9 16 57 58 64 32 46 36 74 52 48 6 30 39 41 42 45 8 74 10 54 11 38 54 47 20 8 7 41 39 65 39 27 43 67 71 4 8 10 7 56 44 32 71 53 54 28 65 15 74 33 43 36 56
+
+--- DECRYPTED PLAINTEXT ---
+ZEOVERITEANSTOBEENEGREATHERJUSTHOUSANDAQUICKLEAVIEWAYNEXTMESANARENTOFTHEREASESPORTERNESTATETHESECONS
+
+--- SCORE ---
+-1062.9704
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 8 / 100 chars correct (8.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> K
+2      -> J
+3      -> B
+4      -> E
+6      -> M
+7      -> E
+8      -> R
+9      -> A
+10     -> N
+11     -> O
+15     -> S
+16     -> V
+17     -> A
+18     -> A
+20     -> E
+21     -> T
+22     -> Z
+27     -> P
+28     -> H
+29     -> H
+30     -> E
+31     -> S
+32     -> A
+33     -> C
+34     -> G
+35     -> U
+36     -> N
+37     -> C
+38     -> F
+39     -> S
+41     -> A
+42     -> N
+43     -> O
+44     -> T
+45     -> A
+46     -> Y
+47     -> H
+48     -> T
+50     -> D
+51     -> Q
+52     -> X
+53     -> E
+54     -> T
+56     -> S
+57     -> I
+58     -> E
+62     -> O
+64     -> W
+65     -> E
+66     -> L
+67     -> R
+70     -> R
+71     -> T
+73     -> U
+74     -> E

@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 18, 5, 54, 73]
+B(1) [38]
+C(2) [58, 31]
+D(3) [74, 16, 27]
+E(4) [57, 14, 50, 19, 15, 64, 29, 8]
+F(5) [17, 36]
+G(6) [41, 21]
+H(7) [47, 55, 10, 13]
+I(8) [52, 7, 39, 60, 46]
+J(9) [44]
+K(10) [56]
+L(11) [11, 53, 34]
+M(12) [63, 9]
+N(13) [4, 68, 23, 20, 72]
+O(14) [43, 49, 61, 25, 45]
+P(15) [22, 3]
+Q(16) [62]
+R(17) [35, 48, 32, 51]
+S(18) [70, 40, 33, 30]
+T(19) [71, 37, 24, 69, 26, 42]
+U(20) [0, 67]
+V(21) [1]
+W(22) [66, 2]
+X(23) [59]
+Y(24) [6, 28]
+Z(25) [65]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+13 29 13 5 74 47 5 42 19 36 0 53 63 8 63 61 48 46 15 40 43 36 47 52 63 42 55 73 69 27 25 50 40 4 61 24 9 5 69 71 29 35 55 14 18 23 33 66 50 35 29 27 60 33 60 63 22 34 28 66 18 23 42 42 45 70 8 19 42 10 50 3 34 73 58 19 24 47 18 24 60 30 73 53 34 41 52 1 57 63 50 26 10 57 56 57 6 12 4 74
+
+--- DECRYPTED PLAINTEXT ---
+ZEZETHEENTHEREREQUESTTHEREASITWASSETHEICEMAKESFLAMETOFORTABLESEEXPENEDAJASONTHETOUSEAGENERANDEVERYST
+
+--- SCORE ---
+-1071.7227
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 18 / 100 chars correct (18.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> N
+3      -> J
+4      -> S
+5      -> E
+6      -> R
+8      -> E
+9      -> H
+10     -> D
+12     -> Y
+13     -> Z
+14     -> K
+15     -> E
+18     -> E
+19     -> N
+22     -> T
+23     -> S
+24     -> T
+25     -> W
+26     -> N
+27     -> T
+28     -> B
+29     -> E
+30     -> U
+33     -> F
+34     -> A
+35     -> M
+36     -> T
+40     -> S
+41     -> G
+42     -> E
+43     -> T
+45     -> X
+46     -> U
+47     -> H
+48     -> Q
+50     -> A
+52     -> E
+53     -> E
+55     -> A
+56     -> V
+57     -> E
+58     -> O
+60     -> O
+61     -> E
+63     -> R
+66     -> L
+69     -> I
+70     -> P
+71     -> C
+73     -> S
+74     -> T

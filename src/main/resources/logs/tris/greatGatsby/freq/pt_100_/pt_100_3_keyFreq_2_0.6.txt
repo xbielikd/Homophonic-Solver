@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [65, 15, 5, 46, 67]
+B(1) [31]
+C(2) [16, 62]
+D(3) [9, 58, 57]
+E(4) [60, 1, 12, 64, 20, 2, 40, 7]
+F(5) [61, 30]
+G(6) [70, 43]
+H(7) [13, 18, 74, 51]
+I(8) [26, 66, 24, 33, 37]
+J(9) [10]
+K(10) [14]
+L(11) [56, 72, 55]
+M(12) [52, 23]
+N(13) [59, 21, 28, 27, 49]
+O(14) [8, 36, 73, 39, 48]
+P(15) [38, 34]
+Q(16) [45]
+R(17) [3, 54, 44, 53]
+S(18) [22, 35, 32, 42]
+T(19) [4, 47, 17, 68, 29, 69]
+U(20) [71, 63]
+V(21) [50]
+W(22) [11, 6]
+X(23) [19]
+Y(24) [41, 0]
+Z(25) [25]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+37 29 6 65 35 21 29 71 49 47 33 55 17 18 12 49 47 13 5 69 33 16 36 59 28 2 62 69 64 9 69 74 37 22 70 67 29 35 31 0 11 24 47 18 68 51 64 8 61 30 24 16 7 44 24 21 18 2 53 11 13 24 69 1 62 5 3 6 18 2 59 10 48 54 57 5 21 31 15 14 2 53 13 65 57 30 37 49 37 42 74 64 58 68 64 55 55 24 59 43
+
+--- DECRYPTED PLAINTEXT ---
+EETENTERSTINTHESTHATINGSKEDTOFTHELIZENEXTETHECOVEHENTHETHETTHETEDAYTHESJUSTATEMBETHETHESEWHOPEONNESQ
+
+--- SCORE ---
+-677.4490
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 100 chars correct (29.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> X
+1      -> E
+2      -> E
+3      -> Y
+5      -> A
+6      -> T
+7      -> T
+8      -> V
+9      -> F
+10     -> J
+11     -> T
+12     -> E
+13     -> H
+14     -> B
+15     -> M
+16     -> N
+17     -> T
+18     -> H
+21     -> T
+22     -> L
+24     -> E
+28     -> K
+29     -> E
+30     -> H
+31     -> E
+33     -> I
+35     -> N
+36     -> G
+37     -> E
+42     -> W
+43     -> Q
+44     -> H
+47     -> T
+48     -> U
+49     -> S
+51     -> C
+53     -> T
+54     -> S
+55     -> N
+57     -> T
+58     -> P
+59     -> S
+61     -> E
+62     -> D
+64     -> O
+65     -> E
+67     -> Z
+68     -> E
+69     -> T
+70     -> I
+71     -> R
+74     -> H

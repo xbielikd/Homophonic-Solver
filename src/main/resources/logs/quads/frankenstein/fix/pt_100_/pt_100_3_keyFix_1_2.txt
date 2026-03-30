@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [16, 26]
+B(1) [43, 11]
+C(2) [35, 6]
+D(3) [31, 13]
+E(4) [46, 19]
+F(5) [37, 25]
+G(6) [40, 17]
+H(7) [44, 0]
+I(8) [36, 22]
+J(9) [29, 27]
+K(10) [49, 42]
+L(11) [23, 10]
+M(12) [30, 5]
+N(13) [8, 7]
+O(14) [34, 20]
+P(15) [28, 21]
+Q(16) [48, 4]
+R(17) [33, 39]
+S(18) [32, 24]
+T(19) [18, 47]
+U(20) [45, 50]
+V(21) [2, 3]
+W(22) [38, 1]
+X(23) [12, 9]
+Y(24) [14, 15]
+Z(25) [51, 41]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+26 10 26 32 2 22 35 47 20 39 36 7 34 1 24 26 15 47 44 26 8 42 17 34 31 24 0 19 31 22 13 8 34 47 23 22 2 46 18 34 38 22 47 8 46 24 24 47 0 19 35 33 50 46 23 5 22 24 19 39 26 11 23 46 13 46 16 18 0 34 37 44 19 33 14 34 50 7 17 19 24 18 13 26 33 10 22 8 40 35 34 30 46 2 36 35 47 20 33 7 34 18
+
+--- DECRYPTED PLAINTEXT ---
+EKEYMENTIVELEASEXTRESQUEDSHEDERSETHEMATEJETSASSTHENABAHWESEVECHARAFTHEPREAZEBLUESTREAKESONEGAMENTIALET
+
+--- SCORE ---
+-989.1190
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 102 chars correct (25.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> A
+2      -> M
+5      -> W
+7      -> L
+8      -> S
+10     -> K
+11     -> C
+13     -> R
+14     -> Z
+15     -> X
+16     -> F
+17     -> U
+18     -> T
+19     -> E
+20     -> I
+22     -> E
+23     -> H
+24     -> S
+26     -> E
+30     -> G
+31     -> D
+32     -> Y
+33     -> A
+34     -> E
+35     -> N
+36     -> E
+37     -> P
+38     -> J
+39     -> V
+40     -> O
+42     -> Q
+44     -> R
+46     -> A
+47     -> T
+50     -> B

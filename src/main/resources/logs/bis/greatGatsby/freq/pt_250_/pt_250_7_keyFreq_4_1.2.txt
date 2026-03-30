@@ -1,0 +1,170 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [130, 97, 105, 46, 41, 102, 116, 60, 78, 14]
+B(1) [7, 10]
+C(2) [33, 39, 4, 107]
+D(3) [103, 99, 21, 3, 29, 120]
+E(4) [70, 119, 51, 2, 132, 118, 64, 93, 30, 11, 20, 111, 90, 81, 58, 125]
+F(5) [75, 123, 34]
+G(6) [8, 44, 101]
+H(7) [59, 36, 117, 133, 19, 110, 43, 83]
+I(8) [42, 54, 25, 12, 94, 9, 1, 15, 57]
+J(9) [13]
+K(10) [95]
+L(11) [104, 122, 50, 124, 0]
+M(12) [79, 65, 121]
+N(13) [72, 89, 86, 67, 16, 45, 31, 100, 108]
+O(14) [53, 23, 47, 73, 85, 37, 71, 106, 77, 62]
+P(15) [35, 114, 63]
+Q(16) [22]
+R(17) [96, 40, 109, 52, 69, 68, 24, 74]
+S(18) [61, 38, 127, 17, 131, 66, 55, 98]
+T(19) [80, 91, 84, 76, 56, 88, 48, 6, 129, 134, 5]
+U(20) [128, 115, 26, 82]
+V(21) [32, 18]
+W(22) [112, 27, 49]
+X(23) [113]
+Y(24) [28, 92, 126]
+Z(25) [87]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   110
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+WOLFSHIEMASMALLFLATNOSEDJEWRAISEDHISLARGEHEADANDREGARDEDMEWITHTWOFINEGROWTHSOFHAIRWHICHLUXURIATEDINEITHERNOSTRILAFTERAMOMENTIDISCOVEREDHISTINYEYESINTHEHALFDARKNESSSOITOOKONELOOKATHIMSAIDMRWOLFSHIEMSHAKINGMYHANDEARNESTLYANDWHATDOYOUTHINKIDIDWHATIINQUIRED
+
+--- CIPHERTEXT ---
+49 47 104 75 98 110 12 93 79 102 131 79 102 124 104 34 50 116 76 67 37 127 118 103 13 58 49 52 97 15 98 81 103 117 25 131 0 78 52 44 64 133 81 102 99 14 108 120 68 20 101 130 69 120 119 3 121 2 49 25 88 110 88 112 73 123 94 89 58 44 52 62 27 56 117 66 73 123 43 97 1 109 49 133 1 39 117 0 26 113 115 69 57 14 48 93 29 57 108 70 15 5 117 11 40 72 77 98 48 52 12 104 102 75 134 30 68 41 65 73 121 51 67 56 42 29 15 61 39 23 18 2 24 51 99 110 1 55 76 1 67 126 70 28 132 55 25 86 91 36 30 36 116 0 75 29 41 74 95 86 81 131 38 55 73 57 5 23 71 95 62 45 118 122 23 77 95 46 5 43 25 79 61 102 9 99 121 109 49 23 0 123 55 133 57 64 65 61 133 105 95 1 45 44 121 92 36 46 31 99 51 130 24 72 90 98 76 124 92 14 45 3 27 83 60 80 3 37 126 85 128 48 59 57 72 95 1 99 12 120 112 36 105 91 25 42 100 22 128 42 109 90 3
+
+--- DECRYPTED PLAINTEXT ---
+EXTEEREATHETHETIZERENGEHERERSTETHEREREREESTHETHEROFINERESIEREREANTHERERTAREANTESTTESTHEREJONTTEANTHETHEQUTHEERETHEMEREANSTERENTTHEWINTERTERTEDECKERSENENERENERESTEVENTHERETHEPEHETHERTTHEESTEERTESTEATSTETHESANTHETINTHEREATHEALYBENDTHESTTETEEEANTERESTHETHE
+
+--- SCORE ---
+-1154.4399
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 253 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> T
+2      -> I
+3      -> E
+5      -> H
+9      -> E
+11     -> Q
+12     -> E
+13     -> E
+14     -> T
+15     -> T
+18     -> W
+20     -> O
+22     -> T
+23     -> E
+24     -> N
+25     -> R
+26     -> E
+27     -> A
+28     -> C
+29     -> N
+30     -> E
+31     -> H
+34     -> I
+36     -> N
+37     -> N
+38     -> V
+39     -> H
+40     -> U
+41     -> E
+42     -> E
+43     -> E
+44     -> E
+45     -> H
+46     -> T
+47     -> X
+48     -> E
+49     -> E
+50     -> Z
+51     -> T
+52     -> R
+55     -> E
+56     -> R
+57     -> T
+58     -> R
+59     -> S
+60     -> Y
+61     -> T
+62     -> T
+64     -> E
+65     -> A
+66     -> A
+67     -> E
+68     -> R
+69     -> N
+70     -> E
+71     -> R
+72     -> T
+73     -> N
+74     -> R
+75     -> E
+76     -> R
+77     -> H
+78     -> E
+79     -> T
+80     -> B
+81     -> T
+83     -> L
+85     -> T
+86     -> S
+88     -> E
+89     -> E
+90     -> H
+91     -> E
+92     -> A
+93     -> A
+94     -> H
+95     -> E
+97     -> S
+98     -> E
+99     -> E
+100    -> S
+101    -> F
+102    -> H
+103    -> H
+104    -> T
+105    -> T
+108    -> H
+109    -> T
+110    -> R
+112    -> A
+113    -> J
+115    -> O
+116    -> E
+117    -> E
+118    -> E
+119    -> R
+120    -> E
+121    -> S
+122    -> P
+123    -> T
+124    -> E
+126    -> D
+127    -> G
+128    -> H
+130    -> I
+131    -> E
+132    -> K
+133    -> S
+134    -> M

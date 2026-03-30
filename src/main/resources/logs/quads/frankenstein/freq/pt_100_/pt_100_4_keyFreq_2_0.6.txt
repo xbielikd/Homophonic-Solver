@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [45, 41, 2, 16, 38]
+B(1) [46]
+C(2) [55, 5]
+D(3) [57, 21, 74]
+E(4) [44, 15, 49, 9, 27, 28, 67, 60]
+F(5) [65, 25]
+G(6) [50, 61]
+H(7) [54, 33, 24, 18]
+I(8) [40, 14, 47, 10, 35]
+J(9) [30]
+K(10) [59]
+L(11) [23, 22, 37]
+M(12) [39, 69]
+N(13) [34, 70, 53, 52, 62]
+O(14) [48, 7, 20, 64, 31]
+P(15) [43, 66]
+Q(16) [3]
+R(17) [17, 13, 63, 73]
+S(18) [11, 56, 26, 71]
+T(19) [0, 29, 51, 12, 32, 42]
+U(20) [68, 1]
+V(21) [6]
+W(22) [4, 58]
+X(23) [36]
+Y(24) [72, 19]
+Z(25) [8]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+55 16 70 2 62 72 39 41 34 46 9 0 31 39 27 2 26 5 23 27 73 6 16 23 4 2 71 20 13 2 52 19 4 48 39 2 34 41 53 48 42 33 27 13 67 22 35 8 16 46 49 29 18 44 6 15 52 58 18 60 73 67 29 18 67 45 65 65 9 5 32 40 48 70 71 45 17 49 53 7 12 71 12 63 20 52 50 22 19 69 64 6 15 21 46 72 41 52 72 71 1 66 44 17 10 20 63
+
+--- DECRYPTED PLAINTEXT ---
+JEREVERSANYOFREENATERRETHESARESTHEREASTEXPEREEQUENDTHERESTHERETHEALLYAMBERSANDTHESECASKETWEREINESSESIZENGAC
+
+--- SCORE ---
+-918.1840
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 107 chars correct (24.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> O
+1      -> I
+2      -> E
+4      -> H
+5      -> A
+6      -> R
+7      -> H
+8      -> U
+9      -> Y
+10     -> G
+12     -> E
+13     -> R
+15     -> E
+16     -> E
+17     -> N
+18     -> H
+19     -> T
+20     -> A
+21     -> I
+22     -> E
+23     -> T
+26     -> N
+27     -> E
+29     -> T
+31     -> F
+32     -> M
+33     -> P
+34     -> A
+35     -> Q
+39     -> R
+40     -> B
+41     -> S
+42     -> X
+44     -> E
+45     -> A
+46     -> N
+48     -> E
+49     -> D
+50     -> K
+52     -> S
+53     -> T
+55     -> J
+58     -> T
+60     -> E
+62     -> V
+63     -> C
+64     -> E
+65     -> L
+66     -> Z
+67     -> E
+69     -> W
+70     -> R
+71     -> S
+72     -> E
+73     -> R

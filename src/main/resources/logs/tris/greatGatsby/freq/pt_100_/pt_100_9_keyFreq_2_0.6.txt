@@ -1,0 +1,114 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [43, 30, 51, 47, 10]
+B(1) [21]
+C(2) [28, 67]
+D(3) [25, 61, 39]
+E(4) [22, 32, 44, 36, 46, 73, 24, 20]
+F(5) [6, 29]
+G(6) [14, 31]
+H(7) [40, 68, 9, 2]
+I(8) [50, 48, 64, 60, 63]
+J(9) [17]
+K(10) [49]
+L(11) [66, 54, 52]
+M(12) [19, 38]
+N(13) [5, 0, 53, 59, 58]
+O(14) [3, 15, 13, 27, 45]
+P(15) [74, 70]
+Q(16) [37]
+R(17) [71, 35, 55, 26]
+S(18) [72, 69, 42, 62]
+T(19) [4, 12, 33, 34, 8, 65]
+U(20) [1, 41]
+V(21) [11]
+W(22) [7, 23]
+X(23) [18]
+Y(24) [57, 16]
+Z(25) [56]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   54
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+14 45 30 5 39 21 1 16 12 46 5 19 27 35 73 61 15 31 72 23 50 34 2 48 4 23 22 25 35 15 11 24 27 11 36 71 4 13 6 50 6 4 2 51 11 22 58 1 44 23 47 26 19 47 59 39 62 27 29 33 43 54 38 3 69 12 70 47 69 33 3 35 30 52 13 58 4 9 36 69 41 38 19 36 26 72 1 0 39 10 57 51 6 8 46 71 59 15 3 0
+
+--- DECRYPTED PLAINTEXT ---
+JZATEREMENTHERQUESTHEWHETHEGRERBEREATEDEDTHERESETHETHERECESTOFTEREVERTERAKESTHERYTHETTELEXPEDINAREEL
+
+--- SCORE ---
+-672.2055
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 100 chars correct (19.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> L
+1      -> E
+2      -> H
+3      -> E
+4      -> T
+5      -> T
+6      -> D
+8      -> I
+9      -> H
+10     -> X
+11     -> R
+12     -> E
+13     -> E
+14     -> J
+15     -> E
+16     -> M
+19     -> H
+21     -> R
+22     -> E
+23     -> H
+24     -> B
+25     -> G
+26     -> T
+27     -> E
+29     -> S
+30     -> A
+31     -> S
+33     -> T
+34     -> W
+35     -> R
+36     -> E
+38     -> T
+39     -> E
+41     -> Y
+43     -> O
+44     -> T
+45     -> Z
+46     -> N
+47     -> E
+48     -> E
+50     -> E
+51     -> E
+52     -> K
+54     -> F
+57     -> P
+58     -> S
+59     -> R
+61     -> U
+62     -> C
+69     -> R
+70     -> V
+71     -> A
+72     -> T
+73     -> Q

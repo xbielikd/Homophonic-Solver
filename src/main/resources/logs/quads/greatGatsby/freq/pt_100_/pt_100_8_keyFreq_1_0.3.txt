@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 6, 36]
+B(1) [16]
+C(2) [9]
+D(3) [43, 31]
+E(4) [35, 22, 12, 15]
+F(5) [0]
+G(6) [38]
+H(7) [13, 42]
+I(8) [10, 33, 17]
+J(9) [4]
+K(10) [26]
+L(11) [1, 30]
+M(12) [5]
+N(13) [11, 32, 25]
+O(14) [24, 34, 23]
+P(15) [40]
+Q(16) [18]
+R(17) [29, 28]
+S(18) [8, 27]
+T(19) [3, 39, 7]
+U(20) [41]
+V(21) [14]
+W(22) [37]
+X(23) [20]
+Y(24) [2]
+Z(25) [19]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+8 42 35 37 21 27 21 8 1 15 25 31 35 28 27 5 21 30 1 16 28 22 21 27 39 35 43 38 33 29 30 37 17 39 42 21 32 15 28 12 9 39 9 6 28 29 33 36 38 12 37 42 17 9 13 27 13 15 21 9 9 35 32 39 41 36 3 22 43 16 2 7 13 28 24 37 33 11 38 42 22 28 16 23 31 2 16 21 9 26 37 21 29 31 6 3 7 42 22 27 13 23 41 30 43 15 28 8
+
+--- DECRYPTED PLAINTEXT ---
+SAMESASSEDJAMEAKSHESERSALMEEOTHEPLASIDEVELEGETOWEVEAPENANDSEEMILYWERESUBNEZEOFEARESCAUSSEXESTAGEBARANCYHEDES
+
+--- SCORE ---
+-1079.5400
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 3 / 108 chars correct (2.8%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> U
+3      -> E
+5      -> K
+6      -> G
+7      -> B
+8      -> S
+9      -> E
+11     -> F
+12     -> V
+13     -> N
+15     -> D
+16     -> S
+17     -> P
+21     -> S
+22     -> R
+23     -> C
+24     -> Z
+25     -> J
+26     -> X
+27     -> A
+28     -> E
+29     -> T
+30     -> H
+31     -> A
+32     -> I
+33     -> O
+35     -> M
+36     -> W
+37     -> E
+38     -> E
+39     -> L
+41     -> Y
+42     -> A
+43     -> E

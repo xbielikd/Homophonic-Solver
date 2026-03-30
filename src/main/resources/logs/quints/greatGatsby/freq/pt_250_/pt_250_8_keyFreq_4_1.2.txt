@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 257
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [41, 109, 46, 105, 73, 112, 37, 64, 62, 3]
+B(1) [16, 95]
+C(2) [106, 100, 27, 13]
+D(3) [44, 129, 91, 70, 67, 125]
+E(4) [65, 1, 68, 5, 116, 19, 86, 22, 103, 0, 121, 47, 6, 51, 56, 49]
+F(5) [4, 82, 114]
+G(6) [42, 78, 126]
+H(7) [38, 124, 23, 48, 39, 118, 30, 59]
+I(8) [28, 108, 7, 79, 110, 84, 69, 32, 35]
+J(9) [63]
+K(10) [25]
+L(11) [61, 111, 20, 36, 14]
+M(12) [115, 74, 133]
+N(13) [58, 77, 55, 24, 99, 122, 80, 83, 119]
+O(14) [76, 81, 40, 45, 53, 17, 92, 66, 2, 98]
+P(15) [107, 11, 10]
+Q(16) [132]
+R(17) [117, 131, 12, 90, 18, 97, 52, 88]
+S(18) [71, 93, 130, 29, 87, 120, 21, 123]
+T(19) [72, 134, 128, 127, 57, 89, 43, 54, 85, 101, 8]
+U(20) [31, 104, 96, 75]
+V(21) [33, 15]
+W(22) [60, 34, 9]
+X(23) [26]
+Y(24) [113, 102, 94]
+Z(25) [50]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      257
+
+--- ORIGINAL PLAINTEXT ---
+WHENICAMEBACKFROMTHEEASTLASTAUTUMNIFELTTHATIWANTEDTHEWORLDTOBEINUNIFORMANDATASORTOFMORALATTENTIONFOREVERIWANTEDNOMORERIOTOUSEXCURSIONSWITHPRIVILEGEDGLIMPSESINTOTHEHUMANHEARTONLYGATSBYTHEMANWHOGIVESHISNAMETOTHISBOOKWASEXEMPTFROMMYREACTIONGATSBYWHOREPRESENTED
+
+--- CIPHERTEXT ---
+9 39 65 83 35 100 62 74 121 16 105 106 25 4 131 45 133 134 48 22 51 41 71 89 36 46 87 43 37 104 8 96 133 80 110 114 22 36 85 43 23 73 8 32 9 105 77 54 68 129 8 38 1 9 2 131 111 67 8 2 16 103 79 24 31 122 108 82 45 97 115 64 24 67 109 101 37 87 40 90 54 76 82 74 17 12 73 111 112 134 128 116 119 134 69 40 80 82 98 88 47 15 68 90 35 9 62 77 127 121 125 55 40 74 76 18 65 18 110 2 127 45 104 87 116 26 27 96 90 93 79 98 119 71 60 69 134 38 107 131 35 33 35 14 22 42 47 70 78 61 79 74 10 130 51 71 35 122 8 76 85 124 56 38 104 133 109 24 59 68 73 12 134 98 58 36 102 126 112 43 71 16 94 89 23 103 74 64 58 34 118 53 42 28 33 19 93 48 28 29 77 73 133 121 128 81 57 48 110 130 16 40 2 25 9 112 21 68 26 5 74 11 134 4 90 53 115 115 113 131 68 64 100 8 32 2 58 42 37 57 130 16 102 60 39 81 90 0 10 90 68 130 22 99 43 121 44
+
+--- DECRYPTED PLAINTEXT ---
+TRETOTHESTHENOTESTREDUSETYEARSEASTERETHANNEDTHESEBEENTATIVEATTHEINTHEGENEVERRESTSTHEFINISTHESTASTHATTHETOTHERSJOSETHEHEARESEENTATEHASSEATEDTOCOMEATEDTHEANDSONETHELESSEEKENITATTHESASTHENTENTSTHATCHERTZENSSHEARENTSANTSPENDEDTOTHEEXTENTEDATARANTHERETHATENEWASQ
+
+--- SCORE ---
+-2679.9960
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 257 chars correct (10.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> N
+2      -> A
+4      -> O
+5      -> D
+8      -> E
+9      -> T
+10     -> A
+11     -> D
+12     -> I
+14     -> M
+15     -> H
+16     -> T
+17     -> F
+18     -> H
+19     -> H
+21     -> P
+22     -> E
+23     -> N
+24     -> E
+25     -> N
+26     -> N
+27     -> T
+28     -> T
+29     -> Z
+31     -> I
+32     -> D
+33     -> C
+34     -> S
+35     -> O
+36     -> T
+37     -> R
+38     -> E
+39     -> R
+40     -> S
+41     -> U
+42     -> A
+43     -> A
+44     -> Q
+45     -> E
+46     -> Y
+47     -> T
+48     -> R
+51     -> D
+53     -> H
+54     -> S
+55     -> O
+56     -> L
+57     -> A
+58     -> T
+59     -> K
+60     -> E
+61     -> T
+62     -> H
+64     -> N
+65     -> E
+67     -> V
+68     -> E
+69     -> A
+70     -> E
+71     -> S
+73     -> N
+74     -> E
+76     -> T
+77     -> E
+78     -> D
+79     -> H
+80     -> T
+81     -> E
+82     -> H
+83     -> T
+85     -> H
+87     -> E
+88     -> T
+89     -> E
+90     -> T
+93     -> E
+94     -> H
+96     -> A
+97     -> G
+98     -> A
+99     -> W
+100    -> T
+101    -> R
+102    -> H
+103    -> T
+104    -> S
+105    -> H
+106    -> E
+107    -> D
+108    -> T
+109    -> E
+110    -> E
+111    -> I
+112    -> S
+113    -> X
+114    -> R
+115    -> E
+116    -> E
+118    -> T
+119    -> S
+121    -> S
+122    -> N
+124    -> E
+125    -> J
+126    -> E
+127    -> R
+128    -> H
+129    -> B
+130    -> N
+131    -> T
+133    -> S
+134    -> T

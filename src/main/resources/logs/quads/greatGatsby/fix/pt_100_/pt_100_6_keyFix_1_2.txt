@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [9, 16]
+B(1) [29, 50]
+C(2) [3, 47]
+D(3) [33, 34]
+E(4) [51, 10]
+F(5) [42, 31]
+G(6) [12, 36]
+H(7) [23, 48]
+I(8) [27, 7]
+J(9) [5, 38]
+K(10) [30, 41]
+L(11) [25, 17]
+M(12) [24, 32]
+N(13) [14, 11]
+O(14) [8, 26]
+P(15) [15, 40]
+Q(16) [2, 6]
+R(17) [13, 37]
+S(18) [44, 43]
+T(19) [28, 35]
+U(20) [19, 49]
+V(21) [18, 21]
+W(22) [20, 0]
+X(23) [45, 39]
+Y(24) [4, 22]
+Z(25) [46, 1]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+28 23 10 19 14 34 10 13 12 37 16 33 49 9 28 51 14 26 33 34 51 34 7 11 16 47 4 11 7 3 9 17 32 51 17 9 11 47 48 8 17 4 20 9 22 35 48 10 29 16 13 0 23 51 13 10 20 10 12 25 9 11 3 10 33 31 7 37 43 35 0 9 44 3 37 8 20 33 51 33 50 19 35 12 16 28 43 50 4 20 16 44 11 26 28 28 23 51 13 51
+
+--- DECRYPTED PLAINTEXT ---
+LWEBYGESTHENVELAYINGAGEREFORETEMJAMERFEEMOREQUEEXESKWASERETZERTENCEHEUKEPTHERNANDBUTELEDOREPRILLWASA
+
+--- SCORE ---
+-1023.8967
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 100 chars correct (6.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> K
+3      -> T
+4      -> O
+7      -> E
+8      -> E
+9      -> E
+10     -> E
+11     -> R
+12     -> T
+13     -> S
+14     -> Y
+16     -> E
+17     -> M
+19     -> B
+20     -> R
+22     -> Q
+23     -> W
+25     -> Z
+26     -> I
+28     -> L
+29     -> X
+31     -> C
+32     -> J
+33     -> N
+34     -> G
+35     -> U
+37     -> H
+43     -> E
+44     -> P
+47     -> F
+48     -> E
+49     -> V
+50     -> D
+51     -> A

@@ -1,0 +1,177 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [106, 37, 19, 49, 29, 62, 51, 72, 40, 24]
+B(1) [12, 116]
+C(2) [84, 119, 76, 60]
+D(3) [108, 79, 107, 56, 112, 8]
+E(4) [123, 50, 89, 93, 31, 26, 87, 90, 105, 7, 39, 91, 73, 59, 15, 120]
+F(5) [28, 134, 33]
+G(6) [4, 80, 115]
+H(7) [113, 109, 13, 53, 9, 14, 27, 77]
+I(8) [25, 70, 94, 118, 45, 18, 95, 110, 96]
+J(9) [58]
+K(10) [74]
+L(11) [82, 57, 2, 88, 98]
+M(12) [43, 6, 69]
+N(13) [81, 92, 131, 38, 66, 65, 17, 48, 47]
+O(14) [121, 54, 63, 103, 83, 111, 41, 122, 22, 0]
+P(15) [42, 102, 133]
+Q(16) [132]
+R(17) [20, 3, 1, 16, 36, 78, 100, 128]
+S(18) [10, 117, 46, 35, 11, 5, 44, 30]
+T(19) [52, 114, 104, 21, 126, 129, 23, 125, 75, 71, 68]
+U(20) [34, 55, 32, 61]
+V(21) [97, 124]
+W(22) [64, 130, 127]
+X(23) [85]
+Y(24) [99, 101, 86]
+Z(25) [67]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   117
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+HEUSEDTOWONDERATTHESHALLOWPSYCHOLOGYOFTHOSEWHOCONCEIVETHEEGOINMANASATHINGSIMPLEPERMANENTRELIABLEANDOFONEESSENCETOHIMMANWASABEINGWITHMYRIADLIVESANDMYRIADSENSATIONSACOMPLEXMULTIFORMCREATURETHATBOREWITHINITSELFSTRANGELEGACIESOFTHOUGHTANDPASSIONANDWHOSEVERY
+
+--- CIPHERTEXT ---
+109 15 34 11 89 112 104 41 64 111 65 79 39 36 19 125 104 9 87 11 13 37 82 2 22 127 133 117 101 119 113 121 88 54 4 99 63 28 52 109 111 117 120 127 109 0 60 22 131 119 91 45 124 39 129 9 15 26 115 121 18 47 6 37 38 24 5 72 104 77 110 66 4 117 70 43 133 98 90 133 87 3 43 24 66 26 65 68 1 105 2 18 106 116 57 39 62 17 108 103 134 41 131 120 7 30 10 39 48 119 31 71 54 53 45 43 69 37 17 64 24 35 62 116 89 96 48 80 130 25 21 53 69 99 20 110 29 8 88 25 97 50 30 106 131 56 69 99 3 96 72 107 5 7 66 44 24 23 94 83 81 35 51 84 111 43 102 88 93 85 69 32 88 129 94 134 54 20 6 76 20 39 49 125 32 78 15 23 53 106 104 12 122 16 26 127 95 71 27 18 81 96 52 44 91 82 28 30 114 78 19 92 80 59 57 59 115 72 60 95 7 30 121 28 23 113 41 32 4 113 75 19 81 112 102 62 5 35 96 0 131 24 66 8 64 27 0 35 50 124 87 78 99
+
+--- DECRYPTED PLAINTEXT ---
+TEDTHESTTHEJECAUSHETHEHERATERSTERESEVERTHERATTARESTHRETHETHERATERATESTERSEBETHATEREARTELIZERETHEINGENTERERKERSTHETHEHENTAHITHERESOFTHEREPEROWEREETHEREEXTEREANINTHETHERRYTHERTINERTEREQUESENTESTHETATHERTERETHERESAMETHTHEATEREENTTESTHATERITHETEARETETHERESE
+
+--- SCORE ---
+-1645.7787
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 38 / 253 chars correct (15.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> I
+2      -> E
+3      -> R
+4      -> S
+5      -> T
+6      -> T
+7      -> E
+8      -> E
+9      -> H
+10     -> K
+11     -> T
+12     -> T
+13     -> H
+15     -> E
+16     -> E
+17     -> N
+18     -> R
+19     -> A
+20     -> R
+21     -> F
+22     -> R
+23     -> N
+24     -> A
+25     -> O
+26     -> T
+27     -> E
+28     -> E
+29     -> P
+30     -> R
+31     -> T
+32     -> E
+34     -> D
+35     -> H
+36     -> C
+37     -> E
+38     -> R
+39     -> E
+41     -> T
+43     -> E
+44     -> E
+45     -> H
+47     -> A
+48     -> R
+49     -> Q
+50     -> E
+51     -> E
+52     -> R
+53     -> T
+54     -> E
+56     -> T
+57     -> H
+59     -> T
+60     -> A
+62     -> I
+63     -> V
+64     -> T
+65     -> E
+66     -> R
+68     -> L
+69     -> H
+70     -> B
+71     -> H
+72     -> E
+75     -> H
+76     -> E
+77     -> T
+78     -> S
+79     -> J
+80     -> E
+81     -> T
+82     -> H
+83     -> N
+84     -> T
+85     -> T
+87     -> E
+88     -> R
+89     -> H
+90     -> A
+91     -> T
+92     -> M
+93     -> Y
+94     -> I
+95     -> T
+96     -> E
+97     -> W
+98     -> H
+99     -> E
+101    -> R
+102    -> R
+103    -> E
+104    -> S
+105    -> Z
+106    -> E
+107    -> X
+108    -> G
+109    -> T
+110    -> E
+111    -> H
+112    -> E
+113    -> T
+114    -> E
+115    -> H
+116    -> T
+117    -> E
+119    -> S
+120    -> R
+121    -> E
+122    -> H
+124    -> R
+125    -> U
+127    -> A
+129    -> T
+130    -> S
+131    -> E
+133    -> T
+134    -> N

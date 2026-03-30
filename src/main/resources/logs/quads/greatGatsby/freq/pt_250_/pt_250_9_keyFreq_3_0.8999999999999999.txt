@@ -1,0 +1,146 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [63, 57, 76, 12, 98, 77, 47, 87]
+B(1) [13, 3]
+C(2) [28, 85, 61]
+D(3) [88, 58, 93, 95]
+E(4) [102, 81, 45, 65, 70, 71, 29, 60, 16, 59, 35, 89]
+F(5) [5, 78, 69]
+G(6) [92, 1]
+H(7) [74, 27, 18, 44, 97, 90]
+I(8) [24, 82, 46, 94, 20, 22, 9]
+J(9) [64]
+K(10) [21]
+L(11) [15, 104, 50, 6]
+M(12) [99, 96, 100]
+N(13) [68, 75, 14, 7, 41, 33, 55]
+O(14) [8, 2, 84, 32, 91, 52, 25]
+P(15) [62, 83]
+Q(16) [54]
+R(17) [80, 26, 4, 86, 37, 48]
+S(18) [73, 39, 101, 67, 51, 40]
+T(19) [103, 11, 79, 10, 38, 17, 19, 23, 56]
+U(20) [31, 30, 49]
+V(21) [42]
+W(22) [36, 0, 43]
+X(23) [66]
+Y(24) [53, 72]
+Z(25) [34]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   86
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SOMETIMETOWARDMIDNIGHTTOMBUCHANANANDMRSWILSONSTOODFACETOFACEDISCUSSINGINIMPASSIONEDVOICESWHETHERMRSWILSONHADANYRIGHTTOMENTIONDAISYSNAMEDAISYDAISYDAISYSHOUTEDMRSWILSONILLSAYITWHENEVERIWANTTODAISYDAIMAKINGASHORTDEFTMOVEMENTTOMBUCHANANBROKEHERNOSEWITHHIS
+
+--- CIPHERTEXT ---
+40 91 96 81 103 82 99 16 103 52 0 98 48 88 100 22 95 75 9 92 90 103 56 52 99 3 30 28 18 47 14 57 14 87 41 88 99 80 39 0 94 15 101 52 68 39 38 52 52 88 69 57 28 71 56 52 78 57 28 102 88 94 101 61 31 73 101 22 75 1 20 14 24 99 83 63 51 67 94 91 68 89 95 42 32 46 61 102 39 0 18 65 11 44 71 26 96 26 40 43 22 15 67 52 7 90 98 88 98 33 72 37 20 92 97 10 38 8 99 81 55 56 94 8 33 58 63 22 40 53 67 41 57 100 59 95 98 94 73 53 58 12 46 39 53 58 76 22 101 72 73 74 91 30 11 71 58 100 26 101 0 46 104 51 52 7 24 104 104 101 47 53 24 19 0 27 59 41 65 42 65 26 94 0 98 14 38 19 91 95 57 9 67 53 88 63 9 100 98 21 9 55 1 47 67 90 32 86 23 58 65 5 10 99 91 42 71 100 16 14 23 11 91 99 13 49 28 18 98 14 87 14 13 86 8 21 35 90 71 37 55 91 40 102 36 94 79 27 44 46 67
+
+--- DECRYPTED PLAINTEXT ---
+ERENTWASTERRYSTREESSETHEALSEATEREVESAMERETEETESEESFRETHEPRETSEENTHEREDIETAKETHERTHEECENTERATERTHEHEARTHENERSRETHISJUSTANEHETESEREAHERTHEREHASBEEASARETHERSETSTHERESTENTSSETATERTHETETHERRESERERSHASESTRISEDTHECONSTQUARETTSENERANGEAREVENOTIZETHERETHEXTREH
+
+--- SCORE ---
+-2247.5138
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 251 chars correct (3.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> D
+3      -> L
+5      -> Q
+7      -> N
+8      -> T
+9      -> S
+10     -> U
+11     -> E
+12     -> B
+13     -> N
+14     -> E
+15     -> T
+16     -> S
+18     -> A
+19     -> E
+20     -> I
+21     -> I
+22     -> R
+23     -> N
+24     -> T
+26     -> H
+27     -> T
+28     -> E
+30     -> S
+31     -> T
+32     -> C
+33     -> E
+35     -> Z
+36     -> H
+37     -> H
+38     -> S
+39     -> E
+40     -> E
+41     -> E
+42     -> E
+43     -> A
+44     -> R
+46     -> E
+47     -> T
+48     -> Y
+49     -> G
+51     -> T
+52     -> E
+53     -> A
+55     -> E
+56     -> H
+57     -> R
+58     -> S
+59     -> H
+61     -> N
+63     -> E
+65     -> T
+67     -> H
+68     -> T
+69     -> F
+71     -> T
+72     -> T
+73     -> H
+74     -> E
+75     -> E
+76     -> A
+78     -> P
+79     -> X
+80     -> M
+81     -> N
+82     -> W
+83     -> K
+86     -> O
+87     -> V
+88     -> S
+89     -> H
+90     -> E
+91     -> R
+92     -> S
+94     -> E
+95     -> E
+96     -> E
+97     -> J
+98     -> R
+99     -> A
+100    -> T
+101    -> E
+102    -> T
+103    -> T
+104    -> S

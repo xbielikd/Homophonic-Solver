@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [0, 44, 61, 47, 67]
+B(1) [23]
+C(2) [51, 28]
+D(3) [38, 59, 37]
+E(4) [10, 66, 15, 62, 41, 42, 52, 26]
+F(5) [40, 60]
+G(6) [27, 8]
+H(7) [49, 64, 11, 54]
+I(8) [53, 19, 36, 74, 6]
+J(9) [32]
+K(10) [2]
+L(11) [48, 16, 70]
+M(12) [71, 50]
+N(13) [63, 57, 4, 13, 21]
+O(14) [5, 25, 43, 55, 7]
+P(15) [3, 31]
+Q(16) [72]
+R(17) [14, 12, 22, 73]
+S(18) [33, 58, 29, 35]
+T(19) [20, 24, 45, 46, 9, 34]
+U(20) [65, 69]
+V(21) [68]
+W(22) [56, 17]
+X(23) [39]
+Y(24) [30, 1]
+Z(25) [18]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+36 24 17 44 33 57 46 69 21 9 36 16 46 11 26 4 24 49 0 24 19 28 43 13 4 42 51 34 52 38 46 49 19 58 8 67 24 35 23 1 17 36 24 54 46 64 26 5 40 60 19 51 66 12 74 13 54 66 73 17 64 6 34 15 51 47 14 56 49 42 13 32 5 73 38 61 57 23 67 2 26 22 49 67 37 60 53 63 74 29 54 15 38 34 41 48 16 19 21 27
+
+--- DECRYPTED PLAINTEXT ---
+HEEQUREDITHEEVERENGETYBERTHETHENTOFTEMECEHEREREALETHETHERETERKETHEJONTEWATHERETHEANTHESTHERTHEXPETIZ
+
+--- SCORE ---
+-473.8398
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 100 chars correct (6.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> G
+1      -> C
+2      -> H
+4      -> R
+5      -> A
+6      -> K
+8      -> F
+9      -> T
+11     -> V
+12     -> T
+13     -> E
+14     -> J
+15     -> T
+16     -> E
+17     -> E
+19     -> T
+21     -> I
+22     -> A
+23     -> E
+24     -> E
+26     -> E
+27     -> Z
+28     -> Y
+29     -> E
+32     -> W
+33     -> U
+34     -> E
+35     -> M
+36     -> H
+37     -> H
+38     -> H
+40     -> L
+41     -> X
+42     -> T
+43     -> B
+44     -> Q
+46     -> E
+47     -> E
+48     -> P
+49     -> N
+51     -> H
+52     -> T
+53     -> S
+54     -> R
+56     -> O
+57     -> R
+58     -> O
+60     -> E
+61     -> E
+63     -> T
+64     -> R
+66     -> E
+67     -> T
+69     -> D
+73     -> T
+74     -> H

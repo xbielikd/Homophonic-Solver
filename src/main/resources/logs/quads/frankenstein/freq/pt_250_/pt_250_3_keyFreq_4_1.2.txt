@@ -1,0 +1,176 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 258
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 107, 108, 27, 69, 37, 34, 60, 95, 134]
+B(1) [4, 83]
+C(2) [133, 101, 19, 54]
+D(3) [11, 14, 102, 94, 12, 104]
+E(4) [55, 20, 78, 48, 22, 124, 122, 118, 7, 116, 56, 64, 75, 9, 35, 66]
+F(5) [33, 29, 113]
+G(6) [127, 47, 81]
+H(7) [51, 110, 85, 92, 128, 80, 67, 109]
+I(8) [53, 129, 13, 112, 93, 105, 91, 98, 50]
+J(9) [52]
+K(10) [42]
+L(11) [126, 121, 90, 0, 8]
+M(12) [61, 21, 3]
+N(13) [103, 41, 15, 84, 5, 106, 36, 68, 86]
+O(14) [43, 44, 30, 115, 79, 49, 132, 57, 100, 77]
+P(15) [32, 25, 111]
+Q(16) [76]
+R(17) [6, 38, 58, 88, 117, 1, 2, 65]
+S(18) [23, 89, 74, 120, 70, 28, 130, 87]
+T(19) [114, 17, 125, 45, 82, 99, 10, 24, 123, 62, 46]
+U(20) [96, 26, 72, 119]
+V(21) [31, 97]
+W(22) [131, 63, 39]
+X(23) [16]
+Y(24) [40, 71, 73]
+Z(25) [59]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   116
+TEXT LENGTH:      258
+
+--- ORIGINAL PLAINTEXT ---
+WHILEILISTENEDTOTHEINSTRUCTIONSWHICHFELIXBESTOWEDUPONTHEARABIANTHESTRANGESYSTEMOFHUMANSOCIETYWASEXPLAINEDTOMEIHEARDOFTHEDIVISIONOFPROPERTYOFIMMENSEWEALTHANDSQUALIDPOVERTYOFRANKDESCENTANDNOBLEBLOODTHEWORDSINDUCEDMETOTURNTOWARDSMYSELFILEARNEDTHATTHEPOSSESSIONS
+
+--- CIPHERTEXT ---
+131 85 13 8 56 53 0 112 87 45 22 15 55 14 99 57 82 92 55 98 103 70 62 58 96 101 82 50 43 36 28 39 110 53 133 80 29 64 8 129 16 83 118 28 125 57 39 66 94 96 25 44 103 17 51 35 95 117 108 83 105 69 36 82 109 75 130 46 117 134 5 47 48 70 71 87 99 116 3 57 29 80 72 21 108 106 74 100 19 105 64 114 73 39 134 28 7 16 25 90 27 13 15 9 14 45 43 21 124 105 85 35 108 117 102 77 29 45 67 118 12 105 97 129 89 93 100 15 100 113 32 2 44 111 7 6 46 73 44 29 91 21 61 116 5 28 22 63 122 95 0 24 85 34 68 102 89 76 96 107 121 93 11 111 77 97 116 2 114 71 77 113 88 134 41 42 14 66 130 19 9 15 82 34 36 102 86 30 83 126 9 4 121 43 43 12 114 85 56 39 132 6 104 120 98 41 14 96 54 78 94 61 20 62 30 24 96 65 5 125 44 39 37 58 11 74 61 40 130 20 126 113 13 90 35 95 88 41 124 94 10 80 108 125 46 67 56 111 77 120 74 56 120 89 112 132 41 74
+
+--- DECRYPTED PLAINTEXT ---
+ZATINESTTHERETHEEVERINTEAMEYOUTTHERESSIDERSTRETHEAREINGRATEREQUESTERTHEJANDTHTHESECTERNEWESEITHTHEREXTRETHOTHEARETRISHESPENDTHERENTHETHERIESSTATETEREASTATERTHATTHETINTHEDINTHESTHEWERETUREORIESTOOPEANTHEFORETABLEADTOTAKERETHEENATEDINTERATEHEREERRENTIONNOTTHEN
+
+--- SCORE ---
+-2181.4675
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 22 / 258 chars correct (8.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+2      -> H
+3      -> H
+4      -> S
+5      -> E
+6      -> E
+7      -> H
+8      -> I
+9      -> E
+10     -> R
+11     -> E
+12     -> P
+13     -> T
+14     -> T
+15     -> R
+16     -> E
+17     -> N
+19     -> W
+20     -> D
+21     -> T
+22     -> E
+24     -> T
+25     -> R
+27     -> X
+28     -> T
+29     -> S
+30     -> O
+32     -> T
+34     -> T
+35     -> R
+36     -> U
+37     -> H
+39     -> T
+40     -> T
+41     -> E
+42     -> S
+43     -> O
+44     -> E
+45     -> H
+46     -> R
+47     -> J
+48     -> A
+50     -> Y
+51     -> G
+53     -> E
+54     -> B
+55     -> E
+56     -> N
+57     -> E
+58     -> E
+61     -> A
+62     -> T
+63     -> R
+64     -> S
+65     -> K
+66     -> H
+67     -> E
+68     -> E
+69     -> Q
+70     -> N
+71     -> D
+72     -> C
+73     -> I
+74     -> N
+75     -> T
+76     -> H
+77     -> I
+78     -> L
+80     -> E
+82     -> E
+83     -> R
+85     -> A
+86     -> E
+87     -> T
+88     -> T
+89     -> T
+90     -> E
+91     -> S
+92     -> V
+93     -> H
+94     -> E
+95     -> A
+96     -> A
+97     -> N
+98     -> R
+99     -> H
+100    -> E
+101    -> M
+102    -> R
+103    -> I
+104    -> F
+105    -> E
+106    -> R
+107    -> T
+108    -> E
+109    -> S
+110    -> H
+111    -> T
+112    -> T
+113    -> N
+114    -> E
+116    -> T
+117    -> T
+118    -> S
+120    -> O
+121    -> T
+122    -> E
+124    -> H
+125    -> R
+126    -> I
+129    -> D
+130    -> E
+131    -> Z
+132    -> H
+133    -> R
+134    -> H

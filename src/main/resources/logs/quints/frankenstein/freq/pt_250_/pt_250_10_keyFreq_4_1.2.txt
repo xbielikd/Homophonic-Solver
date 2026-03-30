@@ -1,0 +1,175 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [118, 44, 124, 0, 75, 64, 72, 108, 122, 29]
+B(1) [52, 54]
+C(2) [103, 123, 34, 37]
+D(3) [109, 22, 59, 70, 102, 35]
+E(4) [39, 20, 119, 16, 26, 83, 12, 115, 53, 71, 92, 134, 10, 3, 101, 61]
+F(5) [14, 129, 105]
+G(6) [117, 130, 46]
+H(7) [80, 36, 74, 7, 100, 56, 21, 89]
+I(8) [58, 38, 25, 62, 82, 133, 94, 97, 128]
+J(9) [18]
+K(10) [110]
+L(11) [24, 31, 120, 51, 132]
+M(12) [60, 42, 13]
+N(13) [4, 68, 50, 23, 63, 95, 106, 121, 113]
+O(14) [86, 76, 8, 93, 49, 40, 85, 127, 114, 84]
+P(15) [125, 48, 69]
+Q(16) [67]
+R(17) [19, 15, 1, 28, 17, 112, 79, 43]
+S(18) [126, 81, 98, 107, 104, 27, 9, 2]
+T(19) [96, 91, 90, 33, 32, 11, 45, 57, 77, 47, 111]
+U(20) [116, 88, 5, 6]
+V(21) [55, 65]
+W(22) [78, 99, 41]
+X(23) [131]
+Y(24) [73, 66, 87]
+Z(25) [30]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   115
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HISLIMBSWEREINPROPORTIONANDIHADSELECTEDHISFEATURESASBEAUTIFULBEAUTIFULGREATGODHISYELLOWSKINSCARCELYCOVEREDTHEWORKOFMUSCLESANDARTERIESBENEATHHISHAIRWASOFALUSTROUSBLACKANDFLOWINGHISTEETHOFAPEARLYWHITENESSBUTTHESELUXURIANCESONLYFORMEDAMOREHORRIDCONTRAST
+
+--- CIPHERTEXT ---
+36 58 27 31 128 60 54 27 41 20 19 115 133 23 48 17 76 69 127 28 90 133 49 106 75 50 109 38 56 64 109 98 12 120 115 123 57 3 35 89 62 81 14 10 108 45 6 19 20 27 72 9 54 3 118 6 91 62 129 5 51 52 92 64 6 32 133 105 88 31 130 79 39 124 96 46 85 22 21 94 81 73 61 120 132 85 99 27 110 97 68 2 34 44 19 123 26 31 87 103 84 65 61 19 61 22 91 80 16 99 114 19 110 84 129 42 5 81 103 24 134 98 108 50 102 64 19 11 61 112 128 26 126 54 16 23 39 72 90 74 74 82 27 100 75 94 1 99 122 104 84 14 118 31 88 107 77 17 93 116 9 52 51 64 103 110 75 63 22 105 24 8 41 25 68 46 89 133 27 57 53 134 47 74 84 14 72 69 53 122 17 31 66 41 89 62 11 61 95 16 2 126 54 5 11 91 21 20 126 20 24 5 131 5 43 133 64 113 123 83 104 85 106 31 66 105 8 17 60 119 102 75 13 40 1 39 100 84 79 19 38 22 123 84 23 47 1 122 81 33
+
+--- DECRYPTED PLAINTEXT ---
+QSTEVERTHESESSTHEATHESAREPOINTOAUSETOTHERETOTHESETHERTHEIRTERAFTERSORELATTHEENDREJESSEDTHESAMESTEENTERESENIZEDASHETREETWHATPETSSERVERRESTHERRETHEREDTHETHERIGHTHEARTTHEKNOWTHESEESTOTHERETHATTHETHERSEYEARRESIDEREWEREASTATTHERETOTHEBEENCETHEASINTESEETEX
+
+--- SCORE ---
+-2576.7770
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 21 / 250 chars correct (8.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> A
+3      -> T
+5      -> E
+6      -> E
+8      -> T
+9      -> E
+10     -> O
+11     -> S
+12     -> U
+13     -> N
+14     -> T
+16     -> E
+17     -> H
+19     -> S
+20     -> E
+21     -> D
+22     -> N
+23     -> S
+24     -> W
+25     -> E
+26     -> E
+27     -> T
+28     -> H
+31     -> E
+32     -> R
+33     -> X
+34     -> M
+35     -> H
+36     -> Q
+38     -> I
+39     -> T
+40     -> C
+41     -> H
+42     -> R
+43     -> A
+44     -> E
+45     -> H
+46     -> E
+47     -> E
+48     -> T
+49     -> A
+50     -> P
+51     -> R
+52     -> A
+53     -> T
+54     -> R
+56     -> N
+57     -> O
+58     -> S
+60     -> E
+61     -> E
+62     -> R
+63     -> K
+64     -> T
+65     -> R
+66     -> T
+68     -> S
+69     -> A
+72     -> H
+73     -> J
+74     -> R
+75     -> E
+76     -> E
+77     -> G
+79     -> A
+80     -> Z
+81     -> E
+82     -> E
+83     -> T
+84     -> E
+85     -> E
+87     -> N
+88     -> R
+89     -> E
+90     -> E
+91     -> I
+92     -> F
+93     -> T
+94     -> R
+95     -> Y
+96     -> H
+97     -> E
+98     -> A
+99     -> D
+100    -> H
+102    -> E
+103    -> T
+104    -> H
+105    -> O
+106    -> R
+107    -> I
+108    -> T
+109    -> O
+110    -> H
+112    -> R
+113    -> A
+114    -> A
+115    -> E
+116    -> H
+118    -> H
+119    -> B
+120    -> S
+122    -> T
+123    -> T
+124    -> T
+126    -> R
+127    -> T
+128    -> V
+129    -> T
+130    -> L
+131    -> R
+132    -> S
+133    -> S
+134    -> H

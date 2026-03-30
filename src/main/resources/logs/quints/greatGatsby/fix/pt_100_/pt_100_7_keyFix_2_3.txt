@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [26, 61, 7]
+B(1) [52, 4, 13]
+C(2) [10, 37, 55]
+D(3) [33, 76, 47]
+E(4) [63, 27, 65]
+F(5) [30, 20, 21]
+G(6) [32, 34, 59]
+H(7) [9, 51, 12]
+I(8) [6, 44, 53]
+J(9) [19, 16, 11]
+K(10) [48, 50, 77]
+L(11) [25, 70, 22]
+M(12) [64, 72, 15]
+N(13) [62, 14, 45]
+O(14) [46, 28, 8]
+P(15) [24, 40, 66]
+Q(16) [68, 60, 17]
+R(17) [71, 43, 73]
+S(18) [54, 38, 69]
+T(19) [18, 0, 42]
+U(20) [1, 74, 3]
+V(21) [58, 23, 36]
+W(22) [75, 57, 35]
+X(23) [41, 31, 49]
+Y(24) [2, 67, 56]
+Z(25) [39, 5, 29]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+52 70 53 14 48 53 62 59 7 35 61 56 0 51 27 4 73 6 59 51 42 45 65 54 38 46 20 0 9 27 54 42 71 63 27 18 8 1 42 38 6 76 65 72 56 65 2 65 54 24 53 37 77 27 47 9 6 72 8 74 18 28 4 69 10 3 43 63 25 56 53 45 42 9 65 26 62 0 27 43 8 46 15 42 26 70 77 44 62 59 18 8 26 62 46 42 9 27 71 72 7 62
+
+--- DECRYPTED PLAINTEXT ---
+QTEXPERSOFTHEMENTISMAYEDLEVEREDASTERECALIZETHEREDBETHEWRITERRINGJUSTTHEYARETREESEEKATTHERSRETREARESTOR
+
+--- SCORE ---
+-1078.5571
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 102 chars correct (14.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> C
+2      -> R
+3      -> U
+4      -> N
+6      -> I
+7      -> O
+8      -> E
+9      -> R
+10     -> J
+14     -> X
+15     -> K
+18     -> R
+20     -> V
+24     -> B
+25     -> T
+26     -> T
+27     -> E
+28     -> I
+35     -> F
+37     -> T
+38     -> L
+42     -> A
+43     -> S
+44     -> E
+45     -> Y
+46     -> E
+47     -> W
+48     -> P
+51     -> M
+52     -> Q
+53     -> E
+54     -> D
+56     -> H
+59     -> S
+61     -> T
+62     -> R
+63     -> T
+65     -> E
+69     -> G
+70     -> T
+71     -> S
+72     -> T
+73     -> T
+74     -> R
+76     -> Z
+77     -> H

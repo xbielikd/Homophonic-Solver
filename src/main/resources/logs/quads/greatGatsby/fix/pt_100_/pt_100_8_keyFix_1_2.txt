@@ -1,0 +1,91 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 6]
+B(1) [40, 19]
+C(2) [5, 50]
+D(3) [10, 32]
+E(4) [9, 46]
+F(5) [35, 36]
+G(6) [8, 33]
+H(7) [3, 25]
+I(8) [51, 4]
+J(9) [13, 15]
+K(10) [39, 20]
+L(11) [31, 26]
+M(12) [28, 34]
+N(13) [7, 1]
+O(14) [45, 17]
+P(15) [21, 27]
+Q(16) [18, 44]
+R(17) [16, 22]
+S(18) [24, 43]
+T(19) [38, 47]
+U(20) [12, 29]
+V(21) [2, 23]
+W(22) [14, 49]
+X(23) [48, 11]
+Y(24) [41, 0]
+Z(25) [42, 37]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   31
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+43 25 46 14 30 43 30 43 31 46 1 32 9 22 43 34 6 31 26 40 16 46 6 43 47 9 10 8 51 16 26 49 51 38 25 6 1 9 16 9 50 47 5 30 22 16 51 6 33 9 49 3 51 5 3 24 25 9 30 50 50 9 1 38 29 30 47 9 10 40 0 38 25 16 45 14 4 1 33 25 46 22 40 45 10 0 40 30 50 39 14 6 16 10 30 47 47 25 9 43 25 45 29 31 10 46 22 24
+
+--- DECRYPTED PLAINTEXT ---
+SHEWASASLENZERSPALMBREASTEDJERMVETHANERECTFARREAGEVIEFIXHEACCENTUATEDBYTHROWQNGHERBODYBACKWARDATTHESHOULDERX
+
+--- SCORE ---
+-1135.9206
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 90 / 108 chars correct (83.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> N
+3      -> I
+4      -> Q
+5      -> F
+6      -> A
+8      -> J
+9      -> E
+10     -> D
+14     -> W
+16     -> R
+22     -> R
+24     -> X
+25     -> H
+26     -> M
+29     -> U
+30     -> A
+31     -> L
+32     -> Z
+33     -> G
+34     -> P
+38     -> T
+39     -> K
+40     -> B
+43     -> S
+45     -> O
+46     -> E
+47     -> T
+49     -> V
+50     -> C
+51     -> E

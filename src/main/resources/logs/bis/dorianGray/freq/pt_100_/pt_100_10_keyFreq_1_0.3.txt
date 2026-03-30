@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 5, 13]
+B(1) [11]
+C(2) [9]
+D(3) [28, 30]
+E(4) [15, 33, 43, 37]
+F(5) [19]
+G(6) [23]
+H(7) [42, 34]
+I(8) [31, 7, 32]
+J(9) [27]
+K(10) [17]
+L(11) [22, 39]
+M(12) [21]
+N(13) [14, 3, 0]
+O(14) [6, 16, 29]
+P(15) [18]
+Q(16) [38]
+R(17) [36, 35]
+S(18) [1, 25]
+T(19) [4, 12, 24]
+U(20) [40]
+V(21) [8]
+W(22) [20]
+X(23) [2]
+Y(24) [26]
+Z(25) [41]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+THINLIPPEDWISDOMSPOKEATHERFROMTHEWORNCHAIRHINTEDATPRUDENCEQUOTEDFROMTHATBOOKOFCOWARDICEWHOSEAUTHORAPES
+
+--- CIPHERTEXT ---
+4 42 31 0 22 32 18 18 15 30 20 7 25 28 29 21 1 18 16 17 43 10 4 42 37 35 19 36 29 21 12 34 33 20 6 36 3 9 34 13 32 36 34 32 3 24 43 30 10 4 18 36 40 28 43 3 9 15 38 40 29 12 33 28 19 36 29 21 24 42 5 4 11 16 16 17 6 19 9 16 20 13 35 30 32 9 43 20 34 6 1 33 13 40 24 34 16 35 5 18 37 25
+
+--- DECRYPTED PLAINTEXT ---
+LEXCKEEEYMSQURINDEEVEPLEFASTINGHESETSTHWETHESTEMPLETORESTYJOIGERSTINTEBLZEEVESTESWAMETESHEDEWOTHEABEFU
+
+--- SCORE ---
+-545.8262
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 102 chars correct (14.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> C
+1      -> D
+3      -> S
+4      -> L
+5      -> B
+6      -> E
+7      -> Q
+9      -> T
+10     -> P
+11     -> Z
+12     -> G
+13     -> W
+15     -> Y
+16     -> E
+17     -> V
+18     -> E
+19     -> S
+20     -> S
+21     -> N
+22     -> K
+24     -> T
+25     -> U
+28     -> R
+29     -> I
+30     -> M
+31     -> X
+32     -> E
+33     -> E
+34     -> H
+35     -> A
+36     -> T
+37     -> F
+38     -> J
+40     -> O
+42     -> E
+43     -> E

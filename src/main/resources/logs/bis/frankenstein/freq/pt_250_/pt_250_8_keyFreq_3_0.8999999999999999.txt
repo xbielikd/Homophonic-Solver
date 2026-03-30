@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [44, 58, 56, 45, 39, 4, 82, 41]
+B(1) [96, 42]
+C(2) [75, 73, 26]
+D(3) [34, 51, 81, 63]
+E(4) [102, 28, 7, 65, 35, 19, 23, 31, 61, 90, 88, 49]
+F(5) [67, 99, 77]
+G(6) [13, 11]
+H(7) [1, 78, 97, 71, 8, 74]
+I(8) [83, 43, 66, 6, 38, 16, 98]
+J(9) [18]
+K(10) [15]
+L(11) [84, 76, 53, 30]
+M(12) [103, 95, 12]
+N(13) [48, 68, 27, 80, 37, 5, 91]
+O(14) [36, 100, 33, 59, 3, 32, 101]
+P(15) [46, 14]
+Q(16) [64]
+R(17) [17, 104, 24, 50, 62, 85]
+S(18) [92, 40, 9, 94, 72, 2]
+T(19) [86, 89, 93, 79, 60, 57, 20, 22, 54]
+U(20) [29, 0, 55]
+V(21) [10]
+W(22) [21, 69, 52]
+X(23) [47]
+Y(24) [25, 70]
+Z(25) [87]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+THISCHANGEWASPARTICULARLYAGREEABLETOMETHESHUTTINGOFTHEGATESREGULARLYATTENOCLOCKANDTHEIMPOSSIBILITYOFREMAININGONTHELAKEAFTERTHATHOURHADRENDEREDOURRESIDENCEWITHINTHEWALLSOFGENEVAVERYIRKSOMETOMEIWASNOWFREEOFTENAFTERTHERESTOFTHEFAMILYHADRETIREDFORTHENIGHT
+
+--- CIPHERTEXT ---
+89 8 98 40 26 71 45 48 11 88 69 4 94 14 4 85 60 16 73 0 30 41 50 30 70 4 11 62 90 49 44 42 53 88 79 36 103 28 54 71 28 2 8 29 54 57 83 48 13 33 99 89 1 61 13 45 57 7 40 24 49 13 0 76 41 17 76 70 82 93 22 19 91 3 73 53 3 26 15 39 68 34 22 78 23 16 95 46 3 9 40 66 42 98 76 98 22 25 59 99 24 28 103 4 66 91 16 68 11 32 80 93 71 90 76 58 15 65 39 77 86 7 62 57 1 56 89 71 100 55 24 1 45 63 17 19 80 63 61 50 28 34 3 0 50 24 88 94 43 63 90 91 73 65 21 6 57 8 38 27 54 71 102 69 45 84 76 9 3 99 11 61 48 49 10 56 10 61 24 70 43 104 15 2 100 103 19 93 101 103 102 6 21 45 9 91 32 21 67 24 19 28 3 67 20 7 37 82 99 20 23 62 57 71 49 24 35 40 60 3 77 89 8 28 67 41 12 66 76 70 97 45 81 85 31 89 16 50 88 34 67 101 17 79 8 65 5 16 13 74 79
+
+--- DECRYPTED PLAINTEXT ---
+TERETHESTERENGEOREERETRERETEEELERERERETHERESTTYSTINTHETETHETETRETEERATESTEERETEEARECHEXPEREREREREWINTERERTEATHETHEEBERESTHETHETHEDTHERESERERERERRTENERETERERTEQUTHEREZERENTESERERETREVERERSTEREREERTHESTSEESTHEANTHETHETHERESTEESTERERKEJOFTERERSEERERMETER
+
+--- SCORE ---
+-1153.2190
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 58 / 251 chars correct (23.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> H
+2      -> R
+3      -> E
+4      -> E
+5      -> M
+6      -> R
+7      -> H
+8      -> E
+9      -> R
+10     -> R
+11     -> T
+12     -> E
+13     -> T
+14     -> G
+15     -> E
+16     -> E
+17     -> E
+19     -> S
+20     -> T
+21     -> E
+22     -> E
+23     -> H
+24     -> T
+25     -> W
+26     -> T
+27     -> U
+28     -> E
+29     -> S
+30     -> E
+31     -> F
+32     -> H
+33     -> I
+34     -> R
+35     -> H
+36     -> E
+37     -> E
+38     -> Q
+39     -> E
+40     -> E
+41     -> T
+42     -> E
+43     -> E
+44     -> L
+45     -> E
+46     -> P
+48     -> S
+49     -> E
+50     -> R
+53     -> R
+54     -> T
+55     -> D
+56     -> E
+57     -> T
+58     -> B
+59     -> I
+60     -> R
+61     -> E
+62     -> E
+63     -> R
+65     -> R
+66     -> R
+67     -> S
+68     -> A
+69     -> R
+70     -> R
+71     -> H
+73     -> E
+74     -> E
+76     -> E
+77     -> S
+78     -> C
+79     -> R
+80     -> E
+81     -> J
+82     -> A
+83     -> Y
+84     -> Z
+85     -> O
+86     -> T
+88     -> E
+89     -> T
+90     -> E
+91     -> T
+93     -> T
+94     -> N
+95     -> X
+97     -> K
+98     -> R
+99     -> N
+100    -> E
+101    -> E
+102    -> E
+103    -> R
+104    -> V

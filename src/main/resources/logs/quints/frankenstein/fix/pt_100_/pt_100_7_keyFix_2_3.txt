@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [43, 27, 65]
+B(1) [29, 66, 16]
+C(2) [8, 35, 6]
+D(3) [10, 41, 64]
+E(4) [33, 67, 77]
+F(5) [9, 76, 63]
+G(6) [42, 73, 44]
+H(7) [53, 55, 40]
+I(8) [58, 71, 49]
+J(9) [32, 23, 60]
+K(10) [36, 30, 21]
+L(11) [20, 19, 31]
+M(12) [15, 22, 39]
+N(13) [70, 14, 37]
+O(14) [61, 11, 5]
+P(15) [1, 52, 12]
+Q(16) [18, 68, 7]
+R(17) [57, 56, 69]
+S(18) [3, 74, 48]
+T(19) [50, 4, 13]
+U(20) [34, 17, 47]
+V(21) [54, 75, 26]
+W(22) [72, 51, 59]
+X(23) [0, 25, 62]
+Y(24) [24, 46, 2]
+Z(25) [28, 38, 45]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+MYFATHERTRIEDTOAWAKENINMETHEFEELINGSOFAFFECTIONHETALKEDOFGENEVAWHICHISHOULDSOONVISITOFELIZABETHANDERNEST
+
+--- CIPHERTEXT ---
+22 2 76 43 4 40 77 56 4 57 58 33 64 50 11 65 72 65 36 77 14 49 70 15 67 13 55 77 9 67 77 20 58 14 73 3 11 9 43 9 76 67 35 50 58 11 70 40 77 50 65 31 21 33 41 11 63 44 33 14 33 75 43 51 55 49 8 40 58 3 40 11 47 20 41 48 5 5 14 54 49 3 71 13 61 76 67 19 58 28 43 29 77 13 55 65 70 10 67 56 70 67 48 50
+
+--- DECRYPTED PLAINTEXT ---
+JWHATHERTHEEFREELEVERANCETHESEENERATESASHEGREENHEREQUESEXPEREZATHATHETHEINSDOORYATATTHEREMAKETHENBERNEDR
+
+--- SCORE ---
+-1129.8579
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 40 / 104 chars correct (38.5%)
+
+--- KEY (cipher -> plain) ---
+2      -> W
+3      -> T
+4      -> T
+5      -> O
+8      -> T
+9      -> S
+10     -> B
+11     -> E
+13     -> T
+14     -> R
+15     -> C
+19     -> R
+20     -> N
+21     -> U
+22     -> J
+28     -> M
+29     -> K
+31     -> Q
+33     -> E
+35     -> G
+36     -> V
+40     -> H
+41     -> S
+43     -> A
+44     -> P
+47     -> I
+48     -> D
+49     -> A
+50     -> R
+51     -> T
+54     -> Y
+55     -> H
+56     -> R
+57     -> H
+58     -> E
+61     -> T
+63     -> X
+64     -> F
+65     -> E
+67     -> E
+70     -> N
+71     -> A
+72     -> L
+73     -> A
+75     -> Z
+76     -> H
+77     -> E

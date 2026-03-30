@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 3]
+B(1) [7, 38]
+C(2) [12, 21]
+D(3) [44, 40]
+E(4) [31, 24]
+F(5) [9, 13]
+G(6) [10, 17]
+H(7) [28, 20]
+I(8) [19, 4]
+J(9) [50, 23]
+K(10) [16, 41]
+L(11) [14, 15]
+M(12) [5, 0]
+N(13) [35, 37]
+O(14) [11, 2]
+P(15) [6, 29]
+Q(16) [49, 51]
+R(17) [26, 32]
+S(18) [48, 27]
+T(19) [43, 1]
+U(20) [47, 25]
+V(21) [34, 45]
+W(22) [18, 36]
+X(23) [30, 39]
+Y(24) [8, 33]
+Z(25) [42, 46]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+7 14 19 37 41 4 35 10 3 36 3 8 43 20 24 38 26 4 17 28 1 35 24 27 27 11 13 1 28 24 48 43 26 24 31 1 11 47 1 48 4 44 24 5 33 31 8 31 48 29 19 12 16 24 44 20 19 5 2 47 1 11 7 48 21 47 32 31 14 33 4 35 43 20 24 22 37 43 24 32 2 11 5 1 3 14 41 19 35 10 1 11 22 37 2 1 28 24 32 0 3 35
+
+--- DECRYPTED PLAINTEXT ---
+PLINKINGAWAYTHEBRICHTNESSOFTHESTREATOUTSIDESMAYASVIJZEDHISTUTOPSQUEALMINTHEINTEETOSTALKINGTOINTTHEEXAN
+
+--- SCORE ---
+-1201.0996
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 77 / 102 chars correct (75.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> X
+1      -> T
+2      -> T
+3      -> A
+4      -> I
+5      -> S
+7      -> P
+8      -> Y
+10     -> G
+11     -> O
+12     -> J
+13     -> F
+14     -> L
+16     -> Z
+17     -> C
+19     -> I
+20     -> H
+21     -> Q
+22     -> I
+24     -> E
+26     -> R
+27     -> S
+28     -> H
+29     -> V
+31     -> A
+32     -> E
+33     -> M
+35     -> N
+36     -> W
+37     -> N
+38     -> B
+41     -> K
+43     -> T
+44     -> D
+47     -> U
+48     -> S

@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [58, 10, 55, 32, 54]
+B(1) [12]
+C(2) [39, 45]
+D(3) [36, 72, 48]
+E(4) [11, 51, 50, 22, 34, 64, 24, 46]
+F(5) [65, 37]
+G(6) [44, 59]
+H(7) [56, 3, 27, 26]
+I(8) [60, 6, 17, 43, 66]
+J(9) [25]
+K(10) [62]
+L(11) [20, 16, 71]
+M(12) [21, 29]
+N(13) [57, 7, 40, 18, 15]
+O(14) [28, 23, 68, 2, 47]
+P(15) [70, 61]
+Q(16) [4]
+R(17) [9, 73, 5, 35]
+S(18) [53, 69, 67, 42]
+T(19) [14, 74, 38, 33, 19, 1]
+U(20) [30, 0]
+V(21) [8]
+W(22) [52, 13]
+X(23) [31]
+Y(24) [41, 49]
+Z(25) [63]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+59 23 54 57 36 12 0 49 1 50 40 29 2 73 22 48 2 44 69 13 60 19 3 60 74 52 11 72 73 23 8 46 2 8 64 35 1 28 65 43 65 14 56 10 8 11 18 0 64 52 55 73 21 10 18 48 69 23 37 19 32 20 29 28 53 33 61 54 69 38 28 35 54 20 2 57 74 26 22 42 30 29 21 24 73 53 30 7 48 55 41 58 37 33 24 9 40 23 68 7
+
+--- DECRYPTED PLAINTEXT ---
+ZRTHEWASTHESTOASTHEJUSQUESTFOREXTERNTIALATTHETEARSTOTHESERESPOSINGATEDINTOTHECAMESTOONEYSTAKEGOVERBY
+
+--- SCORE ---
+-1052.0099
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 3 / 100 chars correct (3.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> T
+2      -> T
+3      -> Q
+7      -> Y
+8      -> E
+9      -> V
+10     -> H
+11     -> T
+12     -> W
+13     -> J
+14     -> T
+18     -> E
+19     -> S
+20     -> O
+21     -> T
+22     -> A
+23     -> R
+24     -> O
+26     -> C
+28     -> I
+29     -> S
+30     -> E
+32     -> P
+33     -> G
+35     -> N
+36     -> E
+37     -> E
+38     -> D
+40     -> E
+41     -> A
+42     -> M
+43     -> L
+44     -> H
+46     -> X
+48     -> S
+49     -> S
+50     -> H
+52     -> S
+53     -> N
+54     -> T
+55     -> T
+56     -> T
+57     -> H
+58     -> K
+59     -> Z
+60     -> U
+61     -> A
+64     -> R
+65     -> A
+68     -> B
+69     -> E
+72     -> F
+73     -> O
+74     -> E

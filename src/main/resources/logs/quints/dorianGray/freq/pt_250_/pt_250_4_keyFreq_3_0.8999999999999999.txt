@@ -1,0 +1,145 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [63, 94, 22, 53, 40, 7, 16, 78]
+B(1) [11, 59]
+C(2) [29, 93, 3]
+D(3) [89, 6, 61, 103]
+E(4) [67, 104, 62, 74, 65, 76, 100, 99, 77, 82, 30, 19]
+F(5) [92, 41, 25]
+G(6) [75, 60]
+H(7) [64, 69, 80, 87, 84, 50]
+I(8) [37, 8, 33, 58, 72, 68, 2]
+J(9) [101]
+K(10) [71]
+L(11) [5, 9, 43, 34]
+M(12) [96, 70, 85]
+N(13) [83, 10, 90, 55, 88, 18, 13]
+O(14) [4, 56, 35, 14, 44, 27, 49]
+P(15) [21, 57]
+Q(16) [32]
+R(17) [15, 39, 54, 51, 12, 66]
+S(18) [97, 23, 45, 79, 1, 42]
+T(19) [91, 24, 36, 98, 38, 48, 0, 46, 52]
+U(20) [86, 31, 17]
+V(21) [28]
+W(22) [26, 47, 81]
+X(23) [102]
+Y(24) [95, 20]
+Z(25) [73]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   85
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+YOUCAMEOHMYBEAUTIFULLOVEANDYOUFREEDMYSOULFROMPRISONYOUTAUGHTMEWHATREALITYREALLYISTONIGHTFORTHEFIRSTTIMEINMYLIFEISAWTHROUGHTHEHOLLOWNESSTHESHAMTHESILLINESSOFTHEEMPTYPAGEANTINWHICHIHADALWAYSPLAYEDTONIGHTFORTHEFIRSTTIMEIBECAMECONSCIOUSTHATTHEROMEOWASHIDEOUS
+
+--- CIPHERTEXT ---
+20 27 86 93 63 96 30 27 64 70 20 11 19 22 17 24 72 92 86 9 43 4 28 100 53 88 6 20 49 86 41 51 30 19 6 96 20 42 49 17 9 25 51 4 96 57 15 8 45 44 88 95 4 31 46 40 31 60 69 24 85 99 47 87 40 36 15 82 94 34 58 91 20 12 76 53 34 34 95 58 79 0 4 13 72 60 50 36 92 56 39 0 50 65 25 68 12 1 91 46 33 96 30 58 88 85 20 34 37 41 74 2 97 22 26 36 87 51 14 17 60 84 36 50 104 80 4 43 9 49 26 83 74 23 79 98 80 82 97 69 63 85 36 50 74 45 2 34 43 72 88 99 1 1 27 25 98 87 82 104 70 57 46 20 57 94 75 100 63 88 0 2 18 47 50 72 3 87 72 64 78 61 40 9 26 78 20 23 57 34 53 20 67 61 98 35 83 72 75 64 0 25 4 12 38 64 65 92 72 54 1 46 0 68 70 99 58 11 19 3 22 96 67 29 35 88 23 3 72 35 86 79 91 80 63 91 36 87 30 39 35 85 82 49 47 22 97 64 37 103 76 35 86 42
+
+--- DECRYPTED PLAINTEXT ---
+TRAVESTREATTHREEREATSTOBREETHATSTHESTTHETESTSTOGIZESTHATHERENCEATSOTHEENTIEREESEINTEREASEFUNATEDIONALSTEENTEXTSTERESASWEEKSAYSTSTHEASSISSTERENSASITESRECOORESATYATATTHEBEENTHEAREARENATTENTSTERTHASRAREENETIMETERJOANDACETHERSHERESERRAINSENSATURNTHEREEXPERAT
+
+--- SCORE ---
+-2848.9477
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 254 chars correct (2.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> O
+2      -> T
+3      -> E
+4      -> T
+6      -> E
+8      -> G
+9      -> T
+11     -> T
+12     -> I
+13     -> E
+14     -> W
+15     -> O
+17     -> E
+18     -> H
+19     -> H
+20     -> T
+22     -> R
+23     -> S
+24     -> E
+25     -> E
+26     -> E
+27     -> R
+28     -> O
+29     -> E
+30     -> T
+31     -> H
+33     -> L
+34     -> E
+35     -> R
+36     -> S
+37     -> X
+38     -> M
+39     -> U
+40     -> T
+41     -> T
+42     -> T
+43     -> S
+44     -> Z
+45     -> I
+46     -> A
+47     -> E
+49     -> H
+50     -> A
+51     -> S
+53     -> R
+54     -> J
+56     -> F
+57     -> T
+58     -> E
+60     -> E
+61     -> A
+63     -> E
+64     -> E
+65     -> T
+67     -> H
+68     -> D
+69     -> R
+70     -> A
+72     -> R
+74     -> S
+75     -> E
+76     -> E
+78     -> N
+79     -> I
+80     -> S
+82     -> T
+83     -> A
+84     -> K
+85     -> N
+86     -> A
+87     -> A
+88     -> E
+91     -> N
+92     -> E
+93     -> V
+94     -> H
+95     -> S
+96     -> S
+97     -> E
+98     -> S
+99     -> C
+100    -> B
+103    -> P
+104    -> Y

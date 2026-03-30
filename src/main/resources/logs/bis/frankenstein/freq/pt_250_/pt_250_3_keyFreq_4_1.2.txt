@@ -1,0 +1,174 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 258
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [52, 89, 96, 84, 100, 1, 114, 65, 105, 109]
+B(1) [27, 44]
+C(2) [51, 68, 93, 37]
+D(3) [99, 33, 32, 111, 42, 28]
+E(4) [6, 104, 108, 130, 107, 123, 73, 50, 118, 69, 129, 41, 26, 120, 122, 40]
+F(5) [113, 66, 124]
+G(6) [133, 72, 131]
+H(7) [116, 5, 134, 75, 20, 121, 12, 132]
+I(8) [10, 98, 56, 112, 115, 77, 110, 0, 127]
+J(9) [23]
+K(10) [83]
+L(11) [38, 82, 62, 59, 11]
+M(12) [81, 48, 76]
+N(13) [4, 21, 49, 43, 39, 119, 97, 16, 60]
+O(14) [90, 9, 70, 88, 67, 7, 71, 8, 25, 106]
+P(15) [30, 79, 61]
+Q(16) [58]
+R(17) [95, 91, 102, 117, 45, 35, 101, 22]
+S(18) [57, 64, 15, 53, 18, 103, 128, 36]
+T(19) [3, 55, 92, 63, 74, 17, 86, 85, 29, 94, 125]
+U(20) [87, 126, 14, 31]
+V(21) [24, 46]
+W(22) [34, 80, 13]
+X(23) [47]
+Y(24) [2, 19, 78]
+Z(25) [54]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   114
+TEXT LENGTH:      258
+
+--- ORIGINAL PLAINTEXT ---
+WHILEILISTENEDTOTHEINSTRUCTIONSWHICHFELIXBESTOWEDUPONTHEARABIANTHESTRANGESYSTEMOFHUMANSOCIETYWASEXPLAINEDTOMEIHEARDOFTHEDIVISIONOFPROPERTYOFIMMENSEWEALTHANDSQUALIDPOVERTYOFRANKDESCENTANDNOBLEBLOODTHEWORDSINDUCEDMETOTURNTOWARDSMYSELFILEARNEDTHATTHEPOSSESSIONS
+
+--- CIPHERTEXT ---
+13 12 0 38 73 10 82 10 36 94 41 21 6 32 29 88 63 12 69 115 4 103 94 101 126 68 63 112 88 60 36 80 134 127 93 20 113 40 82 112 47 27 108 18 63 90 34 107 33 87 30 25 16 55 20 107 52 45 109 27 77 96 4 63 5 120 103 86 22 100 39 133 73 103 2 36 86 120 76 88 124 12 87 76 114 4 57 25 37 56 40 29 19 34 109 15 6 47 30 38 84 56 97 129 111 29 25 48 73 115 75 69 65 101 32 88 66 29 20 130 32 112 24 77 36 10 9 39 9 66 30 35 67 30 6 102 17 19 8 66 77 76 48 130 21 128 73 34 122 1 62 85 134 100 60 99 53 58 31 105 11 127 28 79 70 46 73 102 29 78 70 66 45 1 4 83 32 108 103 68 130 119 74 1 39 42 21 7 27 38 130 27 11 9 25 33 29 12 130 80 67 45 42 128 56 60 99 14 93 120 42 81 129 29 70 3 31 101 97 17 67 34 89 35 28 103 76 2 18 130 11 113 127 59 123 1 101 4 129 32 29 134 89 92 74 12 50 61 88 103 15 118 57 103 77 106 60 128
+
+--- DECRYPTED PLAINTEXT ---
+ZEREREHETHERETHETETONTHALITEETTHEARESTHETHESTHESTTHEXPESTHTHEANTHETHEREARTETHEHERETHENSEMATHEETHETHEWATTTHEEROFTHATETHETTERETERERTHETHETHESTEHETREREREAVERTHEJUREANGEARTHEETHENDTETITTHEEERTHETHERETHETHTHEEATHEREESTHEQUATHTERENTHESTESACKEANTTHERTHEYBETHESTESTE
+
+--- SCORE ---
+-1171.1227
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 28 / 258 chars correct (10.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> E
+2      -> E
+3      -> Q
+4      -> N
+5      -> H
+6      -> E
+7      -> T
+8      -> S
+9      -> R
+10     -> E
+11     -> E
+12     -> E
+13     -> Z
+14     -> E
+15     -> H
+16     -> X
+17     -> H
+18     -> S
+19     -> E
+20     -> E
+21     -> R
+22     -> E
+24     -> R
+25     -> E
+27     -> H
+28     -> N
+29     -> H
+30     -> H
+31     -> U
+32     -> T
+33     -> T
+34     -> E
+35     -> E
+36     -> T
+37     -> M
+38     -> E
+39     -> E
+40     -> T
+41     -> E
+42     -> E
+45     -> H
+46     -> A
+47     -> T
+48     -> E
+50     -> Y
+52     -> T
+53     -> E
+55     -> P
+56     -> A
+57     -> S
+58     -> J
+59     -> C
+60     -> T
+61     -> B
+62     -> A
+63     -> T
+65     -> H
+66     -> T
+67     -> T
+68     -> I
+69     -> T
+70     -> E
+73     -> R
+74     -> H
+75     -> F
+76     -> H
+77     -> E
+78     -> E
+79     -> G
+80     -> H
+81     -> S
+82     -> H
+83     -> D
+84     -> W
+85     -> V
+86     -> H
+87     -> T
+88     -> E
+89     -> R
+90     -> H
+92     -> T
+93     -> R
+94     -> H
+96     -> A
+97     -> T
+99     -> H
+100    -> R
+101    -> A
+102    -> T
+103    -> T
+105    -> R
+106    -> S
+107    -> S
+108    -> E
+109    -> T
+111    -> T
+112    -> E
+113    -> S
+114    -> E
+115    -> O
+118    -> E
+119    -> T
+120    -> E
+122    -> R
+123    -> K
+124    -> R
+126    -> L
+127    -> A
+128    -> E
+129    -> T
+130    -> T
+133    -> A
+134    -> E

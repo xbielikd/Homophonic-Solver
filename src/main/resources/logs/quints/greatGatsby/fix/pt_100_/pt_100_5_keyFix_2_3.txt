@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [63, 21, 25]
+B(1) [61, 46, 30]
+C(2) [15, 45, 59]
+D(3) [13, 43, 71]
+E(4) [57, 73, 38]
+F(5) [1, 49, 66]
+G(6) [70, 27, 8]
+H(7) [4, 47, 55]
+I(8) [41, 18, 72]
+J(9) [3, 24, 77]
+K(10) [22, 54, 6]
+L(11) [52, 37, 5]
+M(12) [29, 65, 33]
+N(13) [36, 17, 19]
+O(14) [64, 31, 56]
+P(15) [0, 11, 39]
+Q(16) [68, 28, 26]
+R(17) [20, 23, 58]
+S(18) [67, 42, 60]
+T(19) [7, 76, 12]
+U(20) [50, 34, 62]
+V(21) [40, 48, 51]
+W(22) [10, 44, 9]
+X(23) [69, 16, 2]
+Y(24) [32, 74, 53]
+Z(25) [35, 75, 14]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+18 4 63 43 46 38 73 19 25 15 76 34 25 5 5 53 18 19 40 72 7 38 71 25 45 55 25 34 49 66 38 62 20 41 19 21 34 36 72 49 56 23 29 64 66 58 56 30 72 19 42 38 70 8 46 52 50 38 59 58 31 42 42 73 43 65 53 52 21 44 19 73 63 20 37 74 7 55 25 76 42 21 76 62 20 43 21 74 65 56 58 17 72 17 70 44 72 76 4 21
+
+--- DECRYPTED PLAINTEXT ---
+HPCENTREALSTAFFTHERESTJAYWATERTHEMENTBEENQUERANKEEATIONEXTGAZAAREATENDERCENTSWASANSHEENTANAVEVIDESPN
+
+--- SCORE ---
+-1145.6674
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 100 chars correct (5.0%)
+
+--- KEY (cipher -> plain) ---
+4      -> P
+5      -> F
+7      -> S
+8      -> O
+15     -> L
+17     -> V
+18     -> H
+19     -> E
+20     -> E
+21     -> N
+23     -> Q
+25     -> A
+29     -> U
+30     -> K
+31     -> Z
+34     -> T
+36     -> B
+37     -> N
+38     -> T
+40     -> R
+41     -> M
+42     -> A
+43     -> E
+44     -> D
+45     -> Y
+46     -> N
+49     -> E
+50     -> X
+52     -> E
+53     -> T
+55     -> W
+56     -> N
+58     -> A
+59     -> G
+62     -> H
+63     -> C
+64     -> E
+65     -> A
+66     -> R
+70     -> I
+71     -> J
+72     -> E
+73     -> R
+74     -> T
+76     -> S

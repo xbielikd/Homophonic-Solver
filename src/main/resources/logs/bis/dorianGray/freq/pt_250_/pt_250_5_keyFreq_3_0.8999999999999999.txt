@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [83, 19, 49, 11, 87, 13, 14, 54]
+B(1) [55, 22]
+C(2) [43, 9, 2]
+D(3) [29, 39, 66, 41]
+E(4) [57, 4, 24, 42, 69, 89, 60, 90, 98, 40, 73, 92]
+F(5) [84, 15, 23]
+G(6) [101, 32]
+H(7) [100, 20, 77, 37, 59, 44]
+I(8) [63, 67, 79, 30, 82, 70, 36]
+J(9) [64]
+K(10) [76]
+L(11) [85, 81, 96, 33]
+M(12) [35, 46, 5]
+N(13) [45, 6, 8, 52, 78, 72, 18]
+O(14) [38, 1, 56, 53, 71, 104, 58]
+P(15) [21, 97]
+Q(16) [93]
+R(17) [17, 51, 91, 48, 94, 10]
+S(18) [86, 95, 3, 65, 47, 61]
+T(19) [0, 80, 28, 75, 34, 16, 68, 31, 103]
+U(20) [12, 27, 88]
+V(21) [62]
+W(22) [25, 7, 102]
+X(23) [26]
+Y(24) [99, 50]
+Z(25) [74]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HELITACIGARETTEANDTHENTHREWITAWAYHISEYELIDSDROOPEDTILLTHELONGFRINGEDLASHESALMOSTTOUCHEDHISCHEEKBUTHESTILLWATCHEDTHECABINETATLASTHEGOTUPFROMTHESOFAONWHICHHEHADBEENLYINGWENTOVERTOITANDHAVINGUNLOCKEDITTOUCHEDSOMEHIDDENSPRINGATRIANGULARDRAWERPASSEDSLOWLY
+
+--- CIPHERTEXT ---
+77 40 96 36 68 83 2 82 32 14 91 92 103 80 57 54 78 66 16 20 57 18 103 100 91 57 102 82 103 49 25 13 99 59 70 61 90 50 40 81 70 39 86 29 17 56 58 21 42 66 31 36 85 81 34 44 92 81 104 45 101 84 17 79 8 101 89 29 81 49 95 77 98 86 83 81 35 1 95 16 68 104 12 2 37 89 39 20 79 86 43 20 92 4 76 55 88 80 100 92 61 16 67 33 33 102 49 103 43 77 90 41 103 44 60 43 54 55 79 72 60 16 19 68 96 14 47 0 59 92 32 1 31 12 21 23 51 71 5 34 44 57 65 38 23 19 58 45 25 59 63 43 37 59 57 59 49 29 22 57 40 52 96 50 79 72 32 7 24 52 34 104 62 98 94 75 38 82 75 14 78 39 77 14 62 36 6 101 27 52 96 38 9 76 4 66 79 103 28 56 27 2 20 4 41 3 38 35 89 44 67 39 41 98 18 61 21 94 63 72 32 83 103 17 36 19 45 32 12 96 49 51 66 10 19 102 24 48 21 13 65 95 92 39 61 96 1 102 33 99
+
+--- DECRYPTED PLAINTEXT ---
+RETEREESTERSTHEARREREDTERETSTHEANTHETHETHEREHEREOREEFTHESTESECHEBEHETHERERETTHEERERESHERERERSEENGHESEEREETHTERTRTEREANEAREERTEQUTSTHEREREXPHEERERERSETHESTETHEVEESTHEATWISHERETHESHEREREREMERSTELEERETJERERERKETHEREREDEETHATETHEESTRTHERYETIZEARESEETHTEN
+
+--- SCORE ---
+-1163.2407
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 250 chars correct (11.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> U
+1      -> H
+2      -> E
+3      -> K
+4      -> E
+5      -> P
+6      -> M
+7      -> W
+8      -> B
+9      -> L
+10     -> Y
+12     -> R
+13     -> A
+14     -> E
+16     -> E
+17     -> H
+18     -> D
+19     -> E
+20     -> R
+21     -> E
+22     -> V
+23     -> R
+24     -> I
+25     -> E
+27     -> R
+28     -> J
+29     -> E
+31     -> E
+32     -> T
+33     -> E
+34     -> H
+35     -> T
+36     -> E
+37     -> S
+38     -> E
+39     -> E
+40     -> E
+41     -> R
+42     -> O
+43     -> E
+44     -> E
+45     -> S
+47     -> Q
+48     -> Z
+49     -> H
+50     -> H
+51     -> E
+52     -> S
+54     -> A
+55     -> N
+56     -> E
+57     -> E
+58     -> R
+59     -> T
+60     -> R
+61     -> E
+62     -> R
+63     -> H
+65     -> R
+66     -> R
+67     -> R
+68     -> R
+70     -> H
+71     -> X
+72     -> A
+75     -> H
+76     -> E
+77     -> R
+78     -> R
+79     -> E
+80     -> H
+81     -> T
+82     -> S
+83     -> E
+84     -> C
+85     -> F
+86     -> R
+88     -> G
+89     -> H
+90     -> T
+91     -> R
+92     -> S
+94     -> T
+95     -> E
+96     -> T
+98     -> E
+99     -> N
+100    -> E
+101    -> E
+102    -> T
+103    -> T
+104    -> E

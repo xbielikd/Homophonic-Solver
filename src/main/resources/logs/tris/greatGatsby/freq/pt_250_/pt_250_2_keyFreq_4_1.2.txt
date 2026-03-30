@@ -1,0 +1,171 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [104, 60, 94, 90, 49, 108, 6, 46, 134, 115]
+B(1) [116, 23]
+C(2) [75, 127, 8, 76]
+D(3) [42, 82, 37, 70, 2, 130]
+E(4) [124, 67, 83, 86, 36, 107, 62, 72, 93, 91, 88, 126, 84, 118, 105, 27]
+F(5) [22, 100, 47]
+G(6) [111, 15, 98]
+H(7) [10, 65, 48, 54, 123, 112, 12, 66]
+I(8) [106, 31, 18, 99, 21, 13, 77, 45, 56]
+J(9) [28]
+K(10) [78]
+L(11) [119, 57, 114, 24, 117]
+M(12) [109, 96, 34]
+N(13) [39, 129, 103, 133, 74, 19, 81, 113, 68]
+O(14) [95, 59, 64, 125, 97, 26, 132, 51, 41, 30]
+P(15) [85, 73, 61]
+Q(16) [128]
+R(17) [40, 43, 69, 25, 58, 122, 121, 3]
+S(18) [53, 52, 102, 32, 80, 14, 4, 131]
+T(19) [17, 35, 29, 1, 89, 16, 110, 9, 7, 50, 20]
+U(20) [120, 92, 79, 11]
+V(21) [33, 38]
+W(22) [63, 71, 0]
+X(23) [55]
+Y(24) [87, 5, 44]
+Z(25) [101]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   111
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+ICANTTELLYETIVEONLYBEENHEREANHOURDIDITELLYOUABOUTTHEBOOKSTHEYREREALTHEYREYOUTOLDUSWESHOOKHANDSWITHHIMGRAVELYANDWENTBACKOUTDOORSTHEREWASDANCINGNOWONTHECANVASINTHEGARDENOLDMENPUSHINGYOUNGGIRLSBACKWARDINETERNALGRACELESSCIRCLESSUPERIORCOUPLESHOLDINGEACHOTHER
+
+--- CIPHERTEXT ---
+99 76 46 81 50 9 118 117 114 87 118 50 31 33 91 125 103 114 87 23 118 126 68 48 105 25 86 108 68 54 132 92 40 2 56 130 106 20 124 117 114 44 95 92 115 116 64 79 35 16 54 118 23 132 51 78 14 20 12 118 87 43 105 40 91 46 114 29 12 36 87 58 36 44 97 79 89 97 24 2 11 14 63 107 32 54 95 125 78 48 60 68 82 53 63 13 20 123 10 45 96 111 121 115 38 83 114 87 46 133 130 63 105 19 9 116 94 8 78 97 120 7 82 97 59 25 102 17 112 72 122 126 0 134 131 37 108 129 127 56 81 111 103 26 63 26 39 20 66 118 76 6 129 38 134 32 18 113 50 10 118 15 46 3 130 93 39 95 24 42 34 93 81 85 79 52 12 45 81 98 5 64 92 74 98 15 45 58 119 4 23 94 8 78 0 46 3 37 99 81 91 89 62 25 133 60 119 111 58 90 76 36 117 107 14 52 8 18 58 75 114 88 4 52 92 61 84 43 31 26 43 76 97 92 61 24 93 52 65 51 114 37 56 39 111 62 60 127 65 132 89 112 62 25
+
+--- DECRYPTED PLAINTEXT ---
+THTHTHERESETHEARRESSEATTHERSTHATENTEREFREVETHEINGTHESARESEHESTHEATETHESSEVENTEANDSTOTHERETETHETHETHEMETHERESTHETHTHETHEENTHEYEXPEQUARAZESTSTHERETEHEBEHATEATENTHERTHETHEAKETHENTHEHEWITHERESLASTHERTHETHATREHELESTHEROSTHESJECATTHETHETHETHATTEREETHERESEATERE
+
+--- SCORE ---
+-1638.4512
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 38 / 254 chars correct (15.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> N
+3      -> H
+4      -> A
+5      -> W
+6      -> A
+7      -> T
+8      -> H
+9      -> H
+10     -> H
+11     -> D
+12     -> H
+13     -> H
+14     -> S
+15     -> R
+16     -> T
+17     -> P
+18     -> E
+19     -> T
+20     -> E
+23     -> S
+24     -> A
+25     -> E
+26     -> E
+29     -> T
+31     -> H
+32     -> T
+33     -> E
+34     -> E
+35     -> G
+36     -> E
+37     -> E
+38     -> E
+39     -> H
+40     -> E
+42     -> K
+43     -> T
+44     -> V
+45     -> E
+46     -> T
+48     -> T
+50     -> T
+51     -> R
+52     -> T
+53     -> E
+54     -> H
+56     -> T
+58     -> S
+59     -> Y
+60     -> E
+61     -> H
+62     -> R
+63     -> T
+64     -> I
+65     -> E
+66     -> B
+68     -> T
+72     -> Q
+74     -> H
+75     -> J
+76     -> H
+78     -> E
+79     -> N
+81     -> H
+82     -> H
+83     -> R
+84     -> E
+85     -> E
+86     -> R
+87     -> S
+88     -> C
+89     -> T
+90     -> T
+91     -> A
+92     -> T
+93     -> T
+94     -> T
+95     -> E
+96     -> M
+97     -> E
+98     -> E
+99     -> T
+102    -> X
+103    -> R
+105    -> H
+106    -> R
+107    -> O
+108    -> S
+111    -> E
+112    -> E
+113    -> N
+114    -> E
+115    -> H
+116    -> E
+117    -> R
+118    -> E
+119    -> L
+120    -> N
+121    -> T
+122    -> U
+123    -> T
+124    -> F
+125    -> R
+126    -> A
+127    -> S
+129    -> T
+130    -> E
+131    -> Z
+132    -> A
+133    -> H
+134    -> A

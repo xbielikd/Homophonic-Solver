@@ -1,0 +1,149 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 17, 57, 2, 94, 87, 20, 41]
+B(1) [29, 26]
+C(2) [86, 89, 98]
+D(3) [36, 10, 83, 55]
+E(4) [103, 81, 58, 1, 64, 73, 16, 46, 65, 44, 3, 85]
+F(5) [25, 104, 50]
+G(6) [66, 38]
+H(7) [40, 9, 78, 21, 6, 84]
+I(8) [24, 22, 47, 72, 71, 80, 100]
+J(9) [43]
+K(10) [56]
+L(11) [8, 35, 102, 45]
+M(12) [13, 52, 61]
+N(13) [28, 91, 11, 63, 60, 53, 19]
+O(14) [32, 93, 54, 79, 33, 0, 42]
+P(15) [101, 88]
+Q(16) [96]
+R(17) [74, 12, 82, 67, 27, 18]
+S(18) [68, 77, 51, 15, 70, 69]
+T(19) [39, 62, 48, 14, 90, 37, 92, 95, 76]
+U(20) [59, 97, 49]
+V(21) [31]
+W(22) [34, 75, 99]
+X(23) [4]
+Y(24) [23, 7]
+Z(25) [5]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   89
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HISLIMBSWEREINPROPORTIONANDIHADSELECTEDHISFEATURESASBEAUTIFULBEAUTIFULGREATGODHISYELLOWSKINSCARCELYCOVEREDTHEWORKOFMUSCLESANDARTERIESBENEATHHISHAIRWASOFALUSTROUSBLACKANDFLOWINGHISTEETHOFAPEARLYWHITENESSBUTTHESELUXURIANCESONLYFORMEDAMOREHORRIDCONTRAST
+
+--- CIPHERTEXT ---
+40 22 69 35 22 13 26 51 75 85 18 103 100 19 88 12 42 101 54 18 39 80 54 60 17 60 36 80 40 41 83 77 103 102 46 86 90 73 36 78 80 51 50 1 2 48 49 12 64 15 17 51 26 103 2 97 62 71 50 59 102 29 65 87 97 62 47 25 59 35 66 74 73 41 37 66 42 55 21 24 68 7 64 35 102 93 34 70 56 100 19 51 89 87 82 89 44 102 7 86 93 31 3 12 3 83 48 40 85 75 33 82 56 79 104 52 49 69 98 35 46 15 94 11 10 17 27 62 1 74 100 3 69 29 16 91 58 94 37 21 84 80 15 21 41 47 12 99 41 15 42 104 17 45 49 77 90 27 42 59 51 26 102 20 86 56 87 91 10 50 8 54 75 47 19 66 84 24 51 39 65 85 90 9 54 104 94 101 65 17 82 8 7 75 9 100 62 16 63 64 77 15 29 59 95 48 9 65 51 1 8 49 4 97 18 100 2 11 86 58 69 54 60 8 7 25 54 27 13 103 10 57 61 79 12 3 21 42 18 82 80 55 86 79 19 37 67 57 15 62
+
+--- DECRYPTED PLAINTEXT ---
+HPEOPESSEENTEAKEAMENTEEDEDREHESATTHETERBESETATHEONESSTATELENTIENTERENOTHEENTANTECHOOTEQUEEASONTOFTHEEASESSTHEEXTERSTHEJOHNOTHERETHESEINTRONTHENTEREVENASEWHATRANSSTHEENTHETEERATHESTEETHESOMEETTHEHEENTOANINGTHESTTHATNEATEREEDTHEERETHEYRESTANTENERANZENE
+
+--- SCORE ---
+-2231.7139
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 38 / 250 chars correct (15.2%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+2      -> A
+3      -> S
+4      -> A
+7      -> H
+8      -> T
+9      -> H
+10     -> H
+11     -> T
+12     -> E
+13     -> E
+15     -> N
+16     -> N
+17     -> E
+18     -> N
+19     -> A
+20     -> H
+21     -> T
+22     -> P
+24     -> E
+25     -> E
+26     -> S
+27     -> R
+29     -> I
+31     -> A
+33     -> X
+34     -> Q
+35     -> O
+36     -> R
+37     -> N
+39     -> T
+40     -> H
+41     -> E
+42     -> A
+44     -> F
+45     -> W
+46     -> H
+47     -> R
+48     -> T
+49     -> H
+50     -> E
+51     -> S
+52     -> T
+54     -> E
+55     -> N
+56     -> E
+57     -> E
+58     -> R
+59     -> N
+60     -> D
+61     -> Y
+62     -> E
+63     -> T
+64     -> O
+65     -> E
+66     -> T
+67     -> Z
+68     -> C
+69     -> E
+70     -> U
+71     -> L
+73     -> E
+74     -> H
+75     -> E
+77     -> A
+78     -> B
+79     -> R
+80     -> E
+82     -> T
+83     -> S
+84     -> H
+85     -> E
+86     -> E
+87     -> N
+88     -> K
+89     -> O
+90     -> T
+91     -> T
+93     -> E
+94     -> O
+95     -> G
+97     -> T
+98     -> J
+99     -> V
+100    -> E
+101    -> M
+102    -> T
+103    -> T
+104    -> S

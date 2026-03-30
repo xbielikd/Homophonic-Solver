@@ -1,0 +1,110 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [24, 36, 45]
+B(1) [10, 72, 68]
+C(2) [15, 26, 54]
+D(3) [48, 5, 59]
+E(4) [63, 66, 65]
+F(5) [44, 51, 39]
+G(6) [47, 69, 64]
+H(7) [6, 57, 31]
+I(8) [7, 2, 76]
+J(9) [22, 46, 20]
+K(10) [12, 37, 13]
+L(11) [73, 61, 58]
+M(12) [29, 38, 40]
+N(13) [35, 8, 33]
+O(14) [42, 62, 25]
+P(15) [23, 74, 14]
+Q(16) [67, 28, 18]
+R(17) [1, 52, 3]
+S(18) [49, 9, 60]
+T(19) [30, 71, 11]
+U(20) [32, 17, 53]
+V(21) [27, 77, 34]
+W(22) [70, 21, 41]
+X(23) [43, 16, 75]
+Y(24) [56, 0, 19]
+Z(25) [4, 55, 50]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   50
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+36 73 45 60 34 2 26 11 42 1 76 35 25 70 49 24 19 30 57 45 33 12 64 62 59 49 57 65 5 7 59 33 62 71 61 2 27 65 71 42 41 7 30 35 66 49 49 71 31 63 54 52 17 66 73 38 76 9 63 52 45 72 58 63 59 63 45 71 6 25 51 31 66 52 56 62 32 8 64 63 49 30 59 45 1 61 7 35 47 54 42 40 66 77 7 54 11 25 3 33 42 11
+
+--- DECRYPTED PLAINTEXT ---
+ZTEXPECTITERESSOFTHESTHERSHAVERSETHELATIMETRESSTHEARKETHEBEREQUEREETHEWHERGEDTHESTRETHERJAINEYEATERSIT
+
+--- SCORE ---
+-688.5300
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 34 / 102 chars correct (33.3%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+2      -> E
+3      -> R
+5      -> V
+6      -> H
+7      -> E
+8      -> T
+9      -> B
+11     -> T
+12     -> T
+17     -> K
+19     -> F
+24     -> O
+25     -> E
+26     -> C
+27     -> L
+30     -> T
+31     -> H
+32     -> D
+33     -> S
+34     -> P
+35     -> R
+36     -> Z
+38     -> H
+40     -> N
+41     -> M
+42     -> I
+45     -> E
+47     -> J
+49     -> S
+51     -> W
+52     -> R
+54     -> A
+56     -> G
+57     -> H
+58     -> U
+59     -> R
+60     -> X
+61     -> H
+62     -> E
+63     -> E
+64     -> H
+65     -> A
+66     -> E
+70     -> S
+71     -> T
+72     -> Q
+73     -> T
+76     -> E
+77     -> Y

@@ -1,0 +1,93 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 43]
+B(1) [8, 17]
+C(2) [19, 39]
+D(3) [13, 18]
+E(4) [46, 7]
+F(5) [35, 12]
+G(6) [26, 14]
+H(7) [47, 21]
+I(8) [3, 4]
+J(9) [22, 36]
+K(10) [15, 9]
+L(11) [6, 38]
+M(12) [11, 44]
+N(13) [25, 16]
+O(14) [30, 34]
+P(15) [50, 31]
+Q(16) [33, 5]
+R(17) [42, 29]
+S(18) [27, 23]
+T(19) [0, 24]
+U(20) [1, 32]
+V(21) [51, 10]
+W(22) [20, 28]
+X(23) [48, 40]
+Y(24) [49, 45]
+Z(25) [41, 37]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   33
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+3 0 28 2 23 16 24 1 25 24 3 6 0 47 46 16 0 21 2 0 3 39 30 16 25 7 19 0 46 18 0 21 3 23 26 43 24 27 8 49 20 4 24 47 24 21 46 34 12 12 3 19 7 29 4 25 47 7 29 20 47 4 0 7 19 43 29 28 21 46 16 22 30 29 13 2 16 8 2 15 46 29 47 43 18 12 3 25 4 23 47 7 13 24 7 38 38 3 16 14
+
+--- DECRYPTED PLAINTEXT ---
+ETCANSTOTTEXTHESTHATEJUSTARTEDTHENGETZKYWITHTHEMPPERATITHATWHITARETCHESBUTFASKAVETHEDPETINHAFTALLESQ
+
+--- SCORE ---
+-971.9736
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 44 / 100 chars correct (44.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> O
+2      -> A
+3      -> E
+4      -> I
+6      -> X
+7      -> A
+8      -> K
+12     -> P
+13     -> F
+14     -> Q
+15     -> V
+16     -> S
+18     -> D
+19     -> R
+20     -> W
+21     -> H
+22     -> B
+23     -> N
+24     -> T
+25     -> T
+26     -> G
+27     -> Z
+28     -> C
+29     -> T
+30     -> U
+34     -> M
+38     -> L
+39     -> J
+43     -> E
+46     -> E
+47     -> H
+49     -> Y

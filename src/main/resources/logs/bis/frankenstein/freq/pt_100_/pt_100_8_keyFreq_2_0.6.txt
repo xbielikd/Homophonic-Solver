@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 0, 51, 3, 25]
+B(1) [16]
+C(2) [17, 29]
+D(3) [52, 1, 69]
+E(4) [54, 44, 57, 64, 38, 45, 9, 14]
+F(5) [8, 11]
+G(6) [10, 34]
+H(7) [74, 35, 53, 37]
+I(8) [23, 24, 56, 65, 30]
+J(9) [12]
+K(10) [27]
+L(11) [43, 21, 26]
+M(12) [6, 7]
+N(13) [42, 28, 47, 61, 31]
+O(14) [50, 15, 39, 22, 55]
+P(15) [58, 60]
+Q(16) [33]
+R(17) [41, 48, 4, 2]
+S(18) [70, 49, 32, 5]
+T(19) [19, 62, 66, 40, 71, 20]
+U(20) [67, 59]
+V(21) [46]
+W(22) [63, 72]
+X(23) [36]
+Y(24) [13, 68]
+Z(25) [73]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+37 23 49 69 18 59 34 74 40 44 48 18 62 19 14 31 69 45 52 37 56 7 63 30 62 74 40 74 45 34 41 54 51 40 54 5 40 40 54 61 52 44 2 42 54 32 49 16 67 62 49 74 54 49 0 63 72 30 20 53 52 44 5 60 18 56 4 71 53 18 66 62 53 38 65 2 43 30 40 62 26 45 11 67 47 69 63 18 32 4 18 60 65 1 43 13 52 54 17 2 57 51 5 56 28 10
+
+--- DECRYPTED PLAINTEXT ---
+OFTHANTHTHEATESTHETONGEATHTHETHERTEATTEXTHEMENTJUTTHETHEWAKETHATANDBEALTECHERATTHEQUTHEANDATHERYTEVEPRANIZ
+
+--- SCORE ---
+-512.2455
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 34 / 106 chars correct (32.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> E
+2      -> E
+4      -> D
+5      -> A
+7      -> G
+10     -> Z
+11     -> Q
+13     -> Y
+14     -> S
+16     -> J
+17     -> V
+18     -> A
+19     -> E
+20     -> K
+23     -> F
+26     -> H
+28     -> I
+30     -> A
+31     -> T
+32     -> N
+34     -> T
+37     -> O
+38     -> C
+40     -> T
+41     -> H
+42     -> M
+43     -> R
+44     -> H
+45     -> E
+47     -> T
+48     -> E
+49     -> T
+51     -> R
+52     -> T
+53     -> E
+54     -> E
+56     -> N
+57     -> P
+59     -> N
+60     -> T
+61     -> X
+62     -> T
+63     -> E
+65     -> H
+66     -> L
+67     -> U
+69     -> H
+71     -> B
+72     -> W
+74     -> H

@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4, 1, 53, 22, 82, 93, 8, 104]
+B(1) [63, 69]
+C(2) [36, 11, 6]
+D(3) [89, 77, 3, 35]
+E(4) [56, 42, 37, 75, 73, 102, 97, 79, 94, 12, 0, 92]
+F(5) [31, 52, 41]
+G(6) [28, 29]
+H(7) [62, 64, 17, 40, 72, 86]
+I(8) [100, 91, 83, 19, 66, 18, 96]
+J(9) [60]
+K(10) [16]
+L(11) [68, 10, 85, 45]
+M(12) [43, 38, 5]
+N(13) [39, 70, 49, 80, 14, 2, 98]
+O(14) [58, 55, 33, 103, 71, 61, 57]
+P(15) [74, 59]
+Q(16) [90]
+R(17) [25, 84, 24, 88, 78, 9]
+S(18) [67, 13, 87, 76, 51, 23]
+T(19) [50, 7, 20, 95, 46, 30, 48, 65, 15]
+U(20) [34, 81, 101]
+V(21) [44]
+W(22) [54, 99, 27]
+X(23) [47]
+Y(24) [26, 21]
+Z(25) [32]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HELITACIGARETTEANDTHENTHREWITAWAYHISEYELIDSDROOPEDTILLTHELONGFRINGEDLASHESALMOSTTOUCHEDHISCHEEKBUTHESTILLWATCHEDTHECABINETATLASTHEGOTUPFROMTHESOFAONWHICHHEHADBEENLYINGWENTOVERTOITANDHAVINGUNLOCKEDITTOUCHEDSOMEHIDDENSPRINGATRIANGULARDRAWERPASSEDSLOWLY
+
+--- CIPHERTEXT ---
+86 37 45 100 95 22 6 83 29 1 88 79 15 65 79 82 39 77 46 86 73 49 50 40 24 92 27 83 20 1 27 82 26 40 19 67 92 21 94 45 96 89 23 77 84 57 103 59 37 35 65 18 68 85 15 64 94 85 61 2 28 41 25 18 14 29 92 35 45 82 23 62 12 87 8 45 5 103 87 20 30 58 81 11 62 37 89 86 18 23 36 64 42 42 16 63 101 46 72 0 76 48 96 85 85 54 8 48 36 40 97 35 95 64 56 36 82 63 18 49 12 95 22 50 45 104 51 48 86 94 28 58 48 81 74 31 25 55 38 46 40 102 76 55 31 8 33 2 54 17 19 6 64 72 0 40 104 77 63 102 12 80 68 26 96 39 28 27 75 39 46 61 44 73 9 7 71 66 30 82 49 77 72 1 44 100 14 29 34 39 85 61 11 16 37 89 96 65 15 33 34 36 72 42 35 76 55 43 92 86 66 89 89 12 2 51 59 78 66 80 29 104 48 24 100 4 2 28 34 68 8 9 77 84 93 27 12 78 74 53 67 76 12 89 76 10 61 54 10 21
+
+--- DECRYPTED PLAINTEXT ---
+SNSHAVIDSAYSESSTHEISTHESTANDIANTISSTARTSSTHESQUENTSTHEENTESTOBETESATSTHEELESJULINSTCENTSTHANDDESPINEHESEEHEEASSTANZATSTHEAVESTHESTOSETOMEEXISTHEMENTHESINNESTESTENHISHONGHISSTRIKINTHENASHESTHESCENTSSENTANDTHEWASITTETHESINSTETHETOTHERESINESOFTHETHESHER
+
+--- SCORE ---
+-2753.7733
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 250 chars correct (8.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> A
+2      -> T
+4      -> E
+5      -> J
+6      -> I
+7      -> I
+8      -> E
+9      -> R
+10     -> E
+11     -> C
+12     -> E
+14     -> E
+15     -> E
+16     -> E
+17     -> E
+18     -> T
+19     -> S
+20     -> I
+21     -> R
+22     -> V
+23     -> H
+24     -> T
+25     -> E
+26     -> I
+27     -> N
+28     -> O
+29     -> S
+30     -> N
+31     -> M
+33     -> N
+34     -> T
+35     -> T
+36     -> A
+37     -> N
+38     -> X
+39     -> H
+40     -> S
+41     -> B
+42     -> D
+43     -> W
+44     -> S
+45     -> S
+46     -> I
+48     -> E
+49     -> H
+50     -> E
+51     -> H
+53     -> F
+54     -> H
+55     -> E
+56     -> Z
+57     -> Q
+58     -> S
+59     -> E
+61     -> S
+62     -> E
+63     -> S
+64     -> N
+65     -> S
+66     -> I
+67     -> T
+68     -> H
+71     -> K
+72     -> N
+73     -> T
+74     -> O
+75     -> G
+76     -> H
+77     -> E
+78     -> S
+79     -> S
+80     -> N
+81     -> T
+82     -> T
+83     -> D
+84     -> S
+85     -> E
+86     -> S
+87     -> L
+88     -> Y
+89     -> T
+92     -> A
+93     -> I
+94     -> T
+95     -> A
+96     -> S
+97     -> S
+100    -> H
+101    -> P
+102    -> T
+103    -> U
+104    -> T

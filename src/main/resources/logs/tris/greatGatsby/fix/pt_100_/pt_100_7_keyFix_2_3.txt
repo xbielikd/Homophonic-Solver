@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [52, 49, 41]
+B(1) [68, 33, 51]
+C(2) [10, 62, 5]
+D(3) [20, 16, 19]
+E(4) [64, 24, 57]
+F(5) [12, 17, 48]
+G(6) [54, 21, 50]
+H(7) [9, 44, 13]
+I(8) [74, 23, 38]
+J(9) [18, 73, 39]
+K(10) [28, 4, 72]
+L(11) [67, 77, 47]
+M(12) [65, 26, 53]
+N(13) [30, 61, 71]
+O(14) [29, 59, 55]
+P(15) [58, 32, 34]
+Q(16) [70, 56, 0]
+R(17) [8, 60, 7]
+S(18) [69, 25, 46]
+T(19) [14, 42, 22]
+U(20) [15, 63, 3]
+V(21) [1, 6, 45]
+W(22) [43, 66, 40]
+X(23) [36, 76, 11]
+Y(24) [27, 31, 2]
+Z(25) [37, 35, 75]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+68 47 23 30 28 74 30 50 49 43 41 2 42 44 57 33 60 23 50 9 14 61 57 25 25 59 17 42 9 64 69 22 60 64 64 42 29 63 42 46 74 20 24 65 31 24 27 64 69 32 38 5 28 64 16 13 74 53 59 63 14 59 68 46 10 3 8 57 67 2 74 61 22 13 64 49 71 42 24 60 55 29 65 42 49 77 28 23 30 54 42 55 52 61 29 22 44 57 8 53 49 61
+
+--- DECRYPTED PLAINTEXT ---
+NZINEANTOYOUTHECTITHERELLEDTHENTTEETERTEAKESWEVENJOBEETHATEREENEXPREQUARTHEOFTETHESTOMEINGTHERETHERTOR
+
+--- SCORE ---
+-696.8768
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 38 / 102 chars correct (37.3%)
+
+--- KEY (cipher -> plain) ---
+2      -> U
+3      -> P
+5      -> B
+8      -> R
+9      -> H
+10     -> X
+13     -> H
+14     -> E
+16     -> T
+17     -> D
+20     -> K
+22     -> T
+23     -> I
+24     -> E
+25     -> L
+27     -> V
+28     -> E
+29     -> E
+30     -> N
+31     -> W
+32     -> J
+33     -> C
+38     -> O
+41     -> O
+42     -> T
+43     -> Y
+44     -> H
+46     -> E
+47     -> Z
+49     -> O
+50     -> T
+52     -> E
+53     -> T
+54     -> G
+55     -> H
+57     -> E
+59     -> E
+60     -> T
+61     -> R
+63     -> R
+64     -> E
+65     -> S
+67     -> Q
+68     -> N
+69     -> N
+71     -> F
+74     -> A
+77     -> M

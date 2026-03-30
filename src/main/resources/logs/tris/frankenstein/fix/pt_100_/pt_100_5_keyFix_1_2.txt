@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [47, 9]
+B(1) [10, 4]
+C(2) [41, 22]
+D(3) [46, 3]
+E(4) [42, 27]
+F(5) [13, 28]
+G(6) [51, 37]
+H(7) [25, 11]
+I(8) [18, 17]
+J(9) [2, 8]
+K(10) [5, 38]
+L(11) [21, 15]
+M(12) [6, 39]
+N(13) [32, 48]
+O(14) [16, 40]
+P(15) [43, 49]
+Q(16) [1, 30]
+R(17) [33, 0]
+S(18) [44, 26]
+T(19) [36, 35]
+U(20) [12, 20]
+V(21) [24, 45]
+W(22) [7, 31]
+X(23) [23, 29]
+Y(24) [14, 50]
+Z(25) [34, 19]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+39 50 49 47 0 27 32 36 26 7 42 33 27 49 40 44 44 27 44 44 27 3 4 14 35 25 27 45 27 33 14 44 43 17 0 18 35 16 28 5 18 48 3 32 42 26 44 9 48 3 17 48 46 12 15 37 27 32 22 42 7 42 28 42 21 35 35 11 47 35 35 25 27 14 7 27 0 42 32 16 35 36 25 42 36 14 0 9 48 36 26 35 40 33 12 21 42 40 12 33
+
+--- DECRYPTED PLAINTEXT ---
+ZJOUTERANDEREOFTTETTERMSEREVERSTWITHECLYHERRENTHERIEGEXPERKEDELEBEEQUEERESDETERCEAREASTHEANEFREBEFER
+
+--- SCORE ---
+-732.9266
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 100 chars correct (24.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+3      -> R
+4      -> M
+5      -> Y
+7      -> D
+9      -> H
+11     -> Q
+12     -> E
+14     -> S
+15     -> X
+16     -> C
+17     -> I
+18     -> H
+21     -> B
+22     -> K
+25     -> R
+26     -> N
+27     -> E
+28     -> L
+32     -> R
+33     -> R
+35     -> E
+36     -> A
+37     -> P
+39     -> Z
+40     -> F
+42     -> E
+43     -> W
+44     -> T
+45     -> V
+46     -> G
+47     -> U
+48     -> E
+49     -> O
+50     -> J

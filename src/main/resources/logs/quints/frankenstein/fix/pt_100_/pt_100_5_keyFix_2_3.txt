@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [62, 75, 42]
+B(1) [27, 76, 45]
+C(2) [35, 29, 17]
+D(3) [58, 53, 11]
+E(4) [50, 51, 16]
+F(5) [15, 19, 8]
+G(6) [18, 1, 61]
+H(7) [60, 48, 32]
+I(8) [74, 70, 64]
+J(9) [46, 54, 73]
+K(10) [43, 23, 63]
+L(11) [55, 26, 44]
+M(12) [77, 66, 39]
+N(13) [71, 68, 2]
+O(14) [0, 59, 20]
+P(15) [37, 38, 56]
+Q(16) [6, 41, 49]
+R(17) [40, 65, 24]
+S(18) [33, 30, 21]
+T(19) [47, 13, 28]
+U(20) [34, 5, 10]
+V(21) [31, 9, 52]
+W(22) [12, 72, 69]
+X(23) [57, 7, 36]
+Y(24) [14, 3, 22]
+Z(25) [25, 67, 4]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+66 3 37 75 65 50 68 28 21 72 51 24 16 56 20 21 30 50 33 21 50 11 45 22 47 32 50 9 50 40 22 30 37 64 24 64 13 20 15 43 64 68 58 2 50 30 33 42 2 58 70 68 11 10 55 1 51 71 29 50 72 16 19 50 55 13 28 48 42 47 13 60 51 3 69 50 65 50 68 59 47 47 60 50 13 14 65 62 2 47 21 13 59 40 10 26 51 20 34 40
+
+--- DECRYPTED PLAINTEXT ---
+JSTERENESSELAKESSESSEDBYTHEVERYSTALATEXPANDNESSANDANDINGEQUESAMENTECATTHESWERENOTTHETERANTSTORIZEEFR
+
+--- SCORE ---
+-1076.8524
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 65 / 100 chars correct (65.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> G
+2      -> N
+3      -> S
+9      -> V
+10     -> I
+11     -> D
+13     -> T
+14     -> E
+15     -> X
+16     -> A
+19     -> M
+20     -> E
+21     -> S
+22     -> Y
+24     -> L
+26     -> Z
+28     -> E
+29     -> U
+30     -> S
+32     -> H
+33     -> S
+34     -> F
+37     -> T
+40     -> R
+42     -> A
+43     -> P
+45     -> B
+47     -> T
+48     -> C
+50     -> E
+51     -> E
+55     -> N
+56     -> K
+58     -> D
+59     -> O
+60     -> H
+62     -> A
+64     -> A
+65     -> R
+66     -> J
+68     -> N
+69     -> W
+70     -> A
+71     -> Q
+72     -> S
+75     -> E

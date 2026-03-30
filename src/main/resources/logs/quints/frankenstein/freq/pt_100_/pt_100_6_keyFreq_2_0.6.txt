@@ -1,0 +1,109 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [58, 67, 6, 41, 45]
+B(1) [70]
+C(2) [30, 21]
+D(3) [66, 38, 14]
+E(4) [73, 26, 55, 23, 43, 47, 50, 39]
+F(5) [52, 36]
+G(6) [15, 65]
+H(7) [22, 53, 29, 31]
+I(8) [57, 40, 27, 2, 16]
+J(9) [17]
+K(10) [46]
+L(11) [28, 1, 49]
+M(12) [37, 42]
+N(13) [5, 63, 44, 68, 48]
+O(14) [20, 56, 33, 74, 25]
+P(15) [11, 35]
+Q(16) [69]
+R(17) [10, 18, 51, 7]
+S(18) [24, 34, 62, 0]
+T(19) [59, 3, 13, 60, 12, 64]
+U(20) [71, 61]
+V(21) [8]
+W(22) [19, 54]
+X(23) [72]
+Y(24) [32, 9]
+Z(25) [4]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   49
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+FORALONGTIMEICOULDNOTCONCEIVEHOWONEMANCOULDGOFORTHTOMURDERHISFELLOWOREVENWHYTHEREWERELAWSANDGOVERNMENTS
+
+--- CIPHERTEXT ---
+36 74 10 6 49 20 48 65 64 2 42 50 27 21 74 71 1 14 48 74 59 30 74 5 21 26 57 8 23 29 56 19 20 5 23 37 45 48 21 33 71 28 38 15 20 36 25 10 3 22 13 20 42 71 7 14 50 10 31 57 0 36 47 1 1 20 19 20 18 50 8 47 5 19 22 9 13 29 39 51 23 54 47 51 50 1 41 19 34 41 48 66 15 25 8 26 18 5 42 23 48 64 0
+
+--- DECRYPTED PLAINTEXT ---
+WNNEXTREETHEFINESERNMENTITOREALETTERPRIZEDBUTWINGATTHESEENJOYWASSTETHERATEATTACKETAKESEEVERQUIRTHTHEREY
+
+--- SCORE ---
+-1140.5575
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 103 chars correct (9.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> S
+2      -> T
+3      -> G
+5      -> T
+6      -> E
+7      -> S
+8      -> R
+9      -> T
+10     -> N
+13     -> T
+14     -> E
+15     -> U
+18     -> H
+19     -> E
+20     -> T
+21     -> I
+22     -> A
+23     -> E
+25     -> I
+26     -> T
+27     -> F
+28     -> D
+29     -> A
+30     -> E
+31     -> J
+33     -> Z
+34     -> V
+36     -> W
+37     -> R
+38     -> B
+39     -> C
+41     -> E
+42     -> H
+45     -> P
+47     -> A
+48     -> R
+49     -> X
+50     -> E
+51     -> K
+54     -> T
+56     -> L
+57     -> O
+59     -> M
+64     -> E
+65     -> E
+66     -> Q
+71     -> E
+74     -> N

@@ -1,0 +1,138 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [88, 6, 99, 19]
+B(1) [68, 18, 10, 40]
+C(2) [26, 58, 72, 82]
+D(3) [65, 46, 15, 44]
+E(4) [90, 20, 57, 14]
+F(5) [93, 94, 45, 103]
+G(6) [89, 95, 13, 43]
+H(7) [53, 11, 61, 8]
+I(8) [42, 47, 97, 49]
+J(9) [51, 7, 3, 5]
+K(10) [75, 76, 74, 30]
+L(11) [9, 100, 71, 34]
+M(12) [12, 21, 84, 66]
+N(13) [101, 24, 16, 39]
+O(14) [32, 91, 36, 67]
+P(15) [79, 25, 60, 63]
+Q(16) [23, 81, 17, 77]
+R(17) [48, 2, 86, 69]
+S(18) [50, 33, 96, 102]
+T(19) [29, 4, 38, 37]
+U(20) [87, 31, 41, 92]
+V(21) [22, 54, 0, 55]
+W(22) [59, 70, 27, 56]
+X(23) [78, 83, 1, 52]
+Y(24) [28, 80, 73, 64]
+Z(25) [35, 62, 98, 85]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   78
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HISLIMBSWEREINPROPORTIONANDIHADSELECTEDHISFEATURESASBEAUTIFULBEAUTIFULGREATGODHISYELLOWSKINSCARCELYCOVEREDTHEWORKOFMUSCLESANDARTERIESBENEATHHISHAIRWASOFALUSTROUSBLACKANDFLOWINGHISTEETHOFAPEARLYWHITENESSBUTTHESELUXURIANCESONLYFORMEDAMOREHORRIDCONTRAST
+
+--- CIPHERTEXT ---
+53 49 33 9 42 66 18 50 56 20 48 90 42 24 25 48 67 60 36 2 4 42 32 39 6 39 44 47 11 6 46 96 57 34 90 82 38 57 44 61 49 96 93 14 6 38 87 48 20 102 88 50 10 20 88 41 29 97 103 31 71 40 20 6 31 29 97 94 92 34 95 86 20 88 29 95 91 44 11 49 96 28 90 71 71 91 70 96 74 47 24 33 58 88 69 82 14 71 64 58 32 22 57 86 20 15 29 61 57 70 67 2 76 67 94 21 87 102 26 34 90 96 6 16 44 88 86 4 90 69 42 14 96 18 90 16 14 19 4 61 53 42 102 53 19 49 48 56 88 33 36 94 88 71 41 96 37 86 32 41 50 68 9 6 58 30 19 24 15 103 71 32 27 97 101 95 53 47 102 37 90 57 4 53 67 94 99 63 20 19 2 100 80 59 61 42 37 90 24 14 33 50 68 41 37 38 8 20 33 90 9 31 83 31 86 42 6 39 26 14 33 36 16 9 28 94 91 86 12 90 15 6 84 36 2 90 8 67 69 2 49 65 26 67 101 4 86 99 102 29
+
+--- DECRYPTED PLAINTEXT ---
+HRESEQUISERTESPREVEATEATATHEEAGETATETTHEREXHATERESTIZETTHERTEREATHENJATHETHTTHEREATEETHERESENTHEHEINAFTHETHETHEAMENCESTATEATHTHTTHEHEUTTHETEHESHERRSTEENTETESHATINSANDESTREARENTHESSTTTHENEWEEALYBEESTSHEINTSTHEETSTOTHEATTHEETSANTHATTAKEATHEHARATENTHESH
+
+--- SCORE ---
+-1711.8203
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 45 / 250 chars correct (18.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> A
+4      -> T
+6      -> A
+8      -> H
+9      -> S
+10     -> Z
+11     -> E
+12     -> A
+14     -> H
+15     -> T
+16     -> T
+18     -> U
+19     -> E
+20     -> E
+21     -> C
+22     -> F
+24     -> S
+25     -> P
+26     -> T
+27     -> R
+28     -> A
+29     -> H
+30     -> D
+31     -> T
+32     -> A
+33     -> E
+34     -> A
+36     -> E
+37     -> S
+38     -> T
+39     -> T
+40     -> R
+41     -> T
+42     -> E
+44     -> H
+46     -> G
+47     -> E
+48     -> R
+49     -> R
+50     -> I
+53     -> H
+56     -> S
+57     -> T
+58     -> N
+59     -> B
+60     -> V
+61     -> E
+63     -> W
+64     -> I
+65     -> A
+66     -> Q
+67     -> E
+68     -> N
+69     -> H
+70     -> H
+71     -> E
+74     -> R
+76     -> M
+80     -> Y
+82     -> E
+83     -> O
+84     -> K
+86     -> H
+87     -> E
+88     -> T
+90     -> T
+91     -> T
+92     -> J
+93     -> X
+94     -> N
+95     -> T
+96     -> E
+97     -> E
+99     -> E
+100    -> L
+101    -> N
+102    -> S
+103    -> R

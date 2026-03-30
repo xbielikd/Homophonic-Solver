@@ -1,0 +1,99 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [25, 3, 29]
+B(1) [24]
+C(2) [4]
+D(3) [23, 7]
+E(4) [2, 34, 31, 28]
+F(5) [38]
+G(6) [14]
+H(7) [5, 33]
+I(8) [36, 11, 27]
+J(9) [21]
+K(10) [17]
+L(11) [39, 19]
+M(12) [12]
+N(13) [41, 22, 18]
+O(14) [1, 0, 10]
+P(15) [43]
+Q(16) [9]
+R(17) [13, 15]
+S(18) [37, 42]
+T(19) [8, 35, 40]
+U(20) [20]
+V(21) [16]
+W(22) [30]
+X(23) [6]
+Y(24) [26]
+Z(25) [32]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   39
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+33 28 5 3 23 33 25 8 34 38 20 19 12 34 12 1 15 11 2 42 0 38 33 36 12 8 33 29 8 7 10 2 37 18 10 40 12 25 40 8 2 15 33 2 25 22 37 30 28 13 31 23 27 42 36 12 43 39 26 30 25 41 8 35 0 42 34 2 8 33 2 43 39 3 4 28 35 33 25 35 11 42 3 19 19 14 11 16 31 12 28 35 5 34 17 31 26 29 41 7
+
+--- DECRYPTED PLAINTEXT ---
+EELEBEETICKENINGWASTACEONTENTJUSEQUANEATSWESEVEREFEBYTONTHAREDTRATISTESTHEPEREERATEEEXAMENERLIZEANDJ
+
+--- SCORE ---
+-733.4236
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 100 chars correct (13.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> G
+2      -> S
+3      -> E
+4      -> P
+5      -> L
+7      -> J
+8      -> T
+10     -> U
+11     -> A
+12     -> N
+13     -> F
+14     -> X
+15     -> W
+16     -> M
+17     -> Z
+18     -> Q
+19     -> E
+20     -> K
+22     -> V
+23     -> B
+25     -> E
+26     -> A
+27     -> Y
+28     -> E
+29     -> N
+30     -> R
+31     -> E
+33     -> E
+34     -> I
+35     -> R
+36     -> O
+37     -> E
+38     -> C
+39     -> H
+40     -> A
+41     -> D
+42     -> T
+43     -> T

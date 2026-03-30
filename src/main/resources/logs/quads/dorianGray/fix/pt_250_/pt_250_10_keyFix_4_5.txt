@@ -1,0 +1,146 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 252
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 50, 49, 11, 40]
+B(1) [23, 80, 31, 43, 110]
+C(2) [101, 46, 84, 33, 82]
+D(3) [38, 15, 113, 32, 42]
+E(4) [126, 73, 81, 121, 9]
+F(5) [34, 104, 18, 24, 127]
+G(6) [41, 117, 54, 95, 37]
+H(7) [108, 96, 14, 90, 124]
+I(8) [74, 3, 5, 39, 83]
+J(9) [109, 61, 125, 21, 102]
+K(10) [92, 106, 75, 119, 52]
+L(11) [10, 55, 122, 16, 65]
+M(12) [58, 53, 120, 112, 111]
+N(13) [51, 1, 47, 13, 25]
+O(14) [62, 60, 30, 26, 28]
+P(15) [17, 78, 129, 56, 76]
+Q(16) [35, 12, 45, 29, 123]
+R(17) [2, 44, 93, 114, 8]
+S(18) [72, 91, 0, 100, 48]
+T(19) [63, 88, 105, 87, 69]
+U(20) [27, 86, 20, 107, 97]
+V(21) [115, 68, 77, 118, 71]
+W(22) [89, 4, 59, 64, 19]
+X(23) [57, 116, 22, 85, 94]
+Y(24) [36, 99, 67, 70, 7]
+Z(25) [66, 103, 128, 79, 98]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   86
+TEXT LENGTH:      252
+
+--- ORIGINAL PLAINTEXT ---
+ANDWHYISITSOBECAUSEWHILEIWASPAINTINGITDORIANGRAYSATBESIDEMESOMESUBTLEINFLUENCEPASSEDFROMHIMTOMEANDFORTHEFIRSTTIMEINMYLIFEISAWINTHEPLAINWOODLANDTHEWONDERIHADALWAYSLOOKEDFORANDALWAYSMISSEDBASILTHISISEXTRAORDINARYIMUSTSEEDORIANGRAYHALLWARDGOTUPFROMTHESEAT
+
+--- CIPHERTEXT ---
+50 47 42 89 14 36 3 0 5 69 48 30 110 121 82 11 20 48 9 59 14 83 55 121 3 89 6 91 129 40 3 13 87 5 51 95 5 63 32 26 93 83 49 1 95 114 6 7 0 6 87 31 126 48 83 15 121 111 73 91 30 111 9 91 86 110 69 65 9 3 1 127 55 20 121 13 84 73 78 6 48 72 81 32 24 44 30 111 96 3 58 88 28 112 126 6 47 42 127 60 93 63 90 121 24 5 93 48 63 87 83 58 81 3 47 120 7 16 74 127 81 5 0 49 4 3 25 88 108 126 56 122 6 83 13 4 30 60 113 55 40 25 42 88 90 121 19 62 25 42 9 93 5 124 49 32 11 10 19 11 70 0 65 26 30 75 9 113 24 26 8 49 1 15 49 16 89 11 67 48 112 74 0 48 81 38 43 40 91 39 16 105 90 74 91 3 72 81 116 69 44 40 30 44 32 5 51 49 44 70 74 58 27 72 69 72 126 81 32 30 2 39 50 13 37 93 50 67 108 50 55 55 64 49 8 32 95 62 69 86 76 18 114 62 112 105 90 121 48 126 11 69
+
+--- DECRYPTED PLAINTEXT ---
+ANTSUNITATSENEVERSEQUETEISESBEINTAREATHEREENEREATETHESETERESERESENTHEINSTRENCELESSTHESERSINTOSEENTSORTHEEARSTTENTINJANISTATESINTHEYWEENSEOFTENTTHERENTERAZEHEARESTHEEDEFEETENTENSETSSITSTAKESENTHISISTITSEESHARESSINGSTSETHEMEANDRATHATTHETHEETEXPRESTHESEET
+
+--- SCORE ---
+-2237.3460
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 99 / 252 chars correct (39.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> N
+2      -> M
+3      -> I
+4      -> S
+5      -> A
+6      -> E
+7      -> A
+8      -> T
+9      -> E
+10     -> A
+11     -> E
+13     -> N
+14     -> U
+15     -> T
+16     -> N
+18     -> P
+19     -> R
+20     -> R
+24     -> E
+25     -> N
+26     -> E
+27     -> G
+28     -> O
+30     -> E
+31     -> H
+32     -> H
+36     -> N
+37     -> D
+38     -> A
+39     -> E
+40     -> E
+42     -> T
+43     -> K
+44     -> S
+47     -> N
+48     -> S
+49     -> E
+50     -> A
+51     -> R
+55     -> T
+56     -> Y
+58     -> N
+59     -> Q
+60     -> O
+62     -> E
+63     -> T
+64     -> H
+65     -> H
+67     -> T
+69     -> T
+70     -> S
+72     -> S
+73     -> E
+74     -> I
+75     -> D
+76     -> X
+78     -> L
+81     -> T
+82     -> V
+83     -> E
+84     -> C
+86     -> E
+87     -> T
+88     -> T
+89     -> S
+90     -> H
+91     -> S
+93     -> R
+95     -> E
+96     -> S
+105    -> T
+108    -> H
+110    -> N
+111    -> R
+112    -> S
+113    -> F
+114    -> R
+116    -> I
+120    -> J
+121    -> E
+122    -> W
+124    -> Z
+126    -> E
+127    -> S
+129    -> B

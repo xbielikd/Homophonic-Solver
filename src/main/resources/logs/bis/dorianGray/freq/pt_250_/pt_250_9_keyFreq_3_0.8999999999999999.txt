@@ -1,0 +1,146 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [86, 58, 75, 52, 16, 49, 18, 92]
+B(1) [54, 28]
+C(2) [64, 96, 51]
+D(3) [19, 94, 14, 103]
+E(4) [27, 41, 5, 31, 39, 30, 43, 23, 77, 7, 20, 70]
+F(5) [85, 61, 1]
+G(6) [79, 42]
+H(7) [56, 11, 68, 76, 45, 25]
+I(8) [90, 44, 2, 67, 100, 47, 82]
+J(9) [15]
+K(10) [59]
+L(11) [63, 3, 33, 48]
+M(12) [88, 95, 72]
+N(13) [21, 17, 101, 53, 102, 24, 93]
+O(14) [26, 89, 8, 74, 55, 71, 69]
+P(15) [97, 50]
+Q(16) [66]
+R(17) [40, 84, 87, 13, 91, 35]
+S(18) [65, 104, 81, 83, 32, 98]
+T(19) [73, 38, 78, 22, 4, 12, 9, 10, 29]
+U(20) [34, 60, 57]
+V(21) [46]
+W(22) [6, 37, 80]
+X(23) [36]
+Y(24) [62, 0]
+Z(25) [99]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   86
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+THEWORLDHASCRIEDOUTAGAINSTUSBOTHBUTITHASALWAYSWORSHIPPEDYOUITALWAYSWILLWORSHIPYOUYOUARETHETYPEOFWHATTHEAGEISSEARCHINGFORANDWHATITISAFRAIDITHASFOUNDIAMSOGLADTHATYOUHAVENEVERDONEANYTHINGNEVERCARVEDASTATUEORPAINTEDAPICTUREORPRODUCEDANYTHINGOUTSIDEOFYOURSELF
+
+--- CIPHERTEXT ---
+73 25 39 6 8 91 3 19 56 58 98 64 35 90 30 103 26 60 22 86 79 18 2 53 104 78 34 81 28 69 10 45 54 34 29 100 22 25 49 104 58 3 37 49 0 81 37 71 91 104 56 44 50 97 27 103 62 89 57 47 38 75 48 80 52 0 65 6 47 48 33 80 69 84 104 11 82 97 62 8 57 62 89 34 49 35 39 9 56 77 22 62 50 7 26 1 37 76 75 73 9 11 77 58 42 7 90 98 83 27 92 91 96 68 67 24 42 61 71 84 16 102 103 37 68 16 22 90 4 44 32 16 61 87 75 2 103 82 22 25 18 81 61 69 60 102 94 67 18 88 98 74 42 63 58 103 22 45 86 4 62 74 57 56 58 46 20 102 7 46 30 87 94 69 17 77 86 24 62 9 76 47 24 79 24 39 46 41 84 96 86 87 46 30 94 16 32 4 86 4 57 41 74 91 50 86 67 24 9 30 103 58 97 47 51 9 60 35 7 26 35 97 84 8 19 57 96 30 103 92 101 62 73 45 47 101 79 8 34 22 81 100 14 20 8 61 62 89 34 87 81 27 63 61
+
+--- DECRYPTED PLAINTEXT ---
+HERTHERERETHETERERETTEOMECERJALAKEPEEEREERERUREREEREANERTHETYTHEQUGTTHBEATERENTHETHEREREREETAREVESTHEREEERTTWEDESTHEEERTHERETHETHETHEATOREEEEREARETHEXTHEREREATHTHERESTERSEATAZETETESTETERSTTSTASETHTHTHETHEATHEEERENTHEREREENTHEESERDITHATITHEEREFTHETHEARERE
+
+--- SCORE ---
+-1180.4617
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 254 chars correct (4.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> U
+1      -> V
+2      -> O
+3      -> R
+4      -> H
+6      -> T
+7      -> R
+8      -> H
+9      -> E
+10     -> L
+11     -> R
+14     -> F
+16     -> H
+17     -> Z
+18     -> E
+19     -> E
+20     -> T
+22     -> E
+24     -> E
+25     -> E
+26     -> E
+27     -> E
+28     -> J
+29     -> P
+30     -> E
+32     -> T
+33     -> B
+34     -> E
+35     -> E
+37     -> E
+38     -> Y
+39     -> R
+41     -> T
+42     -> E
+44     -> E
+45     -> A
+46     -> S
+47     -> T
+48     -> H
+49     -> R
+50     -> A
+51     -> H
+52     -> Q
+53     -> M
+54     -> K
+56     -> R
+57     -> E
+58     -> E
+60     -> R
+61     -> E
+62     -> T
+63     -> R
+64     -> H
+65     -> G
+67     -> H
+68     -> T
+69     -> A
+71     -> R
+73     -> H
+74     -> H
+75     -> T
+76     -> S
+77     -> E
+78     -> C
+79     -> T
+80     -> E
+81     -> R
+82     -> E
+83     -> W
+84     -> T
+86     -> T
+87     -> A
+88     -> X
+89     -> H
+90     -> T
+91     -> E
+92     -> D
+94     -> T
+96     -> S
+97     -> N
+98     -> T
+100    -> E
+101    -> I
+102    -> E
+103    -> R
+104    -> E

@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [76, 34, 44]
+B(1) [64, 39, 46]
+C(2) [43, 8, 73]
+D(3) [58, 59, 47]
+E(4) [61, 16, 38]
+F(5) [4, 69, 19]
+G(6) [6, 18, 40]
+H(7) [5, 9, 70]
+I(8) [13, 23, 48]
+J(9) [25, 26, 68]
+K(10) [65, 32, 55]
+L(11) [57, 30, 33]
+M(12) [27, 31, 17]
+N(13) [41, 56, 1]
+O(14) [60, 49, 74]
+P(15) [54, 51, 52]
+Q(16) [20, 12, 72]
+R(17) [10, 42, 77]
+S(18) [45, 3, 24]
+T(19) [53, 35, 0]
+U(20) [66, 50, 7]
+V(21) [21, 22, 36]
+W(22) [67, 28, 37]
+X(23) [62, 15, 71]
+Y(24) [63, 75, 11]
+Z(25) [29, 2, 14]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+60 9 28 48 35 70 37 9 34 53 34 46 7 77 41 23 56 40 40 66 45 70 47 48 47 5 49 52 61 42 16 21 48 45 23 53 17 11 9 16 44 10 35 37 44 42 27 53 16 44 10 45 4 13 33 33 38 58 27 63 38 75 16 24 28 70 48 73 5 23 70 76 45 53 23 57 75 28 48 51 61 47 44 28 44 75 0 5 44 53 53 5 16 11 31 13 18 70 0 56 74 53
+
+--- DECRYPTED PLAINTEXT ---
+ZERATTHESTSINJURELLBETTATEXPERTHAERTWHETERTHERATTERECOMMEDAGETTERTAKERTHETRYTRAVETERETHEETTETHEOFTHEQT
+
+--- SCORE ---
+-919.5533
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 102 chars correct (18.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+4      -> C
+5      -> E
+7      -> N
+9      -> E
+10     -> R
+11     -> H
+13     -> O
+16     -> T
+17     -> W
+18     -> F
+21     -> H
+23     -> R
+24     -> E
+27     -> A
+28     -> R
+31     -> E
+33     -> M
+34     -> S
+35     -> T
+37     -> H
+38     -> E
+40     -> L
+41     -> U
+42     -> R
+44     -> E
+45     -> E
+46     -> I
+47     -> T
+48     -> A
+49     -> X
+51     -> V
+52     -> P
+53     -> T
+56     -> E
+57     -> Y
+58     -> D
+60     -> Z
+61     -> E
+63     -> G
+66     -> B
+70     -> T
+73     -> K
+74     -> Q
+75     -> T
+76     -> H
+77     -> J

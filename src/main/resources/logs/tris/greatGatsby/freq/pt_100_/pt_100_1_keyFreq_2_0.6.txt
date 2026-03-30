@@ -1,0 +1,114 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [47, 70, 53, 43, 1]
+B(1) [67]
+C(2) [61, 16]
+D(3) [2, 50, 65]
+E(4) [73, 31, 54, 66, 29, 27, 41, 46]
+F(5) [55, 51]
+G(6) [7, 71]
+H(7) [15, 20, 11, 64]
+I(8) [22, 62, 6, 13, 39]
+J(9) [40]
+K(10) [37]
+L(11) [69, 5, 12]
+M(12) [36, 21]
+N(13) [58, 25, 57, 0, 4]
+O(14) [34, 19, 48, 68, 32]
+P(15) [30, 74]
+Q(16) [14]
+R(17) [35, 45, 8, 18]
+S(18) [49, 3, 33, 24]
+T(19) [26, 59, 60, 44, 42, 9]
+U(20) [10, 23]
+V(21) [56]
+W(22) [17, 52]
+X(23) [38]
+Y(24) [28, 72]
+Z(25) [63]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   54
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+15 31 16 43 36 73 19 58 12 72 34 25 61 54 6 57 52 11 6 42 66 37 4 13 61 37 27 45 67 48 61 37 54 45 33 70 57 2 20 47 2 43 55 22 7 64 42 17 13 60 15 70 67 10 21 0 47 36 46 50 66 42 44 28 22 0 9 64 66 71 1 8 2 41 4 55 18 48 21 51 1 8 44 15 66 45 34 10 59 34 58 59 20 27 22 33 69 70 57 50
+
+--- DECRYPTED PLAINTEXT ---
+EXPREQUIZEDINGTHESTARTHENTHERENTGERTHETHEREELEAVEBETRANTHEWERACKETHERFORETHEMENJORCEREDANDINTHERYTHE
+
+--- SCORE ---
+-665.1394
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 2 / 100 chars correct (2.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> O
+2      -> E
+4      -> H
+6      -> T
+7      -> L
+8      -> R
+9      -> H
+10     -> A
+11     -> S
+12     -> Z
+13     -> E
+15     -> E
+16     -> P
+17     -> V
+18     -> M
+19     -> U
+20     -> T
+21     -> N
+22     -> E
+25     -> I
+27     -> H
+28     -> K
+31     -> X
+33     -> R
+34     -> D
+36     -> E
+37     -> T
+41     -> T
+42     -> A
+43     -> R
+44     -> C
+45     -> E
+46     -> W
+47     -> H
+48     -> E
+50     -> E
+51     -> J
+52     -> E
+54     -> G
+55     -> E
+57     -> H
+58     -> I
+59     -> N
+60     -> B
+61     -> N
+64     -> E
+66     -> R
+67     -> R
+69     -> Y
+70     -> T
+71     -> F
+72     -> E
+73     -> Q

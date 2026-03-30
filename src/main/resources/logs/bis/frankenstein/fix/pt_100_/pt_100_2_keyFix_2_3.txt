@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 49, 76]
+B(1) [31, 40, 71]
+C(2) [45, 77, 63]
+D(3) [41, 11, 2]
+E(4) [34, 53, 57]
+F(5) [61, 25, 56]
+G(6) [48, 66, 18]
+H(7) [47, 21, 70]
+I(8) [22, 42, 38]
+J(9) [52, 32, 16]
+K(10) [19, 72, 1]
+L(11) [54, 59, 24]
+M(12) [17, 15, 28]
+N(13) [0, 75, 10]
+O(14) [4, 36, 8]
+P(15) [73, 50, 74]
+Q(16) [60, 69, 65]
+R(17) [43, 67, 55]
+S(18) [12, 58, 20]
+T(19) [62, 6, 14]
+U(20) [39, 7, 37]
+V(21) [13, 26, 3]
+W(22) [30, 68, 5]
+X(23) [23, 33, 46]
+Y(24) [9, 64, 44]
+Z(25) [35, 29, 27]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+38 2 57 20 38 67 34 41 6 47 76 14 42 15 22 18 21 62 50 76 20 20 15 64 54 22 56 57 36 75 14 21 51 14 71 76 43 43 34 75 55 36 77 72 30 34 49 43 38 54 44 22 62 42 12 6 67 7 53 31 39 14 39 10 38 10 14 57 43 67 37 74 14 53 11 31 64 51 75 9 12 7 2 11 57 75 12 70 4 77 72 4 56 15 38 20 34 43 44 42 25
+
+--- DECRYPTED PLAINTEXT ---
+RTHERERYSTHEDEIZANGHEEEREITHEEEAMEWHEEREVECOFRKERELINDESEANEREREREEHEEXPENTERMEBEATTHEEQUCOUTERERELDJ
+
+--- SCORE ---
+-504.2121
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 101 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+2      -> T
+4      -> U
+6      -> S
+7      -> A
+9      -> B
+10     -> E
+11     -> T
+12     -> E
+14     -> E
+15     -> E
+18     -> Z
+20     -> E
+21     -> A
+22     -> I
+25     -> J
+30     -> F
+31     -> E
+34     -> R
+36     -> E
+37     -> X
+38     -> R
+39     -> R
+41     -> Y
+42     -> D
+43     -> E
+44     -> L
+47     -> T
+49     -> K
+50     -> G
+51     -> M
+53     -> N
+54     -> E
+55     -> V
+56     -> T
+57     -> H
+62     -> N
+64     -> R
+67     -> E
+70     -> Q
+71     -> W
+72     -> O
+74     -> P
+75     -> E
+76     -> H
+77     -> C

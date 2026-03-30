@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [127, 1, 22, 53, 47, 88, 25, 51, 20, 17]
+B(1) [116, 126]
+C(2) [131, 26, 128, 52]
+D(3) [117, 3, 48, 14, 56, 79]
+E(4) [57, 45, 27, 111, 13, 29, 43, 31, 12, 80, 95, 84, 102, 38, 110, 58]
+F(5) [32, 34, 8]
+G(6) [61, 35, 114]
+H(7) [41, 68, 132, 73, 36, 86, 109, 66]
+I(8) [121, 50, 105, 39, 100, 4, 9, 118, 93]
+J(9) [69]
+K(10) [96]
+L(11) [7, 42, 120, 64, 10]
+M(12) [75, 28, 74]
+N(13) [124, 107, 44, 82, 16, 113, 15, 133, 46]
+O(14) [33, 87, 112, 81, 24, 2, 62, 91, 19, 134]
+P(15) [90, 104, 108]
+Q(16) [98]
+R(17) [129, 119, 59, 5, 21, 97, 11, 40]
+S(18) [77, 30, 0, 123, 115, 89, 60, 70]
+T(19) [122, 18, 76, 130, 54, 55, 78, 71, 125, 85, 103]
+U(20) [106, 92, 94, 37]
+V(21) [49, 67]
+W(22) [83, 72, 23]
+X(23) [6]
+Y(24) [101, 63, 99]
+Z(25) [65]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+ICANTTELLYETIVEONLYBEENHEREANHOURDIDITELLYOUABOUTTHEBOOKSTHEYREREALTHEYREYOUTOLDUSWESHOOKHANDSWITHHIMGRAVELYANDWENTBACKOUTDOORSTHEREWASDANCINGNOWONTHECANVASINTHEGARDENOLDMENPUSHINGYOUNGGIRLSBACKWARDINETERNALGRACELESSCIRCLESSUPERIORCOUPLESHOLDINGEACHOTHER
+
+--- CIPHERTEXT ---
+105 52 47 46 125 78 102 120 7 101 102 85 118 49 102 24 124 64 63 116 31 102 46 36 31 97 58 88 107 86 91 92 119 79 9 117 39 130 45 42 64 99 19 92 127 116 112 92 122 130 109 57 116 19 33 96 30 122 68 12 101 5 12 97 110 51 120 78 86 12 99 59 43 63 19 106 18 33 7 3 94 89 83 13 30 109 2 81 96 36 17 46 3 0 72 105 130 73 73 100 75 35 59 88 49 29 42 101 20 113 3 83 58 113 130 116 88 131 96 87 106 125 79 19 134 5 0 130 109 102 40 58 23 17 30 56 22 107 128 118 16 114 113 19 23 33 82 103 86 57 26 22 44 49 1 77 105 107 130 41 38 114 53 40 79 31 16 62 7 3 74 38 113 108 106 60 132 100 82 61 63 91 92 113 61 114 50 97 7 89 126 25 52 96 72 88 5 117 118 15 43 54 27 21 16 88 10 35 11 22 128 29 64 43 30 77 131 118 59 26 42 58 115 115 37 90 12 21 100 112 11 26 112 106 104 10 31 89 86 81 10 14 121 107 114 57 22 131 86 33 55 86 111 21
+
+--- DECRYPTED PLAINTEXT ---
+HETHRATHRETARETAKETARTHEREARETHEBECAMENTERSESAREHESEASONTHETEETEDTHATTREATSEFOREVERITSJONESHERTHERRETHERESTENTERATEARANGERESTERESTHATSTHREERENTSTORATEARNEDTHEECONTHEREARETOTHEYWERETHETENTEREQUENTREAREALTHEREHERESEATTAREATATTHETHEREAREWERETOEXPENERATORTZH
+
+--- SCORE ---
+-2654.2798
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 254 chars correct (3.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> D
+2      -> J
+3      -> E
+5      -> E
+7      -> R
+9      -> C
+10     -> E
+11     -> E
+12     -> T
+13     -> I
+14     -> X
+15     -> E
+16     -> E
+17     -> S
+18     -> F
+19     -> S
+20     -> N
+21     -> H
+22     -> R
+23     -> T
+24     -> A
+25     -> U
+26     -> A
+27     -> T
+29     -> S
+30     -> T
+31     -> R
+33     -> O
+35     -> H
+36     -> E
+37     -> H
+38     -> O
+39     -> M
+40     -> H
+41     -> C
+42     -> T
+43     -> A
+44     -> N
+45     -> N
+46     -> H
+47     -> T
+49     -> E
+50     -> T
+51     -> T
+52     -> E
+53     -> T
+54     -> L
+55     -> R
+56     -> H
+57     -> E
+58     -> A
+59     -> E
+60     -> Y
+61     -> E
+62     -> A
+63     -> T
+64     -> E
+68     -> E
+72     -> T
+73     -> R
+74     -> T
+75     -> T
+77     -> T
+78     -> A
+79     -> E
+81     -> O
+82     -> R
+83     -> R
+85     -> A
+86     -> T
+87     -> G
+88     -> R
+89     -> E
+90     -> E
+91     -> H
+92     -> E
+94     -> V
+96     -> N
+97     -> E
+99     -> R
+100    -> E
+101    -> E
+102    -> T
+103    -> A
+104    -> W
+105    -> H
+106    -> E
+107    -> E
+108    -> H
+109    -> S
+110    -> D
+111    -> Z
+112    -> R
+113    -> T
+114    -> N
+115    -> T
+116    -> A
+117    -> A
+118    -> R
+119    -> B
+120    -> H
+121    -> P
+122    -> H
+124    -> K
+125    -> R
+126    -> Q
+127    -> S
+128    -> E
+130    -> E
+131    -> A
+132    -> W
+134    -> T

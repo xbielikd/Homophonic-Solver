@@ -1,0 +1,148 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 57, 27, 67, 46, 70, 65, 64]
+B(1) [24, 89]
+C(2) [54, 58, 29]
+D(3) [60, 12, 103, 49]
+E(4) [48, 43, 28, 75, 95, 90, 50, 7, 80, 19, 55, 93]
+F(5) [45, 31, 13]
+G(6) [6, 73]
+H(7) [53, 82, 2, 22, 8, 94]
+I(8) [18, 84, 52, 0, 23, 63, 34]
+J(9) [77]
+K(10) [30]
+L(11) [10, 86, 96, 37]
+M(12) [99, 9, 74]
+N(13) [15, 85, 35, 17, 36, 51, 88]
+O(14) [101, 33, 68, 61, 98, 38, 14]
+P(15) [21, 26]
+Q(16) [66]
+R(17) [41, 3, 100, 92, 97, 59]
+S(18) [44, 40, 76, 79, 56, 104]
+T(19) [102, 1, 81, 91, 42, 25, 20, 16, 62]
+U(20) [83, 72, 32]
+V(21) [5]
+W(22) [4, 78, 71]
+X(23) [39]
+Y(24) [69, 47]
+Z(25) [87]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   88
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+64 91 19 59 97 34 89 96 50 8 101 21 90 13 86 32 1 1 55 41 19 60 26 27 79 16 2 23 99 53 50 58 96 72 62 54 22 55 60 67 42 0 42 9 27 60 10 47 71 2 55 3 7 84 104 102 82 50 89 38 12 47 8 7 75 39 58 37 70 23 99 43 60 66 83 34 58 30 0 74 83 40 16 79 48 75 52 20 27 20 101 15 54 19 52 1 84 76 84 35 27 88 75 74 21 91 47 40 16 70 89 86 7 0 85 1 22 80 53 14 9 75 13 65 41 99 76 0 3 1 2 48 31 98 86 30 12 101 15 42 96 0 30 28 102 68 2 27 5 90 62 82 64 42 40 98 97 81 38 31 16 53 63 17 6 63 51 25 2 7 23 92 82 98 32 44 48 79 91 82 50 47 44 67 69 64 54 68 41 26 40 43 24 92 0 88 6 76 24 57 60 96 83 54 30 25 2 75 82 33 99 90 13 57 3 74 73 14 20 8 75 3 7 64 20 101 35 54 90 67 35 12 99 50 75 42 9 90 1 90 96 10 61 15 50 33 13 16 82 43
+
+--- DECRYPTED PLAINTEXT ---
+ERWASTONSTATEATESSHEWEREETTESTSONGBETHEATETHEEDERTHTHEQUESOREETHEFORTESTEXTTORESTATEHEASESAREWASEREREVESTREATTOTHEYSTATTHEALESRETSTHESTREARTNERJUSTEREBEETASSPRETTIMEIZETHERESETHERESETAKEESERATEREVERECENTERETEETSEACTSITSTETHESAREEARESSETHESENDERSTATET
+
+--- SCORE ---
+-2243.0394
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 250 chars correct (12.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> S
+2      -> T
+3      -> T
+5      -> R
+6      -> E
+7      -> H
+8      -> T
+9      -> H
+10     -> D
+12     -> E
+13     -> A
+14     -> T
+15     -> R
+16     -> T
+17     -> M
+19     -> W
+20     -> S
+21     -> T
+22     -> T
+23     -> E
+24     -> E
+25     -> E
+26     -> R
+27     -> E
+28     -> J
+30     -> R
+31     -> E
+32     -> E
+33     -> T
+34     -> T
+35     -> R
+37     -> R
+38     -> R
+39     -> F
+40     -> A
+41     -> E
+42     -> T
+43     -> T
+44     -> T
+47     -> E
+48     -> H
+50     -> S
+51     -> Z
+52     -> A
+53     -> T
+54     -> E
+55     -> H
+57     -> C
+58     -> O
+59     -> A
+60     -> E
+61     -> E
+62     -> B
+63     -> I
+64     -> E
+65     -> L
+66     -> X
+67     -> A
+68     -> S
+69     -> K
+70     -> T
+71     -> R
+72     -> G
+73     -> I
+74     -> S
+75     -> E
+76     -> R
+79     -> E
+80     -> A
+81     -> P
+82     -> E
+83     -> T
+84     -> E
+85     -> Y
+86     -> T
+88     -> V
+89     -> O
+90     -> E
+91     -> R
+92     -> R
+96     -> N
+97     -> S
+98     -> S
+99     -> S
+101    -> A
+102    -> U
+104    -> Q

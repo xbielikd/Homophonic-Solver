@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 59, 52, 100, 74, 67, 76, 6]
+B(1) [71, 38]
+C(2) [99, 66, 24]
+D(3) [65, 3, 34, 81]
+E(4) [35, 77, 40, 14, 2, 8, 48, 20, 18, 90, 7, 32]
+F(5) [91, 78, 17]
+G(6) [44, 101]
+H(7) [22, 102, 46, 64, 73, 93]
+I(8) [0, 21, 98, 37, 49, 54, 95]
+J(9) [82]
+K(10) [68]
+L(11) [80, 47, 31, 27]
+M(12) [69, 55, 16]
+N(13) [104, 28, 50, 83, 10, 23, 1]
+O(14) [19, 85, 72, 79, 36, 25, 87]
+P(15) [103, 26]
+Q(16) [61]
+R(17) [33, 11, 75, 62, 60, 42]
+S(18) [13, 53, 43, 89, 12, 15]
+T(19) [94, 92, 70, 58, 4, 96, 29, 63, 86]
+U(20) [45, 84, 57]
+V(21) [97]
+W(22) [51, 56, 41]
+X(23) [9]
+Y(24) [88, 39]
+Z(25) [5]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SOMETIMETOWARDMIDNIGHTTOMBUCHANANANDMRSWILSONSTOODFACETOFACEDISCUSSINGINIMPASSIONEDVOICESWHETHERMRSWILSONHADANYRIGHTTOMENTIONDAISYSNAMEDAISYDAISYDAISYSHOUTEDMRSWILSONILLSAYITWHENEVERIWANTTODAISYDAIMAKINGASHORTDEFTMOVEMENTTOMBUCHANANBROKEHERNOSEWITHHIS
+
+--- CIPHERTEXT ---
+89 25 16 90 94 37 16 77 4 87 41 6 75 3 16 98 65 50 21 44 93 4 70 19 55 71 57 99 46 6 104 59 1 74 83 65 16 42 15 41 37 80 12 72 50 13 94 19 19 34 17 67 99 90 92 87 91 74 66 18 81 98 43 24 84 12 53 95 28 101 49 83 98 55 103 74 43 53 95 79 83 18 3 97 79 98 24 2 89 41 73 77 58 46 40 60 16 33 13 51 49 80 53 85 10 102 6 3 30 28 39 33 49 44 64 86 63 25 55 7 10 63 0 19 104 65 52 49 12 39 12 23 100 69 8 3 59 98 53 88 34 6 54 15 88 34 52 0 89 39 89 93 72 45 63 2 3 69 62 12 56 98 47 43 79 83 54 47 47 13 30 88 21 94 41 93 7 28 77 97 14 62 54 56 76 1 86 4 19 34 100 98 53 39 65 74 0 69 67 68 98 104 101 76 43 73 36 33 70 3 32 17 58 69 79 97 40 55 20 28 63 63 36 69 38 57 66 64 67 23 67 104 71 33 72 68 48 64 18 42 83 79 89 2 56 37 58 22 102 95 43
+
+--- DECRYPTED PLAINTEXT ---
+ERSERESATUSTHESTATERATHEINTHATERETRASARSEVERTEREENOTHEQUITHEFTHEBEETEDERTINTHETEREENETERESEARACKSTEREVERESTERERTERESTRIMETHEEATEEREATEPERTEENTERENTHEREARYTREELESTTHERETTEREERSAMEANGLESTESTENTTERATHETOTEDTHERTHEJOREENCIZETTREXTHETATENTROWEEAREERSERESTH
+
+--- SCORE ---
+-1698.7998
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 251 chars correct (5.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> E
+2      -> R
+3      -> E
+4      -> T
+6      -> T
+7      -> M
+8      -> P
+10     -> E
+12     -> E
+13     -> E
+14     -> G
+15     -> R
+16     -> S
+17     -> O
+18     -> E
+19     -> E
+20     -> Z
+21     -> E
+22     -> E
+23     -> A
+24     -> E
+25     -> R
+28     -> E
+30     -> R
+32     -> J
+33     -> T
+34     -> N
+36     -> R
+37     -> E
+38     -> X
+39     -> R
+40     -> C
+41     -> S
+42     -> A
+43     -> H
+44     -> R
+45     -> Y
+46     -> A
+47     -> T
+48     -> W
+49     -> E
+50     -> T
+51     -> R
+52     -> T
+53     -> E
+54     -> E
+55     -> I
+56     -> S
+57     -> T
+58     -> R
+59     -> R
+60     -> K
+62     -> L
+63     -> T
+64     -> E
+65     -> A
+66     -> H
+67     -> T
+68     -> O
+69     -> E
+70     -> H
+71     -> N
+72     -> R
+73     -> E
+74     -> T
+75     -> H
+76     -> T
+77     -> A
+79     -> E
+80     -> V
+81     -> F
+83     -> R
+84     -> B
+85     -> R
+86     -> S
+87     -> U
+88     -> E
+89     -> E
+90     -> E
+91     -> I
+92     -> Q
+93     -> A
+94     -> R
+95     -> T
+97     -> N
+98     -> T
+99     -> H
+100    -> T
+101    -> D
+102    -> S
+103    -> N
+104    -> E

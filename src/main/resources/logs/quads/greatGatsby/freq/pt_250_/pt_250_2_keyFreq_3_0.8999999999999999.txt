@@ -1,0 +1,148 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 73, 25, 61, 82, 92, 96, 13]
+B(1) [84, 63]
+C(2) [38, 90, 103]
+D(3) [28, 39, 22, 100]
+E(4) [10, 80, 88, 68, 49, 7, 54, 99, 42, 71, 27, 87]
+F(5) [14, 76, 72]
+G(6) [32, 16]
+H(7) [12, 24, 65, 57, 40, 53]
+I(8) [70, 67, 34, 64, 86, 18, 35]
+J(9) [0]
+K(10) [44]
+L(11) [45, 77, 101, 95]
+M(12) [5, 50, 102]
+N(13) [98, 85, 91, 60, 8, 20, 4]
+O(14) [11, 26, 47, 56, 97, 15, 75]
+P(15) [9, 74]
+Q(16) [89]
+R(17) [21, 48, 58, 46, 83, 3]
+S(18) [59, 81, 51, 23, 69, 37]
+T(19) [78, 33, 29, 1, 41, 6, 19, 31, 17]
+U(20) [2, 104, 52]
+V(21) [94]
+W(22) [55, 62, 36]
+X(23) [66]
+Y(24) [93, 79]
+Z(25) [43]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   88
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+ICANTTELLYETIVEONLYBEENHEREANHOURDIDITELLYOUABOUTTHEBOOKSTHEYREREALTHEYREYOUTOLDUSWESHOOKHANDSWITHHIMGRAVELYANDWENTBACKOUTDOORSTHEREWASDANCINGNOWONTHECANVASINTHEGARDENOLDMENPUSHINGYOUNGGIRLSBACKWARDINETERNALGRACELESSCIRCLESSUPERIORCOUPLESHOLDINGEACHOTHER
+
+--- CIPHERTEXT ---
+34 103 61 8 33 19 99 77 77 79 7 29 70 94 27 47 8 45 79 84 99 49 91 53 27 46 27 61 98 12 47 2 21 28 64 22 64 19 27 45 77 93 47 104 25 84 56 52 33 17 65 27 63 47 15 44 69 41 12 88 79 83 88 48 88 92 95 78 53 10 93 3 27 79 97 52 78 97 95 39 2 51 55 71 69 57 56 47 44 12 13 8 28 69 62 67 29 57 53 64 50 32 3 30 94 87 77 93 25 4 28 55 88 4 19 84 25 90 44 11 2 78 39 75 47 46 23 1 12 54 58 27 62 30 69 100 61 4 90 86 20 32 4 97 55 56 8 19 65 88 103 73 85 94 96 81 34 4 6 53 68 16 25 21 22 88 91 15 45 100 5 54 8 9 2 59 57 70 4 32 79 75 2 91 16 32 35 48 95 51 84 25 90 44 62 96 21 39 86 85 87 33 68 83 85 61 95 16 58 13 103 54 45 27 59 51 90 35 83 90 45 68 69 81 2 74 88 21 67 15 48 38 26 2 9 95 88 37 12 97 77 100 18 85 16 10 73 38 53 75 29 12 71 58
+
+--- DECRYPTED PLAINTEXT ---
+ESEASTESSTYEAREEARTHEATTEREEZREESTALATERSTEVEHERSQUEBEENSPRETHESEXTSTOTHETERSETTETHESSEENREATSTHESTAKEHERESTERTHERTHEENCESTHERFIRERETESTEREWJEREHEATUESTERATERATTHESLETERTHEANESSARETHETHERSTTHEENTASTWEESTHEETHRESERESTERHERTSTEDESHESOMENTEGRESTHEHOTOTHERER
+
+--- SCORE ---
+-2255.0147
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 44 / 254 chars correct (17.3%)
+
+--- KEY (cipher -> plain) ---
+1      -> I
+2      -> E
+3      -> H
+4      -> R
+5      -> H
+6      -> A
+7      -> Y
+8      -> A
+9      -> N
+10     -> O
+11     -> C
+12     -> R
+13     -> E
+15     -> E
+16     -> H
+17     -> Q
+18     -> H
+19     -> T
+20     -> J
+21     -> S
+22     -> L
+23     -> F
+25     -> E
+26     -> M
+27     -> E
+28     -> T
+29     -> E
+30     -> E
+32     -> E
+33     -> S
+34     -> E
+35     -> R
+37     -> G
+38     -> O
+39     -> T
+41     -> P
+44     -> N
+45     -> R
+46     -> R
+47     -> E
+48     -> S
+49     -> A
+50     -> K
+51     -> T
+52     -> R
+53     -> T
+54     -> E
+55     -> H
+56     -> E
+57     -> S
+58     -> R
+59     -> S
+61     -> E
+62     -> T
+63     -> B
+64     -> A
+65     -> U
+67     -> H
+68     -> T
+69     -> S
+70     -> A
+71     -> E
+73     -> T
+74     -> D
+75     -> H
+77     -> S
+78     -> S
+79     -> T
+81     -> T
+83     -> H
+84     -> H
+85     -> E
+86     -> W
+87     -> E
+88     -> E
+90     -> E
+91     -> T
+92     -> X
+93     -> T
+94     -> R
+95     -> T
+96     -> A
+97     -> E
+98     -> Z
+99     -> E
+100    -> T
+103    -> S
+104    -> V

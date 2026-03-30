@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 50, 23, 74, 64]
+B(1) [36]
+C(2) [60, 66]
+D(3) [16, 27, 71]
+E(4) [47, 15, 34, 31, 25, 0, 55, 3]
+F(5) [17, 35]
+G(6) [41, 32]
+H(7) [44, 56, 4, 63]
+I(8) [53, 38, 5, 73, 43]
+J(9) [2]
+K(10) [45]
+L(11) [51, 13, 65]
+M(12) [70, 46]
+N(13) [22, 49, 59, 61, 54]
+O(14) [6, 14, 33, 72, 57]
+P(15) [48, 24]
+Q(16) [1]
+R(17) [69, 67, 62, 42]
+S(18) [7, 9, 30, 52]
+T(19) [37, 11, 19, 40, 68, 20]
+U(20) [21, 18]
+V(21) [29]
+W(22) [39, 58]
+X(23) [26]
+Y(24) [12, 8]
+Z(25) [10]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+50 52 7 72 14 61 64 7 53 74 62 42 73 29 34 71 43 46 23 16 47 64 22 23 37 37 3 46 24 68 40 72 17 5 54 71 70 8 44 14 30 11 36 21 37 37 4 0 20 39 33 57 62 20 56 42 15 15 48 15 72 24 65 34 72 17 39 44 14 46 53 74 30 45 55 16 4 43 30 58 63 55 69 0 64 36 33 21 68 30 30 68 64 62 47 27 50 19 46 0
+
+--- DECRYPTED PLAINTEXT ---
+IZETHATENTHEMBERSEARETWALLYEANDTHEPROFTHEREALLESTERCHTHESSESTAKETHETHENTEJURESEXQUESTERANEENTHEGIVES
+
+--- SCORE ---
+-676.7544
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 100 chars correct (9.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+3      -> Y
+4      -> E
+5      -> E
+7      -> E
+8      -> F
+11     -> R
+14     -> H
+15     -> S
+16     -> R
+17     -> H
+19     -> V
+20     -> T
+21     -> A
+22     -> W
+23     -> A
+24     -> A
+27     -> G
+29     -> B
+30     -> E
+33     -> R
+34     -> E
+36     -> E
+37     -> L
+39     -> E
+40     -> D
+42     -> E
+43     -> S
+44     -> T
+45     -> J
+46     -> E
+47     -> E
+48     -> E
+50     -> I
+52     -> Z
+53     -> N
+54     -> P
+55     -> U
+56     -> H
+57     -> C
+58     -> X
+61     -> A
+62     -> H
+63     -> Q
+64     -> T
+65     -> K
+68     -> N
+69     -> E
+70     -> O
+71     -> R
+72     -> T
+73     -> M
+74     -> T

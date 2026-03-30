@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 57, 102, 69, 71, 63, 29, 74]
+B(1) [93, 86]
+C(2) [70, 97, 98]
+D(3) [11, 10, 75, 64]
+E(4) [4, 65, 95, 39, 61, 100, 45, 68, 89, 41, 91, 73]
+F(5) [0, 79, 46]
+G(6) [21, 94]
+H(7) [33, 13, 77, 18, 81, 24]
+I(8) [7, 99, 15, 60, 31, 49, 56]
+J(9) [6]
+K(10) [76]
+L(11) [44, 32, 72, 16]
+M(12) [50, 14, 43]
+N(13) [82, 42, 54, 22, 40, 85, 34]
+O(14) [55, 80, 92, 58, 104, 12, 27]
+P(15) [103, 19]
+Q(16) [48]
+R(17) [67, 26, 47, 101, 9, 37]
+S(18) [52, 87, 59, 8, 78, 28]
+T(19) [20, 84, 5, 23, 3, 66, 36, 96, 53]
+U(20) [38, 51, 30]
+V(21) [17]
+W(22) [90, 25, 62]
+X(23) [35]
+Y(24) [88, 83]
+Z(25) [1]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HELITACIGARETTEANDTHENTHREWITAWAYHISEYELIDSDROOPEDTILLTHELONGFRINGEDLASHESALMOSTTOUCHEDHISCHEEKBUTHESTILLWATCHEDTHECABINETATLASTHEGOTUPFROMTHESOFAONWHICHHEHADBEENLYINGWENTOVERTOITANDHAVINGUNLOCKEDITTOUCHEDSOMEHIDDENSPRINGATRIANGULARDRAWERPASSEDSLOWLY
+
+--- CIPHERTEXT ---
+24 4 16 56 36 57 97 15 21 69 37 95 3 3 68 57 40 64 5 33 68 40 53 81 47 68 25 49 23 102 62 2 88 33 7 87 100 83 89 44 99 64 59 75 9 55 92 103 39 75 20 49 16 16 96 33 61 44 55 34 21 46 67 60 82 21 100 11 44 29 52 77 61 59 57 16 14 58 87 66 66 12 51 70 81 100 10 33 7 28 97 18 45 39 76 86 51 20 18 100 28 96 15 16 44 90 69 36 98 18 68 75 5 33 73 98 63 86 49 42 61 96 71 20 32 102 59 36 13 39 21 58 96 38 103 46 101 92 14 66 24 39 8 92 79 71 12 22 62 33 15 70 81 33 39 81 57 11 86 91 95 82 16 88 99 54 94 90 41 22 5 58 17 95 37 36 27 60 66 2 34 11 13 69 17 49 22 21 38 22 16 55 98 76 91 11 56 84 5 55 38 97 77 68 10 78 92 50 100 13 99 64 64 39 82 78 19 67 31 42 21 102 53 47 56 74 22 94 51 32 63 101 64 101 63 25 100 101 103 69 78 28 39 10 78 72 58 62 32 88
+
+--- DECRYPTED PLAINTEXT ---
+NGTHEATERTRALLTAISRETITHTTHEBERTHEARENTHESHEYEANTERETTHETHEARTOURRETHEWITHATTEREEDETHEHEATTEXTTHEREETHETHETERETEREARTHEETHERSEHESTREHENTEATENTJAZEDAREETHETHATHEARTHEFREPAREHAREQUETATSTHEAREATERTETHEREETITHEAKESESSTRECOMERETTHEARESTESETHEENTETTHEVERSH
+
+--- SCORE ---
+-1668.9604
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 250 chars correct (8.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> T
+3      -> L
+4      -> G
+5      -> R
+7      -> A
+8      -> J
+9      -> Y
+10     -> H
+11     -> T
+12     -> D
+13     -> S
+14     -> T
+15     -> E
+16     -> T
+17     -> H
+18     -> E
+19     -> C
+20     -> R
+21     -> R
+22     -> A
+23     -> B
+24     -> N
+25     -> H
+27     -> Q
+28     -> T
+29     -> E
+31     -> M
+32     -> S
+33     -> E
+34     -> A
+36     -> E
+37     -> R
+38     -> E
+39     -> T
+40     -> I
+41     -> P
+42     -> E
+44     -> H
+45     -> X
+46     -> T
+47     -> T
+49     -> E
+50     -> K
+51     -> E
+52     -> W
+53     -> T
+54     -> F
+55     -> E
+56     -> H
+57     -> A
+58     -> E
+59     -> H
+60     -> U
+61     -> T
+62     -> R
+63     -> T
+64     -> S
+66     -> E
+67     -> O
+68     -> T
+69     -> T
+70     -> T
+71     -> E
+72     -> V
+73     -> A
+74     -> E
+75     -> E
+76     -> T
+77     -> I
+78     -> E
+79     -> Z
+81     -> H
+82     -> R
+83     -> N
+84     -> E
+86     -> H
+87     -> R
+88     -> H
+89     -> T
+90     -> E
+91     -> E
+92     -> A
+94     -> R
+95     -> A
+96     -> H
+97     -> T
+98     -> R
+99     -> E
+100    -> E
+101    -> E
+102    -> E
+103    -> N

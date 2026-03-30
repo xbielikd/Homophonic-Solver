@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [20, 13, 27]
+B(1) [8]
+C(2) [37]
+D(3) [33, 11]
+E(4) [39, 21, 7, 25]
+F(5) [22]
+G(6) [2]
+H(7) [30, 42]
+I(8) [28, 19, 5]
+J(9) [14]
+K(10) [26]
+L(11) [32, 41]
+M(12) [40]
+N(13) [10, 36, 9]
+O(14) [31, 35, 43]
+P(15) [18]
+Q(16) [15]
+R(17) [0, 17]
+S(18) [24, 16]
+T(19) [12, 6, 34]
+U(20) [23]
+V(21) [4]
+W(22) [3]
+X(23) [38]
+Y(24) [1]
+Z(25) [29]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+1 31 23 33 31 9 34 26 10 43 3 3 30 13 6 1 35 23 3 7 17 21 34 31 40 7 35 9 37 21 3 30 1 43 10 37 39 43 42 28 37 20 9 6 8 21 20 17 12 43 34 30 19 36 26 35 22 28 34 28 3 19 24 42 19 42 27 33 36 39 4 7 17 41 27 5 33 39 1 21 24 23 18 31 9 1 43 23 1 43 23 42 27 4 39 24 18 35 28 41 7 11
+
+--- DECRYPTED PLAINTEXT ---
+DENTEARLYATTEJUDENTHEAREWHEARATEDAYREATERMAUXAMEPARESBLEVERETSITSTOTBECHEKOFTEDAINGEADANDANTOCEIGEEKHZ
+
+--- SCORE ---
+-765.5332
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 102 chars correct (3.9%)
+
+--- KEY (cipher -> plain) ---
+1      -> D
+3      -> T
+4      -> C
+5      -> F
+6      -> U
+7      -> H
+8      -> X
+9      -> A
+10     -> Y
+11     -> Z
+12     -> P
+13     -> J
+17     -> E
+18     -> G
+19     -> S
+20     -> M
+21     -> A
+22     -> V
+23     -> N
+24     -> I
+26     -> L
+27     -> O
+28     -> E
+30     -> E
+31     -> E
+33     -> T
+34     -> R
+35     -> E
+36     -> B
+37     -> R
+39     -> E
+40     -> W
+41     -> K
+42     -> T
+43     -> A

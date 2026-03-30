@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 29]
+B(1) [7, 45]
+C(2) [8, 9]
+D(3) [27, 6]
+E(4) [1, 14]
+F(5) [47, 37]
+G(6) [43, 11]
+H(7) [20, 41]
+I(8) [48, 16]
+J(9) [51, 25]
+K(10) [31, 3]
+L(11) [19, 24]
+M(12) [23, 17]
+N(13) [26, 2]
+O(14) [35, 12]
+P(15) [5, 44]
+Q(16) [32, 34]
+R(17) [28, 40]
+S(18) [21, 42]
+T(19) [4, 39]
+U(20) [22, 46]
+V(21) [0, 49]
+W(22) [15, 38]
+X(23) [30, 10]
+Y(24) [33, 50]
+Z(25) [13, 36]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+17 50 5 18 40 14 2 39 42 15 1 40 1 5 35 42 21 14 21 21 1 27 7 33 39 20 1 49 14 28 33 21 44 16 40 48 39 12 47 3 48 26 27 26 14 21 42 29 26 27 16 2 27 46 19 43 14 2 9 1 38 14 47 14 19 4 4 20 18 4 39 20 14 33 38 1 40 14 26 12 39 4 20 14 4 33 40 29 2 4 42 39 35 40 22 19 14 12 22 28
+
+--- DECRYPTED PLAINTEXT ---
+QXPARENTSWEREPASSESSEDBETHEJEZESFORATALMANDNESSINDONDUCKENGEVELECTTHATTHEEVERENATTHETERINTSTARYCEAYZ
+
+--- SCORE ---
+-942.4558
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 67 / 100 chars correct (67.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> N
+3      -> M
+4      -> T
+5      -> P
+7      -> B
+9      -> G
+12     -> A
+14     -> E
+15     -> W
+16     -> O
+17     -> Q
+18     -> A
+19     -> C
+20     -> H
+21     -> S
+22     -> Y
+26     -> N
+27     -> D
+28     -> Z
+29     -> I
+33     -> E
+35     -> A
+38     -> V
+39     -> T
+40     -> R
+42     -> S
+43     -> K
+44     -> F
+46     -> U
+47     -> L
+48     -> A
+49     -> J
+50     -> X

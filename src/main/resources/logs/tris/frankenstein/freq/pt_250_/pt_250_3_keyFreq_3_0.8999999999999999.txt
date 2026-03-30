@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 258
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [40, 25, 29, 66, 61, 51, 37, 33]
+B(1) [4, 13]
+C(2) [35, 87, 15]
+D(3) [88, 1, 92, 97]
+E(4) [38, 83, 36, 3, 99, 53, 17, 27, 56, 32, 39, 94]
+F(5) [45, 31, 7]
+G(6) [8, 9]
+H(7) [95, 77, 104, 28, 74, 76]
+I(8) [5, 62, 57, 73, 48, 47, 63]
+J(9) [43]
+K(10) [101]
+L(11) [30, 72, 50, 11]
+M(12) [59, 21, 71]
+N(13) [46, 2, 23, 6, 49, 58, 14]
+O(14) [78, 24, 91, 19, 102, 89, 100]
+P(15) [0, 79]
+Q(16) [85]
+R(17) [60, 26, 22, 52, 82, 90]
+S(18) [65, 103, 93, 44, 86, 18]
+T(19) [80, 98, 54, 20, 16, 12, 70, 67, 10]
+U(20) [41, 55, 75]
+V(21) [34]
+W(22) [81, 42, 96]
+X(23) [84]
+Y(24) [68, 69]
+Z(25) [64]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      258
+
+--- ORIGINAL PLAINTEXT ---
+WHILEILISTENEDTOTHEINSTRUCTIONSWHICHFELIXBESTOWEDUPONTHEARABIANTHESTRANGESYSTEMOFHUMANSOCIETYWASEXPLAINEDTOMEIHEARDOFTHEDIVISIONOFPROPERTYOFIMMENSEWEALTHANDSQUALIDPOVERTYOFRANKDESCENTANDNOBLEBLOODTHEWORDSINDUCEDMETOTURNTOWARDSMYSELFILEARNEDTHATTHEPOSSESSIONS
+
+--- CIPHERTEXT ---
+81 95 73 30 17 62 50 73 103 67 32 2 94 97 70 100 80 76 32 73 49 93 12 52 75 35 54 5 102 23 44 96 28 48 35 28 7 32 72 47 84 4 17 86 70 89 42 17 92 75 79 100 6 20 77 3 37 90 66 4 73 66 23 80 76 32 44 10 60 40 2 8 53 18 69 103 10 32 59 89 45 77 55 71 66 58 93 102 15 57 38 80 68 96 29 86 94 84 0 11 66 62 23 99 88 80 100 21 32 62 77 56 29 26 97 91 31 16 95 99 88 57 34 5 65 48 89 49 100 7 0 60 102 79 36 26 80 69 19 45 73 21 59 36 58 65 3 96 99 40 11 10 76 29 49 92 103 85 55 40 50 47 92 0 100 34 32 60 20 68 102 7 26 66 6 101 92 38 103 15 39 58 98 29 14 92 6 100 13 11 99 4 11 78 78 92 70 28 83 81 19 22 1 93 5 58 97 41 35 3 1 71 56 12 78 80 75 60 49 70 89 42 33 52 88 44 59 68 93 53 50 31 63 30 36 40 82 46 56 1 12 77 37 10 10 77 39 0 100 93 18 56 93 18 48 100 23 65
+
+--- DECRYPTED PLAINTEXT ---
+BEERSTHEAKETHERETHEERSTATELITSARTHETEEXTERSTREASETHENTHEAPAREASTHEATESTATTHATERETHECANSTRESTERATHEREATSANTERETHEAREVEREANESITHEREERETHERTHETERRENTERASETHAREAGESHTERESEETETERANDESARENJAZENEYEARESSERTOBEINSINEWEENCETSTTERREAMANARESTHEFRESQUENTHATTHERESTESTHEST
+
+--- SCORE ---
+-1719.8000
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 73 / 258 chars correct (28.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> N
+2      -> T
+3      -> E
+4      -> R
+5      -> I
+6      -> N
+7      -> E
+8      -> A
+10     -> T
+11     -> E
+12     -> T
+13     -> Y
+14     -> Z
+15     -> R
+16     -> R
+17     -> S
+18     -> T
+19     -> E
+20     -> T
+21     -> R
+22     -> I
+23     -> S
+26     -> R
+28     -> T
+29     -> A
+30     -> R
+31     -> E
+32     -> E
+33     -> M
+34     -> S
+35     -> E
+36     -> E
+37     -> A
+38     -> S
+39     -> E
+40     -> S
+41     -> W
+42     -> A
+44     -> A
+45     -> T
+46     -> U
+47     -> T
+48     -> H
+49     -> R
+50     -> H
+52     -> A
+53     -> T
+54     -> L
+55     -> E
+56     -> E
+57     -> E
+58     -> N
+59     -> R
+60     -> E
+62     -> T
+63     -> F
+65     -> T
+66     -> A
+67     -> K
+68     -> E
+69     -> H
+70     -> R
+71     -> C
+72     -> X
+73     -> E
+75     -> T
+76     -> H
+77     -> H
+78     -> S
+79     -> H
+80     -> T
+81     -> B
+82     -> Q
+83     -> O
+84     -> E
+85     -> G
+86     -> T
+88     -> N
+89     -> E
+90     -> P
+91     -> V
+92     -> E
+93     -> S
+94     -> H
+95     -> E
+96     -> R
+97     -> E
+98     -> J
+99     -> A
+100    -> E
+101    -> D
+102    -> T
+103    -> A

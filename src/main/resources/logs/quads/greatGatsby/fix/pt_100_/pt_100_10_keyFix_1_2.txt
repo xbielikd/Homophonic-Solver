@@ -1,0 +1,93 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 33]
+B(1) [41, 47]
+C(2) [20, 19]
+D(3) [26, 37]
+E(4) [10, 13]
+F(5) [1, 24]
+G(6) [48, 22]
+H(7) [43, 32]
+I(8) [2, 38]
+J(9) [40, 28]
+K(10) [4, 3]
+L(11) [45, 17]
+M(12) [25, 7]
+N(13) [39, 27]
+O(14) [23, 35]
+P(15) [16, 21]
+Q(16) [46, 11]
+R(17) [14, 31]
+S(18) [34, 51]
+T(19) [49, 18]
+U(20) [9, 50]
+V(21) [15, 6]
+W(22) [12, 44]
+X(23) [30, 29]
+Y(24) [8, 42]
+Z(25) [36, 0]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   33
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+32 38 34 18 33 39 39 10 26 51 3 38 27 12 33 51 37 31 5 44 39 33 49 18 14 33 20 49 2 6 13 17 42 49 2 22 32 18 23 27 43 2 51 24 33 19 13 5 27 26 32 38 34 34 32 23 31 18 43 5 38 31 17 23 23 3 10 37 33 51 18 32 35 9 22 43 38 18 44 10 14 13 18 31 2 25 25 13 26 13 15 10 14 42 26 5 42 38 20 35 9 17 26
+
+--- DECRYPTED PLAINTEXT ---
+HISTAPPEDSKINQASWRAMPATTBACTIVELYTIGHTONHISJAZEANDHISSHORTHAIRLOOKEWASTHOUGHITMEBETRIFFEDEXEBYDAYICOULD
+
+--- SCORE ---
+-1078.2985
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 87 / 103 chars correct (84.5%)
+
+--- KEY (cipher -> plain) ---
+2      -> I
+3      -> K
+5      -> A
+6      -> V
+9      -> U
+10     -> E
+12     -> Q
+13     -> E
+14     -> B
+15     -> X
+17     -> L
+18     -> T
+19     -> Z
+20     -> C
+22     -> G
+23     -> O
+24     -> J
+25     -> F
+26     -> D
+27     -> N
+31     -> R
+32     -> H
+33     -> A
+34     -> S
+35     -> O
+37     -> W
+38     -> I
+39     -> P
+42     -> Y
+43     -> H
+44     -> M
+49     -> T
+51     -> S

@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4, 35]
+B(1) [47, 25]
+C(2) [16, 38]
+D(3) [26, 34]
+E(4) [9, 10]
+F(5) [12, 28]
+G(6) [15, 14]
+H(7) [49, 17]
+I(8) [39, 32]
+J(9) [2, 45]
+K(10) [23, 19]
+L(11) [27, 11]
+M(12) [21, 0]
+N(13) [5, 41]
+O(14) [20, 29]
+P(15) [40, 31]
+Q(16) [7, 30]
+R(17) [18, 43]
+S(18) [22, 42]
+T(19) [44, 13]
+U(20) [48, 33]
+V(21) [8, 24]
+W(22) [51, 36]
+X(23) [50, 1]
+Y(24) [6, 46]
+Z(25) [3, 37]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+46 20 33 26 29 5 13 19 41 29 51 36 49 35 44 46 20 48 36 9 43 10 44 29 0 9 20 41 16 10 36 49 46 29 5 38 9 29 17 32 38 35 41 13 47 9 35 18 13 20 13 17 32 41 19 20 28 39 44 32 36 39 22 49 32 17 4 26 5 9 24 10 18 27 4 39 26 10 6 10 22 33 31 20 41 46 20 48 6 29 33 17 35 24 9 42 31 20 32 27 10 34
+
+--- DECRYPTED PLAINTEXT ---
+ERONEDEASEFTHERERYTEZEREJERSWETHEEDBEEREBESEGEEPERERESARKERETECHERINDEVEPLIENEMECOURSERYMEOREVEQURELEX
+
+--- SCORE ---
+-523.7670
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 102 chars correct (18.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> J
+4      -> I
+5      -> D
+6      -> M
+9      -> E
+10     -> E
+13     -> E
+16     -> W
+17     -> R
+18     -> P
+19     -> A
+20     -> R
+22     -> C
+24     -> V
+26     -> N
+27     -> L
+28     -> K
+29     -> E
+31     -> U
+32     -> E
+33     -> O
+34     -> X
+35     -> E
+36     -> T
+38     -> B
+39     -> E
+41     -> S
+42     -> Q
+43     -> Z
+44     -> R
+46     -> E
+47     -> G
+48     -> Y
+49     -> H
+51     -> F

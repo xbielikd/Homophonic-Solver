@@ -1,0 +1,109 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [47, 66, 30]
+B(1) [54, 14, 21]
+C(2) [38, 62, 0]
+D(3) [27, 71, 15]
+E(4) [23, 76, 42]
+F(5) [59, 24, 65]
+G(6) [16, 69, 19]
+H(7) [67, 68, 45]
+I(8) [18, 4, 25]
+J(9) [35, 10, 20]
+K(10) [64, 39, 44]
+L(11) [48, 12, 60]
+M(12) [37, 17, 77]
+N(13) [13, 34, 3]
+O(14) [11, 7, 36]
+P(15) [31, 22, 40]
+Q(16) [46, 33, 51]
+R(17) [5, 55, 57]
+S(18) [58, 72, 32]
+T(19) [70, 50, 74]
+U(20) [61, 9, 29]
+V(21) [1, 53, 43]
+W(22) [28, 56, 63]
+X(23) [2, 75, 52]
+Y(24) [26, 6, 8]
+Z(25) [49, 41, 73]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   49
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+56 42 30 57 23 3 7 50 72 42 3 70 18 13 50 36 70 68 23 56 36 55 48 27 74 36 47 18 57 36 29 57 37 36 5 30 48 31 55 23 20 61 15 4 38 23 72 4 13 42 53 23 57 70 47 64 42 66 13 8 34 36 50 4 0 42 11 65 63 67 47 50 38 11 17 77 36 13 40 42 7 22 12 42 72 66 26 30 3 71 18 13 23 43 23 57 25 34 74 76 57 59 23 55 42
+
+--- DECRYPTED PLAINTEXT ---
+TEENEDASSEDTORSETHETERMORETONEINJEREMOREDBYTHESTRECENTTHEIRQUESTHEENEXTSHELPERWEAKNESIZEDFOREVENTURINGERE
+
+--- SCORE ---
+-1123.7311
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 28 / 105 chars correct (26.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+3      -> D
+4      -> T
+5      -> R
+7      -> A
+8      -> Q
+11     -> E
+12     -> N
+13     -> R
+15     -> Y
+17     -> L
+18     -> O
+20     -> D
+22     -> K
+23     -> E
+25     -> T
+26     -> Z
+27     -> O
+29     -> I
+30     -> E
+31     -> O
+34     -> U
+36     -> E
+37     -> J
+38     -> H
+40     -> W
+42     -> E
+43     -> V
+47     -> T
+48     -> M
+50     -> S
+53     -> C
+55     -> R
+56     -> T
+57     -> N
+59     -> G
+61     -> B
+63     -> E
+64     -> H
+65     -> N
+66     -> I
+67     -> X
+68     -> H
+70     -> T
+71     -> F
+72     -> S
+74     -> R
+76     -> I
+77     -> P

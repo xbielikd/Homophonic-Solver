@@ -1,0 +1,156 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 257
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [64, 68, 87, 100, 117]
+B(1) [121, 22, 3, 14, 118]
+C(2) [93, 35, 81, 129, 15]
+D(3) [108, 95, 50, 96, 54]
+E(4) [111, 99, 26, 58, 6]
+F(5) [106, 43, 53, 92, 49]
+G(6) [125, 86, 85, 9, 72]
+H(7) [36, 84, 61, 47, 65]
+I(8) [124, 80, 29, 56, 91]
+J(9) [126, 30, 5, 79, 103]
+K(10) [57, 8, 17, 114, 21]
+L(11) [39, 127, 71, 12, 82]
+M(12) [66, 18, 105, 59, 120]
+N(13) [33, 44, 97, 123, 107]
+O(14) [28, 128, 45, 1, 23]
+P(15) [77, 24, 40, 119, 51]
+Q(16) [67, 46, 20, 13, 41]
+R(17) [19, 115, 101, 25, 73]
+S(18) [89, 83, 74, 113, 98]
+T(19) [112, 38, 88, 70, 2]
+U(20) [52, 110, 10, 102, 48]
+V(21) [31, 62, 16, 55, 90]
+W(22) [34, 60, 32, 7, 27]
+X(23) [78, 4, 75, 11, 0]
+Y(24) [94, 69, 122, 109, 63]
+Z(25) [104, 76, 42, 37, 116]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   96
+TEXT LENGTH:      257
+
+--- ORIGINAL PLAINTEXT ---
+WHENICAMEBACKFROMTHEEASTLASTAUTUMNIFELTTHATIWANTEDTHEWORLDTOBEINUNIFORMANDATASORTOFMORALATTENTIONFOREVERIWANTEDNOMORERIOTOUSEXCURSIONSWITHPRIVILEGEDGLIMPSESINTOTHEHUMANHEARTONLYGATSBYTHEMANWHOGIVESHISNAMETOTHISBOOKWASEXEMPTFROMMYREACTIONGATSBYWHOREPRESENTED
+
+--- CIPHERTEXT ---
+34 84 99 107 29 35 117 66 99 118 64 35 8 43 73 1 120 112 61 58 99 117 89 70 71 100 83 38 87 52 88 10 105 123 29 49 58 12 112 2 36 68 112 91 32 64 123 38 26 108 70 65 99 32 1 115 12 50 88 1 118 58 91 44 110 33 91 43 23 25 120 87 33 54 64 88 117 98 23 25 88 45 53 120 128 25 64 82 64 88 112 58 123 38 91 23 107 106 45 25 6 16 111 101 80 60 87 107 70 58 95 33 23 59 23 115 6 25 80 1 88 128 102 83 99 0 15 48 73 83 80 28 44 74 27 29 112 84 24 73 91 90 56 71 6 125 26 96 9 39 80 66 77 89 111 83 29 107 88 128 88 47 6 65 10 18 87 123 61 26 117 25 112 45 33 127 63 86 100 88 113 118 94 2 65 99 66 117 33 60 84 45 72 80 31 111 74 84 56 89 97 68 105 26 38 23 38 84 124 98 14 23 45 17 27 87 83 58 4 58 120 24 88 92 25 128 18 105 109 101 111 117 35 2 124 128 44 86 100 88 89 22 69 60 65 1 25 99 51 115 6 98 111 107 70 111 54
+
+--- DECRYPTED PLAINTEXT ---
+ZHENESARERESTHEESTHEEASTSARTEXTERNEREATTHATTHENTERTHEHESANTERETTINTHERSENCETATERTERSAREJETTENTTENTERTHESETENTERNEWESTREETAGREEQUEREATTHETHEETHESTHEMAKERESERENTATETHEPENHEARTENDTHATERYTHERANTHELEVETHESTARETETHETHEETHEREBESETERAPRESEASTEATHATSOFTHEREASTTENTEC
+
+--- SCORE ---
+-2210.4118
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 105 / 257 chars correct (40.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> E
+2      -> T
+4      -> B
+6      -> T
+8      -> T
+9      -> A
+10     -> E
+12     -> A
+14     -> H
+15     -> Q
+16     -> H
+17     -> T
+18     -> P
+22     -> O
+23     -> E
+24     -> E
+25     -> R
+26     -> E
+27     -> H
+28     -> A
+29     -> E
+31     -> V
+32     -> H
+33     -> N
+34     -> Z
+35     -> S
+36     -> H
+38     -> T
+39     -> K
+43     -> H
+44     -> T
+45     -> E
+47     -> E
+48     -> U
+49     -> R
+50     -> N
+51     -> A
+52     -> X
+53     -> R
+54     -> C
+56     -> E
+58     -> E
+59     -> W
+60     -> T
+61     -> H
+63     -> T
+64     -> E
+65     -> H
+66     -> R
+68     -> A
+69     -> F
+70     -> T
+71     -> S
+72     -> L
+73     -> E
+74     -> T
+77     -> E
+80     -> E
+82     -> J
+83     -> R
+84     -> H
+86     -> H
+87     -> E
+88     -> T
+89     -> S
+90     -> H
+91     -> T
+92     -> E
+94     -> Y
+95     -> R
+96     -> M
+97     -> T
+98     -> T
+99     -> E
+100    -> A
+101    -> S
+102    -> G
+105    -> R
+106    -> T
+107    -> N
+108    -> R
+109    -> E
+110    -> I
+111    -> E
+112    -> T
+113    -> E
+115    -> S
+117    -> A
+118    -> R
+120    -> S
+123    -> N
+124    -> E
+125    -> H
+127    -> D
+128    -> A

@@ -1,0 +1,170 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [133, 130, 90, 24, 67, 109, 111, 65, 92, 44]
+B(1) [69, 37]
+C(2) [38, 120, 106, 55]
+D(3) [36, 11, 121, 41, 35, 13]
+E(4) [31, 30, 81, 5, 48, 59, 103, 60, 129, 40, 9, 28, 10, 101, 119, 39]
+F(5) [0, 2, 126]
+G(6) [57, 118, 1]
+H(7) [128, 22, 82, 95, 32, 33, 16, 108]
+I(8) [49, 89, 85, 98, 29, 91, 34, 100, 122]
+J(9) [18]
+K(10) [71]
+L(11) [75, 17, 117, 72, 51]
+M(12) [52, 127, 46]
+N(13) [77, 97, 78, 125, 112, 105, 99, 47, 45]
+O(14) [86, 104, 63, 6, 134, 70, 113, 88, 107, 110]
+P(15) [64, 79, 42]
+Q(16) [4]
+R(17) [14, 56, 66, 96, 68, 23, 26, 3]
+S(18) [114, 50, 25, 87, 15, 62, 93, 19]
+T(19) [20, 123, 58, 80, 7, 131, 84, 73, 27, 124, 21]
+U(20) [115, 61, 76, 43]
+V(21) [12, 132]
+W(22) [116, 83, 8]
+X(23) [102]
+Y(24) [54, 94, 74]
+Z(25) [53]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   110
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SUDDENLYTHEBROADDISKOFTHEMOONAROSEANDSHONEFULLUPONHISGHASTLYANDDISTORTEDSHAPEASHEFLEDWITHMORETHANMORTALSPEEDIPURSUEDHIMANDFORMANYMONTHSTHISHASBEENMYTASKGUIDEDBYASLIGHTCLUEIFOLLOWEDTHEWINDINGSOFTHERHONEBUTVAINLYTHEBLUEMEDITERRANEANAPPEAREDANDBYASTRANGE
+
+--- CIPHERTEXT ---
+114 43 13 36 103 78 17 54 84 33 28 69 14 86 90 41 13 122 25 71 70 2 27 95 9 127 63 107 125 65 26 134 15 30 24 97 13 62 128 6 99 30 126 43 17 117 115 79 113 125 128 98 114 57 82 90 87 131 117 54 44 99 35 121 49 25 123 107 56 73 129 36 114 108 24 79 30 44 15 16 119 0 72 129 121 8 34 124 128 127 88 14 30 58 128 44 105 52 104 68 124 44 51 19 79 119 40 36 29 64 43 26 19 76 81 36 108 85 127 44 112 41 2 104 56 46 24 77 54 52 70 99 123 82 25 80 128 91 87 32 133 114 69 119 10 125 127 54 80 133 62 71 57 76 29 13 101 121 69 94 67 50 17 29 57 22 58 106 117 76 59 29 0 86 72 117 63 8 81 36 73 128 81 8 89 47 121 100 125 57 87 86 2 20 128 10 14 82 70 97 39 69 115 20 132 65 122 112 72 54 21 95 40 69 17 43 119 52 60 36 29 131 10 23 96 109 112 9 90 78 65 64 42 81 67 14 60 11 92 112 36 69 74 44 25 21 23 44 99 57 48
+
+--- DECRYPTED PLAINTEXT ---
+HESTHERECOMEETERSTEETIZERERTHERTHERESHETHEVEREASTHETHEREANEETHERYEETTHETHERSETHESTHEREANEEREETETHANANTHESSSTERERERSTEPETERINTERJEATHEREREWANTHESTHEERTHEERESERETHEREESTHERKETTHERESTHESEQURTHEATINETERTELEANGETEHERESERESANTENTETHEREEERESHENDBETEFTERETHEX
+
+--- SCORE ---
+-1145.2759
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 12 / 251 chars correct (4.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+2      -> I
+6      -> T
+8      -> E
+9      -> R
+10     -> T
+11     -> D
+13     -> S
+14     -> E
+15     -> H
+16     -> E
+17     -> R
+19     -> E
+20     -> N
+21     -> R
+22     -> S
+23     -> E
+24     -> R
+25     -> E
+26     -> R
+27     -> Z
+28     -> M
+29     -> E
+30     -> E
+32     -> N
+33     -> O
+34     -> A
+35     -> E
+36     -> T
+39     -> L
+40     -> S
+41     -> R
+42     -> E
+43     -> E
+44     -> T
+46     -> E
+47     -> U
+48     -> X
+49     -> Y
+50     -> E
+51     -> H
+52     -> A
+54     -> E
+56     -> T
+57     -> E
+58     -> T
+59     -> K
+60     -> N
+62     -> H
+63     -> R
+64     -> R
+65     -> E
+67     -> H
+68     -> A
+69     -> E
+70     -> T
+71     -> E
+72     -> H
+73     -> H
+74     -> F
+76     -> R
+77     -> J
+78     -> E
+79     -> S
+80     -> R
+81     -> S
+82     -> R
+84     -> C
+85     -> P
+86     -> T
+87     -> A
+88     -> R
+89     -> Q
+90     -> E
+91     -> W
+92     -> B
+94     -> T
+95     -> E
+96     -> T
+97     -> E
+98     -> T
+99     -> H
+100    -> T
+101    -> E
+103    -> H
+104    -> N
+105    -> H
+106    -> H
+107    -> T
+108    -> E
+109    -> H
+112    -> E
+113    -> T
+114    -> H
+115    -> A
+117    -> E
+119    -> S
+121    -> R
+122    -> T
+123    -> E
+124    -> N
+125    -> H
+126    -> V
+127    -> E
+128    -> E
+129    -> E
+131    -> N
+132    -> G
+133    -> T
+134    -> T

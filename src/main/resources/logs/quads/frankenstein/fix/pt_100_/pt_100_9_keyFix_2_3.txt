@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [50, 32, 71]
+B(1) [73, 70, 68]
+C(2) [55, 61, 29]
+D(3) [37, 16, 72]
+E(4) [46, 69, 57]
+F(5) [11, 23, 53]
+G(6) [52, 40, 34]
+H(7) [64, 8, 15]
+I(8) [58, 20, 35]
+J(9) [65, 30, 43]
+K(10) [24, 12, 76]
+L(11) [36, 17, 51]
+M(12) [56, 10, 59]
+N(13) [5, 26, 3]
+O(14) [54, 28, 22]
+P(15) [62, 7, 77]
+Q(16) [39, 49, 0]
+R(17) [21, 14, 45]
+S(18) [38, 75, 66]
+T(19) [67, 42, 31]
+U(20) [4, 9, 2]
+V(21) [27, 41, 25]
+W(22) [60, 6, 13]
+X(23) [63, 48, 33]
+Y(24) [47, 1, 44]
+Z(25) [74, 19, 18]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+32 66 20 17 54 22 76 69 37 54 5 64 58 10 64 58 38 29 22 2 5 67 69 3 71 3 29 69 69 63 62 14 46 75 75 57 72 31 64 57 9 42 10 22 75 42 69 63 42 69 5 31 22 11 56 32 36 58 29 57 71 26 16 67 14 69 32 61 64 57 21 1 35 42 15 22 4 34 15 42 60 58 67 15 71 66 69 5 75 50 42 35 22 3 22 11 56 32 72 26 69 38 66
+
+--- DECRYPTED PLAINTEXT ---
+NLYQUEZEBUTHERHERSEXTRESASSEEMICKSSEDTHEFERESEEMEETTERANGESEATERCENTHEPARESEJOSEVERSALETSWERESERANDTERL
+
+--- SCORE ---
+-950.7097
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 28 / 103 chars correct (27.2%)
+
+--- KEY (cipher -> plain) ---
+1      -> A
+2      -> X
+3      -> S
+4      -> J
+5      -> T
+9      -> F
+10     -> R
+11     -> R
+14     -> C
+15     -> S
+16     -> E
+17     -> Q
+20     -> Y
+21     -> P
+22     -> E
+26     -> T
+29     -> S
+31     -> T
+32     -> N
+34     -> O
+35     -> R
+36     -> G
+37     -> B
+38     -> R
+42     -> E
+46     -> K
+50     -> W
+54     -> U
+56     -> A
+57     -> E
+58     -> E
+60     -> V
+61     -> T
+62     -> I
+63     -> M
+64     -> H
+66     -> L
+67     -> R
+69     -> E
+71     -> A
+72     -> D
+75     -> S
+76     -> Z

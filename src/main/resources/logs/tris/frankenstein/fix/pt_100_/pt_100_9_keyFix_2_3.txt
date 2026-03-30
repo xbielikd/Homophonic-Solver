@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [31, 40, 61]
+B(1) [60, 73, 67]
+C(2) [68, 72, 9]
+D(3) [10, 49, 0]
+E(4) [48, 54, 30]
+F(5) [46, 28, 74]
+G(6) [62, 26, 5]
+H(7) [1, 6, 2]
+I(8) [19, 64, 4]
+J(9) [44, 71, 38]
+K(10) [29, 45, 56]
+L(11) [59, 41, 76]
+M(12) [7, 52, 18]
+N(13) [24, 21, 14]
+O(14) [22, 11, 51]
+P(15) [16, 35, 50]
+Q(16) [58, 39, 37]
+R(17) [13, 3, 33]
+S(18) [75, 15, 36]
+T(19) [47, 32, 25]
+U(20) [53, 43, 17]
+V(21) [70, 42, 12]
+W(22) [69, 8, 34]
+X(23) [20, 55, 57]
+Y(24) [77, 27, 65]
+Z(25) [63, 23, 66]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+31 15 4 76 11 11 56 30 49 22 14 2 19 52 2 64 15 9 22 43 21 25 54 21 61 14 72 48 48 57 50 33 54 15 15 54 49 25 6 48 17 32 18 51 36 32 54 55 32 30 24 47 22 46 18 31 41 64 68 30 31 24 49 25 33 54 31 72 6 54 33 27 19 25 6 11 53 62 1 47 69 4 32 6 31 75 48 21 15 31 32 19 22 21 22 74 52 61 10 21 54 75 15
+
+--- DECRYPTED PLAINTEXT ---
+ESIZEEKESENTHETOSPEARTERANTEEVERESSESTHEYTHEFTEXTENDETHEJOBEENSTREETHERCHTHEQUEDWITHEMERSETHERELEAGREMS
+
+--- SCORE ---
+-722.7950
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 47 / 103 chars correct (45.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> T
+4      -> I
+6      -> H
+9      -> P
+10     -> G
+11     -> E
+14     -> N
+15     -> S
+17     -> Y
+18     -> H
+19     -> H
+21     -> R
+22     -> E
+24     -> N
+25     -> T
+27     -> C
+30     -> E
+31     -> E
+32     -> T
+33     -> R
+36     -> F
+41     -> J
+43     -> A
+46     -> T
+47     -> D
+48     -> E
+49     -> S
+50     -> E
+51     -> E
+52     -> E
+53     -> Q
+54     -> E
+55     -> X
+56     -> K
+57     -> V
+61     -> A
+62     -> U
+64     -> O
+68     -> B
+69     -> W
+72     -> T
+74     -> L
+75     -> M
+76     -> Z

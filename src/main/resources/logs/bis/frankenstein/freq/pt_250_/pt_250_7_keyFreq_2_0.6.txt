@@ -1,0 +1,130 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [13, 50, 54, 34, 1]
+B(1) [23]
+C(2) [20, 35]
+D(3) [14, 51, 53]
+E(4) [19, 4, 29, 59, 21, 55, 49, 0]
+F(5) [72, 27]
+G(6) [41, 31]
+H(7) [63, 61, 5, 40]
+I(8) [71, 32, 28, 58, 62]
+J(9) [24]
+K(10) [46]
+L(11) [67, 8, 66]
+M(12) [3, 69]
+N(13) [42, 38, 33, 52, 48]
+O(14) [45, 56, 39, 6, 70]
+P(15) [43, 37]
+Q(16) [57]
+R(17) [11, 47, 7, 30]
+S(18) [44, 2, 26, 17]
+T(19) [25, 73, 15, 9, 18, 12]
+U(20) [60, 10]
+V(21) [22]
+W(22) [16, 36]
+X(23) [74]
+Y(24) [65, 68]
+Z(25) [64]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   70
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+THEGENEROUSNATUREOFSAFIEWASOUTRAGEDBYTHISCOMMANDSHEATTEMPTEDTOEXPOSTULATEWITHHERFATHERBUTHELEFTHERANGRILYREITERATINGHISTYRANNICALMANDATEAFEWDAYSAFTERTHETURKENTEREDHISDAUGHTERSAPARTMENTANDTOLDHERHASTILYTHATHEHADREASONTOBELIEVETHATHISRESIDENCEATLEGHORN
+
+--- CIPHERTEXT ---
+73 61 29 31 21 52 55 47 45 10 2 48 50 15 10 7 0 56 27 26 13 72 28 0 16 1 26 45 10 12 7 34 41 19 14 23 65 18 61 32 2 35 45 3 3 54 33 51 17 63 29 54 25 73 55 3 43 73 19 51 73 70 29 74 37 56 17 9 60 8 13 18 29 16 71 18 61 40 59 30 72 34 9 5 0 7 23 10 18 40 4 66 49 27 18 63 59 11 54 38 41 7 28 8 68 47 55 71 18 59 47 54 12 32 38 31 63 71 17 18 65 7 50 33 48 58 35 1 66 69 13 38 14 13 9 55 50 72 0 36 14 34 65 2 54 27 9 0 47 9 40 49 25 10 7 46 0 33 73 0 11 0 51 63 71 2 14 1 10 41 40 12 49 11 2 34 43 1 7 12 3 4 42 73 54 48 53 15 45 8 51 63 19 7 5 13 26 15 62 67 65 18 40 13 18 63 0 40 34 53 11 29 34 26 6 38 9 70 23 21 67 62 21 22 4 73 63 1 9 40 58 26 11 29 44 71 14 49 33 35 49 34 73 67 59 31 5 45 30 42
+
+--- DECRYPTED PLAINTEXT ---
+THETIVERESTORESTELARETHEMERESETETEHESTHETHERRESTSHEEATERSTETTHEQULSTJEETEMETHHENTETHETESTHECEATHERESTTHEPREETEREEESTHESTSTRSOTHECKESHETERTEWHESTEATERTHEASTBESTERETHETHESTHEERTESETEREGTEOFEEETHETHEREDESTHETHEHEFREERYSTHEIEDIZETHETHTRREXEHESHEETEETHENG
+
+--- SCORE ---
+-1184.2259
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 91 / 250 chars correct (36.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> E
+2      -> T
+3      -> R
+4      -> E
+5      -> H
+6      -> Y
+7      -> T
+8      -> E
+9      -> T
+10     -> S
+11     -> R
+12     -> E
+13     -> E
+14     -> H
+15     -> E
+16     -> M
+17     -> S
+18     -> T
+19     -> E
+21     -> I
+22     -> Z
+23     -> E
+25     -> A
+26     -> R
+27     -> A
+28     -> H
+29     -> E
+30     -> N
+31     -> T
+32     -> E
+33     -> S
+34     -> E
+35     -> H
+36     -> W
+37     -> U
+38     -> S
+40     -> H
+41     -> T
+42     -> G
+43     -> S
+44     -> X
+45     -> E
+46     -> B
+47     -> R
+48     -> O
+49     -> E
+50     -> R
+51     -> T
+52     -> V
+53     -> F
+54     -> E
+55     -> E
+56     -> L
+58     -> T
+59     -> E
+60     -> J
+61     -> H
+62     -> D
+63     -> H
+65     -> S
+66     -> C
+67     -> E
+68     -> P
+69     -> K
+70     -> H
+71     -> E
+72     -> T
+73     -> T
+74     -> Q

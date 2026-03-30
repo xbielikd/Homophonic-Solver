@@ -1,0 +1,104 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [48, 38, 34]
+B(1) [43, 13, 23]
+C(2) [53, 22, 2]
+D(3) [68, 50, 66]
+E(4) [4, 64, 31]
+F(5) [74, 40, 8]
+G(6) [54, 15, 39]
+H(7) [25, 57, 49]
+I(8) [75, 62, 32]
+J(9) [24, 72, 7]
+K(10) [27, 69, 65]
+L(11) [9, 42, 29]
+M(12) [37, 21, 59]
+N(13) [19, 71, 76]
+O(14) [11, 10, 77]
+P(15) [1, 0, 67]
+Q(16) [44, 45, 52]
+R(17) [35, 60, 20]
+S(18) [55, 26, 61]
+T(19) [18, 58, 56]
+U(20) [5, 28, 12]
+V(21) [70, 33, 6]
+W(22) [14, 3, 36]
+X(23) [63, 16, 51]
+Y(24) [41, 73, 47]
+Z(25) [17, 46, 30]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   44
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+ANDASIWALKEDONIWASLONELYNOLONGERIWASAGUIDEAPATHFINDERANORIGINALSETTLERHEHADCASUALLYCONFERREDONMETHEFREEDOM
+
+--- CIPHERTEXT ---
+38 19 66 48 61 62 14 38 42 69 31 66 10 76 75 14 34 55 9 11 19 4 9 73 19 11 29 11 19 54 64 60 32 14 38 61 38 39 28 32 50 64 48 0 48 56 57 8 62 76 66 31 35 48 19 10 60 75 54 75 71 34 42 26 31 58 18 29 4 60 49 4 25 48 50 53 34 61 12 34 29 9 41 53 11 19 8 31 35 60 64 66 77 19 59 4 56 25 4 8 60 64 4 66 77 37
+
+--- DECRYPTED PLAINTEXT ---
+ENTERTHEYWITCATHEBEENEEDNERENORESHEREJUSTREFERESTATIVENCETOTHEYLINGREEZERETPERMEREXPENSIVERTANKERRESERETAQ
+
+--- SCORE ---
+-966.1273
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 106 chars correct (13.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+4      -> E
+8      -> S
+9      -> E
+10     -> C
+11     -> E
+12     -> M
+14     -> H
+18     -> G
+19     -> N
+25     -> R
+26     -> L
+28     -> U
+29     -> R
+31     -> I
+32     -> S
+34     -> E
+35     -> V
+37     -> Q
+38     -> E
+39     -> J
+41     -> X
+42     -> Y
+48     -> E
+49     -> Z
+50     -> T
+53     -> P
+54     -> O
+55     -> B
+56     -> R
+57     -> E
+58     -> N
+59     -> K
+60     -> E
+61     -> R
+62     -> T
+64     -> R
+66     -> T
+69     -> W
+71     -> H
+73     -> D
+75     -> T
+76     -> A
+77     -> A

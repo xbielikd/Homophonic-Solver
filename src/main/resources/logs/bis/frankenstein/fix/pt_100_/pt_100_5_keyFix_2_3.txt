@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 14, 13]
+B(1) [38, 6, 59]
+C(2) [24, 25, 4]
+D(3) [57, 29, 63]
+E(4) [3, 71, 26]
+F(5) [69, 12, 31]
+G(6) [77, 39, 33]
+H(7) [44, 55, 15]
+I(8) [61, 65, 34]
+J(9) [70, 1, 67]
+K(10) [76, 50, 7]
+L(11) [46, 0, 16]
+M(12) [35, 68, 41]
+N(13) [8, 32, 45]
+O(14) [60, 53, 23]
+P(15) [27, 19, 36]
+Q(16) [21, 10, 28]
+R(17) [20, 51, 40]
+S(18) [56, 47, 58]
+T(19) [72, 52, 22]
+U(20) [17, 18, 43]
+V(21) [62, 42, 74]
+W(22) [66, 5, 37]
+X(23) [73, 64, 2]
+Y(24) [49, 9, 75]
+Z(25) [48, 54, 11]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+68 75 27 30 40 71 45 22 56 66 71 20 71 19 23 56 58 3 56 58 26 29 6 49 22 55 26 62 3 40 75 56 36 65 51 65 72 60 12 76 65 45 63 8 71 58 47 13 8 63 61 32 29 17 46 33 71 8 4 71 66 3 12 26 16 22 52 44 14 72 72 44 71 49 66 26 20 3 32 23 72 52 15 71 52 75 20 14 32 22 47 52 53 40 17 46 3 53 18 40
+
+--- DECRYPTED PLAINTEXT ---
+ZEQUREREAREREDEAREAREEXPEVEMEREABEWESINGERERERSERECREALYERKERENEJETHESSHEPRERERESTHETERERESTORALEOFR
+
+--- SCORE ---
+-488.9203
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 37 / 100 chars correct (37.0%)
+
+--- KEY (cipher -> plain) ---
+3      -> E
+4      -> K
+6      -> X
+8      -> R
+12     -> N
+13     -> E
+14     -> E
+15     -> H
+16     -> J
+17     -> A
+18     -> F
+19     -> D
+20     -> R
+22     -> E
+23     -> E
+26     -> E
+27     -> Q
+29     -> E
+30     -> U
+32     -> R
+33     -> Y
+36     -> B
+40     -> R
+44     -> H
+45     -> R
+46     -> L
+47     -> S
+49     -> P
+51     -> W
+52     -> T
+53     -> O
+55     -> V
+56     -> A
+58     -> R
+60     -> I
+61     -> C
+62     -> M
+63     -> E
+65     -> E
+66     -> R
+68     -> Z
+71     -> E
+72     -> S
+75     -> E
+76     -> G

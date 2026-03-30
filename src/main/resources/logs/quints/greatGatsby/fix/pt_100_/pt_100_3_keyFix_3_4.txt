@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 103, 69, 8]
+B(1) [29, 1, 67, 31]
+C(2) [18, 52, 62, 77]
+D(3) [39, 53, 96, 88]
+E(4) [93, 24, 23, 94]
+F(5) [46, 90, 82, 79]
+G(6) [38, 61, 76, 32]
+H(7) [0, 45, 44, 74]
+I(8) [99, 4, 75, 48]
+J(9) [55, 72, 14, 68]
+K(10) [71, 10, 41, 58]
+L(11) [51, 3, 54, 78]
+M(12) [84, 9, 86, 21]
+N(13) [70, 43, 15, 5]
+O(14) [56, 42, 20, 26]
+P(15) [37, 91, 73, 87]
+Q(16) [30, 97, 81, 33]
+R(17) [13, 22, 27, 57]
+S(18) [2, 19, 65, 35]
+T(19) [28, 11, 7, 85]
+U(20) [36, 34, 25, 63]
+V(21) [80, 60, 89, 95]
+W(22) [6, 17, 98, 59]
+X(23) [49, 66, 64, 16]
+Y(24) [100, 40, 83, 102]
+Z(25) [47, 92, 101, 50]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+4 85 59 8 2 43 28 63 15 85 48 78 7 0 23 15 7 45 69 85 99 18 56 5 5 23 77 7 93 96 7 44 4 2 38 103 28 65 31 100 59 48 7 74 85 44 24 26 90 79 48 18 24 22 75 70 44 93 57 59 45 75 11 23 18 103 57 98 45 23 15 72 26 22 53 69 70 31 8 71 23 57 74 103 39 82 99 15 48 2 0 93 88 85 93 54 54 48 70 76
+
+--- DECRYPTED PLAINTEXT ---
+IETINGERSEOFTHESTHUESSIMMENTANTSINKEEPLYTOTHESENTJOSEDEASATTHEBESETTHESANDQUALIZETHEWASSONHAVEACCOAX
+
+--- SCORE ---
+-1092.1029
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 22 / 100 chars correct (22.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+2      -> N
+4      -> I
+5      -> M
+7      -> T
+8      -> I
+11     -> B
+15     -> S
+18     -> S
+22     -> D
+23     -> E
+24     -> E
+26     -> N
+28     -> E
+31     -> L
+38     -> K
+39     -> W
+43     -> G
+44     -> S
+45     -> H
+48     -> O
+53     -> Q
+54     -> C
+56     -> I
+57     -> T
+59     -> T
+63     -> R
+65     -> P
+69     -> U
+70     -> A
+71     -> Z
+72     -> A
+74     -> H
+75     -> E
+76     -> X
+77     -> N
+78     -> F
+79     -> J
+82     -> A
+85     -> E
+88     -> V
+90     -> T
+93     -> A
+96     -> N
+98     -> T
+99     -> S
+100    -> Y
+103    -> E

@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [42, 27]
+B(1) [26, 21]
+C(2) [10, 48]
+D(3) [4, 15]
+E(4) [6, 12]
+F(5) [16, 41]
+G(6) [44, 51]
+H(7) [11, 1]
+I(8) [17, 9]
+J(9) [14, 23]
+K(10) [0, 19]
+L(11) [35, 2]
+M(12) [43, 28]
+N(13) [20, 40]
+O(14) [24, 30]
+P(15) [34, 37]
+Q(16) [29, 5]
+R(17) [46, 38]
+S(18) [13, 18]
+T(19) [31, 3]
+U(20) [45, 7]
+V(21) [39, 33]
+W(22) [47, 50]
+X(23) [22, 36]
+Y(24) [8, 32]
+Z(25) [49, 25]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+3 1 12 45 20 15 6 46 51 38 42 4 45 27 31 12 40 30 15 4 6 4 17 40 27 48 8 40 17 10 42 2 28 12 2 27 40 48 11 30 2 32 47 27 32 3 11 12 26 42 46 47 11 6 46 6 50 12 51 35 42 40 48 6 4 16 17 38 18 31 50 42 18 10 46 24 50 15 12 4 26 45 3 44 42 3 13 21 8 47 27 18 20 24 31 31 11 12 46 6
+
+--- DECRYPTED PLAINTEXT ---
+EVEPLDERYWESPETENEDSESONEGUNOFERKERENGHERCTECEHEMERTHEREREYBENGESJOWATREAFRIRDESMPEZEEXQUTEALITTHERE
+
+--- SCORE ---
+-534.6793
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 34 / 100 chars correct (34.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> V
+2      -> R
+3      -> E
+4      -> S
+6      -> E
+8      -> U
+10     -> F
+11     -> H
+12     -> E
+13     -> X
+15     -> D
+16     -> J
+17     -> O
+18     -> A
+20     -> L
+21     -> Q
+24     -> I
+26     -> M
+27     -> E
+28     -> K
+30     -> E
+31     -> T
+32     -> C
+35     -> B
+38     -> W
+40     -> N
+42     -> E
+44     -> Z
+45     -> P
+46     -> R
+47     -> T
+48     -> G
+50     -> R
+51     -> Y

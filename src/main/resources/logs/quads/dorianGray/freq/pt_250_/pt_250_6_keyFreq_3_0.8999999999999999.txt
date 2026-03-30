@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [81, 44, 65, 0, 20, 37, 47, 5]
+B(1) [94, 10]
+C(2) [82, 11, 7]
+D(3) [72, 26, 73, 104]
+E(4) [3, 52, 14, 28, 75, 91, 33, 93, 61, 68, 29, 99]
+F(5) [101, 8, 2]
+G(6) [41, 35]
+H(7) [76, 55, 30, 77, 48, 98]
+I(8) [90, 40, 70, 34, 78, 43, 62]
+J(9) [17]
+K(10) [66]
+L(11) [89, 51, 60, 27]
+M(12) [87, 22, 67]
+N(13) [25, 23, 54, 32, 97, 95, 42]
+O(14) [85, 86, 16, 103, 102, 79, 46]
+P(15) [59, 12]
+Q(16) [19]
+R(17) [83, 64, 18, 6, 96, 69]
+S(18) [38, 50, 58, 56, 88, 31]
+T(19) [45, 36, 63, 21, 84, 74, 80, 49, 57]
+U(20) [4, 53, 9]
+V(21) [100]
+W(22) [13, 15, 92]
+X(23) [71]
+Y(24) [39, 24]
+Z(25) [1]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ORDINARYWOMENALWAYSCONSOLETHEMSELVESSOMEOFTHEMDOITBYGOINGINFORSENTIMENTALCOLOURSNEVERTRUSTAWOMANWHOWEARSMAUVEWHATEVERHERAGEMAYBEORAWOMANOVERTHIRTYFIVEWHOISFONDOFPINKRIBBONSITALWAYSMEANSTHATTHEYHAVEAHISTORYOTHERSFINDAGREATCONSOLATIONINSUDDENLYDISCOVERING
+
+--- CIPHERTEXT ---
+16 18 104 34 97 0 96 39 13 85 67 14 54 5 27 15 81 39 38 11 103 32 56 86 51 33 57 55 33 22 38 29 89 100 61 88 58 79 67 3 16 8 80 76 75 87 104 79 34 57 94 39 35 16 62 23 35 70 32 101 79 6 50 75 32 36 78 22 14 54 45 0 60 82 46 60 79 4 6 56 97 28 100 3 83 80 18 9 56 36 47 15 103 22 47 32 15 98 86 92 33 20 83 58 22 65 9 100 93 15 76 0 84 91 100 75 18 30 29 64 65 35 93 67 47 39 94 91 103 6 0 92 86 87 81 54 103 100 14 6 36 77 62 18 84 39 2 40 100 33 92 98 16 43 56 8 103 54 26 86 101 59 40 32 66 69 34 10 10 86 97 50 90 80 20 27 15 20 39 50 87 52 47 32 58 36 48 20 57 63 77 91 24 55 0 100 68 0 30 78 56 63 86 64 39 46 21 48 28 64 58 101 78 32 73 37 35 83 75 5 45 82 16 42 88 102 51 81 80 34 79 97 34 42 50 53 72 72 28 54 51 24 104 34 38 7 86 100 33 83 78 54 35
+
+--- DECRYPTED PLAINTEXT ---
+TSHESEVERYTHETHEHERFRESATESHETRICTINARTOTHERETHRESSEATEJAZERRESEETETHEREDANDRIESSSTORESASTHERTHEESARETRATHATTERETATESWITHATTHESAREERATHERTHETHESTERSTERSTOSHREMARKSEXPELLASSEETHETESTTHEATITSTHATHETHEWESTATENTISTAREEQUARETRATINGTHEERSEISBEESETTHEREATEREEA
+
+--- SCORE ---
+-2212.6478
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 253 chars correct (13.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> R
+3      -> O
+4      -> I
+5      -> T
+6      -> E
+7      -> E
+8      -> H
+9      -> A
+10     -> L
+11     -> F
+13     -> R
+14     -> H
+15     -> E
+16     -> T
+18     -> S
+20     -> T
+21     -> T
+22     -> T
+23     -> J
+24     -> T
+26     -> M
+27     -> H
+28     -> S
+29     -> I
+30     -> W
+32     -> E
+33     -> E
+34     -> E
+35     -> A
+36     -> T
+37     -> U
+38     -> R
+39     -> E
+40     -> S
+42     -> I
+43     -> O
+45     -> R
+46     -> N
+47     -> H
+48     -> I
+50     -> S
+51     -> T
+52     -> T
+53     -> B
+54     -> E
+55     -> H
+56     -> S
+57     -> S
+58     -> A
+59     -> K
+60     -> D
+61     -> I
+62     -> E
+63     -> T
+64     -> T
+65     -> H
+66     -> X
+67     -> T
+68     -> H
+69     -> P
+70     -> Z
+72     -> E
+73     -> Q
+75     -> E
+76     -> R
+77     -> H
+78     -> E
+79     -> R
+80     -> E
+81     -> H
+82     -> A
+83     -> R
+84     -> T
+85     -> Y
+86     -> A
+87     -> T
+88     -> N
+89     -> C
+90     -> E
+91     -> A
+92     -> R
+93     -> T
+94     -> S
+96     -> V
+97     -> S
+98     -> S
+100    -> T
+101    -> R
+102    -> G
+103    -> R
+104    -> H

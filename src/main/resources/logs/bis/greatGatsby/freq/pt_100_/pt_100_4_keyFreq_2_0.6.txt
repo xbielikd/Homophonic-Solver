@@ -1,0 +1,119 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [41, 45, 70, 16, 46]
+B(1) [53]
+C(2) [51, 73]
+D(3) [17, 20, 3]
+E(4) [67, 1, 8, 11, 26, 32, 54, 52]
+F(5) [28, 5]
+G(6) [37, 34]
+H(7) [0, 44, 19, 29]
+I(8) [66, 38, 40, 36, 15]
+J(9) [25]
+K(10) [62]
+L(11) [50, 56, 42]
+M(12) [43, 21]
+N(13) [74, 55, 4, 30, 47]
+O(14) [35, 2, 69, 48, 13]
+P(15) [27, 72]
+Q(16) [7]
+R(17) [49, 60, 68, 12]
+S(18) [23, 31, 33, 65]
+T(19) [39, 64, 24, 57, 18, 10]
+U(20) [63, 22]
+V(21) [14]
+W(22) [71, 6]
+X(23) [9]
+Y(24) [59, 58]
+Z(25) [61]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   59
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+ANDASIWALKEDONIWASLONELYNOLONGERIWASAGUIDEAPATHFINDERANORIGINALSETTLERHEHADCASUALLYCONFERREDONMETHEFREEDOM
+
+--- CIPHERTEXT ---
+46 55 20 45 31 36 71 45 42 62 54 17 13 47 15 6 41 23 50 69 74 67 50 59 4 2 50 2 4 37 11 49 40 71 70 23 45 34 63 66 3 11 46 72 41 10 19 5 40 55 3 67 68 16 47 35 12 15 34 66 30 46 50 65 32 57 18 50 54 49 0 1 19 16 20 73 16 23 22 46 42 42 59 51 48 74 28 11 60 12 11 17 2 74 43 8 10 44 26 5 49 54 54 17 2 21
+
+--- DECRYPTED PLAINTEXT ---
+HEEROMEREFREVEREREEBEDERERERESTEREREREWANTHERETERENDTHEREREATHEQUNGERELYTHETHETHEERIZESTHETERECKEXPEERRERJ
+
+--- SCORE ---
+-502.2944
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 106 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> L
+1      -> Y
+2      -> R
+3      -> N
+4      -> E
+5      -> E
+6      -> E
+8      -> K
+10     -> E
+11     -> T
+12     -> E
+13     -> V
+15     -> R
+16     -> H
+17     -> E
+18     -> G
+19     -> T
+20     -> E
+21     -> J
+22     -> T
+23     -> E
+26     -> P
+28     -> S
+30     -> T
+31     -> O
+32     -> U
+34     -> E
+35     -> R
+36     -> M
+37     -> S
+40     -> R
+41     -> R
+42     -> E
+43     -> C
+44     -> X
+45     -> R
+46     -> H
+47     -> E
+48     -> Z
+49     -> E
+50     -> E
+51     -> I
+54     -> R
+55     -> E
+57     -> N
+59     -> R
+60     -> H
+62     -> F
+63     -> W
+65     -> Q
+66     -> A
+67     -> D
+68     -> T
+69     -> B
+70     -> R
+71     -> E
+72     -> E
+73     -> T
+74     -> E

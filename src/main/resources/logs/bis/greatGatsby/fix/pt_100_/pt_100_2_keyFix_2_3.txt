@@ -1,0 +1,104 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [42, 55, 8]
+B(1) [63, 19, 50]
+C(2) [71, 64, 9]
+D(3) [16, 30, 58]
+E(4) [70, 65, 0]
+F(5) [51, 62, 18]
+G(6) [27, 60, 57]
+H(7) [41, 46, 28]
+I(8) [4, 61, 77]
+J(9) [38, 36, 68]
+K(10) [14, 13, 6]
+L(11) [53, 3, 74]
+M(12) [49, 67, 56]
+N(13) [2, 69, 29]
+O(14) [12, 54, 45]
+P(15) [11, 24, 25]
+Q(16) [75, 10, 48]
+R(17) [20, 17, 73]
+S(18) [59, 52, 39]
+T(19) [34, 66, 37]
+U(20) [5, 72, 44]
+V(21) [26, 23, 35]
+W(22) [1, 15, 47]
+X(23) [21, 31, 40]
+Y(24) [76, 7, 43]
+Z(25) [22, 33, 32]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   44
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+55 39 59 12 45 2 55 52 77 42 20 17 61 26 65 16 61 67 42 30 0 42 69 42 34 37 0 49 24 66 66 54 62 77 2 16 56 7 41 12 59 37 63 44 66 37 28 70 34 47 12 12 17 37 28 73 0 0 25 70 54 25 53 0 12 51 47 41 54 49 77 8 39 6 65 30 46 77 59 15 28 0 73 65 8 19 12 5 37 39 59 34 42 17 65 16 8 34 67 0
+
+--- DECRYPTED PLAINTEXT ---
+LESEWALYEEXTTHESTHEREEVETHENGTTIZEASQURESHOFTHEDTEEETHEREENDINJEEMERINESEBERKESPEERESTECHESTETESSTHE
+
+--- SCORE ---
+-496.8021
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 100 chars correct (24.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> A
+5      -> C
+6      -> B
+7      -> U
+8      -> S
+12     -> E
+15     -> P
+16     -> S
+17     -> T
+19     -> T
+20     -> X
+24     -> G
+25     -> N
+26     -> H
+28     -> E
+30     -> R
+34     -> T
+37     -> H
+39     -> E
+41     -> R
+42     -> E
+44     -> F
+45     -> W
+46     -> K
+47     -> E
+49     -> N
+51     -> M
+52     -> Y
+53     -> J
+54     -> I
+55     -> L
+56     -> Q
+59     -> S
+61     -> T
+62     -> Z
+63     -> O
+65     -> E
+66     -> T
+67     -> H
+69     -> V
+70     -> D
+73     -> R
+77     -> E

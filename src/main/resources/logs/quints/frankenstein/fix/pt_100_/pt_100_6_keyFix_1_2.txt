@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [45, 32]
+B(1) [37, 7]
+C(2) [47, 6]
+D(3) [34, 18]
+E(4) [15, 49]
+F(5) [1, 17]
+G(6) [33, 42]
+H(7) [3, 13]
+I(8) [23, 8]
+J(9) [35, 43]
+K(10) [39, 41]
+L(11) [19, 44]
+M(12) [50, 36]
+N(13) [29, 51]
+O(14) [21, 24]
+P(15) [20, 4]
+Q(16) [40, 27]
+R(17) [22, 48]
+S(18) [12, 14]
+T(19) [31, 38]
+U(20) [16, 5]
+V(21) [9, 30]
+W(22) [26, 2]
+X(23) [25, 46]
+Y(24) [10, 28]
+Z(25) [0, 11]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+FORALONGTIMEICOULDNOTCONCEIVEHOWONEMANCOULDGOFORTHTOMURDERHISFELLOWOREVENWHYTHEREWERELAWSANDGOVERNMENTS
+
+--- CIPHERTEXT ---
+1 21 22 32 19 24 29 33 38 23 50 49 8 6 24 16 19 18 29 21 31 47 24 29 47 15 23 30 15 3 24 26 24 29 49 50 45 29 47 21 5 44 18 33 24 17 24 22 31 3 38 21 50 5 48 34 15 48 13 8 14 1 15 44 19 21 2 24 48 15 30 15 51 2 13 10 31 3 49 48 15 26 49 22 15 19 32 2 12 32 29 34 33 21 9 49 48 51 36 49 51 31 14
+
+--- DECRYPTED PLAINTEXT ---
+UEVERETHEYCANPEXRTTEEHETHEYWEREGETACKTHEOFTHELEVEREECONTENINQUEFRESENEWEDSIZERANEGAVERESBETTHEJANDMADEQ
+
+--- SCORE ---
+-1225.2753
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 103 chars correct (8.7%)
+
+--- KEY (cipher -> plain) ---
+1      -> U
+2      -> S
+3      -> R
+5      -> O
+6      -> P
+8      -> N
+9      -> J
+10     -> Z
+12     -> B
+13     -> I
+14     -> Q
+15     -> E
+16     -> X
+17     -> L
+18     -> T
+19     -> R
+21     -> E
+22     -> V
+23     -> Y
+24     -> E
+26     -> G
+29     -> T
+30     -> W
+31     -> E
+32     -> E
+33     -> H
+34     -> T
+36     -> M
+38     -> E
+44     -> F
+45     -> K
+47     -> H
+48     -> N
+49     -> A
+50     -> C
+51     -> D

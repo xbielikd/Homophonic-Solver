@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 34, 33]
+B(1) [1]
+C(2) [30]
+D(3) [38, 27]
+E(4) [21, 6, 16, 26]
+F(5) [36]
+G(6) [28]
+H(7) [35, 14]
+I(8) [5, 41, 29]
+J(9) [20]
+K(10) [9]
+L(11) [37, 24]
+M(12) [0]
+N(13) [15, 31, 25]
+O(14) [19, 42, 3]
+P(15) [2]
+Q(16) [43]
+R(17) [4, 40]
+S(18) [23, 18]
+T(19) [13, 32, 39]
+U(20) [8]
+V(21) [11]
+W(22) [12]
+X(23) [22]
+Y(24) [17]
+Z(25) [7]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+14 26 35 10 38 14 34 32 16 36 8 37 0 21 0 19 40 29 16 18 3 36 14 41 0 39 14 10 39 27 3 26 23 25 3 32 0 10 39 13 16 4 35 21 10 31 23 12 21 4 6 27 29 18 5 0 2 37 17 12 10 15 39 32 3 23 21 16 32 35 16 2 24 34 30 6 39 35 33 39 29 18 33 37 37 28 5 11 6 0 6 39 14 6 9 6 17 34 31 38
+
+--- DECRYPTED PLAINTEXT ---
+HPIECHOREDMOSTSUGEEREDHISTHETWEPAYERSETZELITERATTLEWERESSOFTEXTREATERIESJOKETINTERNOOVERESETHEBEFORC
+
+--- SCORE ---
+-1167.0282
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 100 chars correct (24.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+2      -> S
+3      -> E
+4      -> L
+5      -> E
+6      -> E
+8      -> M
+9      -> B
+10     -> E
+11     -> R
+12     -> T
+13     -> Z
+14     -> H
+15     -> X
+16     -> E
+17     -> F
+18     -> R
+19     -> U
+21     -> T
+23     -> A
+24     -> J
+25     -> Y
+26     -> P
+27     -> W
+28     -> V
+29     -> E
+30     -> K
+31     -> R
+32     -> R
+33     -> N
+34     -> O
+35     -> I
+36     -> D
+37     -> O
+38     -> C
+39     -> T
+40     -> G
+41     -> I

@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [9, 2, 5]
+B(1) [31]
+C(2) [26]
+D(3) [36, 33]
+E(4) [22, 39, 7, 23]
+F(5) [30]
+G(6) [19]
+H(7) [12, 15]
+I(8) [1, 20, 27]
+J(9) [16]
+K(10) [17]
+L(11) [4, 41]
+M(12) [40]
+N(13) [28, 38, 43]
+O(14) [24, 25, 35]
+P(15) [14]
+Q(16) [0]
+R(17) [18, 29]
+S(18) [32, 11]
+T(19) [21, 34, 37]
+U(20) [8]
+V(21) [3]
+W(22) [10]
+X(23) [42]
+Y(24) [6]
+Z(25) [13]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+15 22 26 9 40 7 25 28 4 6 24 43 26 7 1 43 10 15 20 21 7 17 43 27 26 17 39 18 31 24 26 17 23 18 11 9 38 36 12 9 36 9 30 20 19 12 34 10 20 37 15 9 31 8 40 28 2 40 7 33 23 34 21 6 20 28 21 15 22 19 9 18 33 23 38 30 18 25 40 30 2 29 21 12 22 29 24 8 34 24 38 34 15 22 20 32 4 9 43 33
+
+--- DECRYPTED PLAINTEXT ---
+THEETECOUGLIEEWINTEREDIZEDJABLEDMAKEEVEEVESEPEANEXTEBYTOFTERMARGEORTHPEARMESACTSFEREHELYALEATHEQUEIR
+
+--- SCORE ---
+-772.4627
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 100 chars correct (6.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> W
+2      -> F
+4      -> U
+6      -> G
+7      -> E
+8      -> Y
+9      -> E
+10     -> N
+11     -> K
+12     -> E
+15     -> T
+17     -> D
+18     -> A
+19     -> P
+20     -> E
+21     -> R
+22     -> H
+23     -> M
+24     -> L
+25     -> C
+26     -> E
+27     -> Z
+28     -> O
+29     -> E
+30     -> S
+31     -> B
+32     -> Q
+33     -> R
+34     -> A
+36     -> V
+37     -> X
+38     -> E
+39     -> J
+40     -> T
+43     -> I

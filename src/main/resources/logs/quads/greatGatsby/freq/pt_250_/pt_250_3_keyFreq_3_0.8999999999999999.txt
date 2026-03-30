@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [53, 83, 80, 98, 12, 100, 24, 7]
+B(1) [49, 97]
+C(2) [15, 69, 85]
+D(3) [74, 21, 22, 84]
+E(4) [96, 90, 89, 76, 93, 81, 77, 43, 10, 88, 34, 29]
+F(5) [0, 79, 71]
+G(6) [70, 95]
+H(7) [61, 44, 99, 13, 33, 37]
+I(8) [11, 59, 14, 78, 87, 66, 86]
+J(9) [31]
+K(10) [46]
+L(11) [48, 42, 27, 39]
+M(12) [41, 52, 60]
+N(13) [57, 58, 20, 40, 73, 47, 1]
+O(14) [8, 17, 25, 16, 32, 104, 4]
+P(15) [102, 35]
+Q(16) [9]
+R(17) [45, 5, 36, 101, 64, 2]
+S(18) [91, 28, 103, 18, 65, 6]
+T(19) [72, 51, 19, 63, 56, 55, 23, 68, 75]
+U(20) [92, 67, 94]
+V(21) [82]
+W(22) [3, 50, 30]
+X(23) [54]
+Y(24) [62, 26]
+Z(25) [38]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+AFTERTHATSHEDIDNTPLAYAROUNDWITHTHESOLDIERSANYMOREBUTONLYWITHAFEWFLATFOOTEDSHORTSIGHTEDYOUNGMENINTOWNWHOCOULDNTGETINTOTHEARMYATALLBYTHENEXTAUTUMNSHEWASGAYAGAINGAYASEVERSHEHADADBUTAFTERTHEARMISTICEANDINFEBRUARYSHEWASPRESUMABLYENGAGEDTOAMANFROMNEWORLEANS
+
+--- CIPHERTEXT ---
+100 71 56 76 64 19 33 24 75 91 13 88 84 14 22 47 51 102 42 98 26 7 36 32 92 1 22 30 87 68 61 23 61 43 91 25 39 84 11 10 45 103 53 40 62 52 25 45 29 49 92 51 104 57 48 62 30 11 56 44 24 0 81 30 79 48 83 68 0 4 104 19 77 84 91 37 17 2 51 6 11 95 44 55 43 74 62 32 94 57 70 60 10 57 86 73 63 25 3 73 30 61 4 15 8 94 42 74 57 55 95 93 19 59 47 56 17 55 99 10 12 2 52 62 98 72 100 27 42 49 62 75 61 77 57 89 54 63 98 94 19 92 41 47 91 13 77 50 83 28 95 7 26 83 70 7 14 73 70 83 26 98 65 96 82 10 45 91 99 89 44 83 22 100 22 97 94 75 98 0 68 93 36 56 99 90 98 45 52 59 65 56 11 15 81 24 1 84 14 58 71 76 97 36 92 98 36 62 18 13 81 30 53 103 35 45 96 65 67 52 98 49 42 26 10 1 70 98 70 88 21 56 32 100 60 100 58 79 5 104 60 57 81 3 8 45 27 93 83 58 6
+
+--- DECRYPTED PLAINTEXT ---
+EPTEDTHENTTHANTENWASNOTHISTERATETOTHEAREEARKETHERMINESHEERTSETHETHEATHETHATFOUNTRESTOLEHISTRESYSTHESETHERIALSTERTHETOTHEQUTESBECAMENTHSENTSITIZETTHEEVEONETONSTENSENJEETHESETETAINSTARTTHESETHETREHESANDPEATISTEDTHERAGENEXTSMANESTSTHETHEREDTHERSHERECREDT
+
+--- SCORE ---
+-2224.0319
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 251 chars correct (12.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> S
+2      -> U
+3      -> E
+4      -> H
+5      -> H
+6      -> T
+7      -> O
+8      -> R
+10     -> E
+11     -> R
+12     -> Q
+13     -> T
+14     -> N
+15     -> E
+17     -> O
+18     -> D
+19     -> T
+21     -> E
+22     -> T
+23     -> E
+24     -> E
+25     -> H
+26     -> N
+27     -> C
+28     -> V
+29     -> R
+30     -> E
+32     -> H
+33     -> H
+35     -> G
+36     -> T
+37     -> F
+39     -> E
+40     -> K
+41     -> Z
+42     -> A
+43     -> O
+44     -> S
+45     -> E
+47     -> E
+48     -> H
+49     -> M
+50     -> E
+51     -> N
+52     -> T
+53     -> R
+54     -> N
+55     -> T
+56     -> T
+57     -> S
+58     -> D
+59     -> H
+60     -> R
+61     -> T
+62     -> E
+63     -> T
+64     -> D
+65     -> E
+67     -> X
+68     -> A
+70     -> T
+71     -> P
+72     -> B
+73     -> S
+74     -> L
+75     -> N
+76     -> E
+77     -> H
+79     -> T
+81     -> H
+82     -> J
+83     -> E
+84     -> A
+86     -> Y
+87     -> R
+88     -> H
+89     -> E
+90     -> E
+91     -> T
+92     -> I
+93     -> R
+94     -> I
+95     -> E
+96     -> N
+97     -> A
+98     -> S
+99     -> H
+100    -> E
+102    -> W
+103    -> A
+104    -> E

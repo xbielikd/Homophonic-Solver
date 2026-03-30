@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [62, 41, 0]
+B(1) [53, 74, 56]
+C(2) [35, 3, 37]
+D(3) [60, 1, 12]
+E(4) [9, 52, 8]
+F(5) [36, 24, 59]
+G(6) [19, 39, 44]
+H(7) [49, 28, 76]
+I(8) [33, 73, 40]
+J(9) [14, 21, 15]
+K(10) [54, 66, 72]
+L(11) [58, 18, 71]
+M(12) [25, 48, 16]
+N(13) [50, 22, 46]
+O(14) [70, 7, 31]
+P(15) [23, 55, 75]
+Q(16) [63, 11, 29]
+R(17) [77, 32, 34]
+S(18) [4, 65, 67]
+T(19) [13, 45, 20]
+U(20) [61, 64, 26]
+V(21) [38, 6, 2]
+W(22) [30, 10, 43]
+X(23) [51, 27, 57]
+Y(24) [69, 47, 68]
+Z(25) [5, 42, 17]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+SHEUSEDTOWONDERIFHESUSPECTEDANYTHINGTHESILENCEFORHEMADENOOTHEROBSERVATIONBECAMEINTOLERABLETOHERSHEBEGAN
+
+--- CIPHERTEXT ---
+4 28 8 26 67 9 60 13 7 43 31 22 12 52 77 40 36 49 8 65 61 65 55 9 3 45 8 12 0 22 68 20 76 33 46 39 20 49 9 67 73 71 9 22 35 9 59 7 34 49 8 48 0 12 8 46 70 70 13 49 8 34 7 56 67 9 77 2 0 13 40 7 22 53 52 37 62 48 8 40 46 20 7 58 9 77 41 56 18 9 45 7 49 52 34 4 76 8 56 52 39 62 46
+
+--- DECRYPTED PLAINTEXT ---
+TJEZEEXTERANDENTTHESASKEYREDINGTHEONTHEEQUENCEPERHEVIDEOFFTHERESEENBITTENDELIVETOTEMENTSWEREHERTHESENIO
+
+--- SCORE ---
+-1116.3696
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 46 / 103 chars correct (44.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> I
+2      -> B
+3      -> Y
+4      -> T
+7      -> E
+8      -> E
+9      -> E
+12     -> D
+13     -> T
+18     -> W
+20     -> T
+22     -> N
+26     -> Z
+28     -> J
+31     -> A
+33     -> E
+34     -> R
+35     -> C
+36     -> T
+37     -> L
+39     -> N
+40     -> T
+41     -> T
+43     -> R
+45     -> R
+46     -> O
+48     -> V
+49     -> H
+52     -> E
+53     -> D
+55     -> K
+56     -> S
+58     -> M
+59     -> P
+60     -> X
+61     -> A
+62     -> I
+65     -> S
+67     -> E
+68     -> G
+70     -> F
+71     -> U
+73     -> Q
+76     -> H
+77     -> N

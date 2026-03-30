@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [25, 7, 42]
+B(1) [14]
+C(2) [43]
+D(3) [27, 11]
+E(4) [13, 29, 26, 15]
+F(5) [12]
+G(6) [40]
+H(7) [32, 8]
+I(8) [3, 38, 1]
+J(9) [19]
+K(10) [17]
+L(11) [4, 34]
+M(12) [28]
+N(13) [23, 16, 5]
+O(14) [6, 33, 37]
+P(15) [20]
+Q(16) [41]
+R(17) [0, 30]
+S(18) [10, 36]
+T(19) [18, 35, 2]
+U(20) [31]
+V(21) [39]
+W(22) [9]
+X(23) [24]
+Y(24) [21]
+Z(25) [22]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+32 38 36 11 25 31 40 32 35 15 0 42 2 35 15 23 27 15 27 8 1 28 9 3 18 32 18 32 15 40 30 13 42 35 13 36 35 18 15 23 27 13 0 5 15 10 36 14 31 35 36 32 29 10 25 9 9 3 2 8 27 26 36 20 42 3 30 35 32 25 35 18 8 29 38 30 34 1 18 18 4 29 12 31 23 27 9 7 36 0 25 20 3 11 4 21 27 26 43 0 15 42 36 38 5 40
+
+--- DECRYPTED PLAINTEXT ---
+EMELETHERTYEARTHETECUFRESESETHAGERGERSTHEGYPTWEXTREEOWERREACEDEVEEAREERSCOMAJUSSIONTHERKEYEVELIZEDBYTEEMPH
+
+--- SCORE ---
+-1059.3280
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 106 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> U
+2      -> A
+3      -> E
+4      -> I
+5      -> P
+7      -> K
+8      -> C
+9      -> R
+10     -> W
+11     -> L
+12     -> N
+13     -> G
+14     -> X
+15     -> T
+18     -> S
+20     -> V
+21     -> Z
+23     -> H
+25     -> E
+26     -> D
+27     -> E
+28     -> F
+29     -> O
+30     -> A
+31     -> T
+32     -> E
+34     -> J
+35     -> R
+36     -> E
+38     -> M
+40     -> H
+42     -> E
+43     -> B

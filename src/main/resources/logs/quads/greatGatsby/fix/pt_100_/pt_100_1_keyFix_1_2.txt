@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 3]
+B(1) [14, 48]
+C(2) [7, 6]
+D(3) [8, 26]
+E(4) [17, 46]
+F(5) [0, 25]
+G(6) [1, 49]
+H(7) [42, 43]
+I(8) [40, 22]
+J(9) [35, 30]
+K(10) [31, 45]
+L(11) [51, 27]
+M(12) [29, 20]
+N(13) [15, 41]
+O(14) [2, 11]
+P(15) [5, 38]
+Q(16) [10, 21]
+R(17) [36, 33]
+S(18) [47, 50]
+T(19) [9, 28]
+U(20) [18, 39]
+V(21) [34, 44]
+W(22) [32, 23]
+X(23) [24, 37]
+Y(24) [4, 19]
+Z(25) [13, 16]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+42 17 6 12 20 46 11 41 27 4 2 41 6 17 40 41 32 42 22 9 46 45 41 22 6 31 46 36 48 2 7 45 46 36 50 12 15 26 43 12 26 12 25 40 1 43 28 32 40 9 42 12 48 18 20 15 3 20 17 26 46 9 9 4 40 41 28 42 17 49 3 33 26 17 41 0 33 2 29 25 3 33 9 42 17 36 11 18 28 2 41 28 42 46 22 47 27 3 15 8
+
+--- DECRYPTED PLAINTEXT ---
+HENELEMSTHESNEISWHATEPSANGERYEXPERVEFREEREBIKETWITHEYALFOLERETTHISTHECOURESQUEZBOUTHERMATESTHEADTOFJ
+
+--- SCORE ---
+-950.6573
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 36 / 100 chars correct (36.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+1      -> K
+2      -> E
+3      -> O
+4      -> H
+6      -> N
+7      -> X
+8      -> J
+9      -> T
+11     -> M
+12     -> E
+15     -> F
+17     -> E
+18     -> A
+20     -> L
+22     -> A
+25     -> B
+26     -> R
+27     -> T
+28     -> T
+29     -> Z
+31     -> G
+32     -> W
+33     -> U
+36     -> R
+40     -> I
+41     -> S
+42     -> H
+43     -> E
+45     -> P
+46     -> E
+47     -> D
+48     -> Y
+49     -> C
+50     -> V

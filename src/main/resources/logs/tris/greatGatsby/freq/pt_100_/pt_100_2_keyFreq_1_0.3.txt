@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 9, 0]
+B(1) [25]
+C(2) [34]
+D(3) [39, 36]
+E(4) [40, 10, 12, 37]
+F(5) [33]
+G(6) [19]
+H(7) [41, 30]
+I(8) [13, 26, 1]
+J(9) [23]
+K(10) [15]
+L(11) [29, 43]
+M(12) [14]
+N(13) [17, 7, 8]
+O(14) [5, 35, 2]
+P(15) [21]
+Q(16) [20]
+R(17) [28, 24]
+S(18) [11, 4]
+T(19) [22, 31, 3]
+U(20) [18]
+V(21) [16]
+W(22) [27]
+X(23) [42]
+Y(24) [38]
+Z(25) [32]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+0 11 11 35 35 17 0 4 1 0 24 24 1 16 37 36 1 14 9 39 12 6 7 9 3 3 10 14 21 22 3 35 33 13 17 39 14 38 30 35 11 31 25 18 31 31 30 12 3 27 5 5 24 22 41 24 40 37 21 37 5 21 43 12 35 33 27 41 5 14 1 6 4 15 37 39 30 13 4 27 41 10 24 37 9 25 2 18 31 11 4 31 6 28 12 36 6 31 14 37
+
+--- DECRYPTED PLAINTEXT ---
+BEESSTBALBEELYSPLETHEEXTEEMEIDESOFTHEJESERCURREEENTTEDGEWSISTIZESONGTELEAKSHEFANGMESTCQUREAREVEPERES
+
+--- SCORE ---
+-781.9860
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 100 chars correct (7.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+1      -> L
+2      -> Q
+3      -> E
+4      -> A
+5      -> T
+6      -> E
+7      -> X
+9      -> T
+10     -> M
+11     -> E
+12     -> E
+13     -> F
+14     -> E
+15     -> K
+16     -> Y
+17     -> T
+18     -> U
+21     -> I
+22     -> D
+24     -> E
+25     -> C
+27     -> N
+28     -> V
+30     -> E
+31     -> R
+33     -> O
+35     -> S
+36     -> P
+37     -> S
+38     -> J
+39     -> H
+40     -> W
+41     -> G
+43     -> Z

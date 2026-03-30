@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [42, 1, 36]
+B(1) [38, 51, 10]
+C(2) [61, 3, 49]
+D(3) [20, 21, 8]
+E(4) [52, 14, 57]
+F(5) [37, 70, 25]
+G(6) [31, 24, 59]
+H(7) [46, 17, 48]
+I(8) [43, 16, 23]
+J(9) [22, 29, 12]
+K(10) [32, 50, 74]
+L(11) [39, 28, 34]
+M(12) [77, 26, 44]
+N(13) [19, 76, 30]
+O(14) [11, 2, 68]
+P(15) [58, 71, 41]
+Q(16) [5, 75, 9]
+R(17) [33, 69, 4]
+S(18) [27, 7, 67]
+T(19) [73, 53, 45]
+U(20) [18, 60, 54]
+V(21) [66, 13, 56]
+W(22) [55, 65, 15]
+X(23) [62, 0, 63]
+Y(24) [6, 72, 47]
+Z(25) [40, 64, 35]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+17 23 67 45 1 19 76 57 20 67 32 16 19 65 42 27 20 4 1 65 30 1 45 53 4 42 49 45 43 13 52 39 72 45 16 59 46 73 11 30 46 23 27 25 36 3 14 1 30 20 48 16 27 67 48 11 33 53 17 36 43 69 28 11 2 32 57 8 42 67 45 17 2 54 24 46 23 73 55 52 69 52 73 69 23 26 26 14 20 57 66 57 33 72 21 1 6 16 3 68 60 39 20
+
+--- DECRYPTED PLAINTEXT ---
+HATTERMATTHERPERTHEPRETTHEYTAXICATEVENEREARKERSERTHERTHERTHEAGREEHAZETTHEQUEANDIGINGALLSTABARAJEWEROFCT
+
+--- SCORE ---
+-943.2708
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 103 chars correct (14.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> E
+3      -> R
+4      -> H
+6      -> W
+8      -> Z
+11     -> E
+13     -> X
+14     -> S
+16     -> E
+17     -> H
+19     -> R
+20     -> T
+21     -> J
+23     -> A
+24     -> U
+25     -> K
+26     -> L
+27     -> R
+28     -> R
+30     -> R
+32     -> H
+33     -> R
+36     -> E
+39     -> C
+42     -> E
+43     -> A
+45     -> T
+46     -> E
+48     -> H
+49     -> Y
+52     -> I
+53     -> T
+54     -> Q
+55     -> D
+57     -> A
+59     -> V
+60     -> F
+65     -> P
+66     -> B
+67     -> T
+68     -> O
+69     -> G
+72     -> A
+73     -> N
+76     -> M

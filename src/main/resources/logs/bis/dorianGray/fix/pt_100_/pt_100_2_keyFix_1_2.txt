@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [3, 32]
+B(1) [15, 16]
+C(2) [23, 13]
+D(3) [39, 50]
+E(4) [29, 20]
+F(5) [51, 4]
+G(6) [26, 47]
+H(7) [6, 48]
+I(8) [18, 41]
+J(9) [33, 0]
+K(10) [14, 9]
+L(11) [11, 8]
+M(12) [10, 17]
+N(13) [40, 38]
+O(14) [34, 49]
+P(15) [1, 45]
+Q(16) [43, 44]
+R(17) [31, 19]
+S(18) [12, 22]
+T(19) [25, 28]
+U(20) [42, 35]
+V(21) [7, 24]
+W(22) [21, 2]
+X(23) [30, 5]
+Y(24) [27, 37]
+Z(25) [36, 46]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOODHEAVENSWHATALIFETHATISYOUHAVEGONEFROMCORRUPTIONTOCORRUPTIONANDNOWYOUHAVECULMINATEDINCRIMEINDOING
+
+--- CIPHERTEXT ---
+47 49 34 50 6 20 32 24 20 38 12 2 48 32 25 32 8 41 51 20 25 48 32 28 41 22 37 49 42 48 3 7 20 26 49 38 20 4 31 49 17 13 49 31 19 35 1 25 18 34 40 25 49 13 49 31 31 42 45 25 41 34 40 32 40 39 38 49 2 27 49 42 48 32 24 20 13 35 11 10 41 38 3 25 29 50 41 40 13 31 18 10 20 41 40 39 34 18 40 47
+
+--- DECRYPTED PLAINTEXT ---
+MEANGEERERECHETELEPETHEZEQUETHEBEVEREDSEXTESJOFTTARTETESSTYTEARERERECKETHERETOWHERETINERTSTHEEREATRM
+
+--- SCORE ---
+-498.4702
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 18 / 100 chars correct (18.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> F
+2      -> C
+3      -> E
+4      -> D
+6      -> G
+7      -> B
+8      -> L
+10     -> H
+11     -> W
+12     -> E
+13     -> T
+17     -> X
+18     -> T
+19     -> J
+20     -> E
+22     -> Q
+24     -> R
+25     -> T
+26     -> V
+27     -> K
+28     -> Z
+29     -> I
+31     -> S
+32     -> E
+34     -> A
+35     -> O
+37     -> U
+38     -> R
+39     -> E
+40     -> R
+41     -> E
+42     -> T
+45     -> Y
+47     -> M
+48     -> H
+49     -> E
+50     -> N
+51     -> P

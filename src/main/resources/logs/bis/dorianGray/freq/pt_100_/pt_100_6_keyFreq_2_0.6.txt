@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [55, 26, 59, 1, 21]
+B(1) [2]
+C(2) [69, 20]
+D(3) [28, 60, 34]
+E(4) [32, 27, 17, 13, 15, 73, 36, 14]
+F(5) [40, 31]
+G(6) [50, 8]
+H(7) [30, 18, 48, 61]
+I(8) [7, 4, 49, 62, 16]
+J(9) [5]
+K(10) [12]
+L(11) [47, 3, 39]
+M(12) [74, 24]
+N(13) [9, 68, 70, 67, 72]
+O(14) [51, 22, 38, 10, 46]
+P(15) [25, 23]
+Q(16) [42]
+R(17) [52, 66, 56, 29]
+S(18) [45, 43, 37, 35]
+T(19) [54, 57, 65, 33, 44, 53]
+U(20) [58, 71]
+V(21) [64]
+W(22) [63, 19]
+X(23) [11]
+Y(24) [41, 0]
+Z(25) [6]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+0 38 58 34 46 70 65 12 72 10 63 19 30 1 65 41 22 71 19 27 29 32 53 46 74 13 38 9 20 13 19 30 0 46 70 20 27 38 18 7 69 55 68 44 2 17 55 52 44 22 65 30 62 67 12 22 31 4 33 49 19 7 37 61 7 30 59 28 68 13 64 32 56 47 26 4 28 36 0 32 43 71 23 46 72 41 22 71 0 38 71 48 21 64 15 37 23 51 62 3 27 34
+
+--- DECRYPTED PLAINTEXT ---
+HEXPERTORETHESTINTHEDEBESTEVETHEHEREEEREWINECKIZENTERYONGEFTHETHEEJANTHEQULEATHESTHERINTHETITHETHERMEP
+
+--- SCORE ---
+-488.6250
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 102 chars correct (13.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> S
+2      -> C
+3      -> M
+4      -> E
+7      -> E
+9      -> V
+10     -> E
+12     -> O
+13     -> T
+15     -> E
+17     -> K
+18     -> R
+19     -> H
+20     -> E
+21     -> T
+22     -> N
+23     -> H
+26     -> L
+27     -> E
+28     -> A
+29     -> D
+30     -> E
+31     -> G
+32     -> E
+33     -> F
+34     -> P
+36     -> T
+37     -> T
+38     -> E
+41     -> I
+43     -> S
+44     -> E
+46     -> E
+47     -> U
+48     -> I
+49     -> T
+51     -> E
+52     -> Z
+53     -> B
+55     -> I
+56     -> Q
+58     -> X
+59     -> J
+61     -> H
+62     -> R
+63     -> T
+64     -> H
+65     -> T
+67     -> Y
+68     -> N
+69     -> W
+70     -> R
+71     -> T
+72     -> R
+74     -> S

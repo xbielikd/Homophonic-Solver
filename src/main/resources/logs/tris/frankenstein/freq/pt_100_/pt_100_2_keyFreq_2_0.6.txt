@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [37, 49, 11, 59, 27]
+B(1) [32]
+C(2) [14, 38]
+D(3) [5, 69, 73]
+E(4) [67, 44, 24, 1, 28, 64, 26, 60]
+F(5) [0, 40]
+G(6) [39, 66]
+H(7) [58, 48, 22, 62]
+I(8) [31, 25, 54, 50, 12]
+J(9) [63]
+K(10) [36]
+L(11) [46, 71, 41]
+M(12) [3, 30]
+N(13) [55, 13, 35, 2, 53]
+O(14) [72, 10, 34, 45, 18]
+P(15) [33, 61]
+Q(16) [7]
+R(17) [56, 6, 57, 4]
+S(18) [70, 51, 43, 47]
+T(19) [20, 42, 16, 52, 19, 74]
+U(20) [65, 8]
+V(21) [15]
+W(22) [29, 23]
+X(23) [21]
+Y(24) [68, 17]
+Z(25) [9]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+54 73 60 70 12 6 1 5 74 22 27 74 54 30 25 66 48 19 61 27 43 51 30 68 41 54 40 64 45 13 52 58 27 52 32 37 6 57 60 13 56 45 14 36 29 67 27 4 12 41 17 31 19 50 43 74 6 8 28 32 8 20 65 35 54 2 16 28 6 56 8 61 16 26 73 32 17 59 13 68 51 8 69 73 64 53 51 58 10 38 36 18 0 3 12 51 1 6 68 54 40
+
+--- DECRYPTED PLAINTEXT ---
+THEMETALASTATEXPEOFTEREENTHEETHETHENTHETHEKINGTHENDJOBEATEREECONTHERTHEFEWHEDATERETHEYREQUIZEVERATETH
+
+--- SCORE ---
+-676.7887
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 101 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> A
+2      -> H
+3      -> V
+4      -> H
+5      -> L
+6      -> T
+8      -> E
+10     -> Q
+12     -> E
+13     -> T
+14     -> K
+16     -> E
+17     -> D
+18     -> Z
+19     -> O
+20     -> C
+22     -> S
+25     -> X
+26     -> W
+27     -> T
+28     -> R
+29     -> N
+30     -> E
+31     -> J
+32     -> E
+35     -> N
+36     -> I
+37     -> N
+38     -> U
+40     -> H
+41     -> N
+43     -> E
+45     -> E
+48     -> E
+50     -> B
+51     -> R
+52     -> H
+53     -> Y
+54     -> T
+56     -> H
+57     -> H
+58     -> E
+59     -> A
+60     -> E
+61     -> F
+64     -> E
+65     -> O
+66     -> P
+67     -> G
+68     -> E
+69     -> T
+70     -> M
+73     -> H
+74     -> A

@@ -1,0 +1,150 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 252
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 54, 53, 91, 12, 88, 62, 15]
+B(1) [78, 82]
+C(2) [69, 71, 43]
+D(3) [92, 58, 27, 83]
+E(4) [48, 49, 35, 42, 50, 94, 97, 1, 40, 56, 51, 75]
+F(5) [74, 101, 38]
+G(6) [65, 96]
+H(7) [85, 95, 64, 102, 99, 7]
+I(8) [16, 21, 87, 4, 8, 100, 9]
+J(9) [23]
+K(10) [81]
+L(11) [47, 32, 18, 104]
+M(12) [34, 60, 39]
+N(13) [59, 29, 31, 10, 72, 55, 67]
+O(14) [17, 20, 52, 98, 28, 3, 36]
+P(15) [61, 73]
+Q(16) [33]
+R(17) [11, 25, 89, 44, 86, 63]
+S(18) [84, 103, 68, 93, 37, 76]
+T(19) [13, 14, 90, 80, 70, 77, 22, 45, 66]
+U(20) [41, 30, 46]
+V(21) [26]
+W(22) [24, 5, 2]
+X(23) [57]
+Y(24) [0, 79]
+Z(25) [19]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   90
+TEXT LENGTH:      252
+
+--- ORIGINAL PLAINTEXT ---
+THEHALLWASATPRESENTOCCUPIEDBYTWODEPLORABLYSOBERMENANDTHEIRHIGHLYINDIGNANTWIVESTHEWIVESWERESYMPATHIZINGWITHEACHOTHERINSLIGHTLYRAISEDVOICESWHENEVERHESEESIMHAVINGAGOODTIMEHEWANTSTOGOHOMENEVERHEARDANYTHINGSOSELFISHINMYLIFEWEREALWAYSTHEFIRSTONESTOLEAVESOARE
+
+--- CIPHERTEXT ---
+22 102 50 95 6 18 47 24 91 68 6 22 73 89 42 103 97 10 66 20 69 43 41 73 87 56 58 78 79 45 2 28 92 35 73 32 28 86 88 82 32 79 93 3 78 40 25 34 48 55 6 67 92 66 64 1 8 86 7 21 65 64 32 0 8 10 92 21 65 72 91 72 66 5 87 26 40 103 14 99 49 5 8 26 1 103 24 94 11 51 37 0 60 61 54 80 85 100 19 9 10 96 2 21 90 99 50 88 69 102 3 13 7 56 63 100 59 93 32 8 96 64 45 47 79 86 88 100 68 94 58 26 20 21 43 35 93 24 64 75 31 48 26 75 11 64 75 84 51 40 103 9 39 102 88 26 9 10 96 54 96 98 17 83 70 100 60 56 95 97 24 6 55 22 37 80 52 65 3 7 20 39 1 31 40 26 75 11 99 75 91 25 27 53 59 79 66 64 4 10 65 93 17 68 51 104 38 4 103 7 8 72 34 0 104 9 101 40 2 49 86 94 88 32 24 91 0 84 80 95 42 101 8 44 76 70 98 72 1 76 45 52 18 1 6 26 1 76 28 54 89 40
+
+--- DECRYPTED PLAINTEXT ---
+THETECATETETTHERESTATOFTERERSEASANTESTEJESTEREDEEREWATHEETENTHERESANTRERTHERERTHTHERERTHTHEREXTIZEMESTANGHEETHEBERKESTEETHEASTEETHERANONTTHERERETHETHERETHERESTTTEALYEERTETERTEINTEEATERERETHEEDQUSSTHESTTATHEVEREEREREEREATTHEETERTITEREPRYERERENCEERERSTHE
+
+--- SCORE ---
+-1171.1236
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 45 / 252 chars correct (17.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> E
+2      -> A
+3      -> E
+4      -> E
+5      -> H
+6      -> E
+7      -> E
+8      -> E
+9      -> E
+10     -> S
+11     -> T
+13     -> B
+14     -> T
+17     -> A
+18     -> C
+19     -> M
+20     -> A
+21     -> N
+22     -> T
+24     -> T
+25     -> D
+26     -> R
+27     -> Q
+28     -> S
+31     -> R
+32     -> E
+34     -> E
+35     -> N
+37     -> E
+38     -> V
+39     -> T
+40     -> E
+41     -> F
+42     -> E
+43     -> O
+44     -> P
+45     -> E
+47     -> A
+48     -> E
+49     -> T
+50     -> E
+51     -> H
+52     -> N
+53     -> U
+54     -> T
+55     -> R
+56     -> R
+58     -> E
+59     -> S
+60     -> E
+61     -> X
+63     -> K
+64     -> H
+65     -> T
+66     -> T
+67     -> W
+68     -> T
+69     -> T
+70     -> Y
+72     -> R
+73     -> T
+75     -> E
+76     -> R
+78     -> R
+79     -> S
+80     -> I
+82     -> J
+83     -> L
+84     -> T
+85     -> Z
+86     -> T
+87     -> E
+88     -> E
+89     -> H
+90     -> G
+91     -> E
+92     -> A
+93     -> T
+94     -> H
+95     -> T
+96     -> T
+97     -> E
+98     -> E
+99     -> H
+100    -> E
+101    -> R
+102    -> H
+103    -> R
+104    -> E

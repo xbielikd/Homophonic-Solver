@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [95, 103, 48, 35, 97, 102, 100, 75]
+B(1) [83, 104]
+C(2) [63, 31, 0]
+D(3) [66, 50, 20, 17]
+E(4) [77, 32, 84, 23, 96, 65, 90, 46, 61, 6, 1, 51]
+F(5) [60, 55, 62]
+G(6) [15, 54]
+H(7) [28, 98, 57, 49, 93, 85]
+I(8) [21, 14, 3, 52, 88, 5, 80]
+J(9) [71]
+K(10) [56]
+L(11) [22, 16, 12, 26]
+M(12) [64, 18, 86]
+N(13) [78, 59, 39, 79, 69, 73, 13]
+O(14) [101, 99, 11, 89, 41, 4, 8]
+P(15) [92, 24]
+Q(16) [10]
+R(17) [82, 33, 47, 19, 7, 27]
+S(18) [53, 9, 43, 68, 81, 2]
+T(19) [74, 87, 44, 40, 58, 25, 37, 72, 42]
+U(20) [70, 34, 29]
+V(21) [45]
+W(22) [38, 94, 91]
+X(23) [30]
+Y(24) [76, 67]
+Z(25) [36]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ABREEZEBLEWTHROUGHTHEROOMBLEWCURTAINSINATONEENDANDOUTTHEOTHERLIKEPALEFLAGSTWISTINGTHEMUPTOWARDTHEFROSTEDWEDDINGCAKEOFTHECEILINGANDTHENRIPPLEDOVERTHEWINECOLOUREDRUGMAKINGASHADOWONITASWINDDOESONTHESEATHEONLYCOMPLETELYSTATIONARYOBJECTINTHEROOMWASANENORMOUS
+
+--- CIPHERTEXT ---
+48 83 27 1 1 36 90 104 12 1 91 25 57 33 41 29 15 85 42 49 23 19 4 11 18 83 12 65 91 0 70 27 42 48 88 13 2 3 78 97 44 41 73 23 51 73 17 102 79 50 4 29 44 58 85 77 41 87 93 90 82 26 3 56 77 92 102 12 90 55 16 102 54 68 74 94 14 81 42 14 78 15 25 57 90 64 34 92 37 41 91 102 19 17 87 49 77 62 27 41 43 42 96 66 91 32 17 17 80 78 15 0 100 56 1 101 60 42 93 51 31 32 5 26 52 69 54 75 79 66 87 98 77 69 19 5 24 24 22 51 20 41 45 61 19 87 98 51 38 88 13 51 0 41 22 8 34 47 65 20 33 70 54 86 100 56 3 79 54 102 81 49 103 17 11 91 41 59 88 74 35 81 38 5 13 50 50 41 84 43 41 39 37 28 96 43 84 48 87 49 65 4 69 12 76 31 89 64 24 26 77 40 96 26 76 81 87 75 40 14 99 69 75 19 76 11 83 71 32 0 44 88 39 87 57 65 27 99 11 86 94 48 81 95 79 23 73 41 27 86 101 34 53
+
+--- DECRYPTED PLAINTEXT ---
+HEREEWETHESTHEETANTHERARKEHESTTRTHERYEETHEREERETTEATHENEETHEORERENTHENGTHEATHETHEATHERENDESTRETHEPRESTEISTEEMEATERERETHERTERETHETITHETREEEREREQURTHERERETERJEZERETHEERETHTEHEERSEVEALEREREEETSENDBESTHTHEATHERERERETEREETETHETERERECTTHENTHERERETHEFTEREREREX
+
+--- SCORE ---
+-1163.3669
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 70 / 253 chars correct (27.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> E
+2      -> Y
+3      -> E
+4      -> A
+5      -> E
+8      -> J
+11     -> R
+12     -> H
+13     -> R
+14     -> H
+15     -> A
+16     -> G
+17     -> E
+18     -> K
+19     -> R
+20     -> R
+22     -> R
+23     -> E
+24     -> E
+25     -> T
+26     -> R
+27     -> R
+28     -> B
+29     -> T
+31     -> R
+32     -> T
+33     -> E
+34     -> E
+35     -> L
+36     -> W
+37     -> D
+38     -> R
+39     -> N
+40     -> T
+41     -> E
+42     -> T
+43     -> S
+44     -> H
+45     -> Q
+47     -> Z
+48     -> H
+49     -> H
+50     -> E
+51     -> E
+52     -> E
+53     -> X
+54     -> H
+55     -> N
+56     -> R
+57     -> H
+58     -> E
+59     -> V
+60     -> E
+61     -> U
+62     -> P
+64     -> R
+65     -> E
+66     -> I
+68     -> E
+69     -> T
+70     -> T
+71     -> C
+73     -> R
+74     -> A
+75     -> E
+76     -> E
+77     -> E
+78     -> E
+79     -> T
+80     -> M
+81     -> E
+82     -> O
+83     -> E
+84     -> T
+85     -> N
+86     -> E
+87     -> T
+88     -> E
+89     -> E
+90     -> E
+91     -> S
+92     -> N
+93     -> H
+94     -> T
+95     -> F
+96     -> E
+97     -> T
+98     -> H
+99     -> E
+100    -> E
+101    -> R
+102    -> T
+103    -> E
+104    -> T

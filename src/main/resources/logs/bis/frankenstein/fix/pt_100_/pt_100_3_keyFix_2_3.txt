@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 51, 13]
+B(1) [21, 15, 14]
+C(2) [41, 61, 39]
+D(3) [4, 37, 62]
+E(4) [0, 57, 55]
+F(5) [17, 64, 71]
+G(6) [28, 66, 20]
+H(7) [63, 30, 65]
+I(8) [36, 75, 12]
+J(9) [56, 58, 53]
+K(10) [34, 59, 22]
+L(11) [7, 40, 77]
+M(12) [2, 25, 44]
+N(13) [48, 70, 69]
+O(14) [31, 35, 26]
+P(15) [33, 10, 18]
+Q(16) [43, 76, 47]
+R(17) [50, 68, 52]
+S(18) [5, 9, 72]
+T(19) [67, 60, 23]
+U(20) [42, 54, 73]
+V(21) [19, 1, 16]
+W(22) [46, 6, 74]
+X(23) [3, 24, 27]
+Y(24) [29, 8, 49]
+Z(25) [45, 32, 38]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+13 40 51 9 16 75 39 67 35 50 75 70 31 74 9 11 29 60 63 51 69 22 20 31 4 9 63 0 4 12 62 69 35 60 77 36 16 0 23 35 74 36 23 70 0 72 9 60 63 55 61 52 42 0 40 44 75 9 55 50 51 15 7 55 62 55 11 67 65 31 64 30 55 52 8 26 73 48 66 0 5 60 4 51 50 7 36 70 28 61 31 25 0 19 36 39 67 35 50 48 35 23
+
+--- DECRYPTED PLAINTEXT ---
+JATEREANTHEREHEOFINTECKESENESTHETIZEREATHEAREBEINTHEDEAYEETHTHETHTONGEQUTEXPLEMEWISTHEERTHEVEREANTHETA
+
+--- SCORE ---
+-491.5595
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 102 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+4      -> S
+5      -> W
+7      -> E
+8      -> X
+9      -> E
+11     -> O
+12     -> T
+13     -> J
+15     -> H
+16     -> R
+19     -> R
+20     -> K
+22     -> C
+23     -> A
+25     -> V
+26     -> P
+28     -> T
+29     -> F
+30     -> U
+31     -> E
+35     -> T
+36     -> E
+39     -> A
+40     -> A
+42     -> D
+44     -> Y
+48     -> E
+50     -> H
+51     -> T
+52     -> E
+55     -> T
+60     -> I
+61     -> H
+62     -> H
+63     -> N
+64     -> Q
+65     -> G
+66     -> M
+67     -> N
+69     -> E
+70     -> R
+72     -> B
+73     -> L
+74     -> H
+75     -> E
+77     -> Z

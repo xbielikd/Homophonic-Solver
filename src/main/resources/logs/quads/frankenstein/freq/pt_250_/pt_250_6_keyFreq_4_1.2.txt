@@ -1,0 +1,177 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 256
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [58, 131, 124, 127, 79, 57, 54, 48, 92, 83]
+B(1) [128, 10]
+C(2) [26, 106, 52, 16]
+D(3) [112, 85, 23, 38, 134, 41]
+E(4) [67, 33, 19, 89, 90, 11, 31, 72, 8, 59, 0, 64, 3, 43, 9, 105]
+F(5) [121, 39, 118]
+G(6) [60, 111, 80]
+H(7) [6, 21, 65, 5, 49, 70, 120, 12]
+I(8) [76, 130, 96, 100, 15, 126, 47, 17, 119]
+J(9) [18]
+K(10) [71]
+L(11) [45, 36, 86, 14, 102]
+M(12) [29, 116, 81]
+N(13) [68, 87, 110, 1, 56, 93, 94, 32, 25]
+O(14) [98, 123, 35, 101, 37, 129, 4, 69, 50, 77]
+P(15) [74, 66, 103]
+Q(16) [75]
+R(17) [13, 53, 63, 97, 107, 55, 78, 61]
+S(18) [115, 84, 122, 2, 113, 91, 104, 132]
+T(19) [22, 20, 109, 7, 28, 42, 34, 73, 82, 99, 88]
+U(20) [62, 46, 30, 24]
+V(21) [44, 133]
+W(22) [108, 40, 95]
+X(23) [125]
+Y(24) [51, 117, 27]
+Z(25) [114]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   117
+TEXT LENGTH:      256
+
+--- ORIGINAL PLAINTEXT ---
+HEWASATURKISHMERCHANTANDHADINHABITEDPARISFORMANYYEARSWHENFORSOMEREASONWHICHICOULDNOTLEARNHEBECAMEOBNOXIOUSTOTHEGOVERNMENTHEWASSEIZEDANDCASTINTOPRISONTHEVERYDAYTHATSAFIEARRIVEDFROMCONSTANTINOPLETOJOINHIMHEWASTRIEDANDCONDEMNEDTODEATHTHEINJUSTICEOFHISSENTENCE
+
+--- CIPHERTEXT ---
+65 0 108 83 2 57 99 24 53 71 100 132 5 81 8 107 52 5 48 56 22 83 87 41 65 58 85 126 1 70 54 128 96 20 72 23 66 79 107 15 2 39 37 107 29 54 32 117 117 72 54 53 84 108 5 9 68 39 35 61 2 69 29 31 55 64 79 91 37 94 95 6 15 26 120 17 16 50 46 102 85 32 50 88 14 67 57 107 87 12 67 10 43 16 57 116 19 69 10 68 50 125 119 77 30 91 20 37 7 6 72 111 101 133 11 53 1 116 33 110 34 5 105 95 54 122 113 90 119 114 31 38 124 1 134 26 92 91 88 96 68 42 4 103 63 119 2 77 56 28 6 90 44 0 63 51 38 92 117 22 5 58 88 84 58 118 15 3 127 13 78 76 133 0 134 118 55 4 116 16 101 1 2 99 92 68 22 119 93 98 103 86 9 34 101 18 35 15 1 49 100 116 6 89 108 48 84 22 97 96 0 38 79 68 85 52 37 68 134 67 81 56 105 38 82 101 134 19 131 99 70 42 21 33 96 93 18 24 104 73 15 106 105 98 121 6 17 132 122 90 1 34 105 32 26 0
+
+--- DECRYPTED PLAINTEXT ---
+HTERTHESTHESTOREATSTARETHERERENZENOTHREETSTERNESSONTHETHESTATERSOFRETHEREAKETSWERESTOTHEEXTRETHATERESINAMENTPROJERSTRALITTHENTHENTSEARSARETEENTIONTATEREDTOBERSATETHETEREQUARTSTOTATERTEREANDEIGHTEATERYEARCESHAVETERERATESTOTHERESTHEENTLEDASTHETHEPRESTERTHEAT
+
+--- SCORE ---
+-2175.7933
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 256 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> R
+2      -> T
+3      -> R
+4      -> T
+5      -> T
+6      -> R
+7      -> P
+8      -> R
+9      -> H
+10     -> R
+11     -> S
+12     -> X
+13     -> Q
+14     -> O
+15     -> E
+16     -> T
+17     -> E
+18     -> A
+19     -> T
+20     -> N
+21     -> T
+22     -> A
+23     -> T
+24     -> S
+26     -> A
+28     -> E
+29     -> R
+30     -> M
+31     -> S
+32     -> E
+33     -> L
+34     -> T
+35     -> T
+37     -> T
+38     -> E
+39     -> S
+41     -> T
+42     -> N
+43     -> E
+44     -> D
+46     -> W
+48     -> S
+49     -> Y
+50     -> S
+51     -> B
+52     -> A
+53     -> T
+54     -> N
+55     -> O
+56     -> T
+57     -> H
+58     -> E
+61     -> A
+63     -> O
+64     -> F
+65     -> H
+66     -> H
+67     -> T
+68     -> E
+69     -> E
+70     -> E
+71     -> H
+72     -> O
+73     -> H
+76     -> A
+77     -> A
+78     -> U
+79     -> R
+81     -> O
+82     -> R
+83     -> R
+84     -> H
+85     -> R
+86     -> G
+87     -> E
+88     -> T
+89     -> C
+90     -> E
+91     -> E
+92     -> R
+93     -> D
+94     -> H
+95     -> E
+96     -> E
+97     -> V
+98     -> E
+99     -> E
+100    -> E
+101    -> E
+102    -> E
+103    -> I
+104    -> T
+105    -> H
+106    -> T
+107    -> E
+108    -> E
+110    -> I
+111    -> J
+113    -> H
+114    -> T
+116    -> A
+117    -> S
+118    -> T
+119    -> N
+120    -> K
+121    -> P
+122    -> T
+124    -> A
+125    -> I
+126    -> E
+127    -> E
+128    -> Z
+131    -> H
+132    -> S
+133    -> R
+134    -> S

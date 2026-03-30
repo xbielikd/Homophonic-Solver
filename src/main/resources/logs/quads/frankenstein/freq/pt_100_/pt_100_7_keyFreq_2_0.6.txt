@@ -1,0 +1,119 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [17, 1, 35, 21, 5]
+B(1) [51]
+C(2) [16, 45]
+D(3) [57, 43, 19]
+E(4) [42, 7, 71, 62, 25, 34, 69, 13]
+F(5) [26, 64]
+G(6) [20, 0]
+H(7) [18, 41, 3, 70]
+I(8) [52, 39, 31, 40, 68]
+J(9) [53]
+K(10) [14]
+L(11) [30, 15, 38]
+M(12) [48, 9]
+N(13) [58, 46, 55, 6, 36]
+O(14) [2, 56, 66, 10, 50]
+P(15) [27, 33]
+Q(16) [59]
+R(17) [22, 29, 72, 44]
+S(18) [73, 49, 74, 60]
+T(19) [11, 32, 54, 4, 12, 67]
+U(20) [24, 65]
+V(21) [28]
+W(22) [61, 37]
+X(23) [23]
+Y(24) [47, 63]
+Z(25) [8]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   59
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+MYFATHERTRIEDTOAWAKENINMETHEFEELINGSOFAFFECTIONHETALKEDOFGENEVAWHICHISHOULDSOONVISITOFELIZABETHANDERNEST
+
+--- CIPHERTEXT ---
+9 47 64 21 4 18 62 44 32 44 39 13 19 32 56 5 61 1 14 7 6 68 58 48 69 54 3 42 26 7 42 15 52 58 20 60 56 26 21 64 64 13 16 32 52 2 58 3 13 67 17 15 14 13 43 56 26 0 69 58 34 28 35 37 18 52 45 41 39 74 41 66 24 30 43 49 2 50 55 28 31 49 68 32 56 26 69 38 52 8 35 51 13 12 70 35 58 57 34 29 46 69 60 4
+
+--- DECRYPTED PLAINTEXT ---
+QZERALLETEANDTHEYWEROFTHECITERTHATSTHEREENSTANTINGTHENTHEBETHESPLAKEAVEJUSTONTHESOFTHEEXAMSANDISTTHERETA
+
+--- SCORE ---
+-877.5892
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 104 chars correct (9.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+1      -> W
+2      -> N
+3      -> I
+4      -> A
+5      -> E
+6      -> O
+7      -> R
+8      -> M
+9      -> Q
+12     -> D
+13     -> N
+14     -> E
+15     -> H
+16     -> S
+17     -> T
+18     -> L
+19     -> D
+20     -> S
+21     -> R
+24     -> U
+26     -> E
+28     -> E
+29     -> E
+30     -> S
+31     -> S
+32     -> T
+34     -> H
+35     -> S
+37     -> P
+38     -> X
+39     -> A
+41     -> E
+42     -> T
+43     -> T
+44     -> E
+45     -> K
+46     -> R
+47     -> Z
+48     -> H
+49     -> O
+50     -> T
+51     -> A
+52     -> A
+54     -> C
+55     -> H
+56     -> H
+57     -> T
+58     -> T
+60     -> T
+61     -> Y
+62     -> L
+64     -> E
+66     -> J
+67     -> G
+68     -> F
+69     -> E
+70     -> I
+74     -> V

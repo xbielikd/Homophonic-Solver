@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [16, 26]
+B(1) [5, 11]
+C(2) [35, 47]
+D(3) [8, 21]
+E(4) [25, 29]
+F(5) [17, 41]
+G(6) [7, 2]
+H(7) [27, 24]
+I(8) [38, 1]
+J(9) [33, 4]
+K(10) [13, 15]
+L(11) [22, 30]
+M(12) [40, 10]
+N(13) [28, 51]
+O(14) [34, 46]
+P(15) [39, 12]
+Q(16) [3, 49]
+R(17) [45, 23]
+S(18) [44, 48]
+T(19) [43, 18]
+U(20) [37, 50]
+V(21) [36, 19]
+W(22) [20, 32]
+X(23) [31, 9]
+Y(24) [14, 42]
+Z(25) [0, 6]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+34 27 20 1 18 27 20 24 26 43 26 5 37 45 51 1 28 2 2 37 44 27 8 38 21 27 34 39 29 45 29 36 38 44 1 43 40 42 27 25 26 45 18 20 26 45 40 43 25 26 45 44 17 38 22 30 25 8 10 42 25 14 25 44 20 27 1 47 24 1 27 16 44 43 38 22 14 32 1 12 25 8 16 32 16 14 43 27 16 43 43 24 25 14 10 38 7 24 18 51 46 43
+
+--- DECRYPTED PLAINTEXT ---
+QSTIESTHATABORSIXMMONSDAYSQUARAJANITERSEARETARETEARNWALKEDPRESENTSIGHISANTALSFIVEDAFASTSATTHESPACHESZT
+
+--- SCORE ---
+-1235.3247
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 45 / 102 chars correct (44.1%)
+
+--- KEY (cipher -> plain) ---
+1      -> I
+2      -> M
+5      -> B
+7      -> C
+8      -> D
+10     -> P
+12     -> V
+14     -> S
+16     -> A
+17     -> W
+18     -> E
+20     -> T
+21     -> Y
+22     -> L
+24     -> H
+25     -> E
+26     -> A
+27     -> S
+28     -> X
+29     -> A
+30     -> K
+32     -> F
+34     -> Q
+36     -> J
+37     -> O
+38     -> A
+39     -> U
+40     -> E
+42     -> R
+43     -> T
+44     -> N
+45     -> R
+46     -> Z
+47     -> G
+51     -> S

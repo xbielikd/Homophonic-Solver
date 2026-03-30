@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 84, 92, 73, 101, 134, 1, 108, 89, 129]
+B(1) [70, 63]
+C(2) [27, 113, 46, 18]
+D(3) [57, 39, 41, 59, 13, 11]
+E(4) [28, 8, 4, 106, 109, 62, 36, 74, 44, 97, 32, 125, 10, 133, 86, 119]
+F(5) [25, 31, 79]
+G(6) [123, 37, 103]
+H(7) [52, 111, 6, 49, 77, 76, 81, 3]
+I(8) [51, 45, 131, 124, 23, 87, 65, 50, 34]
+J(9) [66]
+K(10) [107]
+L(11) [130, 120, 115, 82, 85]
+M(12) [80, 64, 83]
+N(13) [132, 56, 7, 24, 69, 105, 67, 43, 19]
+O(14) [29, 91, 78, 102, 9, 96, 110, 75, 100, 38]
+P(15) [88, 121, 26]
+Q(16) [17]
+R(17) [22, 14, 58, 116, 60, 98, 118, 42]
+S(18) [71, 93, 35, 95, 30, 117, 55, 68]
+T(19) [94, 33, 16, 61, 90, 53, 127, 21, 104, 112, 126]
+U(20) [20, 40, 12, 99]
+V(21) [114, 48]
+W(22) [0, 47, 72]
+X(23) [54]
+Y(24) [122, 128, 15]
+Z(25) [2]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+IWASBEWILDEREDINACLOUDOFWONDERANDHORRORTHEDEATHOFWILLIAMTHEEXECUTIONOFJUSTINETHEMURDEROFCLERVALANDLASTLYOFMYWIFEEVENATTHATMOMENTIKNEWNOTTHATMYONLYREMAININGFRIENDSWERESAFEFROMTHEMALIGNITYOFTHEFIENDMYFATHEREVENNOWMIGHTBEWRITHINGUNDERHISGRASPANDERNESTMIGHT
+
+--- CIPHERTEXT ---
+65 47 1 117 70 119 0 65 120 11 10 98 10 41 51 132 1 18 115 29 99 11 102 31 47 75 67 11 62 14 1 132 13 111 110 14 14 38 116 90 52 4 57 36 73 61 3 102 25 72 51 115 130 45 1 80 16 3 133 4 54 106 27 40 33 34 75 67 100 31 66 99 71 53 45 43 8 53 81 4 64 40 14 13 44 14 100 31 18 130 44 22 114 92 130 89 132 11 120 89 71 90 120 15 102 25 83 122 47 45 31 74 4 114 28 43 5 94 94 81 134 94 64 78 64 28 43 16 131 107 132 36 72 132 38 21 104 111 84 126 80 128 91 56 120 128 42 109 80 73 45 7 124 56 123 79 118 50 10 105 13 68 0 86 118 125 55 89 25 8 31 42 9 83 112 3 4 64 89 120 87 123 24 51 61 122 75 79 90 6 28 79 51 10 105 13 80 122 79 108 126 6 36 116 4 114 4 69 56 96 72 83 124 123 6 127 63 32 47 98 124 104 52 50 69 103 99 24 59 4 14 81 51 93 103 22 101 71 26 73 69 59 109 22 105 97 30 104 64 131 123 49 127
+
+--- DECRYPTED PLAINTEXT ---
+HESJOFTHETERETHESTERETHEEANTHESEREVEERTHEHESEETHETHEERSESTTHEMERYWANDEBETERERETHERERREDETEREEPERETERTHETHEERERETHEREREETHEECERESALESTERERETHERERERTHEERKERSTEREARETHEQURERETHEXTHEREASTHERATHERTHEARERTTHESTHEHERETEESENGHERERERERETTHETHERESTHEETHEAZEREASIN
+
+--- SCORE ---
+-1146.9620
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 8 / 253 chars correct (3.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> S
+3      -> T
+4      -> H
+5      -> R
+6      -> E
+7      -> K
+8      -> R
+9      -> H
+10     -> E
+11     -> T
+13     -> R
+14     -> E
+15     -> T
+16     -> S
+18     -> T
+21     -> E
+22     -> E
+24     -> T
+25     -> E
+26     -> H
+27     -> E
+28     -> R
+29     -> R
+30     -> E
+31     -> E
+32     -> H
+33     -> Y
+34     -> W
+36     -> S
+38     -> R
+40     -> R
+41     -> T
+42     -> T
+43     -> E
+44     -> R
+45     -> R
+47     -> E
+49     -> I
+50     -> R
+51     -> H
+52     -> E
+53     -> E
+54     -> E
+55     -> U
+56     -> R
+57     -> E
+59     -> T
+61     -> E
+62     -> H
+63     -> G
+64     -> E
+65     -> H
+66     -> B
+67     -> N
+68     -> E
+69     -> E
+70     -> O
+71     -> T
+72     -> T
+73     -> E
+74     -> T
+75     -> A
+78     -> C
+79     -> T
+80     -> E
+81     -> T
+83     -> E
+84     -> T
+86     -> H
+87     -> A
+89     -> R
+90     -> H
+91     -> E
+92     -> P
+93     -> E
+94     -> E
+96     -> E
+97     -> Z
+98     -> R
+99     -> E
+100    -> D
+101    -> S
+102    -> H
+103    -> R
+104    -> R
+105    -> A
+106    -> M
+107    -> L
+108    -> T
+109    -> H
+110    -> V
+111    -> E
+112    -> X
+114    -> E
+115    -> E
+116    -> T
+117    -> J
+118    -> E
+119    -> F
+120    -> E
+122    -> R
+123    -> S
+124    -> E
+125    -> Q
+126    -> H
+127    -> N
+128    -> R
+130    -> E
+131    -> A
+132    -> E
+133    -> T
+134    -> H

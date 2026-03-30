@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [46, 47]
+B(1) [3, 36]
+C(2) [16, 44]
+D(3) [38, 2]
+E(4) [1, 25]
+F(5) [21, 12]
+G(6) [37, 20]
+H(7) [10, 11]
+I(8) [50, 27]
+J(9) [26, 13]
+K(10) [19, 0]
+L(11) [31, 48]
+M(12) [22, 32]
+N(13) [7, 34]
+O(14) [23, 9]
+P(15) [4, 51]
+Q(16) [5, 6]
+R(17) [49, 24]
+S(18) [18, 39]
+T(19) [35, 29]
+U(20) [45, 17]
+V(21) [41, 33]
+W(22) [43, 8]
+X(23) [15, 30]
+Y(24) [40, 42]
+Z(25) [14, 28]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+18 11 1 43 46 39 46 39 31 25 7 38 25 24 18 32 47 48 48 36 24 1 47 18 29 25 2 37 50 24 48 43 27 35 11 46 34 1 24 25 44 29 16 47 24 24 27 47 20 25 8 10 27 16 11 39 10 1 46 16 16 1 34 29 45 46 35 25 38 36 40 35 11 49 23 43 50 34 37 10 25 49 36 23 38 42 36 47 16 19 8 47 24 2 46 35 29 10 25 18 10 9 45 48 2 1 24 18
+
+--- DECRYPTED PLAINTEXT ---
+TEEVATATZEMBENTFALLENEATTEDWINLVEREASENEXTRANNEAKECHERETHEARRESTUAREBEPREGOVISWHEGEOBJEARYCANDARTHETHQULDENT
+
+--- SCORE ---
+-831.2667
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 48 / 108 chars correct (44.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> D
+7      -> M
+8      -> C
+9      -> Q
+10     -> H
+11     -> E
+16     -> R
+18     -> T
+19     -> Y
+20     -> K
+23     -> O
+24     -> N
+25     -> E
+27     -> E
+29     -> T
+31     -> Z
+32     -> F
+34     -> S
+35     -> R
+36     -> E
+37     -> W
+38     -> B
+39     -> T
+40     -> P
+42     -> J
+43     -> V
+44     -> X
+45     -> U
+46     -> A
+47     -> A
+48     -> L
+49     -> G
+50     -> I

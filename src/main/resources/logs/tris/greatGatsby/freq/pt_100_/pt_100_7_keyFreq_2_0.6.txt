@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [17, 1, 5, 40, 43]
+B(1) [46]
+C(2) [53, 19]
+D(3) [38, 51, 30]
+E(4) [67, 64, 31, 26, 44, 25, 13, 20]
+F(5) [70, 6]
+G(6) [62, 9]
+H(7) [18, 24, 49, 35]
+I(8) [2, 22, 73, 45, 14]
+J(9) [33]
+K(10) [11]
+L(11) [10, 7, 60]
+M(12) [23, 66]
+N(13) [56, 29, 8, 27, 15]
+O(14) [47, 52, 50, 54, 74]
+P(15) [42, 34]
+Q(16) [58]
+R(17) [16, 39, 21, 72]
+S(18) [69, 68, 36, 28]
+T(19) [0, 32, 63, 59, 71, 4]
+U(20) [48, 55]
+V(21) [57]
+W(22) [37, 61]
+X(23) [3]
+Y(24) [41, 65]
+Z(25) [12]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+46 60 45 8 11 22 8 9 40 61 5 41 63 18 67 46 21 22 9 18 4 56 31 28 69 47 6 0 35 26 69 59 72 20 44 63 47 55 0 69 45 51 67 66 41 25 41 44 28 34 45 19 11 25 30 35 22 23 52 48 0 74 46 28 53 55 16 64 10 41 22 29 71 18 26 5 8 63 31 21 74 47 23 0 43 7 11 73 56 9 0 54 17 29 54 0 35 25 72 23 40 29
+
+--- DECRYPTED PLAINTEXT ---
+IZATETTHEFIESETINTHECTINDTHEANDITWASTHEDAYTHEREANDAVERMATHEBEGINTHEQUETOKENITSINGTHEPLEXTHERJOREARTHEO
+
+--- SCORE ---
+-688.6794
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 1 / 102 chars correct (1.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+4      -> C
+5      -> I
+6      -> H
+7      -> L
+8      -> T
+9      -> H
+10     -> U
+11     -> E
+16     -> E
+17     -> J
+18     -> E
+19     -> V
+20     -> W
+21     -> N
+22     -> T
+23     -> H
+25     -> R
+26     -> N
+28     -> N
+29     -> O
+30     -> M
+31     -> I
+34     -> D
+35     -> A
+40     -> E
+41     -> E
+43     -> P
+44     -> A
+45     -> A
+46     -> I
+47     -> T
+48     -> B
+51     -> Y
+52     -> E
+53     -> T
+54     -> R
+55     -> H
+56     -> T
+59     -> I
+60     -> Z
+61     -> F
+63     -> S
+64     -> Q
+66     -> H
+67     -> T
+69     -> D
+71     -> K
+72     -> T
+73     -> X
+74     -> G

@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 50, 8]
+B(1) [54, 13, 66]
+C(2) [72, 7, 26]
+D(3) [14, 62, 57]
+E(4) [58, 48, 43]
+F(5) [12, 2, 35]
+G(6) [0, 45, 31]
+H(7) [70, 67, 32]
+I(8) [15, 47, 41]
+J(9) [39, 21, 61]
+K(10) [34, 73, 74]
+L(11) [29, 51, 59]
+M(12) [49, 4, 40]
+N(13) [25, 65, 9]
+O(14) [76, 33, 27]
+P(15) [19, 55, 16]
+Q(16) [53, 42, 69]
+R(17) [5, 56, 60]
+S(18) [24, 30, 10]
+T(19) [36, 1, 17]
+U(20) [63, 71, 46]
+V(21) [64, 37, 28]
+W(22) [20, 68, 11]
+X(23) [22, 38, 44]
+Y(24) [77, 23, 75]
+Z(25) [3, 18, 52]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+54 46 1 36 70 58 47 60 76 20 9 30 33 63 29 10 24 36 8 56 28 58 8 25 57 50 60 43 25 50 74 48 14 7 76 46 5 6 31 48 70 50 30 31 27 25 58 27 71 1 27 35 27 63 60 5 50 26 58 16 58 5 67 6 55 10 68 43 65 48 37 48 5 56 43 8 59 51 75 67 50 57 41 17 36 70 58 1 48 60 60 76 5 27 12 10 76 26 47 58 36 77
+
+--- DECRYPTED PLAINTEXT ---
+JAPARESTELYTOCKEDANTHENSTATISAMEQUEARTHERATHESEEXPERECTRANEWERETHEFINEVERTINGTHEATHEAREPETTEREBEENSEAZ
+
+--- SCORE ---
+-892.6267
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 25 / 102 chars correct (24.5%)
+
+--- KEY (cipher -> plain) ---
+1      -> P
+5      -> R
+6      -> T
+7      -> U
+8      -> N
+9      -> Y
+10     -> E
+12     -> B
+14     -> Q
+16     -> W
+17     -> E
+20     -> L
+24     -> D
+25     -> S
+26     -> N
+27     -> E
+28     -> H
+29     -> K
+30     -> T
+31     -> H
+33     -> O
+35     -> R
+36     -> A
+37     -> V
+41     -> H
+43     -> I
+46     -> A
+47     -> S
+48     -> E
+50     -> A
+51     -> T
+54     -> J
+55     -> H
+56     -> T
+57     -> T
+58     -> E
+59     -> G
+60     -> T
+63     -> C
+65     -> N
+67     -> E
+68     -> F
+70     -> R
+71     -> X
+74     -> M
+75     -> H
+76     -> E
+77     -> Z

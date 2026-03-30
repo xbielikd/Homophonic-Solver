@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [102, 80, 91, 28, 52, 61, 43, 42]
+B(1) [51, 93]
+C(2) [97, 16, 14]
+D(3) [23, 21, 24, 63]
+E(4) [4, 82, 84, 94, 47, 65, 83, 30, 58, 89, 76, 81]
+F(5) [46, 86, 66]
+G(6) [70, 6]
+H(7) [10, 69, 34, 17, 104, 54]
+I(8) [77, 85, 9, 39, 19, 78, 12]
+J(9) [49]
+K(10) [13]
+L(11) [71, 101, 103, 38]
+M(12) [3, 73, 32]
+N(13) [87, 68, 20, 8, 60, 90, 37]
+O(14) [40, 96, 7, 22, 5, 99, 64]
+P(15) [33, 79]
+Q(16) [53]
+R(17) [55, 29, 27, 67, 45, 92]
+S(18) [75, 100, 41, 2, 56, 25]
+T(19) [35, 59, 11, 31, 18, 1, 26, 36, 62]
+U(20) [15, 0, 98]
+V(21) [88]
+W(22) [50, 48, 57]
+X(23) [95]
+Y(24) [72, 74]
+Z(25) [44]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+ITWOULDBEABSURDFORHIMTOMARRYSOMUCHBENEATHHIMIFYOUWANTTOMAKEHIMMARRYTHISGIRLTELLHIMTHATBASILHEISSURETODOITTHENWHENEVERAMANDOESATHOROUGHLYSTUPIDTHINGITISALWAYSFROMTHENOBLESTMOTIVESIHOPETHEGIRLISGOODHARRYIDONTWANTTOSEEDORIANTIEDTOSOMEVILECREATUREWHOMIGHT
+
+--- CIPHERTEXT ---
+39 26 50 64 0 101 23 93 82 28 51 2 98 55 24 86 99 55 69 39 73 11 96 3 52 55 27 72 56 99 32 98 16 104 51 65 37 65 102 18 10 17 19 73 85 66 74 22 15 48 42 68 18 26 96 32 43 13 83 10 39 73 3 102 29 27 74 18 34 9 41 70 78 92 71 26 94 101 38 17 39 32 1 17 102 11 51 42 25 19 71 104 84 85 75 75 98 55 83 11 99 24 99 39 35 36 54 82 37 50 54 58 60 4 88 89 67 42 32 80 37 24 5 4 100 43 1 34 40 55 22 0 6 104 71 74 56 36 15 33 19 24 18 104 77 60 70 85 62 77 2 91 71 50 80 74 2 86 45 7 32 1 34 47 20 22 93 103 89 56 31 73 96 11 77 88 84 41 77 104 99 79 58 62 10 94 6 12 55 71 9 25 70 64 99 23 17 28 45 45 72 9 63 40 87 1 50 52 87 26 1 96 56 58 89 21 99 55 19 28 90 59 77 84 63 18 40 75 40 3 58 88 9 103 81 16 45 30 80 1 0 29 76 50 10 7 73 12 70 54 26
+
+--- DECRYPTED PLAINTEXT ---
+DSTSTHERESETERTHEREDTHTHERENTEREPREASATEENETAYSENGTHESTRECTEDTHTHESENTHEFIESTHANDRENTHETHEERTALLERTHETEDJORESTREMANDSTRESTWAKEENERETORESTONZETEREMEARETHETESTHEARENTHEREDTOTTHENTHEREVERETOTRETHESEENSEENTHERETERSETTEDBERESQUETHEELEHENTEXPEREETHATEATTERS
+
+--- SCORE ---
+-1671.7670
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 251 chars correct (5.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> E
+2      -> T
+3      -> H
+4      -> A
+5      -> W
+6      -> O
+7      -> A
+9      -> T
+10     -> E
+11     -> H
+12     -> T
+13     -> C
+15     -> N
+16     -> P
+17     -> N
+18     -> E
+19     -> E
+20     -> H
+21     -> B
+22     -> E
+23     -> E
+24     -> T
+25     -> H
+26     -> S
+27     -> E
+28     -> S
+29     -> H
+30     -> R
+31     -> O
+32     -> R
+33     -> Z
+34     -> N
+35     -> J
+36     -> O
+37     -> S
+38     -> A
+39     -> D
+40     -> E
+41     -> H
+42     -> T
+43     -> E
+45     -> E
+47     -> T
+48     -> G
+50     -> T
+51     -> E
+52     -> E
+54     -> R
+55     -> R
+56     -> T
+58     -> E
+59     -> U
+60     -> M
+62     -> R
+63     -> H
+64     -> S
+65     -> A
+66     -> Y
+67     -> S
+68     -> H
+69     -> E
+70     -> E
+71     -> E
+72     -> N
+73     -> T
+74     -> S
+75     -> L
+76     -> A
+77     -> E
+78     -> F
+79     -> V
+80     -> E
+81     -> X
+82     -> E
+83     -> T
+84     -> T
+85     -> A
+86     -> H
+87     -> R
+88     -> N
+89     -> D
+90     -> Q
+91     -> H
+92     -> I
+93     -> R
+94     -> T
+96     -> T
+98     -> E
+99     -> E
+100    -> K
+101    -> H
+102    -> T
+103    -> E
+104    -> R

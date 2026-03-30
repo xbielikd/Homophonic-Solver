@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [38, 64, 20, 3, 34]
+B(1) [49]
+C(2) [8, 37]
+D(3) [45, 50, 31]
+E(4) [14, 33, 44, 7, 70, 52, 56, 54]
+F(5) [67, 51]
+G(6) [69, 63]
+H(7) [46, 27, 15, 43]
+I(8) [72, 24, 17, 42, 19]
+J(9) [41]
+K(10) [55]
+L(11) [30, 53, 6]
+M(12) [26, 71]
+N(13) [61, 74, 66, 13, 68]
+O(14) [23, 39, 60, 47, 0]
+P(15) [36, 73]
+Q(16) [1]
+R(17) [35, 4, 25, 29]
+S(18) [18, 22, 28, 65]
+T(19) [2, 40, 21, 11, 48, 5]
+U(20) [10, 57]
+V(21) [12]
+W(22) [62, 59]
+X(23) [32]
+Y(24) [16, 9]
+Z(25) [58]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+24 40 62 3 28 3 18 26 20 6 30 73 64 35 2 16 69 0 11 57 73 4 3 5 27 56 35 42 74 34 46 10 4 4 16 49 16 53 38 45 16 13 20 25 49 23 35 23 57 63 15 59 46 23 59 34 18 38 12 54 29 16 8 6 56 12 7 29 59 0 26 64 13 62 19 2 46 59 43 38 5 53 47 29 45 27 54 68 35 16 57 65 33 31 2 39 50 44 22 37 29 19 49 33
+
+--- DECRYPTED PLAINTEXT ---
+ZJCEXESAREWERENTLYTHESENTREPORTISSTATTENTERMATETHEBETTERSEFORTHERFOREYARECENTEVENTURNTODETHEKINGSQUAREAK
+
+--- SCORE ---
+-1101.1338
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 104 chars correct (6.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+2      -> N
+3      -> E
+4      -> S
+5      -> N
+6      -> E
+7      -> O
+8      -> H
+10     -> I
+11     -> T
+12     -> F
+13     -> E
+15     -> B
+16     -> T
+18     -> S
+19     -> E
+20     -> R
+22     -> U
+23     -> T
+24     -> Z
+25     -> M
+26     -> A
+27     -> T
+28     -> X
+29     -> R
+30     -> W
+31     -> I
+33     -> K
+34     -> R
+35     -> E
+37     -> A
+38     -> E
+39     -> G
+40     -> J
+42     -> P
+43     -> V
+44     -> Q
+45     -> N
+46     -> T
+47     -> U
+49     -> A
+50     -> S
+53     -> T
+54     -> O
+56     -> R
+57     -> H
+59     -> E
+62     -> C
+63     -> E
+64     -> R
+65     -> E
+68     -> D
+69     -> L
+73     -> E
+74     -> O

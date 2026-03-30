@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 26, 17]
+B(1) [28]
+C(2) [18]
+D(3) [1, 19]
+E(4) [29, 10, 32, 15]
+F(5) [25]
+G(6) [4]
+H(7) [38, 16]
+I(8) [30, 34, 39]
+J(9) [23]
+K(10) [5]
+L(11) [33, 13]
+M(12) [31]
+N(13) [3, 22, 41]
+O(14) [7, 21, 11]
+P(15) [9]
+Q(16) [12]
+R(17) [37, 24]
+S(18) [35, 27]
+T(19) [6, 43, 20]
+U(20) [42]
+V(21) [14]
+W(22) [0]
+X(23) [8]
+Y(24) [40]
+Z(25) [36]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+SHEUSEDTOWONDERIFHESUSPECTEDANYTHINGTHESILENCEFORHEMADENOOTHEROBSERVATIONBECAMEINTOLERABLETOHERSHEBEGAN
+
+--- CIPHERTEXT ---
+35 16 15 42 35 10 19 6 21 0 11 3 1 32 24 34 25 38 29 27 42 27 9 15 18 43 15 19 17 3 40 6 16 39 41 4 43 16 32 27 39 33 15 3 18 29 25 21 37 16 10 31 17 19 15 22 7 21 6 16 29 37 21 28 27 29 24 14 26 6 34 11 3 28 15 18 2 31 29 30 41 6 11 33 15 37 26 28 33 29 6 21 38 15 37 35 16 32 28 10 4 26 3
+
+--- DECRYPTED PLAINTEXT ---
+THEFTERTAZENJECHEMERFRVEDWERENGTHOULWHERORENDEEASHEBEREXPATHESATRECKITHENTEDYBEQUTERESITRETAMESTHETELIN
+
+--- SCORE ---
+-526.4283
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 37 / 103 chars correct (35.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> Z
+1      -> J
+2      -> Y
+3      -> N
+4      -> L
+6      -> T
+7      -> P
+9      -> V
+10     -> E
+11     -> E
+14     -> K
+15     -> E
+16     -> H
+17     -> E
+18     -> D
+19     -> R
+21     -> A
+22     -> X
+24     -> C
+25     -> E
+26     -> I
+27     -> R
+28     -> T
+29     -> E
+30     -> Q
+31     -> B
+32     -> E
+33     -> R
+34     -> H
+35     -> T
+37     -> S
+38     -> M
+39     -> O
+40     -> G
+41     -> U
+42     -> F
+43     -> W

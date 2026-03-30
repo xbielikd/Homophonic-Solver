@@ -1,0 +1,167 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [59, 96, 97, 93, 24, 36, 118, 86, 69, 110]
+B(1) [87, 47]
+C(2) [60, 89, 4, 111]
+D(3) [68, 16, 100, 128, 94, 120]
+E(4) [116, 53, 55, 22, 44, 90, 30, 63, 67, 48, 6, 108, 122, 125, 61, 79]
+F(5) [9, 131, 64]
+G(6) [88, 127, 115]
+H(7) [134, 5, 18, 28, 29, 92, 33, 31]
+I(8) [107, 91, 77, 49, 95, 1, 70, 26, 3]
+J(9) [8]
+K(10) [38]
+L(11) [66, 52, 15, 50, 0]
+M(12) [35, 119, 112]
+N(13) [84, 39, 74, 76, 104, 81, 10, 27, 37]
+O(14) [130, 62, 124, 46, 121, 117, 83, 2, 32, 43]
+P(15) [113, 101, 132]
+Q(16) [13]
+R(17) [19, 73, 105, 21, 98, 25, 65, 82]
+S(18) [12, 129, 54, 85, 56, 99, 71, 14]
+T(19) [41, 58, 106, 102, 42, 45, 17, 40, 34, 78, 23]
+U(20) [72, 51, 75, 133]
+V(21) [7, 80]
+W(22) [126, 123, 109]
+X(23) [11]
+Y(24) [20, 57, 103]
+Z(25) [114]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   107
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ORDINARYWOMENALWAYSCONSOLETHEMSELVESSOMEOFTHEMDOITBYGOINGINFORSENTIMENTALCOLOURSNEVERTRUSTAWOMANWHOWEARSMAUVEWHATEVERHERAGEMAYBEORAWOMANOVERTHIRTYFIVEWHOISFONDOFPINKRIBBONSITALWAYSMEANSTHATTHEYHAVEAHISTORYOTHERSFINDAGREATCONSOLATIONINSUDDENLYDISCOVERING
+
+--- CIPHERTEXT ---
+62 25 94 3 84 36 21 103 123 83 119 90 27 36 0 109 118 20 99 60 62 10 71 46 15 61 58 31 108 119 56 6 0 7 122 12 99 43 112 30 130 131 34 134 90 112 128 62 49 58 87 57 115 130 26 104 127 95 27 64 62 105 54 90 84 45 77 35 55 37 41 69 0 60 62 66 117 75 73 129 84 30 7 125 25 41 73 51 99 78 93 123 124 35 97 39 109 33 43 123 22 59 98 54 119 59 72 7 125 126 134 86 17 125 80 108 82 92 79 82 96 88 22 112 36 103 47 6 2 21 69 126 62 119 118 104 32 80 55 98 106 18 91 105 17 57 64 91 7 48 123 33 62 95 56 131 46 84 128 2 131 132 3 37 38 21 70 47 87 32 27 99 95 41 69 0 109 69 57 71 35 108 96 37 12 78 18 96 102 17 31 79 57 33 69 7 55 69 29 1 85 45 117 25 57 130 78 29 79 105 129 9 3 76 120 118 88 82 61 97 17 111 124 104 56 32 50 86 23 107 32 74 70 27 129 72 94 94 108 27 0 57 100 95 85 60 62 80 108 105 1 39 127
+
+--- DECRYPTED PLAINTEXT ---
+ESTETHATHERSTHEREVEREJONGETHEREHETHEESTHEAZESTHESTHTHEPRERTHESESTHERERESEREDEXCETHTESECKESTHERSERESHEERERESTETEATERERMERERETHTTHEASTERERERERTHESTTHETTHEEREANTHEALEREANTHETERESERSTOREERESHEFTHETESTESTHEHESTESTESEREQUERRESTHEREEWAYBEINTESTTETETERERERESHEE
+
+--- SCORE ---
+-1158.9039
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 36 / 253 chars correct (14.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> H
+2      -> E
+3      -> E
+6      -> H
+7      -> T
+9      -> R
+10     -> J
+12     -> E
+15     -> G
+17     -> T
+18     -> H
+20     -> V
+21     -> A
+22     -> E
+23     -> Y
+25     -> S
+26     -> P
+27     -> T
+29     -> T
+30     -> H
+31     -> H
+32     -> E
+33     -> E
+34     -> Z
+35     -> R
+36     -> H
+37     -> R
+38     -> E
+39     -> E
+41     -> E
+43     -> S
+45     -> H
+46     -> N
+47     -> T
+48     -> T
+49     -> S
+50     -> W
+51     -> K
+54     -> E
+55     -> E
+56     -> E
+57     -> T
+58     -> T
+59     -> E
+60     -> R
+61     -> E
+62     -> E
+64     -> H
+66     -> D
+69     -> S
+70     -> N
+71     -> O
+72     -> S
+73     -> C
+74     -> I
+75     -> X
+76     -> Q
+77     -> E
+78     -> S
+79     -> E
+80     -> R
+82     -> R
+83     -> E
+84     -> T
+85     -> E
+86     -> A
+87     -> H
+88     -> R
+90     -> S
+91     -> E
+92     -> M
+93     -> T
+94     -> T
+95     -> R
+96     -> E
+97     -> S
+98     -> R
+99     -> E
+100    -> E
+102    -> F
+103    -> T
+104    -> R
+105    -> S
+106    -> T
+107    -> B
+108    -> E
+109    -> R
+111    -> H
+112    -> T
+115    -> H
+117    -> E
+118    -> E
+119    -> R
+120    -> U
+122    -> H
+123    -> H
+124    -> E
+125    -> E
+126    -> T
+127    -> E
+128    -> H
+129    -> E
+130    -> E
+131    -> A
+132    -> L
+134    -> E

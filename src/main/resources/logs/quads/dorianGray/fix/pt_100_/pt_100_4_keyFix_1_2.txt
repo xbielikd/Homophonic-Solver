@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 2]
+B(1) [44, 12]
+C(2) [39, 45]
+D(3) [32, 50]
+E(4) [22, 46]
+F(5) [40, 28]
+G(6) [5, 20]
+H(7) [23, 51]
+I(8) [31, 33]
+J(9) [0, 13]
+K(10) [48, 49]
+L(11) [35, 43]
+M(12) [8, 3]
+N(13) [24, 19]
+O(14) [6, 25]
+P(15) [38, 14]
+Q(16) [1, 9]
+R(17) [42, 4]
+S(18) [15, 47]
+T(19) [7, 17]
+U(20) [11, 37]
+V(21) [21, 18]
+W(22) [34, 27]
+X(23) [30, 36]
+Y(24) [29, 41]
+Z(25) [16, 26]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+31 7 34 2 47 2 47 3 10 35 43 38 10 4 17 29 5 25 7 37 14 4 2 17 23 46 4 33 19 2 51 37 42 4 29 12 41 43 10 32 41 24 10 42 44 6 4 25 37 5 23 34 23 6 34 2 15 2 21 46 42 41 39 43 22 18 22 4 34 6 8 2 24 27 33 7 51 27 23 10 7 35 6 4 50 51 22 19 42 41 37 15 46 32 7 6 32 22 47 39 42 33 12 46
+
+--- DECRYPTED PLAINTEXT ---
+ZSSEDEDBEFEXERCINGSEPRECTURYLEHEARISTEENTMEAJORGENTSTOSEREQUATWEEKERSOVEMAYSHATESFORTHELATERUNSONEDWAYSU
+
+--- SCORE ---
+-1009.0154
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 104 chars correct (19.2%)
+
+--- KEY (cipher -> plain) ---
+2      -> E
+3      -> B
+4      -> R
+5      -> N
+6      -> O
+7      -> S
+8      -> V
+10     -> E
+12     -> S
+14     -> P
+15     -> R
+17     -> C
+18     -> K
+19     -> L
+21     -> Q
+22     -> E
+23     -> T
+24     -> M
+25     -> G
+27     -> A
+29     -> I
+31     -> Z
+32     -> N
+33     -> Y
+34     -> S
+35     -> F
+37     -> E
+38     -> X
+39     -> W
+41     -> T
+42     -> A
+43     -> E
+44     -> J
+46     -> U
+47     -> D
+50     -> T
+51     -> H

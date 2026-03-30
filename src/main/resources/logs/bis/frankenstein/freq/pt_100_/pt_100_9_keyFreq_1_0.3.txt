@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [43, 23, 0]
+B(1) [12]
+C(2) [42]
+D(3) [37, 25]
+E(4) [11, 10, 22, 18]
+F(5) [1]
+G(6) [34]
+H(7) [29, 3]
+I(8) [39, 2, 41]
+J(9) [19]
+K(10) [31]
+L(11) [28, 5]
+M(12) [27]
+N(13) [24, 8, 20]
+O(14) [7, 21, 4]
+P(15) [33]
+Q(16) [6]
+R(17) [36, 32]
+S(18) [30, 35]
+T(19) [13, 17, 14]
+U(20) [15]
+V(21) [38]
+W(22) [26]
+X(23) [9]
+Y(24) [40]
+Z(25) [16]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+0 30 2 28 7 21 31 11 25 7 20 29 41 27 29 39 30 42 21 15 20 13 22 20 23 20 42 10 10 9 33 36 22 35 30 11 37 17 3 11 15 13 27 21 30 14 10 9 13 11 8 13 4 1 27 23 28 39 42 22 0 24 25 14 36 18 0 42 3 11 32 40 2 17 3 7 15 34 3 13 26 41 13 3 43 35 11 8 30 43 14 2 21 8 21 1 27 23 25 24 10 30 35
+
+--- DECRYPTED PLAINTEXT ---
+HENGTEVEDTHEPREMEEECHETHEHELLYFITHEEBESECEREEALYEEREJOREGMETHEDAIZHESEQUNESTCKSEXPESWHEREWANEREOREDELEH
+
+--- SCORE ---
+-534.5749
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 103 chars correct (8.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> O
+2      -> N
+3      -> S
+4      -> J
+7      -> T
+8      -> R
+9      -> Y
+10     -> L
+11     -> E
+13     -> E
+14     -> A
+15     -> C
+17     -> E
+18     -> Z
+20     -> H
+21     -> E
+22     -> T
+23     -> E
+24     -> E
+25     -> D
+26     -> X
+27     -> R
+28     -> G
+29     -> E
+30     -> E
+31     -> V
+32     -> Q
+33     -> F
+34     -> K
+35     -> H
+36     -> I
+37     -> B
+39     -> M
+40     -> U
+41     -> P
+42     -> E
+43     -> W

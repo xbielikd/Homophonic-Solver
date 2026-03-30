@@ -1,0 +1,169 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [91, 54, 53, 84, 132, 108, 79, 114, 71, 83]
+B(1) [74, 128]
+C(2) [43, 123, 25, 81]
+D(3) [32, 39, 22, 49, 2, 67]
+E(4) [100, 95, 3, 26, 62, 31, 19, 15, 45, 12, 42, 17, 52, 16, 21, 104]
+F(5) [127, 30, 37]
+G(6) [124, 133, 82]
+H(7) [122, 20, 111, 112, 99, 47, 9, 44]
+I(8) [118, 117, 27, 130, 41, 87, 116, 76, 57]
+J(9) [134]
+K(10) [96]
+L(11) [1, 89, 0, 23, 125]
+M(12) [29, 121, 103]
+N(13) [33, 110, 106, 85, 78, 97, 60, 131, 35]
+O(14) [72, 65, 7, 18, 107, 93, 105, 55, 69, 48]
+P(15) [88, 50, 119]
+Q(16) [46]
+R(17) [101, 80, 40, 73, 58, 86, 8, 61]
+S(18) [90, 36, 126, 120, 113, 75, 11, 77]
+T(19) [109, 51, 6, 66, 28, 59, 14, 24, 129, 94, 68]
+U(20) [34, 38, 63, 56]
+V(21) [4, 98]
+W(22) [92, 70, 102]
+X(23) [13]
+Y(24) [10, 64, 115]
+Z(25) [5]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   109
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SOMETIMETOWARDMIDNIGHTTOMBUCHANANANDMRSWILSONSTOODFACETOFACEDISCUSSINGINIMPASSIONEDVOICESWHETHERMRSWILSONHADANYRIGHTTOMENTIONDAISYSNAMEDAISYDAISYDAISYSHOUTEDMRSWILSONILLSAYITWHENEVERIWANTTODAISYDAIMAKINGASHORTDEFTMOVEMENTTOMBUCHANANBROKEHERNOSEWITHHIS
+
+--- CIPHERTEXT ---
+113 72 29 19 28 117 121 104 24 107 92 54 8 67 103 118 49 85 76 124 9 59 51 65 121 128 56 81 99 54 85 53 106 114 33 49 103 80 75 92 57 0 75 107 97 126 6 7 107 67 127 79 43 3 94 7 37 53 43 62 32 57 126 81 63 113 75 41 106 82 76 106 87 103 50 54 113 90 117 48 85 3 67 4 107 76 81 42 126 92 47 26 66 111 26 80 29 80 113 70 118 23 120 65 97 47 71 67 108 85 10 101 116 133 99 68 68 65 29 17 78 6 116 18 35 32 83 57 11 64 126 106 114 29 45 67 79 76 126 115 67 71 130 113 10 39 108 27 77 10 113 122 72 63 6 104 39 103 58 36 70 116 125 77 48 78 116 0 89 36 108 115 87 14 70 112 100 97 45 98 100 101 57 102 132 106 66 59 65 2 91 27 120 115 49 91 130 121 114 96 117 60 124 53 11 99 48 8 109 49 21 127 109 103 93 4 26 103 16 110 59 14 93 121 74 63 81 112 84 85 91 106 74 8 72 96 31 99 45 73 60 93 11 52 102 76 94 99 47 87 11
+
+--- DECRYPTED PLAINTEXT ---
+THEBERTOFTRETTEEERERKEXTTHETHERETHEEERERERETHETITTTHESTIZEESTEETETESTHETSEVETERERSTATETHERETHETRERTHEMETHEATEREHECHEETEANTEQUTHETHETHEETHEERTANTERETHETTHETORESTHETHENERYTERSTHETHESTHENGTHETWATEREANTHERERETHETHESTHESATEDJETSTHETEPRATHTHETHELESTINETHEST
+
+--- SCORE ---
+-1149.3620
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 25 / 251 chars correct (10.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> W
+3      -> S
+4      -> A
+6      -> T
+7      -> I
+8      -> T
+9      -> K
+10     -> E
+11     -> T
+14     -> T
+16     -> D
+17     -> A
+18     -> Q
+19     -> B
+21     -> S
+23     -> M
+24     -> F
+26     -> T
+27     -> T
+28     -> E
+29     -> E
+31     -> T
+32     -> T
+33     -> E
+35     -> U
+36     -> T
+37     -> Z
+39     -> R
+41     -> S
+42     -> H
+43     -> E
+45     -> E
+47     -> E
+48     -> E
+49     -> E
+50     -> V
+51     -> X
+52     -> I
+53     -> E
+54     -> E
+56     -> E
+57     -> E
+58     -> S
+59     -> E
+60     -> E
+62     -> S
+63     -> E
+64     -> H
+65     -> T
+66     -> H
+67     -> T
+68     -> E
+70     -> H
+71     -> A
+72     -> H
+73     -> L
+74     -> H
+75     -> E
+76     -> E
+77     -> H
+78     -> N
+79     -> H
+80     -> R
+81     -> T
+82     -> H
+83     -> H
+84     -> P
+85     -> R
+87     -> S
+89     -> Y
+90     -> E
+91     -> A
+92     -> R
+93     -> S
+94     -> T
+96     -> E
+97     -> H
+98     -> S
+99     -> H
+100    -> T
+101    -> H
+102    -> N
+103    -> E
+104    -> O
+106    -> T
+107    -> T
+108    -> E
+109    -> H
+110    -> J
+111    -> E
+112    -> E
+113    -> T
+114    -> H
+115    -> R
+116    -> E
+117    -> R
+118    -> E
+120    -> E
+121    -> T
+122    -> T
+124    -> R
+125    -> T
+126    -> E
+127    -> T
+128    -> H
+130    -> N
+132    -> G
+133    -> C

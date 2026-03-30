@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 18, 50, 20, 12, 13, 43, 83]
+B(1) [16, 82]
+C(2) [80, 92, 94]
+D(3) [75, 61, 37, 56]
+E(4) [63, 95, 86, 88, 4, 77, 55, 97, 29, 44, 85, 22]
+F(5) [79, 48, 72]
+G(6) [6, 62]
+H(7) [38, 42, 40, 30, 98, 64]
+I(8) [96, 103, 17, 24, 84, 91, 5]
+J(9) [1]
+K(10) [35]
+L(11) [53, 90, 57, 36]
+M(12) [99, 23, 31]
+N(13) [3, 76, 27, 39, 51, 100, 59]
+O(14) [52, 60, 25, 101, 71, 87, 2]
+P(15) [58, 9]
+Q(16) [41]
+R(17) [46, 54, 65, 70, 45, 104]
+S(18) [74, 67, 47, 68, 49, 33]
+T(19) [69, 78, 66, 10, 8, 15, 19, 28, 102]
+U(20) [93, 73, 81]
+V(21) [21]
+W(22) [34, 89, 11]
+X(23) [14]
+Y(24) [26, 32]
+Z(25) [0]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+SWEETANDBELOVEDELIZABETHIREADANDREREADHERLETTERANDSOMESOFTENEDFEELINGSSTOLEINTOMYHEARTANDDAREDTOWHISPERPARADISIACALDREAMSOFLOVEANDJOYBUTTHEAPPLEWASALREADYEATENANDTHEANGELSARMBAREDTODRIVEMEFROMALLHOPEYETIWOULDDIETOMAKEHERHAPPYIFTHEMONSTEREXECUTEDHISTHREAT
+
+--- CIPHERTEXT ---
+67 89 63 86 19 7 3 61 16 77 53 2 21 63 75 86 90 103 0 83 16 88 69 30 24 104 95 13 37 83 59 37 54 22 70 85 7 56 30 22 54 57 86 28 66 88 54 20 59 75 67 101 23 88 74 25 72 28 22 100 95 61 72 77 29 53 91 76 6 68 49 19 87 53 4 96 59 66 60 99 32 64 55 7 54 102 13 27 56 37 7 45 88 56 10 101 89 30 84 49 58 22 70 9 50 104 83 75 5 74 96 7 80 43 57 75 54 22 43 99 33 87 72 57 25 21 77 50 76 61 1 2 26 82 93 102 19 98 55 12 9 58 36 86 11 7 33 7 90 65 95 18 61 26 44 50 28 63 100 12 51 37 66 64 55 7 76 6 86 57 49 43 54 23 16 20 46 77 61 69 71 56 54 84 21 44 23 95 79 104 71 31 50 90 36 98 25 9 86 32 85 102 17 11 60 73 36 61 56 17 77 28 60 99 7 35 86 42 22 104 42 43 58 58 32 84 72 8 38 29 31 101 3 47 102 88 70 29 14 63 80 93 69 86 61 30 17 74 78 38 46 29 20 8
+
+--- DECRYPTED PLAINTEXT ---
+ESTATESTHERENTHANOFTHETHESASETTERENTERHERTANTERETHEATERORNEMATREERINGATTERJETTINTTHERESTREEVERWASHATSENTISTHEREERETHREENCERTONEINTHEEQUETTHATSEARECENTANTEDINTMAKETTHENGATTERTHERETTERRANDTALSERINETOTATTEERIZETREENINESARESRESSTARYPERASBEENEXTRUTATHEREPREEY
+
+--- SCORE ---
+-2257.8503
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 56 / 254 chars correct (22.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> H
+2      -> E
+3      -> S
+4      -> J
+5      -> E
+6      -> G
+7      -> E
+8      -> Y
+9      -> T
+10     -> W
+11     -> R
+12     -> A
+13     -> S
+14     -> X
+16     -> H
+17     -> E
+18     -> N
+19     -> T
+20     -> E
+21     -> N
+22     -> E
+23     -> T
+24     -> E
+25     -> O
+26     -> E
+27     -> T
+28     -> N
+29     -> E
+30     -> H
+31     -> R
+32     -> T
+33     -> C
+35     -> S
+36     -> E
+37     -> E
+38     -> P
+42     -> R
+43     -> E
+44     -> D
+45     -> V
+46     -> R
+47     -> B
+49     -> T
+50     -> I
+51     -> K
+53     -> R
+54     -> R
+55     -> H
+56     -> R
+57     -> T
+58     -> S
+59     -> T
+60     -> I
+61     -> T
+63     -> T
+64     -> T
+65     -> T
+66     -> T
+67     -> E
+68     -> A
+69     -> T
+70     -> N
+71     -> E
+72     -> R
+73     -> Z
+74     -> R
+75     -> H
+76     -> N
+77     -> E
+78     -> E
+79     -> L
+80     -> R
+82     -> Q
+83     -> T
+84     -> A
+85     -> T
+86     -> A
+87     -> E
+88     -> E
+89     -> S
+90     -> N
+91     -> I
+93     -> U
+95     -> A
+96     -> E
+98     -> T
+99     -> N
+100    -> M
+101    -> A
+102    -> E
+103    -> O
+104    -> S

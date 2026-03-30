@@ -1,0 +1,92 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [15, 16, 34]
+B(1) [25]
+C(2) [39]
+D(3) [33, 8]
+E(4) [27, 31, 9, 0]
+F(5) [4]
+G(6) [40]
+H(7) [30, 17]
+I(8) [42, 14, 35]
+J(9) [1]
+K(10) [32]
+L(11) [13, 6]
+M(12) [7]
+N(13) [36, 12, 29]
+O(14) [18, 11, 2]
+P(15) [5]
+Q(16) [22]
+R(17) [41, 3]
+S(18) [37, 20]
+T(19) [43, 28, 10]
+U(20) [19]
+V(21) [26]
+W(22) [21]
+X(23) [23]
+Y(24) [24]
+Z(25) [38]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   32
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+43 17 31 19 29 8 0 41 40 3 34 8 19 16 10 27 36 11 8 8 27 8 14 12 16 39 24 12 14 39 16 13 7 0 6 34 29 39 17 11 6 24 21 15 24 10 17 0 25 34 41 21 17 31 3 0 21 9 40 6 16 36 39 31 8 4 14 3 20 10 21 34 37 39 3 11 21 33 9 33 25 19 10 40 15 10 20 25 24 21 15 20 36 11 28 43 17 0 3 9
+
+--- DECRYPTED PLAINTEXT ---
+KHEDBLEFOROLDESYSALLYLUGEEAGUEEXPEROBEHARATWASHENOFTHERETMORESEELJURISTOVERATEMENDSOWSINATWISACKHERM
+
+--- SCORE ---
+-1005.6917
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 18 / 100 chars correct (18.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+3      -> R
+4      -> J
+6      -> R
+7      -> P
+8      -> L
+9      -> M
+10     -> S
+11     -> A
+12     -> G
+13     -> X
+14     -> U
+15     -> W
+16     -> E
+17     -> H
+19     -> D
+20     -> I
+21     -> T
+24     -> A
+25     -> N
+27     -> Y
+28     -> C
+29     -> B
+31     -> E
+33     -> E
+34     -> O
+36     -> S
+37     -> V
+39     -> E
+40     -> O
+41     -> F
+43     -> K

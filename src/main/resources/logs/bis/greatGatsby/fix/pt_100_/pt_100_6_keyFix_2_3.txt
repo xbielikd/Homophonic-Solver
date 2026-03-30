@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [3, 48, 46]
+B(1) [69, 56, 16]
+C(2) [51, 71, 53]
+D(3) [38, 60, 59]
+E(4) [37, 40, 61]
+F(5) [18, 17, 20]
+G(6) [50, 45, 64]
+H(7) [47, 49, 4]
+I(8) [27, 12, 75]
+J(9) [21, 76, 39]
+K(10) [57, 54, 70]
+L(11) [22, 28, 30]
+M(12) [29, 35, 26]
+N(13) [8, 33, 13]
+O(14) [14, 73, 42]
+P(15) [58, 25, 7]
+Q(16) [44, 55, 52]
+R(17) [77, 63, 74]
+S(18) [2, 62, 31]
+T(19) [66, 0, 68]
+U(20) [5, 43, 67]
+V(21) [1, 15, 41]
+W(22) [72, 9, 6]
+X(23) [19, 36, 65]
+Y(24) [32, 10, 34]
+Z(25) [11, 23, 24]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+68 47 37 43 33 38 37 74 64 77 46 59 43 48 66 40 8 73 60 60 61 38 12 33 46 53 34 8 27 53 48 28 35 37 30 48 8 53 4 14 22 10 9 46 34 66 4 37 16 46 74 6 49 61 74 61 72 40 50 28 48 8 53 40 38 20 27 77 2 66 6 48 2 53 77 42 6 60 37 60 16 67 66 50 3 0 31 69 34 72 48 62 13 73 0 66 47 37 77 40
+
+--- DECRYPTED PLAINTEXT ---
+JONTHENTYTEXTETHALEESECHETSANTERENGEATIZQUBESTINDETHESTSTHEREATHEANTSTHESTTWHENEDFTEVEKESTEMPLETONTH
+
+--- SCORE ---
+-491.2327
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 100 chars correct (7.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> S
+3      -> V
+4      -> I
+6      -> H
+8      -> A
+9      -> B
+10     -> U
+12     -> C
+13     -> P
+14     -> Z
+16     -> D
+20     -> A
+22     -> Q
+27     -> N
+28     -> R
+30     -> G
+31     -> K
+33     -> H
+34     -> S
+35     -> E
+37     -> N
+38     -> E
+40     -> H
+42     -> W
+43     -> T
+46     -> E
+47     -> O
+48     -> E
+49     -> E
+50     -> E
+53     -> T
+59     -> X
+60     -> E
+61     -> S
+62     -> M
+64     -> Y
+66     -> T
+67     -> F
+68     -> J
+69     -> E
+72     -> T
+73     -> L
+74     -> T
+77     -> T

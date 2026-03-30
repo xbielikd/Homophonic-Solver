@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [33, 62, 38]
+B(1) [7, 13, 66]
+C(2) [20, 73, 72]
+D(3) [14, 25, 43]
+E(4) [2, 50, 65]
+F(5) [18, 75, 6]
+G(6) [44, 45, 9]
+H(7) [61, 77, 12]
+I(8) [52, 35, 3]
+J(9) [15, 60, 42]
+K(10) [21, 57, 0]
+L(11) [1, 19, 56]
+M(12) [10, 71, 24]
+N(13) [34, 48, 40]
+O(14) [5, 23, 17]
+P(15) [39, 53, 37]
+Q(16) [54, 59, 51]
+R(17) [22, 41, 8]
+S(18) [36, 4, 32]
+T(19) [30, 69, 76]
+U(20) [70, 67, 49]
+V(21) [27, 16, 58]
+W(22) [64, 74, 31]
+X(23) [55, 46, 68]
+Y(24) [11, 29, 28]
+Z(25) [26, 63, 47]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+SHEUSEDTOWONDERIFHESUSPECTEDANYTHINGTHESILENCEFORHEMADENOOTHEROBSERVATIONBECAMEINTOLERABLETOHERSHEBEGAN
+
+--- CIPHERTEXT ---
+36 61 2 67 32 2 14 30 17 74 17 40 14 2 22 35 6 77 50 36 67 32 37 65 72 69 2 14 62 40 29 30 61 35 34 44 76 12 65 32 52 1 65 40 72 2 6 23 41 61 50 71 38 14 2 34 17 17 30 12 50 8 17 13 32 2 41 16 38 76 35 17 48 66 50 73 62 71 2 52 40 76 5 19 50 8 33 66 1 65 30 23 12 65 41 4 12 2 7 2 9 38 48
+
+--- DECRYPTED PLAINTEXT ---
+CHEORERTEBEEREVENGECORKEDJERUEXTHELYTHERTHEEDENTTHERERELEETHEREFRETHETEESTEQURETETIZERATHETTHETWHEMEPES
+
+--- SCORE ---
+-509.7385
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 37 / 103 chars correct (35.9%)
+
+--- KEY (cipher -> plain) ---
+1      -> H
+2      -> E
+4      -> W
+5      -> I
+6      -> N
+7      -> M
+8      -> R
+9      -> P
+12     -> H
+13     -> F
+14     -> R
+16     -> H
+17     -> E
+19     -> Z
+22     -> V
+23     -> T
+29     -> X
+30     -> T
+32     -> R
+33     -> A
+34     -> L
+35     -> E
+36     -> C
+37     -> K
+38     -> E
+40     -> E
+41     -> T
+44     -> Y
+48     -> S
+50     -> E
+52     -> T
+61     -> H
+62     -> U
+65     -> E
+66     -> T
+67     -> O
+69     -> J
+71     -> R
+72     -> D
+73     -> Q
+74     -> B
+76     -> T
+77     -> G

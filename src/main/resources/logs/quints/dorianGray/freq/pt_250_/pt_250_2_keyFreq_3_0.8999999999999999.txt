@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [0, 11, 5, 27, 49, 19, 61, 57]
+B(1) [58, 20]
+C(2) [88, 17, 9]
+D(3) [55, 28, 74, 83]
+E(4) [71, 65, 54, 45, 80, 53, 63, 38, 56, 16, 89, 75]
+F(5) [40, 77, 32]
+G(6) [23, 92]
+H(7) [50, 6, 12, 25, 1, 79]
+I(8) [7, 66, 101, 36, 30, 42, 72]
+J(9) [8]
+K(10) [37]
+L(11) [82, 52, 91, 26]
+M(12) [76, 70, 97]
+N(13) [84, 10, 4, 94, 24, 21, 48]
+O(14) [31, 44, 67, 2, 34, 64, 96]
+P(15) [73, 13]
+Q(16) [59]
+R(17) [18, 15, 85, 43, 95, 87]
+S(18) [39, 60, 3, 68, 69, 51]
+T(19) [98, 99, 14, 78, 104, 46, 86, 93, 102]
+U(20) [100, 22, 47]
+V(21) [41]
+W(22) [62, 103, 90]
+X(23) [33]
+Y(24) [35, 29]
+Z(25) [81]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+57 86 80 95 85 72 58 82 45 1 44 13 71 32 82 47 102 14 65 85 54 55 13 49 51 93 12 7 76 6 56 17 26 22 104 17 6 71 55 49 78 42 46 70 57 28 52 35 62 79 38 87 71 7 60 46 50 71 20 67 28 35 79 75 56 33 9 91 19 36 70 56 55 59 47 36 17 37 7 76 47 69 98 39 89 65 42 99 19 93 2 24 88 38 7 104 36 60 42 21 57 94 63 70 73 78 29 51 99 27 58 26 16 66 10 86 79 80 50 34 97 89 77 5 95 76 68 7 95 98 79 65 32 44 26 37 74 2 4 93 82 30 37 45 46 44 50 61 41 38 93 1 0 93 60 34 43 46 2 32 46 6 72 94 92 30 4 98 6 65 66 95 12 64 100 60 71 68 78 12 38 35 39 61 29 5 9 44 95 13 69 63 58 43 36 4 23 69 20 5 55 52 47 17 37 86 1 16 79 67 97 16 40 61 18 97 92 64 102 1 89 87 53 19 93 2 84 17 80 11 4 83 97 80 38 98 76 54 93 45 52 52 31 10 54 2 32 99 50 56
+
+--- DECRYPTED PLAINTEXT ---
+ANOTSERANDTHENANEXISTCHOSESATHETHATTHECOASTRATEOUTTHEARTHERETOTHERSTHERECONETEATNEARTISTHEAVYTATERSJAPARKALSTERHISINTOHERTHATTHATATINTHEMATEARENTTHESTEDBERESTANTHEPORTAHISTSWEREHASTORELASTTHEARSETHERACENTENDITERIZEGROWEDTHEHEARTOFTHROTATTENEEDITANTHE
+
+--- SCORE ---
+-2708.8014
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 36 / 250 chars correct (14.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+1      -> D
+2      -> A
+4      -> T
+5      -> A
+6      -> H
+7      -> A
+9      -> S
+10     -> I
+11     -> F
+12     -> S
+13     -> H
+14     -> X
+16     -> I
+17     -> T
+18     -> G
+19     -> H
+20     -> R
+21     -> J
+22     -> A
+23     -> H
+24     -> V
+26     -> H
+27     -> E
+28     -> T
+29     -> L
+30     -> R
+31     -> D
+32     -> N
+33     -> R
+34     -> E
+35     -> O
+36     -> E
+37     -> E
+38     -> T
+39     -> R
+40     -> Z
+41     -> S
+42     -> S
+43     -> S
+44     -> T
+45     -> N
+46     -> T
+47     -> N
+49     -> O
+50     -> H
+51     -> S
+52     -> E
+53     -> E
+54     -> T
+55     -> C
+56     -> E
+57     -> A
+58     -> R
+59     -> O
+60     -> R
+61     -> E
+62     -> U
+63     -> A
+64     -> W
+65     -> I
+66     -> S
+67     -> E
+68     -> H
+69     -> E
+70     -> R
+71     -> E
+72     -> E
+73     -> K
+74     -> M
+75     -> H
+76     -> T
+77     -> H
+78     -> A
+79     -> T
+80     -> O
+82     -> A
+83     -> H
+84     -> R
+85     -> S
+86     -> N
+87     -> H
+88     -> Y
+89     -> T
+91     -> T
+92     -> O
+93     -> E
+94     -> P
+95     -> T
+97     -> R
+98     -> A
+99     -> T
+100    -> E
+102    -> E
+104    -> T

@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4, 33]
+B(1) [48, 32]
+C(2) [1, 35]
+D(3) [2, 38]
+E(4) [26, 29]
+F(5) [10, 5]
+G(6) [50, 36]
+H(7) [25, 19]
+I(8) [27, 0]
+J(9) [13, 21]
+K(10) [6, 42]
+L(11) [49, 14]
+M(12) [17, 37]
+N(13) [15, 31]
+O(14) [9, 16]
+P(15) [34, 41]
+Q(16) [24, 8]
+R(17) [44, 7]
+S(18) [3, 47]
+T(19) [11, 18]
+U(20) [22, 39]
+V(21) [12, 51]
+W(22) [43, 45]
+X(23) [23, 40]
+Y(24) [20, 46]
+Z(25) [30, 28]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+0 18 43 33 3 4 3 37 33 49 49 34 4 7 11 46 36 9 18 22 34 44 33 18 25 26 7 27 31 4 25 22 44 7 46 32 46 14 4 2 20 15 33 44 48 9 7 16 22 50 25 45 25 16 45 33 3 33 12 26 7 20 35 14 29 12 29 44 43 16 17 33 15 43 0 18 25 45 25 33 18 49 9 44 38 25 26 15 44 20 22 3 29 38 11 16 38 26 3 35 44 0 48 29
+
+--- DECRYPTED PLAINTEXT ---
+ITWESESJEFFBERGANOTABRETHERQUEHARRAZALEXEYERMOREACHTHETESEVEREPLEVERWEKEYWITHTHETFORDHEYREASEDGEDESPRIME
+
+--- SCORE ---
+-1297.6301
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 53 / 104 chars correct (51.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> I
+2      -> X
+3      -> S
+4      -> E
+7      -> R
+9      -> O
+11     -> G
+12     -> V
+14     -> L
+15     -> Y
+16     -> E
+17     -> K
+18     -> T
+20     -> E
+22     -> A
+25     -> H
+26     -> E
+27     -> Q
+29     -> E
+31     -> U
+32     -> Z
+33     -> E
+34     -> B
+35     -> P
+36     -> N
+37     -> J
+38     -> D
+43     -> W
+44     -> R
+45     -> T
+46     -> A
+48     -> M
+49     -> F
+50     -> C

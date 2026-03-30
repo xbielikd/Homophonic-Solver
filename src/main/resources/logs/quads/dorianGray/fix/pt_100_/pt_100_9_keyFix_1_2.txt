@@ -1,0 +1,99 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [25, 29]
+B(1) [11, 43]
+C(2) [51, 46]
+D(3) [19, 33]
+E(4) [35, 32]
+F(5) [31, 45]
+G(6) [13, 42]
+H(7) [47, 12]
+I(8) [24, 28]
+J(9) [9, 37]
+K(10) [7, 40]
+L(11) [41, 26]
+M(12) [27, 3]
+N(13) [6, 1]
+O(14) [34, 22]
+P(15) [18, 20]
+Q(16) [50, 8]
+R(17) [16, 14]
+S(18) [2, 49]
+T(19) [38, 5]
+U(20) [23, 36]
+V(21) [17, 4]
+W(22) [0, 15]
+X(23) [30, 44]
+Y(24) [10, 48]
+Z(25) [21, 39]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   39
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+10 32 2 47 35 15 29 49 51 35 14 5 25 28 1 26 10 0 22 6 19 35 14 31 23 41 41 48 47 29 1 33 2 34 27 35 0 28 5 47 47 28 2 45 28 6 35 41 48 51 36 16 4 32 33 49 46 25 14 26 35 38 41 28 18 2 12 28 2 45 14 25 1 40 11 41 23 32 35 10 35 2 12 24 2 51 14 24 2 20 13 22 26 19 12 25 28 16 5 12 32 14 35
+
+--- DECRYPTED PLAINTEXT ---
+SEATTWHATTEAREENSHINGTEXPOOFTHERAZYTHEATTEAMENTOFTHEVERADRENTJOELATEAMEREQUOPETSTATBATEBACKINGTREEATEET
+
+--- SCORE ---
+-981.9357
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 8 / 103 chars correct (7.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> E
+2      -> A
+4      -> V
+5      -> A
+6      -> N
+10     -> S
+11     -> U
+12     -> T
+13     -> K
+14     -> E
+15     -> W
+16     -> E
+18     -> L
+19     -> G
+20     -> C
+22     -> I
+23     -> P
+24     -> B
+25     -> R
+26     -> N
+27     -> Y
+28     -> E
+29     -> H
+31     -> X
+32     -> E
+33     -> R
+34     -> Z
+35     -> T
+36     -> H
+38     -> J
+40     -> Q
+41     -> O
+45     -> M
+46     -> D
+47     -> T
+48     -> F
+49     -> A
+51     -> T

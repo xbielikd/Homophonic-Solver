@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [72, 38, 51]
+B(1) [44, 64, 60]
+C(2) [74, 53, 54]
+D(3) [37, 45, 41]
+E(4) [70, 52, 21]
+F(5) [26, 22, 42]
+G(6) [11, 3, 69]
+H(7) [76, 1, 23]
+I(8) [30, 73, 61]
+J(9) [16, 17, 71]
+K(10) [13, 77, 12]
+L(11) [57, 55, 8]
+M(12) [35, 59, 31]
+N(13) [75, 7, 5]
+O(14) [43, 58, 15]
+P(15) [48, 24, 27]
+Q(16) [65, 6, 66]
+R(17) [14, 50, 67]
+S(18) [39, 25, 33]
+T(19) [18, 9, 28]
+U(20) [32, 20, 40]
+V(21) [68, 63, 2]
+W(22) [10, 0, 19]
+X(23) [49, 4, 34]
+Y(24) [46, 62, 36]
+Z(25) [47, 29, 56]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+61 23 72 45 44 52 70 5 38 74 18 20 38 55 57 62 30 7 63 61 18 52 37 51 74 1 72 32 22 26 52 20 50 30 5 72 32 7 61 22 58 14 35 15 22 67 58 44 61 75 25 52 11 3 44 55 32 70 53 50 58 33 33 52 37 35 36 55 38 19 5 70 51 14 57 46 18 76 38 18 25 51 9 32 50 45 38 36 59 15 50 5 73 75 11 0 73 28 23 38
+
+--- DECRYPTED PLAINTEXT ---
+EEREREREANTEATEMEDJETERENGRERKEEREEREDEREREURYERECHEOPRTERERELLERESTABEREREXTWATHEVEREASQUREICOFIZEA
+
+--- SCORE ---
+-498.4905
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 23 / 100 chars correct (23.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> G
+3      -> P
+5      -> E
+7      -> D
+9      -> V
+11     -> O
+14     -> R
+15     -> U
+18     -> T
+19     -> B
+20     -> E
+22     -> R
+23     -> E
+25     -> H
+26     -> K
+28     -> Z
+30     -> E
+32     -> E
+33     -> L
+35     -> E
+36     -> S
+37     -> R
+38     -> A
+44     -> R
+45     -> E
+46     -> X
+50     -> R
+51     -> E
+52     -> E
+53     -> E
+55     -> T
+57     -> E
+58     -> E
+59     -> Q
+61     -> E
+62     -> M
+63     -> J
+67     -> Y
+70     -> R
+72     -> R
+73     -> I
+74     -> N
+75     -> C
+76     -> W

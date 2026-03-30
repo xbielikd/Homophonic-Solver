@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [27, 55, 36, 62, 7]
+B(1) [69]
+C(2) [24, 13]
+D(3) [70, 31, 6]
+E(4) [14, 32, 72, 20, 47, 45, 3, 26]
+F(5) [60, 22]
+G(6) [16, 42]
+H(7) [65, 15, 50, 64]
+I(8) [11, 61, 25, 49, 39]
+J(9) [63]
+K(10) [43]
+L(11) [54, 46, 73]
+M(12) [35, 29]
+N(13) [38, 59, 48, 37, 53]
+O(14) [67, 34, 28, 40, 10]
+P(15) [0, 30]
+Q(16) [56]
+R(17) [2, 21, 9, 66]
+S(18) [58, 1, 17, 4]
+T(19) [19, 33, 52, 23, 5, 12]
+U(20) [8, 68]
+V(21) [51]
+W(22) [71, 74]
+X(23) [57]
+Y(24) [18, 44]
+Z(25) [41]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+50 49 17 23 55 38 59 14 70 1 43 25 59 71 55 1 6 9 55 74 59 27 33 33 2 55 24 23 25 51 14 54 44 19 61 16 15 23 10 53 50 25 58 60 36 13 32 7 59 70 50 49 58 4 65 40 2 52 64 62 49 2 54 40 28 43 20 6 7 17 23 15 40 68 16 65 39 33 74 47 2 14 23 21 49 35 35 14 31 14 51 26 21 44 70 55 44 39 24 34 68 73 6
+
+--- DECRYPTED PLAINTEXT ---
+HENTHESETERESTHEETHESWEETHATEREPECOMETOTHEDBYQUESTHEDFORTINGETPRORKEENTEREMOREEXTETHELLEVERTHETHERAZEJE
+
+--- SCORE ---
+-703.0590
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 103 chars correct (14.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> T
+4      -> F
+6      -> E
+7      -> E
+9      -> T
+10     -> O
+13     -> Q
+14     -> E
+15     -> E
+16     -> M
+17     -> N
+19     -> C
+20     -> K
+21     -> H
+23     -> T
+24     -> A
+25     -> E
+26     -> T
+27     -> W
+28     -> O
+31     -> V
+32     -> U
+33     -> E
+34     -> Z
+35     -> L
+36     -> Y
+38     -> E
+39     -> R
+40     -> R
+43     -> R
+44     -> E
+47     -> X
+49     -> E
+50     -> H
+51     -> R
+52     -> I
+53     -> T
+54     -> P
+55     -> H
+58     -> D
+59     -> S
+60     -> B
+61     -> O
+62     -> G
+64     -> N
+65     -> O
+68     -> E
+70     -> T
+71     -> T
+73     -> J
+74     -> E

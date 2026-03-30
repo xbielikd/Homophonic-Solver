@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 13, 23]
+B(1) [1, 28, 48]
+C(2) [49, 38, 66]
+D(3) [27, 50, 45]
+E(4) [5, 51, 63]
+F(5) [52, 26, 37]
+G(6) [58, 71, 2]
+H(7) [10, 56, 41]
+I(8) [8, 16, 3]
+J(9) [4, 72, 6]
+K(10) [34, 40, 39]
+L(11) [15, 11, 9]
+M(12) [25, 60, 74]
+N(13) [64, 57, 12]
+O(14) [0, 68, 17]
+P(15) [20, 7, 43]
+Q(16) [54, 22, 29]
+R(17) [55, 65, 44]
+S(18) [67, 30, 33]
+T(19) [24, 73, 76]
+U(20) [36, 19, 77]
+V(21) [32, 42, 70]
+W(22) [53, 62, 35]
+X(23) [21, 31, 47]
+Y(24) [46, 69, 75]
+Z(25) [14, 61, 59]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+73 41 5 36 57 50 51 44 71 55 23 27 19 18 76 5 57 68 50 50 51 45 8 12 23 66 69 12 16 38 23 9 25 5 11 13 12 66 10 17 9 46 53 13 69 76 56 63 1 18 65 35 56 63 44 5 62 51 71 15 13 57 38 5 50 26 3 65 67 24 53 23 30 49 55 68 35 50 5 27 28 19 76 71 18 24 33 48 75 35 13 33 57 17 24 76 56 63 65 51
+
+--- DECRYPTED PLAINTEXT ---
+QJIANSELEMENTSHINESSEXPRESTRADERSIZERSFORTHETHESESARESLIKEEVENDISAWAYTHECOMERSINGTHESTABUREANOTHESAE
+
+--- SCORE ---
+-1047.3124
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 100 chars correct (14.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+3      -> W
+5      -> I
+8      -> P
+9      -> R
+10     -> F
+11     -> Z
+12     -> R
+13     -> E
+15     -> V
+16     -> A
+17     -> O
+18     -> S
+19     -> T
+23     -> E
+24     -> T
+25     -> S
+26     -> A
+27     -> N
+28     -> G
+30     -> C
+33     -> A
+35     -> R
+36     -> A
+38     -> D
+41     -> J
+44     -> L
+45     -> X
+46     -> T
+48     -> B
+49     -> O
+50     -> S
+51     -> E
+53     -> H
+55     -> M
+56     -> E
+57     -> N
+62     -> K
+63     -> S
+65     -> A
+66     -> S
+67     -> Y
+68     -> E
+69     -> T
+71     -> E
+73     -> Q
+75     -> U
+76     -> H

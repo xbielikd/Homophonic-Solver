@@ -1,0 +1,100 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [3, 21, 39]
+B(1) [8]
+C(2) [42]
+D(3) [11, 26]
+E(4) [10, 29, 43, 19]
+F(5) [41]
+G(6) [28]
+H(7) [35, 37]
+I(8) [13, 24, 4]
+J(9) [25]
+K(10) [23]
+L(11) [30, 1]
+M(12) [16]
+N(13) [40, 22, 2]
+O(14) [32, 33, 15]
+P(15) [14]
+Q(16) [6]
+R(17) [36, 31]
+S(18) [34, 12]
+T(19) [0, 18, 38]
+U(20) [20]
+V(21) [17]
+W(22) [9]
+X(23) [7]
+Y(24) [5]
+Z(25) [27]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   40
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+5 10 34 37 43 9 3 34 42 43 36 18 21 4 40 30 5 9 32 22 26 19 36 41 20 1 30 5 37 3 40 11 34 15 16 10 9 13 38 37 37 13 34 41 24 2 43 30 5 42 20 31 17 19 11 34 42 39 36 30 10 0 1 13 14 12 37 13 12 41 36 39 40 23 8 30 20 19 29 5 43 12 35 13 12 42 36 4 12 14 28 33 30 11 37 39 4 31 18 37 10 31 10
+
+--- DECRYPTED PLAINTEXT ---
+EENTEDINTERSMACREDBYFORTOURETICINGLEDEXTTENTWHERETORJOINTERREQUEINTENTRECEPROOKEENVENTRANIZERITEARSTERE
+
+--- SCORE ---
+-956.6092
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 17 / 103 chars correct (16.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+1      -> U
+2      -> H
+3      -> I
+4      -> A
+5      -> E
+8      -> P
+9      -> D
+10     -> E
+11     -> I
+12     -> N
+13     -> E
+14     -> I
+15     -> G
+16     -> L
+17     -> J
+18     -> S
+19     -> O
+20     -> O
+21     -> M
+22     -> Y
+23     -> E
+24     -> W
+26     -> F
+28     -> Z
+29     -> K
+30     -> R
+31     -> R
+32     -> B
+33     -> E
+34     -> N
+35     -> V
+36     -> R
+37     -> T
+38     -> X
+39     -> E
+40     -> C
+41     -> T
+42     -> T
+43     -> E

@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 9, 12]
+B(1) [13]
+C(2) [3]
+D(3) [4, 26]
+E(4) [5, 1, 41, 31]
+F(5) [16]
+G(6) [17]
+H(7) [35, 2]
+I(8) [6, 22, 25]
+J(9) [7]
+K(10) [27]
+L(11) [24, 14]
+M(12) [43]
+N(13) [20, 34, 0]
+O(14) [28, 10, 11]
+P(15) [39]
+Q(16) [42]
+R(17) [33, 29]
+S(18) [15, 37]
+T(19) [18, 21, 40]
+U(20) [8]
+V(21) [19]
+W(22) [32]
+X(23) [36]
+Y(24) [38]
+Z(25) [23]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+35 1 2 30 26 2 9 21 5 16 8 14 43 5 43 11 33 22 31 37 10 16 2 22 43 18 35 30 21 4 11 41 15 20 28 18 43 12 40 21 5 33 2 1 9 20 15 32 1 33 41 4 25 15 25 43 39 14 38 32 9 34 21 40 28 15 41 1 21 2 31 39 24 30 3 41 40 35 30 40 22 15 30 14 24 17 6 19 31 43 41 21 35 1 27 5 38 9 34 4
+
+--- DECRYPTED PLAINTEXT ---
+TEREPRESTEDTOTOFAMEZGERMONTESAFRELYNOWASTAREELEVEARACECOSTIVESSAYERESRESHEBRATEAMEETHJUKEORSTEXTIESA
+
+--- SCORE ---
+-983.1925
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 8 / 100 chars correct (8.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> R
+3      -> B
+4      -> A
+5      -> T
+6      -> U
+8      -> D
+9      -> E
+10     -> G
+11     -> F
+12     -> W
+14     -> T
+15     -> E
+16     -> E
+17     -> J
+18     -> N
+19     -> K
+20     -> L
+21     -> S
+22     -> M
+24     -> H
+25     -> C
+26     -> P
+27     -> X
+28     -> Y
+30     -> E
+31     -> E
+32     -> V
+33     -> A
+34     -> S
+35     -> T
+37     -> Z
+38     -> I
+39     -> S
+40     -> A
+41     -> R
+43     -> O

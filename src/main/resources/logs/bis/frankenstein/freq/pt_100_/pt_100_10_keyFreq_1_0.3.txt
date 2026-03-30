@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 34, 22]
+B(1) [20]
+C(2) [1]
+D(3) [31, 39]
+E(4) [10, 37, 19, 11]
+F(5) [21]
+G(6) [43]
+H(7) [13, 28]
+I(8) [32, 15, 29]
+J(9) [23]
+K(10) [41]
+L(11) [2, 4]
+M(12) [9]
+N(13) [42, 14, 0]
+O(14) [40, 24, 5]
+P(15) [33]
+Q(16) [8]
+R(17) [30, 35]
+S(18) [17, 38]
+T(19) [3, 25, 12]
+U(20) [27]
+V(21) [7]
+W(22) [16]
+X(23) [26]
+Y(24) [6]
+Z(25) [36]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+16 28 37 42 15 25 28 5 27 43 13 25 24 21 13 15 9 29 43 0 18 17 13 10 31 9 6 25 10 37 12 28 9 6 10 6 11 38 20 11 1 18 9 10 15 14 21 2 34 9 10 39 22 0 39 15 22 35 39 11 42 25 2 6 16 29 38 28 37 31 25 5 19 26 3 15 14 43 27 29 38 13 12 13 34 25 4 15 21 10 16 13 15 1 28 29 28 18 39 17 24
+
+--- DECRYPTED PLAINTEXT ---
+STOLEETYWETEPETEEIETHETRMEEEROFTEEREANJAGHEREVEDBERECTEECKEALEDESINTOMEYQUZEVEWINTFTBEXEERSTEGTITHEEP
+
+--- SCORE ---
+-537.6643
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 101 chars correct (4.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> G
+2      -> D
+3      -> Z
+4      -> X
+5      -> Y
+6      -> E
+9      -> E
+10     -> R
+11     -> A
+12     -> F
+13     -> T
+14     -> V
+15     -> E
+16     -> S
+17     -> E
+18     -> H
+19     -> Q
+20     -> J
+21     -> E
+22     -> C
+24     -> P
+25     -> E
+26     -> U
+27     -> W
+28     -> T
+29     -> I
+31     -> M
+34     -> B
+35     -> K
+37     -> O
+38     -> N
+39     -> E
+42     -> L
+43     -> E

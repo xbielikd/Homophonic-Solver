@@ -1,0 +1,149 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [53, 77, 93, 78, 90, 85, 56, 80]
+B(1) [32, 72]
+C(2) [70, 58, 9]
+D(3) [27, 10, 16, 42]
+E(4) [20, 79, 25, 88, 97, 94, 21, 103, 52, 100, 60, 34]
+F(5) [19, 45, 74]
+G(6) [55, 3]
+H(7) [6, 76, 92, 37, 39, 13]
+I(8) [87, 30, 17, 81, 2, 83, 75]
+J(9) [24]
+K(10) [82]
+L(11) [12, 86, 71, 47]
+M(12) [36, 84, 62]
+N(13) [54, 67, 41, 61, 15, 51, 49]
+O(14) [101, 8, 5, 91, 73, 98, 23]
+P(15) [22, 31]
+Q(16) [95]
+R(17) [69, 65, 104, 1, 46, 57]
+S(18) [33, 7, 66, 96, 29, 89]
+T(19) [0, 11, 68, 26, 35, 38, 44, 99, 28]
+U(20) [4, 64, 50]
+V(21) [102]
+W(22) [63, 40, 18]
+X(23) [43]
+Y(24) [59, 14]
+Z(25) [48]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   89
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+YOUCAMEOHMYBEAUTIFULLOVEANDYOUFREEDMYSOULFROMPRISONYOUTAUGHTMEWHATREALITYREALLYISTONIGHTFORTHEFIRSTTIMEINMYLIFEISAWTHROUGHTHEHOLLOWNESSTHESHAMTHESILLINESSOFTHEEMPTYPAGEANTINWHICHIHADALWAYSPLAYEDTONIGHTFORTHEFIRSTTIMEIBECAMECONSCIOUSTHATTHEROMEOWASHIDEOUS
+
+--- CIPHERTEXT ---
+14 101 64 70 90 62 60 8 76 36 59 32 103 56 64 26 2 45 64 86 12 101 102 79 80 49 10 59 73 4 74 69 60 103 42 84 59 33 101 50 86 19 46 101 62 22 65 75 29 8 61 59 23 64 35 90 50 55 76 11 62 25 18 13 78 68 69 21 53 47 75 99 14 69 34 90 47 71 59 30 7 44 8 51 75 55 76 0 45 73 46 38 92 20 45 75 46 7 44 26 30 84 100 17 54 36 14 12 30 45 60 2 96 53 63 38 92 69 91 50 3 6 38 92 60 6 23 71 71 23 18 41 100 29 96 0 37 21 89 13 90 62 26 92 34 89 83 47 86 81 54 79 7 96 5 74 99 76 34 60 84 22 99 14 22 93 3 34 93 49 99 30 15 40 37 2 70 37 17 6 93 42 78 71 40 80 14 89 22 47 93 59 60 42 28 5 54 83 3 6 38 19 23 46 0 13 88 74 83 57 33 35 68 75 36 79 87 32 97 58 80 84 79 70 5 67 89 58 17 91 50 66 44 6 90 28 99 92 103 104 101 36 97 91 18 93 89 6 87 16 20 5 64 96
+
+--- DECRYPTED PLAINTEXT ---
+HASRESENETHEALSTERSTEAKETOTHEPREEARTHEATTHEASEXTENTHESRETHERSWERESECONTTHERENTHASINGTHEAREETHERTESITATUARTHEAREETOFTHENTENTHENETTEEQUETANCERESTHREENTERESTERTERETETHETERTOTAJONERNANTRETOTHEENTHERSEREENTHEEAREREVERSTTEDEINTTEREMENANTYINESTHAZATINETENDBEEST
+
+--- SCORE ---
+-1709.3600
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 33 / 254 chars correct (13.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+2      -> E
+3      -> E
+4      -> P
+5      -> E
+6      -> N
+7      -> S
+8      -> N
+10     -> T
+11     -> R
+12     -> E
+13     -> R
+14     -> H
+15     -> J
+16     -> B
+17     -> A
+18     -> E
+19     -> H
+20     -> E
+21     -> C
+22     -> E
+23     -> E
+25     -> W
+26     -> T
+28     -> S
+29     -> E
+30     -> A
+32     -> E
+33     -> E
+34     -> R
+35     -> R
+36     -> T
+37     -> N
+38     -> T
+40     -> O
+41     -> Q
+42     -> R
+44     -> I
+45     -> R
+46     -> E
+47     -> N
+49     -> O
+50     -> T
+51     -> G
+53     -> O
+54     -> R
+55     -> H
+56     -> L
+57     -> V
+58     -> N
+59     -> H
+60     -> E
+61     -> T
+62     -> S
+63     -> F
+64     -> S
+65     -> X
+66     -> Y
+67     -> M
+68     -> S
+69     -> E
+70     -> R
+71     -> T
+73     -> E
+74     -> R
+75     -> T
+76     -> E
+78     -> E
+79     -> E
+80     -> T
+81     -> E
+83     -> E
+84     -> T
+86     -> T
+87     -> D
+88     -> E
+89     -> E
+90     -> E
+91     -> N
+92     -> H
+93     -> T
+96     -> T
+97     -> I
+99     -> T
+100    -> U
+101    -> A
+102    -> K
+103    -> A
+104    -> Z

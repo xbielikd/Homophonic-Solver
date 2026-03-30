@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [40, 20]
+B(1) [10, 51]
+C(2) [49, 6]
+D(3) [32, 18]
+E(4) [2, 14]
+F(5) [38, 48]
+G(6) [26, 7]
+H(7) [5, 21]
+I(8) [44, 19]
+J(9) [27, 42]
+K(10) [0, 11]
+L(11) [16, 13]
+M(12) [15, 8]
+N(13) [39, 35]
+O(14) [36, 47]
+P(15) [45, 22]
+Q(16) [28, 33]
+R(17) [4, 1]
+S(18) [43, 50]
+T(19) [17, 31]
+U(20) [46, 25]
+V(21) [24, 3]
+W(22) [29, 41]
+X(23) [12, 23]
+Y(24) [30, 9]
+Z(25) [37, 34]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+FORALONGTIMEICOULDNOTCONCEIVEHOWONEMANCOULDGOFORTHTOMURDERHISFELLOWOREVENWHYTHEREWERELAWSANDGOVERNMENTS
+
+--- CIPHERTEXT ---
+48 36 4 40 16 36 35 7 17 19 8 14 19 6 36 46 13 32 35 36 17 6 36 39 49 2 19 24 2 5 36 29 36 39 2 8 20 35 6 36 46 16 32 26 47 38 36 4 31 5 31 36 15 25 4 32 14 4 21 19 43 38 14 13 13 36 41 36 4 14 3 2 35 29 21 30 31 21 14 1 2 41 14 4 14 13 20 29 43 20 39 32 26 47 3 2 4 35 15 2 35 17 43
+
+--- DECRYPTED PLAINTEXT ---
+ZERYWENJANCENTEDLINEATERKENFERESERECONTEDWINGHERURUEMBRIERENTHELLEVEREPENSEQUEEXEVERELOSTORINGPERNMENAT
+
+--- SCORE ---
+-994.9804
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 33 / 103 chars correct (32.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> X
+2      -> E
+3      -> P
+4      -> R
+5      -> R
+6      -> T
+7      -> J
+8      -> C
+13     -> L
+14     -> E
+15     -> M
+16     -> W
+17     -> A
+19     -> N
+20     -> O
+21     -> E
+24     -> F
+25     -> B
+26     -> N
+29     -> S
+30     -> Q
+31     -> U
+32     -> I
+35     -> N
+36     -> E
+38     -> H
+39     -> R
+40     -> Y
+41     -> V
+43     -> T
+46     -> D
+47     -> G
+48     -> Z
+49     -> K

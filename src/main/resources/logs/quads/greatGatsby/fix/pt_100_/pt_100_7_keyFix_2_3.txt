@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [68, 63, 38]
+B(1) [14, 66, 56]
+C(2) [37, 46, 59]
+D(3) [76, 34, 8]
+E(4) [49, 44, 30]
+F(5) [12, 54, 0]
+G(6) [41, 74, 61]
+H(7) [75, 42, 24]
+I(8) [2, 6, 77]
+J(9) [50, 72, 64]
+K(10) [27, 3, 31]
+L(11) [62, 4, 47]
+M(12) [29, 40, 22]
+N(13) [11, 18, 33]
+O(14) [23, 55, 70]
+P(15) [43, 28, 19]
+Q(16) [57, 7, 71]
+R(17) [39, 16, 10]
+S(18) [17, 52, 20]
+T(19) [26, 13, 58]
+U(20) [25, 53, 45]
+V(21) [73, 67, 60]
+W(22) [32, 65, 21]
+X(23) [69, 5, 9]
+Y(24) [35, 48, 15]
+Z(25) [1, 36, 51]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+14 47 77 11 31 6 18 74 63 21 63 15 13 75 30 66 16 6 61 42 26 33 30 52 20 55 54 26 42 30 20 26 39 44 44 13 55 45 58 20 2 8 49 29 35 49 48 30 52 19 2 59 3 30 76 42 6 40 70 45 13 70 14 52 37 45 39 44 4 15 2 11 13 42 49 68 33 58 49 39 55 70 22 26 63 47 27 2 18 74 58 70 63 33 23 13 24 49 10 29 68 18
+
+--- DECRYPTED PLAINTEXT ---
+MOFTHESTTOTHEYEXCEPRETEARSWEREREINNESTHREVENTEREAKEQUEZRELATEAMANTINTHETEREDTHEISAGETOBESTHATTHEJEANDS
+
+--- SCORE ---
+-900.3187
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 102 chars correct (9.8%)
+
+--- KEY (cipher -> plain) ---
+2      -> E
+3      -> U
+4      -> T
+6      -> E
+8      -> V
+10     -> A
+11     -> T
+13     -> E
+14     -> M
+15     -> H
+16     -> C
+18     -> S
+19     -> K
+20     -> R
+21     -> O
+22     -> G
+23     -> H
+24     -> J
+26     -> E
+27     -> B
+29     -> N
+30     -> E
+31     -> H
+33     -> T
+35     -> T
+37     -> N
+39     -> I
+40     -> L
+42     -> R
+44     -> N
+45     -> T
+47     -> O
+48     -> R
+49     -> E
+52     -> A
+54     -> W
+55     -> S
+58     -> H
+59     -> Q
+61     -> P
+63     -> T
+66     -> X
+68     -> D
+70     -> A
+74     -> T
+75     -> Y
+76     -> Z
+77     -> F

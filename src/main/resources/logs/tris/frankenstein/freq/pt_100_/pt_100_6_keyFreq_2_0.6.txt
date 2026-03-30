@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [62, 53, 59, 16, 21]
+B(1) [73]
+C(2) [49, 10]
+D(3) [40, 8, 38]
+E(4) [23, 32, 19, 2, 4, 13, 57, 44]
+F(5) [31, 1]
+G(6) [47, 25]
+H(7) [64, 3, 5, 29]
+I(8) [63, 34, 71, 36, 22]
+J(9) [11]
+K(10) [45]
+L(11) [15, 50, 46]
+M(12) [74, 35]
+N(13) [43, 20, 65, 6, 26]
+O(14) [69, 52, 18, 30, 12]
+P(15) [37, 55]
+Q(16) [39]
+R(17) [42, 51, 67, 27]
+S(18) [14, 9, 28, 60]
+T(19) [17, 66, 68, 7, 61, 54]
+U(20) [48, 0]
+V(21) [33]
+W(22) [58, 70]
+X(23) [24]
+Y(24) [72, 56]
+Z(25) [41]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+FORALONGTIMEICOULDNOTCONCEIVEHOWONEMANCOULDGOFORTHTOMURDERHISFELLOWOREVENWHYTHEREWERELAWSANDGOVERNMENTS
+
+--- CIPHERTEXT ---
+1 30 27 16 50 12 43 25 66 63 35 19 71 49 52 0 46 38 6 69 17 49 30 26 10 4 22 33 44 3 18 58 69 43 57 74 53 20 49 52 48 46 8 25 69 31 18 42 7 5 61 30 35 0 27 8 4 27 5 22 14 1 57 15 46 52 58 12 67 44 33 19 43 58 3 72 54 29 44 67 23 58 2 67 13 15 16 58 28 62 43 38 25 69 33 19 27 26 35 2 20 66 9
+
+--- DECRYPTED PLAINTEXT ---
+VIEATHETEXTRYSTHENTHESINGTHESOMTHEACKESTHENTHEMBETWITHENTETHEVALETTHESERETOFJUSEDTHEPLATIZENTHERENTHEEQ
+
+--- SCORE ---
+-684.2833
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 103 chars correct (5.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> V
+2      -> H
+3      -> O
+4      -> T
+5      -> T
+6      -> T
+7      -> E
+8      -> N
+9      -> Q
+10     -> G
+12     -> H
+13     -> P
+14     -> E
+15     -> L
+16     -> A
+17     -> E
+18     -> M
+19     -> R
+20     -> E
+22     -> H
+23     -> D
+25     -> T
+26     -> N
+27     -> E
+28     -> I
+29     -> U
+30     -> I
+31     -> E
+33     -> E
+35     -> T
+38     -> N
+42     -> B
+43     -> E
+44     -> S
+46     -> E
+48     -> H
+49     -> S
+50     -> T
+52     -> T
+53     -> K
+54     -> J
+57     -> A
+58     -> T
+61     -> W
+62     -> Z
+63     -> X
+66     -> E
+67     -> E
+69     -> H
+71     -> Y
+72     -> F
+74     -> C

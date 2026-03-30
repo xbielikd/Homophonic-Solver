@@ -1,0 +1,150 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 252
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 97, 37, 2, 80, 15, 65, 49]
+B(1) [11, 71]
+C(2) [76, 74, 31]
+D(3) [33, 46, 77, 61]
+E(4) [25, 87, 40, 104, 100, 51, 16, 8, 17, 35, 14, 93]
+F(5) [10, 103, 72]
+G(6) [102, 70]
+H(7) [48, 92, 27, 13, 58, 34]
+I(8) [99, 4, 73, 0, 41, 64, 53]
+J(9) [82]
+K(10) [86]
+L(11) [36, 42, 47, 54]
+M(12) [90, 18, 66]
+N(13) [22, 83, 38, 68, 63, 29, 95]
+O(14) [55, 59, 67, 85, 32, 94, 81]
+P(15) [101, 45]
+Q(16) [96]
+R(17) [69, 75, 91, 9, 12, 20]
+S(18) [23, 88, 56, 1, 60, 98]
+T(19) [57, 78, 26, 43, 30, 28, 50, 39, 62]
+U(20) [79, 3, 6]
+V(21) [24]
+W(22) [7, 44, 5]
+X(23) [89]
+Y(24) [84, 19]
+Z(25) [52]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   90
+TEXT LENGTH:      252
+
+--- ORIGINAL PLAINTEXT ---
+THEHALLWASATPRESENTOCCUPIEDBYTWODEPLORABLYSOBERMENANDTHEIRHIGHLYINDIGNANTWIVESTHEWIVESWERESYMPATHIZINGWITHEACHOTHERINSLIGHTLYRAISEDVOICESWHENEVERHESEESIMHAVINGAGOODTIMEHEWANTSTOGOHOMENEVERHEARDANYTHINGSOSELFISHINMYLIFEWEREALWAYSTHEFIRSTONESTOLEAVESOARE
+
+--- CIPHERTEXT ---
+57 13 14 27 21 54 42 5 15 56 65 28 45 69 87 88 14 22 57 85 31 74 3 101 53 14 61 11 84 39 5 67 77 17 45 36 81 75 2 71 36 19 98 59 11 104 75 90 25 95 15 68 77 39 58 100 64 69 58 99 70 13 36 19 64 38 77 99 70 63 37 68 50 44 64 24 25 98 43 58 8 44 53 24 35 56 5 40 69 51 23 84 18 45 21 78 58 4 52 73 38 70 7 41 28 48 93 2 31 58 67 50 34 51 12 53 38 88 54 73 70 34 39 36 84 69 15 0 23 16 33 24 81 73 74 35 23 5 48 8 95 16 24 100 69 27 16 56 17 35 88 64 66 48 21 24 53 29 70 49 102 81 55 77 78 0 18 100 34 35 7 37 22 30 1 26 85 70 81 92 59 66 8 95 8 24 25 12 92 35 2 12 61 80 63 84 39 34 53 38 70 98 59 60 16 47 10 73 88 58 0 22 18 84 42 41 10 14 5 40 20 51 65 42 5 21 84 98 43 13 8 72 0 12 56 28 81 22 104 23 26 59 42 17 97 24 104 60 67 97 20 100
+
+--- DECRYPTED PLAINTEXT ---
+EDANTSENTERNSEVEATERATQUTABLEANTERSTATEXTORELETHERTHEARETERMEDTOTHEMENTHESTHERERESTHEENTEENERSTPROFTHESANIZEARTERENTHESTERATEETANTTHATTENNIERTHEENTEREETWITHTHECKAGEPARERESTTHETREATEWEREHENTEENBYNEARTHERESTINTERATREEANANTHERENTEREDEJANENATENTEERTHESTTHE
+
+--- SCORE ---
+-2224.9478
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 252 chars correct (11.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> E
+2      -> E
+3      -> Q
+4      -> O
+5      -> N
+7      -> S
+8      -> E
+10     -> N
+11     -> L
+12     -> N
+13     -> D
+14     -> A
+15     -> T
+16     -> T
+17     -> R
+18     -> R
+19     -> O
+20     -> H
+21     -> T
+22     -> T
+23     -> N
+24     -> H
+25     -> E
+26     -> T
+27     -> N
+28     -> N
+29     -> H
+30     -> H
+31     -> A
+33     -> T
+34     -> R
+35     -> E
+36     -> T
+37     -> T
+38     -> H
+39     -> A
+40     -> T
+41     -> A
+42     -> E
+43     -> E
+44     -> S
+45     -> S
+47     -> I
+48     -> I
+49     -> C
+50     -> E
+51     -> E
+52     -> F
+53     -> T
+54     -> S
+55     -> G
+56     -> E
+57     -> E
+58     -> R
+59     -> E
+60     -> S
+61     -> B
+63     -> N
+64     -> T
+65     -> R
+66     -> W
+67     -> T
+68     -> H
+69     -> E
+70     -> E
+71     -> X
+72     -> J
+73     -> T
+74     -> T
+75     -> T
+77     -> E
+78     -> P
+80     -> Y
+81     -> A
+84     -> E
+85     -> R
+87     -> V
+88     -> E
+90     -> H
+92     -> T
+93     -> Z
+95     -> R
+97     -> T
+98     -> R
+99     -> M
+100    -> E
+101    -> U
+102    -> K
+104    -> E

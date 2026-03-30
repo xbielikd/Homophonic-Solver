@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [41, 40, 19]
+B(1) [18, 9, 72]
+C(2) [59, 45, 2]
+D(3) [7, 23, 51]
+E(4) [54, 16, 26]
+F(5) [30, 39, 66]
+G(6) [62, 57, 73]
+H(7) [10, 53, 29]
+I(8) [1, 3, 13]
+J(9) [4, 46, 65]
+K(10) [35, 17, 15]
+L(11) [76, 6, 63]
+M(12) [74, 47, 58]
+N(13) [14, 55, 67]
+O(14) [71, 5, 43]
+P(15) [77, 0, 28]
+Q(16) [22, 48, 8]
+R(17) [69, 32, 20]
+S(18) [12, 42, 61]
+T(19) [31, 52, 38]
+U(20) [11, 36, 68]
+V(21) [34, 44, 21]
+W(22) [75, 27, 60]
+X(23) [56, 50, 25]
+Y(24) [49, 37, 33]
+Z(25) [64, 24, 70]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+55 43 47 19 67 2 43 47 26 12 40 45 32 5 42 42 52 60 43 3 23 54 41 76 52 10 1 14 62 42 66 26 60 45 71 47 26 41 45 32 5 61 42 43 55 54 1 59 40 14 38 54 50 0 63 19 1 55 13 52 52 43 49 5 36 9 40 42 1 63 72 11 52 1 74 36 12 38 67 26 34 54 69 12 13 52 38 71 33 43 68 41 57 41 3 67 38 53 26 32 26
+
+--- DECRYPTED PLAINTEXT ---
+TASHECASETURNETTERATLEAVEREINTHERRESEARNEXTATEEQUIREOFTHETHEEAGESBUTETOKEEPSTREEZEDTHEREWAYAMATERJENE
+
+--- SCORE ---
+-1115.3795
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 101 chars correct (15.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> E
+2      -> C
+3      -> T
+5      -> E
+9      -> B
+10     -> R
+11     -> K
+12     -> T
+13     -> H
+14     -> I
+19     -> H
+23     -> L
+26     -> E
+32     -> N
+33     -> W
+34     -> Z
+36     -> S
+38     -> R
+40     -> U
+41     -> A
+42     -> T
+43     -> A
+45     -> R
+47     -> S
+49     -> G
+50     -> O
+52     -> E
+53     -> J
+54     -> E
+55     -> T
+57     -> M
+59     -> Q
+60     -> R
+61     -> X
+62     -> N
+63     -> T
+66     -> H
+67     -> E
+68     -> Y
+69     -> D
+71     -> E
+72     -> O
+74     -> P
+76     -> V

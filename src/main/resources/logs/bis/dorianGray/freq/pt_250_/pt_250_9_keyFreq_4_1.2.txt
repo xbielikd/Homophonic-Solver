@@ -1,0 +1,175 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [91, 49, 60, 76, 120, 47, 123, 100, 68, 75]
+B(1) [13, 34]
+C(2) [70, 114, 29, 57]
+D(3) [48, 99, 23, 31, 95, 15]
+E(4) [6, 50, 42, 127, 117, 73, 125, 111, 109, 94, 27, 126, 112, 59, 79, 118]
+F(5) [131, 16, 132]
+G(6) [17, 103, 58]
+H(7) [21, 93, 78, 20, 24, 102, 44, 124]
+I(8) [67, 61, 96, 35, 52, 101, 98, 128, 133]
+J(9) [89]
+K(10) [66]
+L(11) [129, 82, 55, 106, 77]
+M(12) [5, 32, 122]
+N(13) [104, 108, 80, 71, 8, 63, 19, 69, 134]
+O(14) [84, 56, 64, 37, 39, 119, 2, 40, 121, 7]
+P(15) [88, 12, 110]
+Q(16) [113]
+R(17) [97, 11, 87, 53, 92, 46, 107, 1]
+S(18) [115, 41, 33, 22, 51, 65, 105, 3]
+T(19) [43, 85, 62, 81, 26, 38, 83, 130, 54, 0, 30]
+U(20) [45, 116, 18, 4]
+V(21) [10, 90]
+W(22) [25, 36, 9]
+X(23) [14]
+Y(24) [28, 72, 86]
+Z(25) [74]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   115
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+THEWORLDHASCRIEDOUTAGAINSTUSBOTHBUTITHASALWAYSWORSHIPPEDYOUITALWAYSWILLWORSHIPYOUYOUARETHETYPEOFWHATTHEAGEISSEARCHINGFORANDWHATITISAFRAIDITHASFOUNDIAMSOGLADTHATYOUHAVENEVERDONEANYTHINGNEVERCARVEDASTATUEORPAINTEDAPICTUREORPRODUCEDANYTHINGOUTSIDEOFYOURSELF
+
+--- CIPHERTEXT ---
+26 78 59 25 64 11 129 31 21 100 3 29 97 98 27 99 84 116 85 49 17 76 96 69 33 0 45 65 13 2 130 93 34 116 81 67 130 93 75 33 47 55 25 49 28 105 25 37 53 105 44 98 88 110 59 31 28 40 4 128 85 49 82 9 123 72 51 25 61 106 129 36 64 97 41 102 61 12 72 84 116 72 119 116 60 92 111 26 20 117 81 72 88 126 2 132 36 44 91 26 62 93 117 123 103 42 67 22 115 126 47 97 57 78 67 63 58 131 121 97 49 69 31 36 78 91 30 128 38 96 22 120 16 92 123 133 23 98 83 78 75 51 132 64 18 80 31 98 49 32 105 119 17 55 123 15 54 78 49 43 86 2 45 21 120 10 112 71 50 90 73 46 23 119 19 117 68 19 72 43 21 96 69 58 69 125 90 6 107 29 75 87 10 27 15 68 41 81 123 38 45 79 121 92 88 123 128 134 0 125 95 60 12 52 57 26 116 97 50 40 53 110 1 56 48 116 114 109 95 75 134 72 85 78 133 63 17 40 18 130 41 52 23 6 64 132 28 119 4 107 51 117 77 16
+
+--- DECRYPTED PLAINTEXT ---
+TETETHERTHEREERYTHERSTHETHESTHERTHERERETHEERANEWINTEANTRATHEERMEREREALESTEREARETHETHERETHEEEATHESTITERERCOREDTHERERERJUERERSEIZETHEHERREREREERETHERERENTSERERERSTHETHEXPARKERTHETHESTHEREEREEREBERETRERTEQURARETHERERERTHEATINGATHEFRETEEEEESTHERERETEATHEREVE
+
+--- SCORE ---
+-1157.3788
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 21 / 254 chars correct (8.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> G
+2      -> H
+3      -> E
+4      -> H
+6      -> E
+9      -> E
+10     -> E
+11     -> H
+12     -> R
+13     -> T
+15     -> E
+16     -> E
+17     -> S
+18     -> H
+19     -> H
+20     -> H
+21     -> T
+22     -> E
+23     -> R
+25     -> E
+26     -> T
+27     -> R
+28     -> A
+29     -> R
+30     -> Z
+31     -> R
+32     -> E
+33     -> T
+34     -> T
+36     -> S
+37     -> W
+38     -> T
+40     -> T
+41     -> R
+42     -> O
+43     -> S
+44     -> T
+45     -> E
+46     -> E
+47     -> H
+48     -> T
+49     -> R
+50     -> A
+51     -> R
+52     -> E
+53     -> I
+54     -> R
+55     -> E
+56     -> A
+57     -> R
+58     -> R
+59     -> T
+60     -> E
+61     -> A
+62     -> E
+63     -> E
+64     -> T
+65     -> S
+67     -> R
+68     -> T
+69     -> E
+71     -> P
+72     -> E
+73     -> K
+75     -> E
+76     -> T
+77     -> V
+78     -> E
+79     -> Q
+80     -> E
+81     -> E
+82     -> M
+83     -> R
+84     -> T
+85     -> E
+86     -> T
+87     -> B
+88     -> A
+90     -> R
+91     -> I
+92     -> R
+93     -> R
+95     -> R
+96     -> H
+97     -> E
+98     -> E
+99     -> Y
+100    -> H
+102    -> E
+103    -> C
+105    -> N
+106    -> L
+107    -> E
+109    -> F
+110    -> N
+111    -> E
+112    -> X
+114    -> E
+115    -> D
+116    -> H
+117    -> E
+119    -> T
+120    -> H
+121    -> U
+123    -> R
+125    -> E
+126    -> T
+128    -> E
+129    -> E
+130    -> E
+131    -> J
+132    -> E
+133    -> E
+134    -> T

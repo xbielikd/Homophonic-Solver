@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 27]
+B(1) [33, 37]
+C(2) [40, 5]
+D(3) [25, 38]
+E(4) [48, 39]
+F(5) [10, 21]
+G(6) [32, 24]
+H(7) [16, 50]
+I(8) [4, 2]
+J(9) [0, 13]
+K(10) [46, 12]
+L(11) [29, 23]
+M(12) [44, 45]
+N(13) [19, 14]
+O(14) [9, 34]
+P(15) [49, 41]
+Q(16) [7, 26]
+R(17) [36, 22]
+S(18) [35, 31]
+T(19) [17, 1]
+U(20) [28, 47]
+V(21) [20, 8]
+W(22) [6, 43]
+X(23) [30, 51]
+Y(24) [42, 11]
+Z(25) [15, 3]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+42 48 31 16 48 6 18 35 5 39 22 17 27 4 19 29 42 43 34 14 25 39 36 10 47 23 23 42 16 18 19 25 31 9 44 39 6 2 1 16 16 4 35 21 2 14 48 23 11 40 47 36 20 48 25 31 5 27 22 23 39 17 29 4 49 35 50 2 31 10 22 18 14 12 37 29 47 39 48 11 48 35 16 2 31 40 36 4 35 41 24 34 23 38 50 18 2 22 17 50 48 22 48
+
+--- DECRYPTED PLAINTEXT ---
+NERTEGETINSTCOMENJULANDEREENTEMARKINGEXTTOTHELEEVERDBEARICSENTEOFTHERESELYPERNEVETTEREDOTZQUEWHEESTHESE
+
+--- SCORE ---
+-759.0748
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 103 chars correct (13.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> X
+2      -> E
+4      -> O
+5      -> I
+6      -> G
+9      -> K
+10     -> E
+11     -> V
+12     -> Y
+14     -> L
+16     -> T
+17     -> T
+18     -> E
+19     -> M
+20     -> B
+21     -> H
+22     -> S
+23     -> E
+24     -> Q
+25     -> A
+27     -> C
+29     -> E
+31     -> R
+34     -> U
+35     -> T
+36     -> D
+37     -> P
+38     -> W
+39     -> N
+40     -> E
+41     -> Z
+42     -> N
+43     -> J
+44     -> I
+47     -> R
+48     -> E
+49     -> F
+50     -> H

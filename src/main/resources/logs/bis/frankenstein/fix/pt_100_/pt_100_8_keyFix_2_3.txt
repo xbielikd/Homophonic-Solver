@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [8, 34, 25]
+B(1) [12, 32, 56]
+C(2) [15, 62, 67]
+D(3) [0, 69, 27]
+E(4) [31, 53, 48]
+F(5) [3, 45, 39]
+G(6) [7, 68, 24]
+H(7) [23, 57, 6]
+I(8) [36, 30, 47]
+J(9) [65, 72, 5]
+K(10) [4, 71, 66]
+L(11) [28, 50, 38]
+M(12) [13, 52, 41]
+N(13) [29, 58, 77]
+O(14) [61, 11, 2]
+P(15) [60, 75, 46]
+Q(16) [1, 51, 10]
+R(17) [70, 17, 22]
+S(18) [26, 54, 33]
+T(19) [42, 14, 76]
+U(20) [18, 59, 21]
+V(21) [73, 20, 35]
+W(22) [63, 16, 55]
+X(23) [49, 74, 9]
+Y(24) [44, 19, 37]
+Z(25) [43, 64, 40]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+23 36 26 0 25 18 68 23 14 53 22 25 76 14 31 29 69 53 27 57 47 52 55 47 14 23 14 23 48 7 70 48 34 76 53 54 42 76 53 77 27 48 70 77 53 54 54 56 59 76 33 23 53 26 34 63 16 36 76 6 69 53 33 75 34 47 70 76 57 25 76 76 6 53 36 17 50 47 76 14 50 53 3 21 29 69 55 25 54 17 25 60 36 27 38 19 27 48 67 70 53 8 26 47 29 24
+
+--- DECRYPTED PLAINTEXT ---
+RERKEQUREEDEREMATESTECHEERERTHETERENGRERSTERENNJORERERELYERETEEBEEERTERREEETHEREHEXPATHENTEVESWISTHEEFREAZ
+
+--- SCORE ---
+-521.4604
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 106 chars correct (9.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> K
+3      -> X
+6      -> E
+7      -> H
+8      -> F
+14     -> E
+16     -> Y
+17     -> T
+18     -> Q
+19     -> I
+21     -> P
+22     -> D
+23     -> R
+24     -> Z
+25     -> E
+26     -> R
+27     -> S
+29     -> A
+31     -> M
+33     -> E
+34     -> E
+36     -> E
+38     -> W
+42     -> G
+47     -> E
+48     -> T
+50     -> H
+52     -> C
+53     -> E
+54     -> N
+55     -> H
+56     -> J
+57     -> T
+59     -> O
+60     -> V
+63     -> L
+67     -> H
+68     -> U
+69     -> T
+70     -> E
+75     -> B
+76     -> R
+77     -> R

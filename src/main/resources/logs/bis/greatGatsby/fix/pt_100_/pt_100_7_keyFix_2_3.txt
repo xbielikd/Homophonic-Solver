@@ -1,0 +1,109 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 5, 45]
+B(1) [32, 52, 21]
+C(2) [20, 51, 14]
+D(3) [33, 44, 0]
+E(4) [61, 70, 58]
+F(5) [60, 23, 28]
+G(6) [10, 12, 68]
+H(7) [57, 62, 17]
+I(8) [9, 42, 8]
+J(9) [54, 11, 73]
+K(10) [13, 69, 3]
+L(11) [4, 2, 55]
+M(12) [76, 31, 27]
+N(13) [74, 35, 43]
+O(14) [47, 15, 29]
+P(15) [37, 56, 36]
+Q(16) [59, 40, 34]
+R(17) [26, 71, 16]
+S(18) [64, 53, 49]
+T(19) [22, 66, 72]
+U(20) [46, 39, 19]
+V(21) [18, 30, 24]
+W(22) [77, 67, 50]
+X(23) [25, 7, 41]
+Y(24) [63, 65, 1]
+Z(25) [38, 75, 48]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   49
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+52 4 42 35 3 8 43 68 6 50 45 1 72 57 61 52 16 9 12 17 22 74 70 64 53 47 23 22 62 58 49 66 16 70 61 72 47 39 66 64 42 44 70 31 63 58 1 61 53 37 8 20 69 58 33 17 8 76 29 39 72 15 21 53 51 46 26 61 4 63 42 74 22 57 70 45 74 66 61 16 47 29 27 22 45 2 13 8 35 68 72 47 5 74 15 22 57 58 26 76 45 43
+
+--- DECRYPTED PLAINTEXT ---
+EEANGESTIZETESHEEFTHENTHERMEVESTETHERSTHAYTORETHELECKEWHEHESEDJEQUTHERANESTENTHEREBEEXPENTERENDESETHES
+
+--- SCORE ---
+-495.8804
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 102 chars correct (18.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+2      -> X
+3      -> G
+4      -> E
+5      -> E
+6      -> I
+8      -> E
+9      -> F
+12     -> T
+13     -> P
+15     -> D
+16     -> E
+17     -> H
+20     -> C
+21     -> J
+22     -> E
+23     -> M
+26     -> T
+27     -> B
+29     -> E
+31     -> O
+33     -> W
+35     -> N
+37     -> L
+39     -> S
+42     -> A
+43     -> S
+44     -> Y
+45     -> E
+46     -> U
+47     -> R
+49     -> S
+50     -> Z
+51     -> Q
+52     -> E
+53     -> E
+57     -> S
+58     -> E
+61     -> H
+62     -> V
+63     -> R
+64     -> H
+66     -> T
+68     -> T
+69     -> K
+70     -> T
+72     -> E
+74     -> N
+76     -> H

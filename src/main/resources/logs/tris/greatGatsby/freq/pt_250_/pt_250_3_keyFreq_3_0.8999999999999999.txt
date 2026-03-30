@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [54, 75, 47, 55, 45, 102, 9, 32]
+B(1) [11, 95]
+C(2) [99, 10, 85]
+D(3) [41, 23, 2, 53]
+E(4) [66, 56, 52, 94, 21, 93, 88, 39, 68, 50, 51, 73]
+F(5) [70, 0, 61]
+G(6) [86, 20]
+H(7) [26, 83, 30, 46, 14, 100]
+I(8) [62, 59, 4, 35, 69, 103, 1]
+J(9) [96]
+K(10) [31]
+L(11) [101, 80, 92, 64]
+M(12) [8, 6, 42]
+N(13) [12, 22, 60, 79, 74, 44, 89]
+O(14) [18, 15, 77, 33, 67, 65, 84]
+P(15) [81, 34]
+Q(16) [36]
+R(17) [17, 58, 91, 57, 19, 16]
+S(18) [78, 87, 28, 98, 82, 24]
+T(19) [63, 7, 97, 104, 90, 3, 25, 76, 29]
+U(20) [13, 37, 48]
+V(21) [40]
+W(22) [72, 49, 71]
+X(23) [5]
+Y(24) [38, 27]
+Z(25) [43]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+AFTERTHATSHEDIDNTPLAYAROUNDWITHTHESOLDIERSANYMOREBUTONLYWITHAFEWFLATFOOTEDSHORTSIGHTEDYOUNGMENINTOWNWHOCOULDNTGETINTOTHEARMYATALLBYTHENEXTAUTUMNSHEWASGAYAGAINGAYASEVERSHEHADADBUTAFTERTHEARMISTICEANDINFEBRUARYSHEWASPRESUMABLYENGAGEDTOAMANFROMNEWORLEANS
+
+--- CIPHERTEXT ---
+102 61 90 50 57 104 30 32 29 87 83 68 23 59 23 60 3 34 64 102 38 9 57 33 48 89 23 71 35 76 14 97 83 51 78 84 92 2 1 56 16 82 55 12 27 8 18 17 94 95 13 7 65 22 92 38 49 103 25 100 55 61 52 72 70 64 47 76 61 67 15 104 21 23 87 30 18 91 97 87 59 86 100 25 56 2 38 77 48 12 86 6 68 89 103 74 97 15 71 89 49 26 33 10 84 37 92 2 74 90 20 73 7 69 12 104 67 29 26 39 54 19 6 27 102 104 55 64 80 11 27 3 26 51 89 68 5 29 45 37 7 13 42 74 98 14 39 72 54 78 86 102 38 54 20 9 4 74 86 102 27 9 98 68 40 66 16 24 14 52 83 54 2 9 23 95 37 104 9 0 97 56 91 104 14 73 9 57 6 62 87 7 1 10 52 75 74 53 4 79 0 94 95 16 13 54 19 38 82 30 56 71 9 24 34 91 52 87 37 42 32 95 80 27 94 89 86 102 20 51 2 29 15 45 42 9 44 70 58 33 42 44 88 71 65 57 64 50 9 12 28
+
+--- DECRYPTED PLAINTEXT ---
+STEDATHEETHEEHEFRONSTEATERERKESTHERNEREEATEREJEWANTHEBETEVERETTHENCETHETHETHENTTHEREERTHERENERVETERRESTINTEREETTHERTHESTEANESTENTHERSEREMETTHTHERSTHERESTETEREESEEREQUALSTHEREENTTESTENTSTEANGTHEITYEARESANATEATTHERELONTTTHENTEARESTEREETHEEEXTHEPREANDERZ
+
+--- SCORE ---
+-1667.3859
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 27 / 251 chars correct (10.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> E
+2      -> R
+3      -> R
+4      -> R
+5      -> M
+6      -> N
+7      -> H
+8      -> J
+9      -> E
+10     -> I
+11     -> H
+12     -> R
+13     -> T
+14     -> S
+15     -> E
+16     -> A
+17     -> W
+18     -> E
+19     -> A
+20     -> T
+21     -> H
+22     -> B
+23     -> E
+24     -> L
+25     -> E
+26     -> S
+27     -> E
+28     -> Z
+29     -> E
+30     -> H
+32     -> E
+33     -> T
+34     -> O
+35     -> K
+37     -> T
+38     -> T
+39     -> T
+40     -> Q
+42     -> H
+44     -> E
+45     -> T
+47     -> C
+48     -> E
+49     -> E
+50     -> D
+51     -> E
+52     -> T
+53     -> A
+54     -> E
+55     -> E
+56     -> E
+57     -> A
+58     -> X
+59     -> H
+60     -> F
+61     -> T
+62     -> G
+64     -> N
+65     -> E
+66     -> U
+67     -> H
+68     -> E
+69     -> E
+70     -> E
+71     -> R
+72     -> H
+73     -> T
+74     -> E
+75     -> Y
+76     -> E
+77     -> H
+78     -> R
+79     -> E
+80     -> T
+82     -> T
+83     -> H
+84     -> N
+86     -> E
+87     -> T
+88     -> P
+89     -> R
+90     -> E
+91     -> N
+92     -> E
+94     -> A
+95     -> N
+97     -> T
+98     -> R
+100    -> R
+102    -> S
+103    -> V
+104    -> T

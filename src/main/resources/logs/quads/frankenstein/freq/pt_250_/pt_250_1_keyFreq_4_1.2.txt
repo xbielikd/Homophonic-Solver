@@ -1,0 +1,175 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [120, 65, 99, 23, 110, 28, 109, 26, 62, 71]
+B(1) [97, 101]
+C(2) [115, 133, 40, 95]
+D(3) [106, 33, 15, 45, 14, 78]
+E(4) [74, 100, 29, 87, 37, 60, 21, 49, 83, 127, 132, 0, 9, 80, 129, 42]
+F(5) [59, 8, 79]
+G(6) [27, 2, 114]
+H(7) [17, 63, 4, 11, 122, 94, 90, 1]
+I(8) [19, 16, 10, 126, 24, 20, 52, 13, 125]
+J(9) [124]
+K(10) [6]
+L(11) [107, 113, 7, 134, 35]
+M(12) [64, 103, 102]
+N(13) [48, 112, 118, 61, 93, 119, 69, 55, 54]
+O(14) [22, 31, 75, 117, 53, 81, 92, 41, 57, 36]
+P(15) [82, 108, 131]
+Q(16) [32]
+R(17) [25, 98, 47, 18, 68, 66, 76, 130]
+S(18) [72, 88, 70, 105, 56, 86, 44, 85]
+T(19) [128, 51, 91, 73, 38, 77, 46, 34, 111, 5, 30]
+U(20) [123, 43, 89, 84]
+V(21) [116, 3]
+W(22) [58, 96, 50]
+X(23) [104]
+Y(24) [121, 67, 39]
+Z(25) [12]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   115
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+IWASBEWILDEREDINACLOUDOFWONDERANDHORRORTHEDEATHOFWILLIAMTHEEXECUTIONOFJUSTINETHEMURDEROFCLERVALANDLASTLYOFMYWIFEEVENATTHATMOMENTIKNEWNOTTHATMYONLYREMAININGFRIENDSWERESAFEFROMTHEMALIGNITYOFTHEFIENDMYFATHEREVENNOWMIGHTBEWRITHINGUNDERHISGRASPANDERNESTMIGHT
+
+--- CIPHERTEXT ---
+125 58 65 88 101 127 50 20 134 14 60 130 83 14 126 112 62 40 35 75 84 106 31 59 58 41 112 45 83 98 110 55 33 94 75 18 130 117 25 73 1 21 45 9 65 46 4 53 8 58 52 113 107 13 110 102 77 1 127 83 104 74 40 89 128 125 41 93 81 79 124 123 86 30 125 118 74 5 63 127 103 89 25 78 132 130 92 8 40 113 60 76 116 71 134 65 61 15 7 23 86 91 107 121 53 79 102 121 96 13 8 83 87 116 132 54 71 5 51 1 26 38 103 57 64 21 48 38 125 6 48 74 50 69 36 30 34 17 26 77 64 67 92 93 7 121 18 29 102 23 13 54 10 69 2 8 130 126 0 54 15 85 96 0 18 37 105 110 79 42 8 68 22 103 73 4 129 102 23 7 16 114 48 16 34 39 92 59 111 1 60 8 20 9 119 106 102 67 79 71 51 90 21 76 37 3 87 112 69 36 96 103 126 27 17 34 101 49 96 25 13 38 63 52 61 27 89 118 106 60 68 122 52 72 2 18 26 56 131 120 119 33 132 98 61 80 86 111 64 16 2 1 51
+
+--- DECRYPTED PLAINTEXT ---
+EORIESTHERTHERETHEQUESECONTHERTHEBUTHERHETHERIESTORSESTATESENTEEVENTHEREATEDTHESTERSTHATESTHATERENETATERSEARESTERATITHREATTHETATEDATTERTHEATERATERTHATSIZESTHESINGESTEXTENTOFTHELATESTASHJACKETTHERSARETRYTHEARTERETEREHEWERSTEREREDSTOPRESTANDERETREMAKESSER
+
+--- SCORE ---
+-2131.5763
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 253 chars correct (9.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> E
+2      -> S
+3      -> A
+4      -> E
+5      -> H
+6      -> D
+7      -> E
+8      -> T
+9      -> E
+10     -> Z
+13     -> S
+14     -> R
+15     -> N
+16     -> S
+17     -> E
+18     -> T
+20     -> H
+21     -> T
+22     -> F
+23     -> T
+25     -> R
+26     -> A
+27     -> R
+29     -> H
+30     -> T
+31     -> E
+33     -> E
+34     -> H
+35     -> Q
+36     -> R
+37     -> E
+38     -> T
+39     -> J
+40     -> E
+41     -> N
+42     -> N
+45     -> H
+46     -> I
+48     -> A
+49     -> W
+50     -> T
+51     -> R
+52     -> R
+53     -> S
+54     -> I
+55     -> H
+56     -> N
+57     -> H
+58     -> O
+59     -> C
+60     -> T
+61     -> E
+62     -> H
+63     -> E
+64     -> E
+65     -> R
+67     -> R
+68     -> O
+69     -> E
+71     -> T
+72     -> E
+73     -> H
+74     -> T
+75     -> U
+76     -> H
+77     -> T
+78     -> S
+79     -> E
+80     -> M
+81     -> H
+83     -> E
+84     -> E
+85     -> G
+86     -> A
+87     -> R
+88     -> I
+89     -> E
+90     -> Y
+91     -> T
+92     -> A
+93     -> T
+94     -> B
+96     -> E
+98     -> R
+101    -> E
+102    -> A
+103    -> T
+104    -> N
+105    -> X
+106    -> S
+107    -> E
+110    -> T
+111    -> K
+112    -> T
+113    -> S
+114    -> T
+116    -> A
+117    -> E
+118    -> D
+119    -> R
+120    -> E
+121    -> R
+122    -> P
+123    -> E
+124    -> R
+125    -> E
+126    -> E
+127    -> S
+128    -> V
+129    -> L
+130    -> H
+131    -> D
+132    -> T
+134    -> E

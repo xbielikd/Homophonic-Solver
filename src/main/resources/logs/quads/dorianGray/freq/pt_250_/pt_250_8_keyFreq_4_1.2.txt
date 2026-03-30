@@ -1,0 +1,172 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [31, 76, 65, 108, 123, 17, 40, 82, 117, 45]
+B(1) [27, 73]
+C(2) [132, 12, 35, 41]
+D(3) [80, 42, 38, 28, 78, 96]
+E(4) [2, 105, 111, 18, 0, 97, 52, 92, 24, 19, 134, 103, 110, 133, 127, 8]
+F(5) [23, 4, 13]
+G(6) [79, 47, 37]
+H(7) [10, 71, 114, 59, 36, 90, 89, 56]
+I(8) [72, 22, 5, 50, 30, 125, 107, 119, 81]
+J(9) [6]
+K(10) [55]
+L(11) [3, 69, 44, 101, 53]
+M(12) [118, 84, 112]
+N(13) [49, 85, 57, 129, 102, 48, 25, 33, 11]
+O(14) [16, 14, 120, 106, 98, 67, 121, 43, 86, 61]
+P(15) [99, 32, 122]
+Q(16) [39]
+R(17) [116, 68, 26, 51, 83, 70, 7, 104]
+S(18) [1, 115, 9, 126, 131, 124, 29, 75]
+T(19) [21, 46, 20, 74, 64, 93, 58, 77, 128, 130, 100]
+U(20) [60, 95, 113, 91]
+V(21) [62, 66]
+W(22) [54, 87, 15]
+X(23) [88]
+Y(24) [63, 94, 109]
+Z(25) [34]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   112
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+ITWOULDBEABSURDFORHIMTOMARRYSOMUCHBENEATHHIMIFYOUWANTTOMAKEHIMMARRYTHISGIRLTELLHIMTHATBASILHEISSURETODOITTHENWHENEVERAMANDOESATHOROUGHLYSTUPIDTHINGITISALWAYSFROMTHENOBLESTMOTIVESIHOPETHEGIRLISGOODHARRYIDONTWANTTOSEEDORIANTIEDTOSOMEVILECREATUREWHOMIGHT
+
+--- CIPHERTEXT ---
+50 74 15 121 113 53 96 27 105 76 73 126 113 116 78 4 14 70 56 81 84 20 14 84 82 26 68 63 75 120 84 60 12 89 27 134 85 8 45 93 71 36 81 84 119 13 63 86 91 54 40 49 130 130 61 84 82 55 2 56 81 118 112 108 104 51 94 21 89 22 1 37 125 70 44 21 92 3 53 56 5 118 74 71 117 130 27 76 115 72 69 56 97 5 9 126 60 51 19 100 14 96 106 30 130 20 59 105 102 87 56 52 33 105 62 24 116 76 118 65 48 42 120 111 29 31 20 89 61 116 98 60 37 56 3 63 1 46 60 32 119 96 93 89 81 25 37 5 130 81 29 82 69 54 45 63 75 23 83 106 112 46 59 110 57 61 73 44 52 126 58 112 43 130 22 62 133 124 72 59 120 32 2 130 59 111 37 125 70 44 81 131 47 98 14 78 10 31 26 83 94 50 80 98 49 93 15 31 25 74 100 98 115 103 18 80 106 68 30 40 129 100 125 103 28 77 121 75 86 118 134 66 50 44 127 41 26 0 82 100 60 70 24 87 89 121 118 125 47 36 64
+
+--- DECRYPTED PLAINTEXT ---
+RTHINGASHASANDINTHERESTEARESTHETHESTHERTHERERESIZERSEENEABLERSESTHATERINTHETERGETSTHEESARETERTHATHESTARTESTHERESTHEEDASKETHERESENDATNERSINTERATERINTERRATERSTHERENTHENSESAMEWERENCETHELETENTHERTHATIVEREAREASTHEITSAREFERETRYSTEQUITISTOREXPREASTHEREISTHEJ
+
+--- SCORE ---
+-2102.9897
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 251 chars correct (12.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> I
+2      -> L
+3      -> R
+4      -> N
+5      -> T
+8      -> E
+9      -> H
+10     -> V
+12     -> H
+13     -> E
+14     -> T
+15     -> H
+18     -> F
+19     -> E
+20     -> S
+21     -> T
+22     -> R
+23     -> H
+24     -> E
+25     -> I
+26     -> R
+27     -> S
+28     -> Q
+29     -> R
+30     -> T
+31     -> E
+32     -> E
+33     -> T
+36     -> E
+37     -> N
+40     -> R
+41     -> P
+42     -> T
+43     -> W
+44     -> E
+45     -> R
+46     -> N
+47     -> H
+48     -> E
+49     -> S
+50     -> R
+51     -> H
+52     -> S
+53     -> G
+54     -> E
+55     -> B
+56     -> E
+57     -> E
+58     -> M
+59     -> T
+60     -> T
+61     -> N
+62     -> E
+63     -> S
+64     -> J
+65     -> K
+66     -> O
+68     -> E
+69     -> T
+70     -> H
+71     -> H
+72     -> E
+73     -> S
+74     -> T
+75     -> T
+76     -> A
+77     -> U
+78     -> I
+80     -> E
+81     -> R
+82     -> A
+83     -> E
+84     -> E
+85     -> H
+86     -> I
+87     -> R
+89     -> E
+91     -> Z
+92     -> E
+93     -> T
+94     -> A
+96     -> A
+97     -> R
+98     -> A
+100    -> S
+102    -> E
+103    -> E
+104    -> T
+105    -> H
+106    -> R
+108    -> S
+110    -> H
+111    -> E
+112    -> E
+113    -> N
+115    -> R
+116    -> D
+117    -> E
+118    -> S
+119    -> R
+120    -> H
+121    -> I
+124    -> C
+125    -> T
+126    -> A
+127    -> X
+129    -> Y
+130    -> E
+131    -> T
+133    -> N
+134    -> T

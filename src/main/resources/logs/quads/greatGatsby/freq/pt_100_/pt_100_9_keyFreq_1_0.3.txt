@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [36, 30, 10]
+B(1) [12]
+C(2) [7]
+D(3) [20, 3]
+E(4) [14, 22, 35, 40]
+F(5) [4]
+G(6) [31]
+H(7) [25, 27]
+I(8) [15, 34, 29]
+J(9) [33]
+K(10) [32]
+L(11) [23, 8]
+M(12) [28]
+N(13) [26, 24, 38]
+O(14) [19, 11, 6]
+P(15) [43]
+Q(16) [13]
+R(17) [41, 39]
+S(18) [17, 9]
+T(19) [2, 42, 16]
+U(20) [37]
+V(21) [5]
+W(22) [21]
+X(23) [18]
+Y(24) [0]
+Z(25) [1]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+31 6 10 38 20 12 37 0 2 35 38 28 6 41 35 3 19 31 17 21 15 16 25 29 42 21 40 3 41 6 5 40 11 5 14 41 16 6 4 34 4 2 27 36 5 40 24 37 40 21 30 41 28 30 26 3 17 6 4 42 10 8 28 19 9 2 43 10 17 2 19 39 10 23 6 38 2 25 40 17 37 28 28 22 39 17 37 38 20 36 0 36 4 16 22 41 38 6 6 24
+
+--- DECRYPTED PLAINTEXT ---
+FEETHEARACTIESCONFREVELYBETOSENTANDSEEMUMAKENTWATESSISPOREMBERINJAZERANGEXETALTRAIINGRATHEREMENSTEEW
+
+--- SCORE ---
+-970.2411
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 100 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> A
+3      -> O
+4      -> M
+5      -> N
+6      -> E
+8      -> R
+9      -> J
+10     -> E
+11     -> A
+12     -> E
+14     -> D
+15     -> V
+16     -> E
+17     -> R
+19     -> N
+20     -> H
+21     -> E
+22     -> N
+23     -> X
+24     -> W
+25     -> L
+26     -> P
+27     -> K
+28     -> I
+29     -> Y
+30     -> S
+31     -> F
+34     -> U
+35     -> C
+36     -> E
+37     -> A
+38     -> T
+39     -> G
+40     -> T
+41     -> S
+42     -> B
+43     -> Z

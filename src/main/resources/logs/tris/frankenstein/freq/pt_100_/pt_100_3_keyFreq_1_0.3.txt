@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [39, 15, 14]
+B(1) [22]
+C(2) [8]
+D(3) [17, 31]
+E(4) [43, 37, 40, 30]
+F(5) [26]
+G(6) [21]
+H(7) [42, 19]
+I(8) [36, 12, 23]
+J(9) [3]
+K(10) [13]
+L(11) [10, 32]
+M(12) [25]
+N(13) [41, 33, 1]
+O(14) [38, 5, 16]
+P(15) [7]
+Q(16) [34]
+R(17) [9, 18]
+S(18) [11, 20]
+T(19) [6, 35, 27]
+U(20) [4]
+V(21) [29]
+W(22) [28]
+X(23) [0]
+Y(24) [2]
+Z(25) [24]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+14 10 15 20 29 23 8 35 38 18 36 41 38 28 11 15 2 6 42 14 1 13 21 5 17 11 42 40 17 23 17 41 16 6 32 36 29 30 27 38 28 23 27 1 40 11 11 35 19 43 8 9 4 40 10 25 23 11 40 18 39 22 32 37 17 37 15 35 19 38 26 19 43 9 2 5 4 1 21 30 20 6 31 15 18 32 12 41 21 8 16 25 40 29 23 8 35 5 9 41 5 6
+
+--- DECRYPTED PLAINTEXT ---
+AVEDINTHERFLEATEMEWASQUEATWEANALBEOFINGEANGSETTHECTAREVENTERYJOKAKEHEEXECAMERSUNDEZEROPLUTBEEINTHEALEE
+
+--- SCORE ---
+-773.0973
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 102 chars correct (9.8%)
+
+--- KEY (cipher -> plain) ---
+1      -> S
+2      -> M
+4      -> R
+5      -> E
+6      -> E
+8      -> T
+9      -> A
+10     -> V
+11     -> T
+12     -> P
+13     -> Q
+14     -> A
+15     -> E
+16     -> B
+17     -> A
+18     -> R
+19     -> E
+20     -> D
+21     -> U
+22     -> J
+23     -> N
+25     -> E
+26     -> X
+27     -> G
+28     -> A
+29     -> I
+30     -> N
+31     -> Z
+32     -> O
+35     -> H
+36     -> F
+37     -> K
+38     -> E
+39     -> Y
+40     -> E
+41     -> L
+42     -> W
+43     -> C

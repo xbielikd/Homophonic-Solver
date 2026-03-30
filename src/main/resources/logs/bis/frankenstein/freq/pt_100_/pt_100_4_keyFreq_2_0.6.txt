@@ -1,0 +1,114 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [29, 18, 14, 35, 52]
+B(1) [15]
+C(2) [16, 63]
+D(3) [3, 42, 39]
+E(4) [59, 20, 68, 26, 65, 22, 69, 7]
+F(5) [21, 33]
+G(6) [66, 17]
+H(7) [10, 5, 73, 74]
+I(8) [19, 67, 27, 2, 49]
+J(9) [48]
+K(10) [28]
+L(11) [62, 55, 38]
+M(12) [47, 64]
+N(13) [45, 70, 51, 6, 41]
+O(14) [36, 50, 8, 60, 72]
+P(15) [30, 71]
+Q(16) [31]
+R(17) [0, 53, 46, 57]
+S(18) [32, 11, 12, 54]
+T(19) [23, 44, 4, 56, 13, 34]
+U(20) [37, 40]
+V(21) [58]
+W(22) [9, 24]
+X(23) [1]
+Y(24) [25, 43]
+Z(25) [61]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   54
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+16 18 70 18 41 25 47 14 6 15 68 56 36 47 59 18 11 63 38 68 53 58 29 55 24 35 12 8 53 35 70 43 9 50 64 52 6 18 70 72 56 10 22 53 65 55 19 61 29 15 22 4 74 59 58 20 70 24 73 26 46 59 44 73 68 29 21 33 59 16 44 67 36 41 54 35 46 22 51 36 4 12 13 0 50 51 66 55 25 47 60 58 59 42 15 25 14 70 25 11 40 71 65 0 19 72 0
+
+--- DECRYPTED PLAINTEXT ---
+THEHERESTESTHETHEQUSTITERECATEEXPALYTHESTINTHENGTENESTIZEREJATHESTOFTTHTHEVEANTHECKEATBEREMITHERSEREDWHENSE
+
+--- SCORE ---
+-515.3298
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 3 / 107 chars correct (2.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+4      -> E
+6      -> T
+8      -> A
+9      -> P
+10     -> I
+11     -> E
+12     -> C
+13     -> K
+14     -> S
+15     -> E
+16     -> T
+18     -> H
+19     -> N
+20     -> Z
+21     -> O
+22     -> N
+24     -> R
+25     -> R
+26     -> J
+29     -> T
+33     -> F
+35     -> E
+36     -> H
+38     -> U
+40     -> D
+41     -> E
+42     -> H
+43     -> X
+44     -> H
+46     -> A
+47     -> E
+50     -> A
+51     -> T
+52     -> Y
+53     -> T
+54     -> V
+55     -> E
+56     -> T
+58     -> I
+59     -> T
+60     -> M
+61     -> G
+63     -> Q
+64     -> L
+65     -> H
+66     -> B
+67     -> T
+68     -> S
+70     -> E
+71     -> W
+72     -> S
+73     -> E
+74     -> S

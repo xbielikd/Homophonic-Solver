@@ -1,0 +1,109 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [9, 48, 19]
+B(1) [28, 13, 24]
+C(2) [70, 10, 3]
+D(3) [46, 53, 33]
+E(4) [2, 8, 30]
+F(5) [67, 45, 73]
+G(6) [5, 38, 31]
+H(7) [15, 36, 66]
+I(8) [35, 69, 37]
+J(9) [44, 42, 77]
+K(10) [26, 17, 7]
+L(11) [75, 0, 4]
+M(12) [54, 27, 34]
+N(13) [58, 62, 25]
+O(14) [43, 72, 57]
+P(15) [64, 21, 18]
+Q(16) [20, 76, 52]
+R(17) [12, 51, 39]
+S(18) [6, 74, 60]
+T(19) [41, 50, 59]
+U(20) [29, 40, 56]
+V(21) [47, 22, 32]
+W(22) [1, 16, 49]
+X(23) [61, 63, 14]
+Y(24) [55, 11, 71]
+Z(25) [23, 65, 68]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   49
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+16 8 19 39 8 58 57 50 6 8 62 41 37 62 59 72 50 15 30 1 72 51 75 46 50 57 9 37 39 72 29 51 34 72 12 9 75 18 12 8 77 56 33 69 70 2 60 35 62 30 32 30 51 41 19 7 8 48 25 11 25 43 50 37 3 8 57 67 49 66 9 41 70 43 27 27 72 25 21 8 57 21 0 30 74 19 71 48 25 46 37 58 30 22 2 51 69 62 50 2 39 73 8 39 30
+
+--- DECRYPTED PLAINTEXT ---
+JEETERSEVETHATWEEKEMETHEESTATEDTHERTHEREQUESENEXTELETHEYEAREREEAGESTOFTHEEPPERIESIZEBECAREAREENTSTENTHETE
+
+--- SCORE ---
+-917.0699
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 105 chars correct (18.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> Z
+1      -> M
+2      -> N
+3      -> G
+6      -> V
+7      -> Y
+8      -> E
+9      -> T
+11     -> E
+12     -> R
+15     -> K
+16     -> J
+18     -> E
+19     -> E
+21     -> I
+22     -> E
+25     -> R
+27     -> P
+29     -> D
+30     -> E
+32     -> L
+33     -> E
+34     -> H
+35     -> X
+37     -> A
+39     -> T
+41     -> H
+43     -> E
+46     -> E
+48     -> A
+49     -> O
+50     -> E
+51     -> T
+56     -> U
+57     -> S
+58     -> R
+59     -> W
+60     -> E
+62     -> T
+66     -> F
+67     -> T
+69     -> S
+70     -> E
+71     -> C
+72     -> E
+73     -> H
+74     -> B
+75     -> H
+77     -> Q

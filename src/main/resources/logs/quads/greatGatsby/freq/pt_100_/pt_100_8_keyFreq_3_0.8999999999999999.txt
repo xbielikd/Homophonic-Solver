@@ -1,0 +1,123 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 31, 18, 80, 20, 75, 56, 4]
+B(1) [90, 45]
+C(2) [48, 19, 42]
+D(3) [47, 16, 40, 86]
+E(4) [11, 99, 82, 61, 64, 50, 8, 1, 78, 94, 22, 39]
+F(5) [3, 88, 98]
+G(6) [51, 7]
+H(7) [55, 24, 91, 72, 69, 34]
+I(8) [74, 10, 84, 12, 71, 14, 53]
+J(9) [9]
+K(10) [102]
+L(11) [95, 96, 26, 29]
+M(12) [59, 38, 49]
+N(13) [100, 60, 87, 0, 104, 27, 97]
+O(14) [28, 83, 21, 33, 17, 103, 68]
+P(15) [6, 93]
+Q(16) [65]
+R(17) [76, 54, 46, 89, 41, 32]
+S(18) [44, 79, 66, 67, 30, 25]
+T(19) [57, 13, 37, 36, 52, 73, 62, 92, 43]
+U(20) [85, 23, 15]
+V(21) [81]
+W(22) [58, 101, 63]
+X(23) [5]
+Y(24) [35, 77]
+Z(25) [70]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   63
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+79 55 11 58 31 44 31 79 96 8 97 16 82 76 67 59 31 96 96 90 46 99 80 79 37 39 40 51 10 46 29 63 74 62 72 4 27 39 41 94 48 43 19 31 89 54 84 4 51 61 58 91 14 19 55 30 72 94 4 42 19 99 27 73 15 31 43 94 47 90 35 37 72 76 17 63 74 27 51 34 64 46 45 103 40 77 45 2 42 102 63 80 46 16 31 36 57 34 61 67 24 83 23 26 16 94 32 66
+
+--- DECRYPTED PLAINTEXT ---
+SEXPERESSETHERELESSITERSTENEDTHETHETHEWASTHEMENTERPETHEREATTHEHAVETAKINTERSETHEINTOINGOFTHERTHEQUIREDBYCHAZJ
+
+--- SCORE ---
+-897.3018
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 108 chars correct (13.9%)
+
+--- KEY (cipher -> plain) ---
+2      -> F
+4      -> T
+8      -> E
+10     -> D
+11     -> X
+14     -> T
+15     -> V
+16     -> H
+17     -> S
+19     -> H
+23     -> Y
+24     -> D
+26     -> C
+27     -> H
+29     -> H
+30     -> R
+31     -> E
+32     -> Z
+34     -> I
+35     -> N
+36     -> Q
+37     -> T
+39     -> E
+40     -> N
+41     -> W
+42     -> T
+43     -> T
+44     -> R
+45     -> O
+46     -> T
+47     -> K
+48     -> S
+51     -> E
+54     -> E
+55     -> E
+57     -> U
+58     -> P
+59     -> L
+61     -> R
+62     -> H
+63     -> E
+64     -> N
+66     -> J
+67     -> E
+72     -> E
+73     -> A
+74     -> T
+76     -> R
+77     -> G
+79     -> S
+80     -> R
+82     -> E
+83     -> B
+84     -> N
+89     -> M
+90     -> I
+91     -> E
+94     -> A
+96     -> S
+97     -> T
+99     -> E
+102    -> H
+103    -> I

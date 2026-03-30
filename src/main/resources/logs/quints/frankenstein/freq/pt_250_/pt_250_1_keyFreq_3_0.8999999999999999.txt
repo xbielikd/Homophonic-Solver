@@ -1,0 +1,156 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [41, 94, 72, 20, 25, 40, 74, 53]
+B(1) [71, 60]
+C(2) [83, 31, 3]
+D(3) [2, 36, 49, 70]
+E(4) [95, 64, 0, 45, 67, 69, 4, 19, 103, 86, 102, 35]
+F(5) [84, 68, 28]
+G(6) [65, 88]
+H(7) [58, 77, 43, 8, 7, 12]
+I(8) [91, 6, 50, 23, 10, 5, 21]
+J(9) [52]
+K(10) [89]
+L(11) [99, 32, 38, 37]
+M(12) [47, 61, 62]
+N(13) [15, 73, 81, 98, 13, 48, 17]
+O(14) [78, 59, 30, 18, 16, 76, 56]
+P(15) [39, 14]
+Q(16) [24]
+R(17) [85, 26, 33, 82, 92, 75]
+S(18) [57, 66, 80, 90, 22, 97]
+T(19) [54, 100, 63, 96, 44, 104, 101, 93, 11]
+U(20) [79, 34, 42]
+V(21) [87]
+W(22) [55, 1, 29]
+X(23) [51]
+Y(24) [27, 46]
+Z(25) [9]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   96
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+IWASBEWILDEREDINACLOUDOFWONDERANDHORRORTHEDEATHOFWILLIAMTHEEXECUTIONOFJUSTINETHEMURDEROFCLERVALANDLASTLYOFMYWIFEEVENATTHATMOMENTIKNEWNOTTHATMYONLYREMAININGFRIENDSWERESAFEFROMTHEMALIGNITYOFTHEFIENDMYFATHEREVENNOWMIGHTBEWRITHINGUNDERHISGRASPANDERNESTMIGHT
+
+--- CIPHERTEXT ---
+50 55 20 57 71 45 55 6 32 36 4 26 95 49 91 73 41 31 37 30 79 36 56 84 29 59 17 49 67 26 20 17 49 8 59 26 85 78 92 96 12 86 70 69 74 100 7 78 68 55 23 38 37 23 74 61 101 77 67 86 51 35 3 34 100 10 30 98 76 28 52 34 97 44 50 15 95 54 12 86 47 34 75 2 19 85 18 84 3 38 45 75 87 41 37 74 48 2 99 25 97 100 38 27 16 68 61 46 1 23 68 67 69 87 95 17 53 100 11 58 25 54 47 78 62 0 73 104 91 89 48 86 55 73 30 100 96 12 25 63 47 46 56 15 38 27 75 64 62 53 91 48 50 13 88 68 85 91 64 13 70 97 1 19 26 0 57 25 84 19 84 85 76 47 101 8 45 47 72 99 50 88 81 6 104 27 16 68 101 43 64 28 21 95 48 36 61 46 84 41 93 12 35 92 86 87 19 73 98 78 29 62 50 88 8 101 60 64 29 82 6 63 8 91 81 65 34 17 2 102 33 43 5 90 88 75 40 97 39 41 48 2 4 82 73 95 66 96 47 6 65 8 11
+
+--- DECRYPTED PLAINTEXT ---
+TTTOASTSPRESETTHEFREERTHERATISTATERSAREHANDRETURETHERHEALLINGTHETREESIZEATTHESANAEAREACHHESAREREARETATETHEATTHEIRREASTEXTSARETHETHANTHETHATHATTHETATESTATEHEATTEDATESTOTHEHASALESAMETHOSETHELATIVEARATHERATENREHEREETHELATETSHETOBEAREJACKHAWAREARETHEYHASBEE
+
+--- SCORE ---
+-2699.7211
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 253 chars correct (7.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> T
+2      -> R
+3      -> H
+4      -> E
+5      -> C
+6      -> S
+7      -> U
+8      -> E
+10     -> R
+11     -> E
+12     -> A
+13     -> E
+15     -> H
+16     -> H
+17     -> A
+18     -> C
+19     -> E
+20     -> T
+21     -> V
+23     -> H
+25     -> T
+26     -> S
+27     -> T
+28     -> I
+29     -> E
+30     -> E
+31     -> F
+32     -> P
+33     -> J
+34     -> E
+35     -> T
+36     -> R
+37     -> R
+38     -> E
+39     -> R
+40     -> W
+41     -> E
+43     -> A
+44     -> T
+45     -> S
+46     -> T
+47     -> A
+48     -> A
+49     -> T
+50     -> T
+51     -> G
+52     -> Z
+53     -> S
+54     -> S
+55     -> T
+56     -> T
+57     -> O
+58     -> X
+59     -> R
+60     -> A
+61     -> A
+62     -> E
+63     -> H
+64     -> T
+65     -> B
+66     -> Y
+67     -> I
+68     -> E
+69     -> R
+70     -> D
+71     -> A
+72     -> M
+73     -> H
+74     -> E
+75     -> A
+76     -> S
+77     -> L
+78     -> R
+79     -> E
+81     -> O
+82     -> T
+84     -> H
+85     -> A
+86     -> N
+87     -> R
+88     -> H
+89     -> H
+90     -> K
+91     -> T
+92     -> E
+93     -> R
+95     -> E
+96     -> H
+97     -> A
+98     -> E
+99     -> E
+100    -> T
+101    -> L
+102    -> E
+104    -> E

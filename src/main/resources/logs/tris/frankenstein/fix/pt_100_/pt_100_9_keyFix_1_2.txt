@@ -1,0 +1,93 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [1, 27]
+B(1) [3, 26]
+C(2) [45, 0]
+D(3) [10, 18]
+E(4) [33, 17]
+F(5) [13, 15]
+G(6) [50, 34]
+H(7) [2, 16]
+I(8) [37, 51]
+J(9) [29, 14]
+K(10) [25, 4]
+L(11) [5, 23]
+M(12) [41, 30]
+N(13) [32, 48]
+O(14) [47, 9]
+P(15) [7, 40]
+Q(16) [38, 6]
+R(17) [11, 28]
+S(18) [46, 24]
+T(19) [19, 35]
+U(20) [43, 42]
+V(21) [36, 39]
+W(22) [49, 8]
+X(23) [12, 44]
+Y(24) [21, 31]
+Z(25) [22, 20]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   33
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+27 46 37 23 47 9 4 17 10 9 48 2 51 41 16 37 24 0 47 43 48 19 17 48 1 32 0 33 33 12 40 28 33 24 46 17 10 35 16 33 43 19 30 9 46 19 33 12 35 33 32 19 47 13 41 27 5 51 0 33 27 32 18 19 28 17 1 0 16 33 28 31 37 19 2 9 42 34 16 19 8 37 35 16 27 46 17 48 24 27 35 51 9 48 47 13 30 27 18 48 33 24 46
+
+--- DECRYPTED PLAINTEXT ---
+ATEJOAZEDARMUCHESTOBREERINTEEXPRESTEDTHEBELATEEXTENEOFCAQUTEANGEREITHERKEEMAYWHEVETHATERSATUAROFLAGREST
+
+--- SCORE ---
+-787.3311
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 50 / 103 chars correct (48.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> I
+2      -> M
+4      -> Z
+5      -> Q
+8      -> V
+9      -> A
+10     -> D
+12     -> X
+13     -> F
+16     -> H
+17     -> E
+18     -> G
+19     -> E
+23     -> J
+24     -> S
+27     -> A
+28     -> R
+30     -> L
+31     -> K
+32     -> N
+33     -> E
+34     -> W
+35     -> T
+37     -> E
+40     -> P
+41     -> C
+42     -> Y
+43     -> B
+46     -> T
+47     -> O
+48     -> R
+51     -> U

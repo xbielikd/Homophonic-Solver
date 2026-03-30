@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 42, 31]
+B(1) [37]
+C(2) [38]
+D(3) [39, 40]
+E(4) [16, 24, 22, 41]
+F(5) [1]
+G(6) [3]
+H(7) [29, 5]
+I(8) [25, 0, 35]
+J(9) [13]
+K(10) [19]
+L(11) [11, 26]
+M(12) [28]
+N(13) [6, 32, 33]
+O(14) [8, 36, 14]
+P(15) [9]
+Q(16) [27]
+R(17) [4, 20]
+S(18) [21, 12]
+T(19) [23, 43, 2]
+U(20) [17]
+V(21) [7]
+W(22) [34]
+X(23) [30]
+Y(24) [15]
+Z(25) [18]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+3 14 10 33 39 37 17 15 23 41 32 28 14 20 16 40 14 3 12 34 0 43 5 35 2 34 22 40 20 36 7 24 8 7 16 20 43 36 1 25 1 2 5 10 7 24 6 17 16 34 31 20 28 42 32 40 21 14 1 23 10 26 28 8 12 43 9 42 21 43 8 20 42 26 14 32 23 5 41 21 17 28 28 16 4 21 17 6 39 10 15 42 1 23 16 4 33 8 8 6
+
+--- DECRYPTED PLAINTEXT ---
+MANJAKEDIFLEARTEAMTOBEEXPOWERSTHATTRESSUSPENTHSETOGREELERASINCEATEVEREARECALIEFREEETYRESANDESITYJAAS
+
+--- SCORE ---
+-1197.9063
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 100 chars correct (5.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+1      -> S
+2      -> P
+3      -> M
+4      -> Y
+5      -> E
+6      -> S
+7      -> T
+8      -> A
+9      -> V
+10     -> N
+12     -> T
+14     -> A
+15     -> D
+16     -> T
+17     -> E
+20     -> R
+21     -> R
+22     -> W
+23     -> I
+24     -> H
+25     -> U
+26     -> C
+28     -> E
+31     -> G
+32     -> L
+33     -> J
+34     -> O
+35     -> X
+36     -> S
+37     -> K
+39     -> A
+40     -> E
+41     -> F
+42     -> E
+43     -> E

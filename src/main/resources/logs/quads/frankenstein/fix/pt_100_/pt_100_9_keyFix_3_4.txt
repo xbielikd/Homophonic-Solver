@@ -1,0 +1,110 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [35, 45, 32, 79]
+B(1) [48, 28, 14, 85]
+C(2) [99, 19, 11, 62]
+D(3) [2, 15, 54, 29]
+E(4) [38, 53, 73, 27]
+F(5) [43, 60, 64, 20]
+G(6) [56, 68, 75, 71]
+H(7) [65, 49, 87, 70]
+I(8) [21, 24, 51, 5]
+J(9) [25, 59, 26, 93]
+K(10) [95, 101, 98, 100]
+L(11) [4, 6, 91, 3]
+M(12) [46, 102, 18, 31]
+N(13) [66, 50, 80, 82]
+O(14) [76, 84, 42, 36]
+P(15) [55, 7, 61, 22]
+Q(16) [90, 57, 72, 52]
+R(17) [16, 12, 69, 8]
+S(18) [30, 9, 40, 17]
+T(19) [58, 86, 33, 23]
+U(20) [92, 13, 94, 37]
+V(21) [88, 83, 34, 0]
+W(22) [63, 44, 41, 89]
+X(23) [1, 74, 78, 10]
+Y(24) [47, 81, 39, 96]
+Z(25) [67, 97, 77, 103]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   50
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+79 9 51 6 76 84 95 38 54 36 82 70 51 18 65 21 30 99 42 13 66 23 73 66 45 66 19 27 53 78 55 12 27 30 17 27 54 86 49 53 94 23 18 76 30 86 38 78 33 73 82 23 76 64 18 79 6 51 99 27 79 50 54 33 69 53 79 11 70 38 69 81 51 23 87 84 92 56 87 23 63 21 58 87 35 17 53 82 9 35 23 24 76 50 76 20 31 32 15 50 73 30 17
+
+--- DECRYPTED PLAINTEXT ---
+SATENSPARETUTEXTTHEMAINAWAKEARIZETHERSFACIENTSARENTINGESETHESARELASQUALITIESAVEINTHETHATATIONANDBYJANTH
+
+--- SCORE ---
+-923.3814
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 103 chars correct (3.9%)
+
+--- KEY (cipher -> plain) ---
+6      -> E
+9      -> A
+11     -> Q
+12     -> Z
+13     -> M
+15     -> J
+17     -> H
+18     -> E
+19     -> K
+20     -> D
+21     -> T
+23     -> I
+24     -> O
+27     -> E
+30     -> T
+31     -> B
+32     -> Y
+33     -> E
+35     -> T
+36     -> E
+38     -> A
+42     -> E
+45     -> W
+49     -> F
+50     -> A
+51     -> T
+53     -> A
+54     -> R
+55     -> I
+56     -> V
+58     -> H
+63     -> N
+64     -> G
+65     -> X
+66     -> A
+69     -> L
+70     -> U
+73     -> N
+76     -> N
+78     -> R
+79     -> S
+81     -> I
+82     -> T
+84     -> S
+86     -> S
+87     -> E
+92     -> A
+94     -> C
+95     -> P
+99     -> H

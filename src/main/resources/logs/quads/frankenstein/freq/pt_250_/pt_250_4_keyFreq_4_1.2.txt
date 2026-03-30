@@ -1,0 +1,169 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [103, 9, 31, 112, 117, 12, 109, 47, 57, 75]
+B(1) [68, 101]
+C(2) [127, 18, 37, 21]
+D(3) [49, 89, 15, 28, 53, 73]
+E(4) [38, 121, 14, 99, 98, 22, 66, 63, 35, 120, 7, 108, 113, 51, 25, 119]
+F(5) [11, 20, 16]
+G(6) [78, 40, 32]
+H(7) [29, 111, 61, 44, 33, 72, 43, 105]
+I(8) [52, 67, 39, 110, 115, 13, 95, 70, 3]
+J(9) [26]
+K(10) [104]
+L(11) [34, 4, 64, 1, 30]
+M(12) [130, 56, 71]
+N(13) [69, 100, 124, 123, 17, 84, 6, 59, 23]
+O(14) [27, 46, 122, 106, 77, 42, 45, 41, 96, 83]
+P(15) [94, 10, 8]
+Q(16) [2]
+R(17) [92, 114, 134, 133, 55, 62, 131, 125]
+S(18) [87, 88, 85, 128, 82, 0, 97, 48]
+T(19) [36, 126, 54, 107, 118, 80, 65, 90, 58, 116, 102]
+U(20) [132, 19, 24, 81]
+V(21) [129, 93]
+W(22) [79, 5, 76]
+X(23) [74]
+Y(24) [50, 91, 60]
+Z(25) [86]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   109
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+OURLITTLEVOYAGESOFDISCOVERYWEREOFTENPROLONGEDBYTHESUCCESSIVEOBJECTSTHATPRESENTEDTHEMSELVESWEVISITEDTHETOMBOFTHEILLUSTRIOUSHAMPDENANDTHEFIELDONWHICHTHATPATRIOTFELLFORAMOMENTMYSOULWASELEVATEDFROMITSDEBASINGANDMISERABLEFEARSTOCONTEMPLATETHEDIVINEIDEASOF
+
+--- CIPHERTEXT ---
+122 81 125 64 110 36 54 1 51 93 45 60 31 78 98 128 41 16 89 70 128 127 27 129 25 134 50 76 121 62 66 106 11 58 38 6 10 134 27 4 83 100 32 35 89 101 60 116 43 120 128 132 127 127 113 85 128 3 93 113 96 68 26 66 127 118 48 36 61 109 102 8 62 14 87 63 59 90 108 15 65 111 120 130 82 66 64 93 66 88 79 35 129 3 82 115 80 63 73 90 72 119 118 45 130 68 106 20 118 43 14 52 64 64 19 128 65 131 13 96 19 128 44 75 56 10 28 66 69 31 23 28 58 61 99 16 3 38 4 15 122 100 79 61 13 37 33 54 61 12 80 94 57 118 125 39 45 102 16 25 30 30 11 46 134 57 130 27 56 22 69 126 130 91 48 106 132 30 79 109 88 35 30 7 93 109 102 119 73 11 62 42 56 3 126 87 15 98 68 31 82 52 69 40 117 69 15 71 110 82 14 55 57 101 64 119 20 98 31 133 87 126 96 18 45 17 126 98 71 10 4 109 102 38 36 44 38 73 110 129 52 17 113 115 28 25 109 85 77 11
+
+--- DECRYPTED PLAINTEXT ---
+OYSTREENTENDENTELEAREEHERTHEFERENTHERTHEJUSTANDEREEMEENTERENTHEREAKETSTHENERESANDBETARTERINTERATERESTHANTHEEARNSTTHEDWITHETHEREREEZETTHERHENOUNTINGETHEREASINTEREENATETHERESTAKEMENSITERESTHENEVERSENTHEASEXPENERANCENTHETERESTANISTERESTHETHERESINTERSTQN
+
+--- SCORE ---
+-2110.2251
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 250 chars correct (5.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> N
+3      -> R
+4      -> E
+6      -> E
+7      -> R
+8      -> H
+10     -> R
+11     -> N
+12     -> H
+13     -> I
+14     -> N
+15     -> N
+16     -> E
+17     -> I
+18     -> A
+19     -> H
+20     -> E
+22     -> R
+23     -> Z
+25     -> R
+26     -> E
+27     -> H
+28     -> E
+30     -> E
+31     -> E
+32     -> S
+33     -> G
+35     -> T
+36     -> E
+37     -> N
+38     -> H
+39     -> I
+40     -> X
+41     -> L
+42     -> V
+43     -> R
+44     -> T
+45     -> N
+46     -> A
+48     -> K
+50     -> H
+51     -> T
+52     -> S
+54     -> E
+55     -> C
+56     -> E
+57     -> E
+58     -> T
+59     -> E
+60     -> D
+61     -> T
+62     -> E
+63     -> R
+64     -> T
+65     -> D
+66     -> R
+68     -> H
+69     -> E
+70     -> R
+71     -> E
+72     -> T
+73     -> E
+75     -> H
+76     -> E
+77     -> Q
+78     -> N
+79     -> N
+80     -> E
+81     -> Y
+82     -> A
+83     -> J
+85     -> T
+87     -> E
+88     -> I
+89     -> A
+90     -> S
+91     -> A
+93     -> E
+94     -> R
+96     -> T
+98     -> T
+99     -> H
+100    -> U
+101    -> N
+102    -> T
+106    -> E
+108    -> A
+109    -> S
+110    -> R
+111    -> B
+113    -> N
+115    -> T
+116    -> E
+117    -> P
+118    -> A
+119    -> H
+120    -> E
+121    -> F
+122    -> O
+125    -> S
+126    -> S
+127    -> E
+128    -> E
+129    -> E
+130    -> T
+131    -> W
+132    -> M
+133    -> R
+134    -> T

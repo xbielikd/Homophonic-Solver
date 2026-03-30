@@ -1,0 +1,100 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [29, 36, 15]
+B(1) [30, 52, 33]
+C(2) [48, 14, 42]
+D(3) [55, 4, 58]
+E(4) [59, 62, 2]
+F(5) [64, 75, 24]
+G(6) [39, 9, 46]
+H(7) [13, 51, 40]
+I(8) [45, 26, 49]
+J(9) [21, 68, 37]
+K(10) [69, 25, 18]
+L(11) [74, 23, 7]
+M(12) [1, 57, 43]
+N(13) [32, 44, 65]
+O(14) [16, 19, 61]
+P(15) [20, 22, 11]
+Q(16) [54, 10, 63]
+R(17) [6, 34, 72]
+S(18) [3, 28, 67]
+T(19) [0, 66, 73]
+U(20) [12, 60, 70]
+V(21) [8, 76, 56]
+W(22) [50, 31, 53]
+X(23) [27, 47, 41]
+Y(24) [38, 5, 71]
+Z(25) [35, 77, 17]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   40
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+13 45 3 55 29 70 9 40 0 62 72 15 73 0 62 65 58 62 58 40 26 43 31 45 66 13 0 40 62 9 6 59 36 66 59 67 73 0 62 32 55 2 72 65 62 67 28 52 60 0 3 51 59 28 36 53 31 49 73 51 4 2 3 20 36 49 6 66 51 36 0 73 51 62 45 34 23 49 66 73 74 62 75 60 65 58 53 29 28 34 15 11 26 58 23 38 4 2 14 72 62 36 28 49 32 9
+
+--- DECRYPTED PLAINTEXT ---
+WHINGQUESTAMESTRITIELYTHEWSETUPTEETHESTANDARTHEJOSINTEENTRENEDIVERPENESENTHECREEXTFORINGEEMBLICKEDZATEERAU
+
+--- SCORE ---
+-782.3154
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 1 / 106 chars correct (0.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+2      -> D
+3      -> I
+4      -> E
+6      -> P
+9      -> U
+11     -> B
+13     -> W
+14     -> Z
+15     -> M
+20     -> V
+23     -> C
+26     -> L
+28     -> E
+29     -> G
+31     -> T
+32     -> A
+34     -> E
+36     -> E
+38     -> K
+40     -> E
+43     -> Y
+45     -> H
+49     -> R
+51     -> N
+52     -> J
+53     -> N
+55     -> N
+58     -> I
+59     -> T
+60     -> O
+62     -> T
+65     -> R
+66     -> E
+67     -> H
+70     -> Q
+72     -> A
+73     -> E
+74     -> X
+75     -> F

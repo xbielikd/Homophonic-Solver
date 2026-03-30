@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [49, 23, 7]
+B(1) [58, 56, 29]
+C(2) [32, 31, 5]
+D(3) [18, 55, 50]
+E(4) [46, 53, 14]
+F(5) [76, 4, 3]
+G(6) [2, 19, 0]
+H(7) [26, 38, 30]
+I(8) [39, 11, 36]
+J(9) [69, 12, 6]
+K(10) [48, 77, 41]
+L(11) [73, 33, 25]
+M(12) [17, 64, 63]
+N(13) [61, 70, 20]
+O(14) [27, 9, 66]
+P(15) [43, 71, 45]
+Q(16) [54, 75, 60]
+R(17) [24, 28, 72]
+S(18) [13, 42, 16]
+T(19) [57, 44, 47]
+U(20) [51, 8, 37]
+V(21) [59, 68, 34]
+W(22) [21, 67, 74]
+X(23) [65, 15, 22]
+Y(24) [1, 35, 62]
+Z(25) [40, 10, 52]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+49 13 36 73 27 66 48 53 18 27 70 26 39 63 30 39 42 31 66 37 61 47 46 70 23 61 32 46 53 15 71 28 53 13 42 53 18 47 30 14 37 44 63 9 16 44 53 65 44 46 70 44 9 4 17 7 33 11 32 14 49 61 55 44 24 14 23 31 30 14 72 1 36 57 30 9 8 2 26 47 74 39 57 26 49 16 53 20 13 49 57 36 27 61 9 3 64 49 55 20 53 16 13
+
+--- DECRYPTED PLAINTEXT ---
+ELEKSTHATSTHEPREMETHEENTHEINACQUALMATERTHEPAREAVENTEANDJAZITEEREXTHERTOGETRAYWHERETHERABLETESEAFTERBARL
+
+--- SCORE ---
+-1155.1378
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 103 chars correct (6.8%)
+
+--- KEY (cipher -> plain) ---
+1      -> G
+2      -> W
+3      -> F
+4      -> N
+7      -> J
+8      -> Y
+9      -> A
+11     -> Z
+13     -> L
+14     -> T
+15     -> C
+16     -> R
+17     -> D
+18     -> T
+20     -> B
+23     -> H
+24     -> X
+26     -> H
+27     -> S
+28     -> U
+30     -> R
+31     -> E
+32     -> I
+33     -> A
+36     -> E
+37     -> H
+39     -> E
+42     -> M
+44     -> E
+46     -> N
+47     -> E
+48     -> H
+49     -> E
+53     -> A
+55     -> R
+57     -> T
+61     -> E
+63     -> P
+64     -> T
+65     -> V
+66     -> T
+70     -> T
+71     -> Q
+72     -> O
+73     -> K
+74     -> R

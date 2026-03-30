@@ -1,0 +1,99 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 1]
+B(1) [0, 47]
+C(2) [51, 9]
+D(3) [5, 44]
+E(4) [16, 21]
+F(5) [43, 26]
+G(6) [17, 34]
+H(7) [25, 41]
+I(8) [15, 7]
+J(9) [27, 18]
+K(10) [8, 39]
+L(11) [23, 48]
+M(12) [29, 46]
+N(13) [38, 36]
+O(14) [30, 32]
+P(15) [37, 11]
+Q(16) [24, 49]
+R(17) [2, 13]
+S(18) [14, 12]
+T(19) [42, 20]
+U(20) [50, 10]
+V(21) [45, 31]
+W(22) [3, 22]
+X(23) [35, 6]
+Y(24) [33, 19]
+Z(25) [4, 40]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   39
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+0 23 7 38 8 15 38 17 28 3 28 19 20 25 21 0 13 15 17 25 20 38 16 12 12 30 26 42 25 16 12 42 2 21 21 20 32 50 20 14 7 5 21 46 33 21 19 21 12 11 15 9 8 16 44 41 15 46 32 50 20 30 47 14 51 10 2 21 48 19 15 36 20 25 21 1 38 20 16 2 32 32 29 20 28 23 39 7 38 34 20 30 28 38 32 20 41 21 13 46 1 36
+
+--- DECRYPTED PLAINTEXT ---
+ALINTENDAMAREREAREDRENERREJOREROREEETHEEIZESBERERKEXTEFRESTHEEVEQUREPRECEREANEERTTWEALYINGEEANTERERSAC
+
+--- SCORE ---
+-513.3567
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 37 / 102 chars correct (36.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> A
+2      -> R
+3      -> M
+5      -> Z
+7      -> I
+8      -> T
+9      -> X
+10     -> U
+11     -> K
+12     -> R
+13     -> R
+14     -> E
+15     -> E
+16     -> E
+17     -> D
+19     -> R
+20     -> E
+21     -> E
+23     -> L
+25     -> R
+26     -> J
+28     -> A
+29     -> W
+30     -> E
+32     -> T
+33     -> B
+34     -> G
+36     -> C
+38     -> N
+39     -> Y
+41     -> R
+42     -> O
+44     -> F
+46     -> S
+47     -> V
+48     -> P
+50     -> H
+51     -> Q

@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [44, 41, 61, 17, 9]
+B(1) [23]
+C(2) [35, 25]
+D(3) [26, 12, 0]
+E(4) [68, 54, 34, 71, 20, 72, 46, 49]
+F(5) [39, 28]
+G(6) [70, 6]
+H(7) [32, 15, 66, 43]
+I(8) [11, 53, 18, 5, 42]
+J(9) [50]
+K(10) [27]
+L(11) [24, 38, 16]
+M(12) [8, 21]
+N(13) [4, 65, 63, 1, 10]
+O(14) [13, 57, 40, 36, 60]
+P(15) [22, 45]
+Q(16) [48]
+R(17) [47, 51, 56, 37]
+S(18) [59, 74, 14, 62]
+T(19) [67, 64, 30, 52, 33, 29]
+U(20) [73, 7]
+V(21) [19]
+W(22) [55, 58]
+X(23) [3]
+Y(24) [31, 69]
+Z(25) [2]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+9 62 53 16 57 36 27 68 26 60 65 66 11 21 32 42 62 35 40 7 65 67 46 65 9 10 35 72 49 3 45 47 46 59 14 34 12 52 66 72 7 67 21 40 59 30 72 3 52 46 63 29 57 28 21 17 38 11 35 54 17 63 26 52 51 49 17 35 43 54 37 69 11 52 43 40 73 70 15 52 55 42 67 43 41 74 71 10 74 9 29 42 60 4 60 39 8 44 12 1 72 59 59
+
+--- DECRYPTED PLAINTEXT ---
+TSQUICKMANETSHEASTERETHETOTEANDTHEBEATTERTHEEVENTHEHIGHSYSTESEATWASTHEPASTHESIXTHATHERFORTHANINALJAZEEE
+
+--- SCORE ---
+-1087.8718
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 21 / 103 chars correct (20.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> Z
+3      -> N
+4      -> I
+7      -> R
+8      -> L
+9      -> T
+10     -> O
+11     -> S
+12     -> A
+14     -> B
+15     -> X
+16     -> U
+17     -> S
+21     -> H
+26     -> A
+27     -> K
+28     -> G
+29     -> H
+30     -> V
+32     -> E
+34     -> E
+35     -> T
+36     -> C
+37     -> P
+38     -> Y
+39     -> A
+40     -> E
+41     -> E
+42     -> A
+43     -> H
+44     -> J
+45     -> D
+46     -> H
+47     -> T
+49     -> A
+51     -> W
+52     -> T
+53     -> Q
+54     -> E
+55     -> H
+57     -> I
+59     -> E
+60     -> N
+62     -> S
+63     -> E
+65     -> E
+66     -> T
+67     -> T
+68     -> M
+69     -> A
+70     -> I
+71     -> F
+72     -> E
+73     -> S
+74     -> R

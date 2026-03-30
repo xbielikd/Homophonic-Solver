@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [45, 1, 5]
+B(1) [28, 54, 16]
+C(2) [9, 74, 37]
+D(3) [44, 55, 33]
+E(4) [46, 10, 76]
+F(5) [23, 21, 39]
+G(6) [3, 67, 57]
+H(7) [38, 64, 77]
+I(8) [69, 36, 75]
+J(9) [66, 56, 35]
+K(10) [14, 26, 65]
+L(11) [58, 22, 15]
+M(12) [27, 61, 47]
+N(13) [52, 32, 6]
+O(14) [48, 2, 71]
+P(15) [70, 19, 43]
+Q(16) [63, 40, 17]
+R(17) [8, 25, 73]
+S(18) [0, 30, 11]
+T(19) [62, 18, 34]
+U(20) [49, 51, 7]
+V(21) [31, 42, 13]
+W(22) [50, 12, 20]
+X(23) [72, 59, 29]
+Y(24) [24, 60, 4]
+Z(25) [68, 53, 41]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+12 77 76 52 36 62 64 48 49 67 77 62 2 23 77 36 61 69 3 52 1 30 64 10 55 61 24 34 46 46 18 64 61 4 76 60 76 11 28 46 37 5 61 46 69 6 21 22 5 27 46 33 45 32 55 36 1 25 33 10 6 34 58 60 50 75 11 38 10 55 18 2 10 29 62 75 6 67 7 75 11 64 62 77 45 34 22 75 23 46 20 38 69 9 77 36 38 45 55 0 2
+
+--- DECRYPTED PLAINTEXT ---
+ZETERREJUNERTHERETHEEVEREEXTEESEEKTOTHEEDBEETICABLEASWEREPARITYOFTHERESTRARTINGTHERESTATHEMETHERESEQT
+
+--- SCORE ---
+-884.0695
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 101 chars correct (9.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+1      -> E
+2      -> T
+3      -> H
+4      -> K
+5      -> B
+6      -> I
+7      -> G
+9      -> H
+10     -> R
+11     -> H
+12     -> Z
+18     -> S
+20     -> M
+21     -> C
+22     -> A
+23     -> H
+24     -> X
+25     -> P
+27     -> L
+28     -> E
+29     -> A
+30     -> V
+32     -> W
+33     -> A
+34     -> T
+36     -> R
+37     -> D
+38     -> E
+45     -> S
+46     -> E
+48     -> J
+49     -> U
+50     -> F
+52     -> E
+55     -> E
+58     -> Y
+60     -> O
+61     -> E
+62     -> R
+64     -> E
+67     -> N
+69     -> T
+75     -> T
+76     -> T
+77     -> E

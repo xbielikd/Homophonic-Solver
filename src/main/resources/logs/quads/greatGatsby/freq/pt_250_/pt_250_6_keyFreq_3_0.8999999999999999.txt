@@ -1,0 +1,149 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [61, 31, 77, 33, 62, 16, 71, 36]
+B(1) [88, 7]
+C(2) [74, 25, 50]
+D(3) [5, 40, 82, 20]
+E(4) [1, 54, 41, 39, 26, 63, 53, 80, 90, 10, 27, 98]
+F(5) [73, 14, 102]
+G(6) [58, 78]
+H(7) [60, 67, 21, 69, 104, 8]
+I(8) [0, 97, 37, 76, 57, 3, 79]
+J(9) [9]
+K(10) [70]
+L(11) [92, 35, 11, 12]
+M(12) [29, 83, 23]
+N(13) [49, 72, 89, 85, 22, 55, 100]
+O(14) [6, 4, 94, 52, 59, 24, 2]
+P(15) [43, 15]
+Q(16) [91]
+R(17) [87, 47, 13, 84, 96, 44]
+S(18) [86, 18, 66, 19, 48, 68]
+T(19) [95, 45, 99, 75, 56, 17, 32, 93, 51]
+U(20) [81, 46, 30]
+V(21) [65]
+W(22) [103, 38, 64]
+X(23) [101]
+Y(24) [28, 42]
+Z(25) [34]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   89
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ABREEZEBLEWTHROUGHTHEROOMBLEWCURTAINSINATONEENDANDOUTTHEOTHERLIKEPALEFLAGSTWISTINGTHEMUPTOWARDTHEFROSTEDWEDDINGCAKEOFTHECEILINGANDTHENRIPPLEDOVERTHEWINECOLOUREDRUGMAKINGASHADOWONITASWINDDOESONTHESEATHEONLYCOMPLETELYSTATIONARYOBJECTINTHEROOMWASANENORMOUS
+
+--- CIPHERTEXT ---
+33 88 44 41 39 34 53 7 92 41 64 32 21 47 59 30 58 104 93 8 90 47 4 24 23 88 92 10 64 74 81 96 45 61 57 55 66 57 72 61 75 52 89 39 27 85 5 36 72 5 52 46 95 45 104 98 24 17 104 41 84 11 97 70 10 15 62 92 54 73 35 33 78 18 93 64 37 68 45 37 72 78 56 8 27 29 46 43 51 2 64 62 13 82 93 60 10 73 84 52 19 75 10 5 64 98 20 5 37 49 78 50 71 70 26 4 73 75 60 1 25 10 57 92 37 89 58 36 85 20 56 8 41 100 44 79 43 15 11 27 82 6 65 39 13 51 104 1 38 76 100 26 25 4 11 4 46 44 41 40 84 81 78 29 16 70 76 100 58 33 68 21 16 82 6 103 4 49 97 75 36 66 64 79 85 40 40 59 10 66 2 55 17 67 54 86 1 36 56 8 10 4 100 35 28 25 59 23 43 11 27 32 39 92 28 48 51 71 93 76 52 55 16 47 42 2 7 9 1 50 51 76 55 32 8 41 44 2 94 23 103 62 48 36 55 90 49 52 96 23 2 81 19
+
+--- DECRYPTED PLAINTEXT ---
+EAREEZJURETTERINTHTHERESTARETWHATEANSARETOSEENTARTOAQTHESTHETHERETERESPEEXTTERTERETHEMATTOTERSTHESTOATETTEDTERENARGESTHELEARESTANDTHENRATTHESTHERTHEKINGLEHEAREDTHEMARINTEREASTHERETASTANDDIESONTHEBEATHEENPALITTHETERACTATIONARYOUVENTINTHEROFTHECANEROATOHA
+
+--- SCORE ---
+-2233.4254
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 123 / 253 chars correct (48.6%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> O
+4      -> E
+5      -> T
+6      -> T
+7      -> U
+8      -> H
+9      -> V
+10     -> E
+11     -> H
+13     -> R
+15     -> T
+16     -> A
+17     -> T
+18     -> X
+19     -> A
+20     -> D
+21     -> E
+23     -> T
+24     -> S
+25     -> L
+26     -> G
+27     -> E
+28     -> A
+29     -> M
+30     -> N
+32     -> T
+33     -> E
+34     -> Z
+35     -> P
+36     -> A
+37     -> E
+38     -> K
+39     -> E
+40     -> D
+41     -> E
+42     -> Y
+43     -> T
+44     -> R
+45     -> T
+46     -> A
+47     -> R
+48     -> C
+49     -> R
+50     -> N
+51     -> T
+52     -> O
+53     -> J
+54     -> E
+55     -> N
+56     -> T
+57     -> A
+58     -> T
+59     -> I
+60     -> H
+61     -> E
+62     -> E
+64     -> T
+65     -> H
+66     -> S
+67     -> H
+68     -> R
+70     -> R
+71     -> A
+72     -> R
+73     -> S
+74     -> W
+75     -> T
+76     -> I
+78     -> E
+79     -> A
+81     -> H
+82     -> S
+84     -> T
+85     -> N
+86     -> B
+88     -> A
+89     -> S
+90     -> E
+92     -> R
+93     -> T
+94     -> F
+95     -> Q
+96     -> A
+97     -> E
+98     -> E
+100    -> N
+103    -> H
+104    -> H

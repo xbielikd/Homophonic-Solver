@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 27, 93, 14, 0, 82, 85, 20]
+B(1) [101, 9]
+C(2) [80, 42, 13]
+D(3) [28, 54, 41, 100]
+E(4) [52, 35, 55, 70, 98, 24, 47, 5, 63, 58, 97, 8]
+F(5) [11, 61, 16]
+G(6) [44, 71]
+H(7) [48, 57, 96, 72, 37, 91]
+I(8) [7, 86, 1, 102, 78, 25, 3]
+J(9) [50]
+K(10) [15]
+L(11) [18, 30, 4, 87]
+M(12) [74, 26, 40]
+N(13) [6, 64, 23, 60, 53, 21, 32]
+O(14) [62, 65, 95, 51, 56, 79, 49]
+P(15) [75, 69]
+Q(16) [10]
+R(17) [84, 67, 103, 88, 83, 36]
+S(18) [59, 34, 39, 19, 92, 31]
+T(19) [43, 81, 33, 77, 38, 29, 76, 90, 45]
+U(20) [46, 89, 22]
+V(21) [12]
+W(22) [104, 17, 94]
+X(23) [99]
+Y(24) [68, 73]
+Z(25) [66]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+INTHATHOURISHOULDDIEANDATONCESATISFYANDEXTINGUISHHISMALICETHEPROSPECTDIDNOTMOVEMETOFEARYETWHENITHOUGHTOFMYBELOVEDELIZABETHOFHERTEARSANDENDLESSSORROWWHENSHESHOULDFINDHERLOVERSOBARBAROUSLYSNATCHEDFROMHERTEARSTHEFIRSTIHADSHEDFORMANYMONTHSSTREAMEDFROMMYEYES
+
+--- CIPHERTEXT ---
+78 6 90 37 27 38 96 65 22 84 25 92 37 65 46 18 41 54 1 35 0 60 28 20 45 51 32 80 47 92 14 29 1 92 61 68 14 21 54 55 99 43 7 64 44 46 102 34 48 96 78 39 26 82 18 7 80 5 43 48 52 69 103 56 31 69 5 13 33 41 86 41 23 56 33 74 79 12 8 26 55 45 49 11 58 0 36 68 8 45 17 48 98 6 3 81 72 95 89 44 37 81 95 11 74 68 101 52 18 49 12 47 54 63 18 78 66 14 101 63 81 96 95 16 48 24 84 29 5 82 36 39 27 23 41 35 32 28 87 97 19 31 92 49 67 103 65 94 94 96 58 6 31 72 24 31 57 65 46 18 54 61 25 21 100 57 24 84 18 49 12 52 36 59 65 9 2 36 101 93 88 79 89 59 87 73 92 32 85 90 13 72 24 100 11 84 79 26 37 47 88 38 35 27 83 59 45 96 35 61 3 67 92 33 3 96 27 100 34 37 97 100 11 49 36 26 0 53 73 26 95 21 29 91 31 92 90 83 35 82 74 97 100 11 36 79 40 26 68 55 73 55 39
+
+--- DECRYPTED PLAINTEXT ---
+SETSTREALINESAMEERCETHERSINTHESSCEINSTRIKEAMEMBERESEAREATTERHEHERETHREFEWERENTTAISSENTENTSERVENTARGESTREENTHESTHREESYSTETERARTISTREETWEENEXTURESTHAPPENERATREAMERINTHETIESTHEEASTETZINGEXTENDTHATHEINASHIRETHESEEINTERNETHESTHESEATSTARTSORETHERETHEENJANITIE
+
+--- SCORE ---
+-2750.8154
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 253 chars correct (6.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> C
+2      -> T
+3      -> N
+5      -> T
+6      -> E
+7      -> A
+8      -> T
+9      -> S
+11     -> E
+12     -> T
+13     -> H
+14     -> S
+16     -> A
+17     -> E
+18     -> E
+19     -> U
+20     -> R
+21     -> T
+22     -> L
+23     -> W
+24     -> T
+25     -> N
+26     -> A
+27     -> T
+28     -> E
+29     -> S
+31     -> R
+32     -> N
+33     -> R
+34     -> E
+35     -> E
+36     -> E
+37     -> S
+38     -> R
+39     -> E
+40     -> J
+41     -> E
+43     -> E
+44     -> E
+45     -> S
+46     -> M
+47     -> H
+48     -> R
+49     -> S
+51     -> I
+52     -> H
+53     -> S
+54     -> R
+55     -> I
+56     -> E
+57     -> E
+58     -> N
+59     -> E
+60     -> H
+61     -> I
+63     -> E
+64     -> M
+65     -> A
+66     -> Y
+67     -> T
+68     -> N
+69     -> E
+72     -> A
+73     -> T
+74     -> E
+78     -> S
+79     -> N
+80     -> T
+81     -> T
+82     -> R
+83     -> H
+84     -> I
+85     -> D
+86     -> F
+87     -> X
+88     -> I
+89     -> G
+90     -> T
+91     -> O
+92     -> E
+93     -> Z
+94     -> P
+95     -> R
+96     -> E
+97     -> T
+98     -> V
+99     -> K
+100    -> H
+101    -> T
+102    -> B
+103    -> H

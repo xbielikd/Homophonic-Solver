@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 61, 76]
+B(1) [38, 39, 30]
+C(2) [57, 28, 48]
+D(3) [66, 47, 33]
+E(4) [71, 26, 45]
+F(5) [63, 50, 7]
+G(6) [17, 70, 65]
+H(7) [27, 49, 1]
+I(8) [77, 55, 41]
+J(9) [40, 10, 32]
+K(10) [31, 73, 54]
+L(11) [12, 19, 43]
+M(12) [59, 13, 4]
+N(13) [8, 58, 29]
+O(14) [20, 67, 44]
+P(15) [56, 60, 74]
+Q(16) [36, 5, 2]
+R(17) [6, 34, 53]
+S(18) [75, 18, 46]
+T(19) [52, 23, 24]
+U(20) [9, 72, 62]
+V(21) [64, 51, 22]
+W(22) [35, 42, 15]
+X(23) [68, 21, 14]
+Y(24) [0, 37, 25]
+Z(25) [69, 16, 3]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+MYFATHERTRIEDTOAWAKENINMETHEFEELINGSOFAFFECTIONHETALKEDOFGENEVAWHICHISHOULDSOONVISITOFELIZABETHANDERNEST
+
+--- CIPHERTEXT ---
+13 25 7 76 23 1 45 34 52 34 41 71 47 24 67 76 15 11 73 26 58 55 58 59 26 24 27 26 7 45 71 19 55 58 70 46 44 63 61 50 63 71 28 24 41 44 8 27 45 23 11 43 54 26 33 44 7 70 26 29 26 22 76 42 1 41 57 27 77 46 49 20 9 19 47 46 20 20 58 22 77 75 55 24 67 50 26 19 55 3 11 38 26 23 27 61 58 33 26 6 58 45 18 24
+
+--- DECRYPTED PLAINTEXT ---
+QUATEARIZINETOFTHEYEATAKEOREARESTARATHETHECONTERREEXPERTAREVERTHANGREABLESTALLAREDTOFTESTHEWEEREAREMARJO
+
+--- SCORE ---
+-714.7274
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 104 chars correct (12.5%)
+
+--- KEY (cipher -> plain) ---
+1      -> A
+3      -> H
+6      -> M
+7      -> A
+8      -> E
+9      -> E
+11     -> E
+13     -> Q
+15     -> H
+18     -> J
+19     -> S
+20     -> L
+22     -> R
+23     -> E
+24     -> O
+25     -> U
+26     -> E
+27     -> R
+28     -> C
+29     -> V
+33     -> R
+34     -> I
+38     -> W
+41     -> N
+42     -> H
+43     -> X
+44     -> T
+45     -> R
+46     -> A
+47     -> T
+49     -> B
+50     -> T
+52     -> Z
+54     -> P
+55     -> T
+57     -> G
+58     -> A
+59     -> K
+61     -> E
+63     -> H
+67     -> F
+70     -> R
+71     -> E
+73     -> Y
+75     -> D
+76     -> T
+77     -> E

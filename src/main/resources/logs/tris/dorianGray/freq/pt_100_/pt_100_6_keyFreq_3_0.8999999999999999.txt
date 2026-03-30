@@ -1,0 +1,127 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [79, 102, 11, 31, 48, 61, 30, 90]
+B(1) [100, 3]
+C(2) [0, 99, 63]
+D(3) [41, 4, 52, 75]
+E(4) [84, 93, 50, 29, 58, 18, 27, 91, 1, 81, 2, 6]
+F(5) [77, 20, 35]
+G(6) [44, 74]
+H(7) [87, 71, 101, 9, 69, 13]
+I(8) [82, 42, 70, 45, 33, 104, 53]
+J(9) [8]
+K(10) [94]
+L(11) [56, 78, 57, 60]
+M(12) [36, 73, 96]
+N(13) [37, 54, 14, 21, 62, 76, 88]
+O(14) [83, 24, 19, 38, 34, 32, 92]
+P(15) [85, 40]
+Q(16) [67]
+R(17) [59, 89, 26, 16, 43, 98]
+S(18) [55, 15, 17, 51, 86, 22]
+T(19) [49, 46, 28, 12, 97, 66, 25, 103, 47]
+U(20) [7, 23, 80]
+V(21) [95]
+W(22) [64, 39, 72]
+X(23) [10]
+Y(24) [5, 65]
+Z(25) [68]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   67
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+5 32 23 75 24 76 103 94 62 32 72 39 13 30 12 5 34 80 39 6 98 84 49 19 96 50 38 62 0 50 64 71 5 19 88 99 91 92 87 104 99 79 21 49 3 29 48 89 66 92 97 13 104 88 94 38 20 70 103 70 39 42 55 13 33 69 79 75 21 50 95 58 26 56 61 45 4 81 65 27 17 23 85 19 62 5 24 23 5 83 7 9 31 95 93 17 40 32 33 60 50 41
+
+--- DECRYPTED PLAINTEXT ---
+THETHERETHESTEDTHESPEREAVENTHEWITATTHEMATTHENTHEBESTATENCERESTATEXTTHERINGELYJUSEEZATTHETHEFORKETHEREQ
+
+--- SCORE ---
+-662.5920
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 102 chars correct (4.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+3      -> N
+4      -> Y
+5      -> T
+6      -> P
+7      -> E
+9      -> F
+12     -> D
+13     -> T
+17     -> E
+19     -> A
+20     -> C
+21     -> H
+23     -> E
+24     -> H
+26     -> N
+27     -> S
+29     -> T
+30     -> E
+31     -> O
+32     -> H
+33     -> E
+34     -> H
+38     -> N
+39     -> S
+40     -> T
+41     -> Q
+42     -> T
+45     -> L
+48     -> H
+49     -> E
+50     -> E
+55     -> A
+56     -> G
+58     -> I
+60     -> R
+61     -> E
+62     -> T
+64     -> W
+65     -> U
+66     -> B
+69     -> X
+70     -> E
+71     -> I
+72     -> E
+75     -> T
+76     -> E
+79     -> T
+80     -> E
+81     -> J
+83     -> H
+84     -> R
+85     -> Z
+87     -> M
+88     -> T
+89     -> E
+91     -> H
+92     -> E
+93     -> K
+94     -> E
+95     -> R
+96     -> V
+97     -> S
+98     -> E
+99     -> T
+103    -> R
+104    -> A

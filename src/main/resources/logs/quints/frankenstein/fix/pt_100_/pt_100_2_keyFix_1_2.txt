@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [42, 9]
+B(1) [17, 35]
+C(2) [47, 2]
+D(3) [14, 6]
+E(4) [44, 13]
+F(5) [21, 19]
+G(6) [27, 30]
+H(7) [15, 41]
+I(8) [4, 33]
+J(9) [23, 38]
+K(10) [10, 3]
+L(11) [37, 48]
+M(12) [12, 34]
+N(13) [22, 29]
+O(14) [40, 1]
+P(15) [24, 49]
+Q(16) [7, 20]
+R(17) [51, 50]
+S(18) [5, 39]
+T(19) [46, 0]
+U(20) [32, 28]
+V(21) [43, 11]
+W(22) [18, 31]
+X(23) [36, 16]
+Y(24) [45, 8]
+Z(25) [25, 26]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+4 6 44 5 33 51 13 6 0 41 9 46 4 12 4 27 41 0 24 9 39 39 34 45 37 4 21 44 1 22 0 41 42 0 17 42 51 50 44 22 51 40 47 3 31 44 42 51 33 48 45 4 46 33 5 46 50 28 13 35 32 46 28 29 33 22 0 13 51 50 28 49 0 44 14 35 45 9 22 45 39 32 14 14 13 22 39 41 1 47 3 1 19 12 4 5 44 50 8 33 21
+
+--- DECRYPTED PLAINTEXT ---
+IRELATERSEATIMIZESPASSBEFIXEDSSENSINTHESTOJUVENTAKEITALTHEERATEWASSETHEYSECREASESACCESSEDJUDGMILEHQAX
+
+--- SCORE ---
+-1197.3441
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 101 chars correct (30.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> D
+3      -> U
+4      -> I
+5      -> L
+6      -> R
+8      -> Q
+9      -> A
+12     -> M
+13     -> E
+14     -> C
+17     -> I
+19     -> G
+21     -> X
+22     -> S
+24     -> P
+27     -> Z
+28     -> E
+29     -> W
+31     -> V
+32     -> A
+33     -> A
+34     -> B
+35     -> R
+37     -> F
+39     -> S
+40     -> O
+41     -> E
+42     -> N
+44     -> E
+45     -> E
+46     -> T
+47     -> J
+48     -> K
+49     -> Y
+50     -> H
+51     -> T

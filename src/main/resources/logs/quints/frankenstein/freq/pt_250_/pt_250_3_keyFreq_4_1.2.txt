@@ -1,0 +1,169 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 258
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 103, 20, 85, 52, 108, 53, 95, 66, 54]
+B(1) [61, 105]
+C(2) [17, 43, 120, 9]
+D(3) [130, 111, 5, 87, 29, 100]
+E(4) [83, 58, 47, 129, 10, 28, 115, 92, 38, 27, 101, 19, 99, 62, 123, 106]
+F(5) [44, 113, 37]
+G(6) [89, 77, 55]
+H(7) [78, 56, 127, 121, 34, 126, 15, 32]
+I(8) [49, 125, 94, 36, 35, 86, 0, 33, 79]
+J(9) [67]
+K(10) [40]
+L(11) [134, 90, 93, 98, 69]
+M(12) [112, 16, 75]
+N(13) [124, 18, 88, 73, 109, 81, 24, 97, 31]
+O(14) [50, 102, 64, 131, 21, 114, 12, 116, 2, 70]
+P(15) [11, 74, 119]
+Q(16) [51]
+R(17) [1, 41, 133, 110, 107, 63, 80, 57]
+S(18) [45, 118, 65, 4, 13, 96, 60, 23]
+T(19) [132, 46, 84, 72, 104, 25, 82, 42, 3, 122, 117]
+U(20) [128, 68, 26, 7]
+V(21) [71, 8]
+W(22) [22, 30, 39]
+X(23) [91]
+Y(24) [14, 76, 48]
+Z(25) [59]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   109
+TEXT LENGTH:      258
+
+--- ORIGINAL PLAINTEXT ---
+WHILEILISTENEDTOTHEINSTRUCTIONSWHICHFELIXBESTOWEDUPONTHEARABIANTHESTRANGESYSTEMOFHUMANSOCIETYWASEXPLAINEDTOMEIHEARDOFTHEDIVISIONOFPROPERTYOFIMMENSEWEALTHANDSQUALIDPOVERTYOFRANKDESCENTANDNOBLEBLOODTHEWORDSINDUCEDMETOTURNTOWARDSMYSELFILEARNEDTHATTHEPOSSESSIONS
+
+--- CIPHERTEXT ---
+30 121 79 90 27 86 69 79 118 72 10 18 10 29 46 21 104 34 27 35 81 23 104 107 7 120 72 36 102 31 4 22 126 0 9 56 37 83 98 86 91 61 92 13 132 64 30 19 100 128 74 64 81 46 56 58 54 63 108 105 49 85 31 117 121 38 65 46 80 6 109 55 123 23 48 4 72 101 16 131 37 34 128 16 85 109 65 116 120 35 123 46 48 22 95 118 10 91 11 98 108 79 81 28 87 46 116 112 27 0 126 115 103 57 87 2 44 84 15 28 5 35 71 86 45 79 21 81 131 44 11 1 50 74 28 107 3 76 70 44 35 16 112 123 18 13 28 22 123 85 69 82 78 52 18 130 65 51 128 54 98 79 100 119 70 71 99 107 117 76 2 113 80 95 97 40 87 28 13 17 28 31 104 6 24 5 97 131 61 69 99 61 90 12 21 87 46 78 101 22 50 41 111 65 86 88 5 7 17 115 87 16 28 122 102 104 68 63 124 3 50 30 53 107 87 13 16 76 4 83 93 113 125 93 106 108 41 73 101 87 46 34 52 82 3 56 19 119 2 65 13 115 45 118 36 102 97 96
+
+--- DECRYPTED PLAINTEXT ---
+RHEREASETHESESTARTERSTRATCHHERTRESSEATHASEDTHERSWERESTEDTOEXPERTHESTHEAGETOTHESTATESEASECRETORATESTHEESENTERESEEKINSEQUEERSAREASTETHEREAHESERSRESTEREESTHOSESBETHEWASSTATESTHATONETHERRELETTESTERJANTHEREARSARETHENSEVERYOFHERMANTSETTETHEREARENTTOTHESASSTERTHETZ
+
+--- SCORE ---
+-2724.8226
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 49 / 258 chars correct (19.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> H
+2      -> S
+3      -> H
+4      -> T
+5      -> E
+6      -> E
+7      -> T
+9      -> S
+10     -> E
+11     -> T
+12     -> J
+13     -> T
+15     -> U
+16     -> S
+17     -> H
+18     -> S
+19     -> S
+21     -> A
+22     -> R
+23     -> T
+24     -> L
+27     -> E
+28     -> E
+29     -> S
+30     -> R
+31     -> R
+34     -> T
+35     -> R
+36     -> H
+37     -> A
+38     -> E
+40     -> O
+41     -> A
+44     -> E
+45     -> R
+46     -> T
+48     -> O
+49     -> P
+50     -> E
+51     -> B
+52     -> O
+53     -> M
+54     -> T
+55     -> G
+56     -> E
+57     -> I
+58     -> D
+61     -> E
+63     -> O
+64     -> E
+65     -> S
+68     -> Y
+69     -> S
+70     -> S
+71     -> S
+72     -> H
+73     -> R
+74     -> R
+76     -> E
+78     -> H
+79     -> E
+80     -> H
+81     -> S
+82     -> T
+83     -> T
+84     -> Q
+85     -> E
+86     -> A
+87     -> N
+88     -> R
+90     -> R
+91     -> S
+92     -> D
+93     -> E
+95     -> A
+96     -> Z
+97     -> T
+98     -> H
+99     -> T
+100    -> W
+101    -> E
+102    -> E
+103    -> K
+104    -> R
+105    -> X
+106    -> R
+107    -> A
+108    -> E
+109    -> A
+111    -> R
+112    -> R
+113    -> T
+115    -> E
+116    -> E
+117    -> T
+118    -> T
+119    -> A
+120    -> C
+121    -> H
+122    -> V
+123    -> E
+124    -> F
+125    -> H
+126    -> E
+128    -> E
+130    -> E
+131    -> T
+132    -> H

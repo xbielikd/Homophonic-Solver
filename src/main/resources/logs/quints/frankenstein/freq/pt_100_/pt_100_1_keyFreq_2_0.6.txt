@@ -1,0 +1,110 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [59, 71, 57, 30, 10]
+B(1) [63]
+C(2) [39, 61]
+D(3) [31, 34, 60]
+E(4) [42, 22, 18, 65, 40, 51, 70, 45]
+F(5) [49, 53]
+G(6) [2, 28]
+H(7) [14, 19, 46, 32]
+I(8) [67, 12, 21, 33, 13]
+J(9) [54]
+K(10) [29]
+L(11) [72, 66, 56]
+M(12) [38, 37]
+N(13) [43, 23, 35, 44, 69]
+O(14) [9, 36, 0, 15, 47]
+P(15) [17, 25]
+Q(16) [68]
+R(17) [7, 58, 4, 50]
+S(18) [74, 5, 1, 62]
+T(19) [26, 24, 3, 8, 41, 11]
+U(20) [6, 27]
+V(21) [73]
+W(22) [16, 48]
+X(23) [64]
+Y(24) [52, 55]
+Z(25) [20]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   50
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+0 32 16 33 41 32 16 32 57 3 30 63 27 50 43 67 35 28 2 27 5 19 31 67 31 19 0 17 45 58 40 73 33 5 67 8 37 52 46 70 30 7 24 48 30 58 37 3 22 57 50 5 49 33 72 66 22 60 38 55 65 55 45 5 16 14 21 39 19 12 32 10 62 3 67 72 52 16 21 25 45 34 71 48 30 52 41 19 57 8 8 19 22 52 38 67 28 19 24 35 0 11
+
+--- DECRYPTED PLAINTEXT ---
+RESARESEAREQUITERSTUREWEWERJACKSARELATIVEGAMECARDAIREASEDTHEYEARSTOBEREXPRESTSOFANAMETREALLEDTHESEARRZ
+
+--- SCORE ---
+-1090.3028
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 102 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> T
+3      -> R
+5      -> R
+7      -> G
+8      -> L
+10     -> X
+11     -> Z
+12     -> R
+14     -> T
+16     -> S
+17     -> J
+19     -> E
+21     -> O
+22     -> D
+24     -> A
+25     -> F
+27     -> U
+28     -> S
+30     -> E
+31     -> W
+32     -> E
+33     -> A
+34     -> N
+35     -> R
+37     -> A
+38     -> H
+39     -> B
+40     -> K
+41     -> R
+43     -> T
+45     -> A
+46     -> I
+48     -> M
+49     -> E
+50     -> I
+52     -> T
+55     -> E
+57     -> A
+58     -> C
+60     -> T
+62     -> P
+63     -> Q
+65     -> Y
+66     -> E
+67     -> E
+70     -> V
+71     -> A
+72     -> S
+73     -> S

@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 2]
+B(1) [14, 23]
+C(2) [18, 21]
+D(3) [30, 24]
+E(4) [44, 10]
+F(5) [11, 33]
+G(6) [31, 19]
+H(7) [50, 12]
+I(8) [1, 39]
+J(9) [13, 43]
+K(10) [25, 42]
+L(11) [37, 48]
+M(12) [4, 6]
+N(13) [47, 16]
+O(14) [46, 20]
+P(15) [9, 26]
+Q(16) [36, 32]
+R(17) [45, 0]
+S(18) [41, 27]
+T(19) [34, 7]
+U(20) [5, 35]
+V(21) [40, 29]
+W(22) [8, 28]
+X(23) [3, 51]
+Y(24) [49, 15]
+Z(25) [17, 38]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+27 50 44 28 2 27 2 27 48 44 47 30 44 0 41 4 22 48 37 23 45 10 2 41 7 44 30 31 39 45 37 8 1 7 50 22 47 44 0 10 21 34 21 2 45 0 1 2 19 44 28 12 39 21 50 41 12 44 22 21 18 44 16 34 5 2 7 44 30 23 15 7 12 0 20 8 1 16 31 12 44 0 14 20 30 15 23 22 21 42 28 22 0 24 2 7 7 12 10 27 12 46 5 48 30 10 45 41
+
+--- DECRYPTED PLAINTEXT ---
+RPTHERERETCATERJEELBEDERSTAFEELINSPECTEDRGREEENEXTHEERPRETERKTOGUESTABYSEEMINOFETEZMAYBERWHEEVESSEDREQUEADER
+
+--- SCORE ---
+-1378.5394
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 108 chars correct (8.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> N
+2      -> E
+4      -> J
+5      -> U
+7      -> S
+8      -> I
+10     -> D
+12     -> E
+14     -> Z
+15     -> Y
+16     -> O
+18     -> K
+19     -> X
+20     -> M
+21     -> R
+22     -> E
+23     -> B
+24     -> V
+27     -> R
+28     -> H
+30     -> A
+31     -> F
+34     -> G
+37     -> L
+39     -> E
+41     -> R
+42     -> W
+44     -> T
+45     -> E
+46     -> Q
+47     -> C
+48     -> E
+50     -> P

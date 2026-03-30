@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 255
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [52, 103, 127, 96, 97, 0, 59, 79, 29, 27]
+B(1) [128, 84]
+C(2) [121, 18, 58, 102]
+D(3) [41, 75, 124, 72, 82, 38]
+E(4) [16, 129, 25, 132, 99, 7, 22, 8, 76, 43, 45, 113, 28, 104, 36, 118]
+F(5) [46, 54, 122]
+G(6) [53, 37, 92]
+H(7) [64, 19, 111, 114, 66, 74, 86, 88]
+I(8) [77, 24, 106, 26, 20, 80, 98, 71, 60]
+J(9) [123]
+K(10) [6]
+L(11) [4, 119, 23, 87, 61]
+M(12) [73, 131, 120]
+N(13) [42, 35, 56, 55, 32, 112, 107, 62, 14]
+O(14) [108, 47, 67, 33, 3, 31, 17, 51, 105, 130]
+P(15) [11, 89, 90]
+Q(16) [2]
+R(17) [134, 40, 50, 133, 49, 44, 81, 57]
+S(18) [21, 69, 78, 109, 125, 63, 117, 83]
+T(19) [15, 126, 94, 95, 34, 101, 13, 85, 12, 91, 48]
+U(20) [93, 30, 39, 65]
+V(21) [110, 116]
+W(22) [100, 70, 10]
+X(23) [1]
+Y(24) [9, 115, 5]
+Z(25) [68]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      255
+
+--- ORIGINAL PLAINTEXT ---
+THELADLISTENEDSULKILYTOHERANDMADENOANSWERHEWASHEARTSICKATLEAVINGHOMEYETITWASNOTTHISALONETHATMADEHIMGLOOMYANDMOROSEINEXPERIENCEDTHOUGHHEWASHEHADSTILLASTRONGSENSEOFTHEDANGEROFSIBYLSPOSITIONTHISYOUNGDANDYWHOWASMAKINGLOVETOHERCOULDMEANHERNOGOODHEWASAGENTLEMAN
+
+--- CIPHERTEXT ---
+101 114 8 23 127 124 119 24 78 91 22 35 43 124 69 39 119 6 98 4 9 12 105 111 104 44 29 62 82 131 103 72 28 56 108 97 62 69 10 45 50 64 22 70 59 63 19 7 27 134 85 69 60 58 6 103 85 4 43 96 116 106 112 37 111 108 73 36 5 45 13 77 34 100 29 78 32 130 85 95 111 60 69 103 4 3 56 36 15 111 103 34 131 103 38 45 111 26 131 53 23 108 3 131 5 97 32 72 120 31 57 3 125 22 80 35 43 1 11 25 49 20 22 112 18 16 82 94 66 31 30 53 19 111 104 70 79 63 111 22 66 103 82 125 12 80 61 23 59 117 15 133 51 35 53 109 104 32 69 129 3 46 13 111 118 82 29 32 92 22 50 17 122 69 106 84 9 4 63 90 33 78 77 91 80 33 35 101 86 20 109 9 17 93 32 53 41 79 42 124 115 10 88 67 100 127 83 120 27 6 80 107 37 61 130 116 16 15 105 88 16 57 121 130 93 61 41 131 43 0 55 88 8 134 55 67 92 3 130 38 88 104 100 0 21 0 37 16 55 48 61 99 73 27 32
+
+--- DECRYPTED PLAINTEXT ---
+EZESEARTHATHEATERSARENTEEXTERRESOFTHETTHESTATESHESATTESEARETHETHETWITHREASTHETAKETTEREFINEEARETHEPRESTERTHESUIREATTHERETHATTHERATICESEEAREETTERANTESTINGTHEMEETHEBREARTERTETOTEVEREDTHEATTHEJAMETHEEAREALTHESEQUESTTHETHENTHERETHEARETTHESTERETTHESTOTHETHEYWEE
+
+--- SCORE ---
+-2136.7236
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 255 chars correct (7.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> R
+3      -> E
+4      -> R
+5      -> T
+6      -> S
+7      -> H
+8      -> E
+9      -> E
+10     -> T
+11     -> E
+12     -> N
+13     -> R
+15     -> N
+16     -> E
+17     -> T
+18     -> H
+19     -> S
+20     -> A
+21     -> O
+22     -> T
+23     -> S
+24     -> T
+25     -> T
+26     -> P
+27     -> E
+28     -> O
+29     -> T
+30     -> C
+31     -> I
+32     -> E
+33     -> T
+34     -> A
+35     -> H
+36     -> I
+37     -> H
+38     -> T
+39     -> E
+41     -> A
+42     -> E
+43     -> E
+44     -> X
+45     -> H
+46     -> B
+48     -> H
+49     -> H
+50     -> E
+51     -> T
+53     -> E
+55     -> T
+56     -> F
+57     -> R
+58     -> E
+59     -> T
+60     -> T
+61     -> E
+62     -> E
+63     -> E
+64     -> S
+66     -> T
+67     -> E
+69     -> T
+70     -> A
+72     -> S
+73     -> W
+77     -> E
+78     -> H
+79     -> R
+80     -> T
+82     -> R
+83     -> Q
+84     -> V
+85     -> A
+86     -> J
+88     -> H
+90     -> D
+91     -> A
+92     -> R
+93     -> H
+94     -> A
+95     -> K
+96     -> T
+97     -> H
+98     -> A
+99     -> Y
+100    -> S
+101    -> E
+103    -> E
+104    -> E
+105    -> T
+106    -> E
+107    -> T
+108    -> T
+109    -> M
+111    -> E
+112    -> T
+114    -> Z
+115    -> L
+116    -> H
+117    -> I
+118    -> A
+119    -> R
+120    -> U
+121    -> E
+122    -> O
+124    -> A
+125    -> A
+127    -> E
+129    -> H
+130    -> T
+131    -> R
+133    -> G
+134    -> S

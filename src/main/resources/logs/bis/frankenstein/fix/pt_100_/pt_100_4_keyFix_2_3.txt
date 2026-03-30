@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 2, 70]
+B(1) [43, 47, 48]
+C(2) [37, 4, 77]
+D(3) [57, 50, 25]
+E(4) [72, 66, 68]
+F(5) [5, 9, 73]
+G(6) [6, 69, 71]
+H(7) [11, 3, 59]
+I(8) [18, 64, 31]
+J(9) [30, 67, 76]
+K(10) [15, 14, 63]
+L(11) [51, 58, 17]
+M(12) [0, 56, 1]
+N(13) [75, 16, 27]
+O(14) [65, 28, 24]
+P(15) [49, 39, 13]
+Q(16) [61, 55, 29]
+R(17) [7, 20, 38]
+S(18) [42, 8, 41]
+T(19) [53, 62, 44]
+U(20) [60, 33, 21]
+V(21) [26, 12, 40]
+W(22) [54, 10, 52]
+X(23) [19, 23, 46]
+Y(24) [36, 34, 32]
+Z(25) [74, 45, 35]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+77 70 75 70 75 32 56 2 16 47 72 62 24 56 66 70 41 4 51 68 7 12 22 51 54 2 41 28 20 22 75 34 10 65 56 70 27 22 75 28 62 11 66 38 66 17 18 74 70 48 66 53 3 66 40 66 16 52 59 68 7 72 53 3 72 22 73 9 66 4 44 18 28 75 42 2 38 66 16 28 53 41 62 7 28 16 6 17 36 0 24 40 72 57 47 32 70 16 32 42 21 39 66 38 31 24 20
+
+--- DECRYPTED PLAINTEXT ---
+ZERERERERHETEREESANTHEENGESEREREQUREVERETHERENTWEMETHEREROFTHETHEEXPEANTERLERERETSTHERINDBERECHEERELYJERKER
+
+--- SCORE ---
+-511.0389
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 107 chars correct (28.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+2      -> E
+3      -> H
+4      -> A
+6      -> I
+7      -> H
+9      -> P
+10     -> Q
+11     -> H
+12     -> E
+16     -> R
+17     -> N
+18     -> T
+20     -> R
+21     -> Y
+22     -> E
+24     -> E
+27     -> V
+28     -> E
+31     -> K
+32     -> E
+34     -> E
+36     -> D
+38     -> R
+39     -> J
+40     -> R
+41     -> S
+42     -> L
+44     -> N
+47     -> H
+48     -> M
+51     -> N
+52     -> O
+53     -> T
+54     -> G
+56     -> R
+57     -> C
+59     -> F
+62     -> T
+65     -> U
+66     -> E
+68     -> T
+70     -> E
+72     -> E
+73     -> X
+74     -> W
+75     -> R
+77     -> Z

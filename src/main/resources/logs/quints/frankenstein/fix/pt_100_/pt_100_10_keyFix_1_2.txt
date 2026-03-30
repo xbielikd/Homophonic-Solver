@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [38, 29]
+B(1) [13, 49]
+C(2) [28, 14]
+D(3) [15, 37]
+E(4) [46, 45]
+F(5) [25, 4]
+G(6) [3, 7]
+H(7) [6, 42]
+I(8) [22, 12]
+J(9) [33, 17]
+K(10) [44, 2]
+L(11) [48, 34]
+M(12) [20, 18]
+N(13) [16, 27]
+O(14) [9, 50]
+P(15) [47, 26]
+Q(16) [41, 43]
+R(17) [1, 32]
+S(18) [40, 36]
+T(19) [30, 8]
+U(20) [10, 5]
+V(21) [51, 24]
+W(22) [39, 19]
+X(23) [31, 35]
+Y(24) [0, 21]
+Z(25) [23, 11]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+19 42 45 16 12 30 42 50 10 3 42 30 50 4 6 22 18 22 3 16 38 40 6 45 15 20 21 8 46 46 30 42 20 21 46 21 46 40 49 46 28 29 18 45 22 16 25 34 29 20 46 37 38 27 15 12 38 1 37 46 27 8 34 21 19 12 36 42 46 15 8 9 46 31 8 12 16 3 5 22 40 42 30 6 38 30 48 22 25 45 39 6 12 14 42 12 42 29 15 36 9
+
+--- DECRYPTED PLAINTEXT ---
+DEESAREEQUERECHALAUSETHERENIAAREENANATJAMBLEASTOBEAPETRAEXPATIONDAYEARIZAKIASUGATERHERFATEWHAVEAEBRYZ
+
+--- SCORE ---
+-1267.2082
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 101 chars correct (8.9%)
+
+--- KEY (cipher -> plain) ---
+1      -> X
+3      -> U
+4      -> C
+5      -> G
+6      -> H
+8      -> I
+9      -> Z
+10     -> Q
+12     -> A
+14     -> V
+15     -> R
+16     -> S
+18     -> L
+19     -> D
+20     -> E
+21     -> N
+22     -> A
+25     -> T
+27     -> T
+28     -> M
+29     -> B
+30     -> R
+31     -> K
+34     -> O
+36     -> Y
+37     -> P
+38     -> E
+39     -> W
+40     -> T
+42     -> E
+45     -> E
+46     -> A
+48     -> F
+49     -> J
+50     -> E

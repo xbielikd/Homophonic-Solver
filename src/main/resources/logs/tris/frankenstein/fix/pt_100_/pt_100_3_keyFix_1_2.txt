@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 31]
+B(1) [20, 1]
+C(2) [40, 47]
+D(3) [7, 14]
+E(4) [51, 50]
+F(5) [6, 35]
+G(6) [2, 44]
+H(7) [29, 42]
+I(8) [24, 41]
+J(9) [13, 46]
+K(10) [26, 19]
+L(11) [49, 8]
+M(12) [15, 11]
+N(13) [30, 22]
+O(14) [21, 16]
+P(15) [43, 3]
+Q(16) [0, 39]
+R(17) [17, 34]
+S(18) [12, 32]
+T(19) [4, 10]
+U(20) [37, 36]
+V(21) [33, 45]
+W(22) [27, 9]
+X(23) [48, 25]
+Y(24) [18, 28]
+Z(25) [5, 38]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+23 49 23 12 45 41 40 4 21 17 41 30 16 27 32 31 18 4 42 23 30 26 44 21 7 12 29 50 14 41 14 30 21 10 8 24 45 51 4 16 27 24 4 30 51 32 12 10 42 50 47 17 37 50 49 11 24 32 50 17 23 20 49 51 7 51 23 4 29 16 35 29 50 17 28 16 36 22 2 51 12 10 7 31 17 49 41 22 44 40 16 15 51 45 24 40 10 16 17 30 21 10
+
+--- DECRYPTED PLAINTEXT ---
+EREARESTINESERDOFTHESQUICAROMEMSITZERETERETSEDATHOWNJORKEDONEYRECEETREBRONGEXPLEATCONREPUSEVERESTENSIT
+
+--- SCORE ---
+-757.9690
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 18 / 102 chars correct (17.6%)
+
+--- KEY (cipher -> plain) ---
+2      -> L
+4      -> T
+7      -> C
+8      -> Z
+10     -> T
+11     -> K
+12     -> A
+14     -> M
+15     -> V
+16     -> E
+17     -> N
+18     -> F
+20     -> Y
+21     -> I
+22     -> P
+23     -> E
+24     -> E
+26     -> Q
+27     -> R
+28     -> G
+29     -> R
+30     -> S
+31     -> O
+32     -> D
+35     -> B
+36     -> X
+37     -> J
+40     -> S
+41     -> E
+42     -> H
+44     -> U
+45     -> R
+47     -> W
+49     -> R
+50     -> O
+51     -> E

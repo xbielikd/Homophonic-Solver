@@ -1,0 +1,168 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [67, 57, 100, 32, 20, 119, 95, 24, 125, 122]
+B(1) [28, 26]
+C(2) [132, 39, 80, 16]
+D(3) [43, 6, 60, 77, 12, 9]
+E(4) [23, 53, 34, 99, 65, 66, 19, 30, 118, 5, 105, 15, 85, 49, 130, 4]
+F(5) [81, 29, 97]
+G(6) [96, 128, 31]
+H(7) [98, 68, 88, 37, 61, 71, 84, 107]
+I(8) [63, 22, 50, 78, 51, 46, 129, 92, 93]
+J(9) [75]
+K(10) [117]
+L(11) [42, 127, 58, 14, 17]
+M(12) [89, 52, 131]
+N(13) [36, 69, 126, 10, 112, 3, 38, 83, 21]
+O(14) [11, 120, 111, 86, 113, 124, 74, 47, 2, 48]
+P(15) [54, 87, 79]
+Q(16) [33]
+R(17) [45, 123, 133, 116, 121, 27, 41, 7]
+S(18) [64, 35, 76, 59, 102, 108, 103, 40]
+T(19) [73, 8, 109, 134, 62, 94, 106, 104, 56, 91, 115]
+U(20) [72, 114, 110, 13]
+V(21) [55, 82]
+W(22) [90, 0, 25]
+X(23) [70]
+Y(24) [1, 101, 18]
+Z(25) [44]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   108
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+YOUCAMEOHMYBEAUTIFULLOVEANDYOUFREEDMYSOULFROMPRISONYOUTAUGHTMEWHATREALITYREALLYISTONIGHTFORTHEFIRSTTIMEINMYLIFEISAWTHROUGHTHEHOLLOWNESSTHESHAMTHESILLINESSOFTHEEMPTYPAGEANTINWHICHIHADALWAYSPLAYEDTONIGHTFORTHEFIRSTTIMEIBECAMECONSCIOUSTHATTHEROMEOWASHIDEOUS
+
+--- CIPHERTEXT ---
+101 86 114 80 67 89 130 47 61 52 101 26 105 32 13 104 78 29 110 127 42 124 55 130 122 83 60 101 120 114 97 45 105 130 43 52 101 103 2 72 14 81 116 47 52 87 123 78 40 111 21 1 47 110 56 100 110 96 71 73 52 66 0 68 100 106 27 85 32 14 46 106 101 7 130 20 17 127 101 46 102 73 11 126 92 31 71 109 97 47 27 73 61 105 97 129 116 64 109 106 22 131 34 129 10 131 18 17 78 81 65 129 102 32 90 115 37 116 111 13 128 107 109 84 53 98 86 14 42 113 0 69 23 40 59 62 88 99 35 98 95 131 115 71 66 59 93 42 127 78 38 53 40 40 47 29 73 88 66 66 89 79 134 18 54 119 128 5 122 38 104 22 10 0 107 129 80 37 22 84 57 43 57 14 90 24 18 102 79 127 57 101 66 12 106 11 83 51 96 98 73 29 124 123 56 98 5 29 92 121 103 8 104 92 89 5 129 26 30 16 95 52 5 39 124 126 76 80 129 111 13 108 109 98 20 56 8 68 5 116 2 89 99 111 25 67 76 37 22 43 118 48 110 108
+
+--- DECRYPTED PLAINTEXT ---
+EFORTHRESSELESTHESSTATERSIZEWORKERESENTHERSESTHEREQUESEESARESTTHERRESEAREPRESTEARETHEYRERERESERESTERETHESTOSERVERSSERSETTHETERFEATTHEREANEGRATERTERATETERRESENTTHECOMETESTHESTHERRETHEHESTORETHETERTISARESTHERESEINTHEHEELEBASEDTHEREETHEREETHESTHEEXTEREEJOSH
+
+--- SCORE ---
+-2166.8423
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 254 chars correct (10.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> U
+2      -> T
+5      -> E
+7      -> P
+8      -> T
+10     -> S
+11     -> T
+12     -> E
+13     -> T
+14     -> E
+16     -> B
+17     -> S
+18     -> O
+20     -> E
+21     -> Q
+22     -> E
+23     -> E
+24     -> T
+25     -> X
+26     -> L
+27     -> R
+29     -> S
+30     -> E
+31     -> Y
+32     -> S
+34     -> H
+35     -> G
+37     -> R
+38     -> T
+39     -> D
+40     -> R
+42     -> A
+43     -> E
+45     -> K
+46     -> A
+47     -> E
+48     -> O
+51     -> S
+52     -> S
+53     -> E
+54     -> M
+55     -> E
+56     -> E
+57     -> H
+59     -> E
+60     -> Z
+61     -> S
+62     -> A
+64     -> T
+65     -> V
+66     -> T
+67     -> T
+68     -> H
+69     -> H
+71     -> R
+72     -> H
+73     -> E
+76     -> E
+78     -> E
+79     -> E
+80     -> R
+81     -> R
+83     -> I
+84     -> T
+85     -> E
+86     -> F
+87     -> T
+88     -> N
+89     -> H
+90     -> S
+92     -> E
+93     -> R
+95     -> A
+96     -> A
+97     -> R
+98     -> R
+99     -> E
+100    -> E
+101    -> E
+102    -> R
+103    -> N
+104    -> H
+105    -> E
+106    -> R
+107    -> H
+108    -> H
+109    -> E
+110    -> S
+111    -> E
+113    -> T
+114    -> O
+115    -> E
+116    -> S
+118    -> J
+119    -> E
+120    -> W
+121    -> I
+122    -> S
+123    -> H
+124    -> T
+126    -> H
+127    -> T
+128    -> T
+129    -> E
+130    -> R
+131    -> T
+134    -> C

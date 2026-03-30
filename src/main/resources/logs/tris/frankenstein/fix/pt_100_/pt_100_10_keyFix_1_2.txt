@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 34]
+B(1) [46, 19]
+C(2) [6, 43]
+D(3) [11, 44]
+E(4) [4, 35]
+F(5) [5, 20]
+G(6) [26, 48]
+H(7) [32, 28]
+I(8) [2, 36]
+J(9) [12, 21]
+K(10) [38, 23]
+L(11) [8, 42]
+M(12) [0, 41]
+N(13) [17, 39]
+O(14) [27, 18]
+P(15) [7, 29]
+Q(16) [49, 45]
+R(17) [1, 50]
+S(18) [9, 47]
+T(19) [10, 25]
+U(20) [16, 33]
+V(21) [15, 30]
+W(22) [51, 24]
+X(23) [31, 37]
+Y(24) [40, 13]
+Z(25) [14, 3]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+51 32 35 39 36 10 32 18 33 26 32 10 27 5 32 2 41 2 26 39 34 9 28 35 44 41 40 10 4 35 10 28 0 13 4 40 35 47 19 35 43 22 41 35 36 17 5 8 34 41 35 11 34 39 11 36 22 50 44 35 17 25 42 13 51 36 9 28 35 11 25 27 35 31 10 2 39 48 33 2 9 28 10 28 22 25 8 36 5 4 51 32 36 6 32 36 32 34 44 47 27
+
+--- DECRYPTED PLAINTEXT ---
+ERENEERKFOREMERITIONANDELTHESEEDJUSHEYWEXTTEEVERATECANCETZLEVEQUEENDECEMEBEINGFINDEDTEREESEREPRERALYM
+
+--- SCORE ---
+-763.5170
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 23 / 101 chars correct (22.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> J
+2      -> I
+4      -> S
+5      -> E
+6      -> P
+8      -> R
+9      -> N
+10     -> E
+11     -> C
+13     -> U
+17     -> V
+18     -> K
+19     -> W
+22     -> T
+25     -> E
+26     -> O
+27     -> M
+28     -> D
+31     -> B
+32     -> R
+33     -> F
+34     -> A
+35     -> E
+36     -> E
+39     -> N
+40     -> H
+41     -> T
+42     -> Q
+43     -> X
+44     -> L
+47     -> Y
+48     -> G
+50     -> Z
+51     -> E

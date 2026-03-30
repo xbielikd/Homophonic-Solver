@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [39, 30, 40]
+B(1) [17]
+C(2) [12]
+D(3) [29, 34]
+E(4) [9, 6, 37, 32]
+F(5) [4]
+G(6) [33]
+H(7) [19, 14]
+I(8) [27, 36, 28]
+J(9) [10]
+K(10) [5]
+L(11) [24, 26]
+M(12) [31]
+N(13) [43, 41, 15]
+O(14) [25, 18, 3]
+P(15) [21]
+Q(16) [23]
+R(17) [2, 42]
+S(18) [16, 8]
+T(19) [38, 7, 11]
+U(20) [13]
+V(21) [20]
+W(22) [0]
+X(23) [1]
+Y(24) [35]
+Z(25) [22]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+14 36 8 11 39 15 41 6 29 16 5 28 15 0 40 8 29 2 30 0 43 30 7 7 2 39 12 11 27 20 9 24 35 11 27 33 14 38 18 41 14 28 16 4 39 12 9 39 43 34 14 36 16 16 19 25 2 7 14 40 28 2 26 3 25 5 6 29 30 8 7 14 25 13 33 19 27 7 0 6 2 9 7 42 27 31 31 32 29 37 20 32 2 35 34 40 35 27 12 25 13 26 29
+
+--- DECRYPTED PLAINTEXT ---
+SKEDANGEREVENTHERRETRESSRANDALIZEDAYSJUGSEEMANIARTSKEEPERSSHEREWEVEREESSEXYPASTERISBACCORFLORETHEANEXER
+
+--- SCORE ---
+-1233.3995
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 103 chars correct (14.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+2      -> R
+3      -> W
+4      -> M
+5      -> V
+6      -> E
+7      -> S
+8      -> E
+9      -> I
+11     -> D
+12     -> N
+13     -> X
+14     -> S
+15     -> N
+16     -> E
+18     -> U
+19     -> P
+20     -> L
+24     -> Z
+25     -> E
+26     -> E
+27     -> A
+28     -> E
+29     -> R
+30     -> E
+31     -> C
+32     -> O
+33     -> Y
+34     -> T
+35     -> E
+36     -> K
+37     -> F
+38     -> J
+39     -> A
+40     -> H
+41     -> G
+42     -> B
+43     -> R

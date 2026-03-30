@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [34, 73, 78, 37]
+B(1) [51, 61, 49, 40]
+C(2) [71, 53, 81, 10]
+D(3) [50, 91, 9, 25]
+E(4) [93, 15, 27, 8]
+F(5) [45, 43, 94, 31]
+G(6) [86, 55, 88, 35]
+H(7) [65, 12, 3, 92]
+I(8) [97, 5, 66, 48]
+J(9) [52, 21, 46, 84]
+K(10) [56, 82, 59, 41]
+L(11) [16, 36, 64, 70]
+M(12) [24, 72, 47, 58]
+N(13) [23, 85, 77, 100]
+O(14) [75, 0, 2, 87]
+P(15) [30, 28, 57, 4]
+Q(16) [62, 22, 80, 103]
+R(17) [42, 13, 68, 102]
+S(18) [96, 32, 99, 6]
+T(19) [19, 33, 26, 11]
+U(20) [67, 20, 44, 74]
+V(21) [29, 7, 101, 76]
+W(22) [90, 89, 98, 17]
+X(23) [95, 54, 69, 60]
+Y(24) [63, 1, 18, 83]
+Z(25) [79, 39, 14, 38]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+98 12 27 23 66 11 12 0 44 35 12 11 0 45 3 66 24 5 35 23 37 32 92 8 9 47 18 11 15 93 33 12 24 83 15 83 93 32 40 8 10 34 24 8 5 77 45 64 73 58 93 9 73 77 50 97 73 13 25 93 77 11 70 18 90 48 96 65 93 25 33 75 27 69 33 66 23 35 44 97 32 3 33 12 37 26 16 66 45 15 90 65 97 71 12 97 92 78 25 96 0
+
+--- DECRYPTED PLAINTEXT ---
+ZRALESRIVERSINTERSELANDESJUSTEERRETEENYEXPRESANDTHESTAGETOREASQUEWEREREMAKEELEVENTERANCENTEREFREDBREI
+
+--- SCORE ---
+-1127.6489
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 101 chars correct (9.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> I
+3      -> T
+5      -> S
+8      -> E
+9      -> S
+10     -> X
+11     -> S
+12     -> R
+13     -> O
+15     -> T
+16     -> C
+18     -> U
+23     -> L
+24     -> R
+25     -> R
+26     -> N
+27     -> A
+32     -> N
+33     -> E
+34     -> P
+35     -> E
+37     -> A
+40     -> Y
+44     -> V
+45     -> N
+47     -> J
+48     -> W
+50     -> G
+58     -> H
+64     -> D
+65     -> R
+66     -> E
+69     -> K
+70     -> Q
+71     -> F
+73     -> T
+75     -> M
+77     -> A
+78     -> B
+83     -> E
+90     -> E
+92     -> D
+93     -> E
+96     -> E
+97     -> E
+98     -> Z

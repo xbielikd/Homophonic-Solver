@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 39, 57, 1, 53]
+B(1) [47]
+C(2) [6, 21]
+D(3) [27, 4, 37]
+E(4) [2, 12, 49, 68, 9, 59, 63, 18]
+F(5) [72, 52]
+G(6) [51, 45]
+H(7) [25, 69, 62, 20]
+I(8) [38, 34, 26, 40, 15]
+J(9) [50]
+K(10) [11]
+L(11) [36, 0, 65]
+M(12) [46, 61]
+N(13) [70, 19, 28, 3, 74]
+O(14) [73, 66, 23, 54, 8]
+P(15) [14, 32]
+Q(16) [22]
+R(17) [33, 55, 67, 29]
+S(18) [16, 44, 41, 42]
+T(19) [48, 43, 17, 35, 71, 7]
+U(20) [10, 56]
+V(21) [60]
+W(22) [64, 58]
+X(23) [31]
+Y(24) [5, 13]
+Z(25) [24]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+20 68 21 1 61 63 8 70 0 5 73 3 21 49 26 74 64 25 40 48 49 11 74 34 6 11 18 29 47 66 6 11 68 55 44 1 74 4 62 1 37 30 52 40 51 69 48 58 40 35 62 39 47 56 46 28 1 61 12 4 68 71 71 13 40 3 35 62 12 51 1 55 37 9 28 72 67 66 46 52 53 33 48 69 18 33 8 10 35 23 70 17 25 59 40 41 65 57 28 37
+
+--- DECRYPTED PLAINTEXT ---
+ZHTELINEDFORTHESQUETHESCHEDBYTHEHAVESTHETORERETHETHEYWERELETHEEVERTHEREATERESTERMITEDINGTHEJUKEXPERT
+
+--- SCORE ---
+-1021.8819
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 100 chars correct (13.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> D
+1      -> E
+3      -> R
+4      -> T
+5      -> F
+6      -> H
+8      -> N
+9      -> E
+10     -> G
+11     -> E
+12     -> E
+13     -> V
+17     -> J
+18     -> D
+20     -> Z
+21     -> T
+23     -> H
+25     -> U
+26     -> E
+28     -> R
+29     -> B
+30     -> O
+33     -> I
+34     -> C
+35     -> T
+37     -> T
+39     -> E
+40     -> E
+41     -> X
+44     -> V
+46     -> E
+47     -> Y
+48     -> T
+49     -> H
+51     -> R
+52     -> R
+53     -> M
+55     -> A
+56     -> W
+57     -> E
+58     -> H
+59     -> K
+61     -> L
+62     -> H
+63     -> I
+64     -> Q
+65     -> P
+66     -> T
+67     -> S
+68     -> H
+69     -> E
+70     -> E
+71     -> E
+72     -> E
+73     -> O
+74     -> S

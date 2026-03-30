@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4, 26]
+B(1) [16, 27]
+C(2) [21, 44]
+D(3) [31, 11]
+E(4) [38, 39]
+F(5) [36, 17]
+G(6) [40, 18]
+H(7) [49, 24]
+I(8) [28, 35]
+J(9) [5, 45]
+K(10) [25, 23]
+L(11) [12, 33]
+M(12) [42, 15]
+N(13) [9, 14]
+O(14) [37, 6]
+P(15) [3, 47]
+Q(16) [19, 13]
+R(17) [20, 2]
+S(18) [22, 30]
+T(19) [51, 43]
+U(20) [34, 29]
+V(21) [50, 8]
+W(22) [1, 10]
+X(23) [48, 0]
+Y(24) [32, 41]
+Z(25) [46, 7]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+18 6 4 9 11 27 34 32 43 38 9 15 6 2 38 11 6 18 22 1 28 43 24 28 51 10 38 31 20 37 8 39 37 8 38 20 51 37 17 35 36 43 49 4 50 38 14 29 39 10 4 20 42 26 14 31 30 6 17 43 26 33 42 37 22 51 3 4 30 43 6 20 26 12 37 9 43 24 38 30 29 15 42 38 20 22 29 14 11 26 32 4 17 43 39 2 14 6 37 9
+
+--- DECRYPTED PLAINTEXT ---
+YAANDAGREENMATEDAYSQUEBUTHEIROWNOWERTOLIVEJAKERONHARPERICALEEXPOSTFACEAREZONEBECOMPERSORDERALENTRAON
+
+--- SCORE ---
+-1178.3776
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 39 / 100 chars correct (39.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> Q
+2      -> T
+3      -> F
+4      -> A
+6      -> A
+8      -> W
+9      -> N
+10     -> H
+11     -> D
+12     -> Z
+14     -> R
+15     -> M
+17     -> L
+18     -> Y
+20     -> R
+22     -> S
+24     -> B
+26     -> E
+27     -> A
+28     -> U
+29     -> O
+30     -> C
+31     -> I
+32     -> R
+33     -> X
+34     -> G
+35     -> I
+36     -> V
+37     -> O
+38     -> E
+39     -> N
+42     -> P
+43     -> E
+49     -> J
+50     -> K
+51     -> T

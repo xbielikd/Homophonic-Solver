@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 27, 32, 74, 65]
+B(1) [43]
+C(2) [17, 34]
+D(3) [28, 52, 5]
+E(4) [55, 8, 14, 9, 29, 25, 0, 68]
+F(5) [39, 56]
+G(6) [45, 13]
+H(7) [19, 61, 49, 47]
+I(8) [63, 62, 4, 46, 73]
+J(9) [11]
+K(10) [48]
+L(11) [2, 60, 50]
+M(12) [54, 24]
+N(13) [18, 58, 12, 20, 7]
+O(14) [40, 23, 31, 57, 36]
+P(15) [16, 51]
+Q(16) [42]
+R(17) [38, 3, 26, 6]
+S(18) [64, 59, 10, 72]
+T(19) [53, 67, 66, 71, 44, 1]
+U(20) [41, 30]
+V(21) [37]
+W(22) [22, 15]
+X(23) [35]
+Y(24) [70, 69]
+Z(25) [33]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+13 23 27 12 5 43 30 69 67 68 20 54 36 3 8 28 31 45 10 22 4 44 49 63 67 15 9 5 26 23 37 55 23 37 14 3 53 36 39 62 39 44 49 32 37 55 58 30 68 22 32 26 24 74 18 52 10 23 56 44 65 50 54 36 72 1 16 74 64 44 57 3 74 50 40 58 71 49 14 72 30 54 54 8 6 64 30 7 5 21 70 74 39 53 8 6 20 40 57 20
+
+--- DECRYPTED PLAINTEXT ---
+ZECKEMEVERESTHAYJORELENGEXPENENTENTHETHTHENANTHEREANDTHEREBEWISTHEFTHETHTITHENTHESSATHEREQUTHEATETTE
+
+--- SCORE ---
+-476.3328
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 2 / 100 chars correct (2.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+3      -> H
+4      -> L
+5      -> E
+6      -> T
+7      -> R
+8      -> A
+9      -> P
+10     -> R
+12     -> K
+13     -> Z
+14     -> T
+15     -> X
+16     -> F
+18     -> H
+20     -> E
+21     -> Q
+22     -> E
+23     -> E
+24     -> D
+26     -> N
+27     -> C
+28     -> Y
+30     -> E
+31     -> J
+32     -> A
+36     -> T
+37     -> N
+39     -> H
+40     -> T
+43     -> M
+44     -> E
+45     -> O
+49     -> N
+50     -> I
+52     -> E
+53     -> E
+54     -> S
+55     -> T
+56     -> B
+57     -> T
+58     -> H
+62     -> T
+63     -> G
+64     -> H
+65     -> W
+67     -> E
+68     -> R
+69     -> V
+70     -> U
+71     -> E
+72     -> H
+74     -> T

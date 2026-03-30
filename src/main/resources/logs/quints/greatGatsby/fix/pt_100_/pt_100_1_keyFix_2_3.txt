@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 27, 16]
+B(1) [4, 74, 65]
+C(2) [73, 3, 30]
+D(3) [6, 42, 1]
+E(4) [9, 40, 8]
+F(5) [52, 15, 28]
+G(6) [34, 61, 38]
+H(7) [54, 71, 72]
+I(8) [51, 26, 44]
+J(9) [12, 62, 19]
+K(10) [69, 53, 75]
+L(11) [49, 43, 39]
+M(12) [47, 33, 41]
+N(13) [11, 57, 50]
+O(14) [31, 5, 13]
+P(15) [2, 64, 46]
+Q(16) [17, 25, 14]
+R(17) [77, 22, 18]
+S(18) [56, 70, 60]
+T(19) [0, 24, 68]
+U(20) [36, 67, 20]
+V(21) [35, 66, 45]
+W(22) [29, 76, 55]
+X(23) [10, 32, 23]
+Y(24) [58, 48, 37]
+Z(25) [59, 63, 7]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+54 8 73 21 41 9 13 11 39 48 5 50 30 40 44 50 55 54 26 24 40 75 57 51 73 53 9 18 65 5 30 53 9 18 60 21 50 42 71 27 1 27 52 44 38 72 68 29 51 0 54 21 65 20 47 50 16 41 40 42 9 0 24 37 26 57 0 71 9 34 27 77 6 40 11 28 77 5 47 28 27 77 24 71 9 77 31 20 0 31 50 68 72 40 51 56 43 21 11 1
+
+--- DECRYPTED PLAINTEXT ---
+HJAILEYEXPENSEONTHESECREASEINESSEIZINGHEREFORMAKETHINSANDLEGETSWERTHEVERBEETREATERSHERISTINAMEEQUIER
+
+--- SCORE ---
+-1083.7579
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 100 chars correct (31.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> R
+5      -> E
+6      -> B
+8      -> J
+9      -> E
+11     -> E
+13     -> Y
+16     -> D
+18     -> I
+20     -> S
+21     -> I
+24     -> S
+26     -> E
+27     -> E
+28     -> T
+29     -> K
+30     -> S
+31     -> I
+34     -> V
+37     -> W
+38     -> R
+39     -> X
+40     -> E
+41     -> L
+42     -> G
+43     -> U
+44     -> O
+47     -> A
+48     -> P
+50     -> N
+51     -> E
+52     -> F
+53     -> S
+54     -> H
+55     -> T
+56     -> Q
+57     -> R
+60     -> Z
+65     -> N
+68     -> A
+71     -> H
+72     -> M
+73     -> A
+75     -> C
+77     -> R

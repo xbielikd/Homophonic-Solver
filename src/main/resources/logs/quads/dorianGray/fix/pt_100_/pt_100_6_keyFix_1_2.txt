@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 40]
+B(1) [18, 29]
+C(2) [14, 23]
+D(3) [39, 3]
+E(4) [47, 21]
+F(5) [22, 24]
+G(6) [30, 20]
+H(7) [35, 4]
+I(8) [28, 7]
+J(9) [50, 5]
+K(10) [11, 9]
+L(11) [46, 41]
+M(12) [34, 36]
+N(13) [38, 31]
+O(14) [16, 32]
+P(15) [8, 37]
+Q(16) [25, 27]
+R(17) [6, 12]
+S(18) [0, 42]
+T(19) [1, 44]
+U(20) [13, 19]
+V(21) [48, 43]
+W(22) [49, 51]
+X(23) [45, 17]
+Y(24) [33, 15]
+Z(25) [2, 26]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+33 32 13 39 32 31 44 9 38 32 51 51 4 40 1 33 16 19 51 47 6 47 44 32 36 47 32 38 23 21 49 35 33 32 31 23 21 16 35 28 23 40 31 1 18 47 10 12 1 16 1 4 7 31 11 32 24 28 1 28 51 7 0 4 28 4 10 39 31 21 43 47 12 41 40 28 3 47 33 47 42 13 37 16 31 33 16 13 15 32 13 35 10 43 21 0 37 32 7 46 21 39
+
+--- DECRYPTED PLAINTEXT ---
+TATOANDQUALLTOSTOPLEYEDAREAUCEOFTANCEOFACONSBEINSOSTINGAWASALISTATIONEVENJOAKETEXTMONTOTHATFIVESMAIZEO
+
+--- SCORE ---
+-981.9710
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 34 / 102 chars correct (33.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> S
+3      -> K
+4      -> T
+6      -> Y
+7      -> I
+9      -> Q
+10     -> I
+11     -> G
+12     -> N
+13     -> T
+15     -> H
+16     -> O
+18     -> B
+19     -> P
+21     -> E
+23     -> C
+24     -> W
+28     -> A
+31     -> N
+32     -> A
+33     -> T
+35     -> F
+36     -> R
+37     -> M
+38     -> U
+39     -> O
+40     -> O
+41     -> J
+42     -> X
+43     -> V
+44     -> D
+46     -> Z
+47     -> E
+49     -> O
+51     -> L

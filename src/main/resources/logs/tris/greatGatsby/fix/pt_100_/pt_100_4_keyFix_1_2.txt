@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [29, 21]
+B(1) [50, 15]
+C(2) [45, 24]
+D(3) [39, 8]
+E(4) [2, 1]
+F(5) [36, 49]
+G(6) [23, 12]
+H(7) [46, 17]
+I(8) [3, 19]
+J(9) [37, 25]
+K(10) [10, 20]
+L(11) [43, 41]
+M(12) [30, 32]
+N(13) [11, 5]
+O(14) [6, 9]
+P(15) [16, 27]
+Q(16) [40, 4]
+R(17) [44, 7]
+S(18) [22, 26]
+T(19) [28, 51]
+U(20) [18, 48]
+V(21) [33, 47]
+W(22) [38, 42]
+X(23) [13, 31]
+Y(24) [14, 35]
+Z(25) [34, 0]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+ANDASIWALKEDONIWASLONELYNOLONGERIWASAGUIDEAPATHFINDERANORIGINALSETTLERHEHADCASUALLYCONFERREDONMETHEFREEDOM
+
+--- CIPHERTEXT ---
+29 5 39 21 22 3 38 21 43 10 2 8 6 11 19 42 21 22 41 9 5 1 41 14 11 6 43 6 11 12 1 44 19 38 29 22 21 23 48 19 39 2 21 16 21 28 46 49 19 5 39 2 44 29 11 9 44 19 23 19 5 29 43 26 1 51 28 43 1 44 17 2 46 29 39 24 21 22 48 21 43 41 14 24 6 11 49 1 7 44 2 8 6 11 32 1 51 46 1 36 44 2 2 39 9 32
+
+--- DECRYPTED PLAINTEXT ---
+ERRESQUEDJEWITEXESCORECATIDITZEREUESEMPEREEVENTHERRERETOREMEREDBEANDERKETERLESPEDCALITHEFREWITYEATEGREEROY
+
+--- SCORE ---
+-795.2439
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 27 / 106 chars correct (25.5%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> E
+3      -> Q
+5      -> R
+6      -> I
+7      -> F
+8      -> W
+9      -> O
+10     -> J
+11     -> T
+12     -> Z
+14     -> A
+16     -> V
+17     -> K
+19     -> E
+21     -> E
+22     -> S
+23     -> M
+24     -> L
+26     -> B
+28     -> N
+29     -> E
+32     -> Y
+36     -> G
+38     -> U
+39     -> R
+41     -> C
+42     -> X
+43     -> D
+44     -> R
+46     -> T
+48     -> P
+49     -> H
+51     -> A

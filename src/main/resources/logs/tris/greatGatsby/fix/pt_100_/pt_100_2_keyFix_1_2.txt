@@ -1,0 +1,93 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [19, 41]
+B(1) [39, 15]
+C(2) [26, 34]
+D(3) [1, 11]
+E(4) [13, 31]
+F(5) [28, 3]
+G(6) [49, 21]
+H(7) [12, 4]
+I(8) [6, 9]
+J(9) [35, 8]
+K(10) [40, 45]
+L(11) [17, 33]
+M(12) [7, 25]
+N(13) [46, 50]
+O(14) [47, 5]
+P(15) [32, 0]
+Q(16) [48, 38]
+R(17) [36, 14]
+S(18) [10, 37]
+T(19) [23, 20]
+U(20) [29, 51]
+V(21) [44, 18]
+W(22) [43, 27]
+X(23) [2, 16]
+Y(24) [24, 22]
+Z(25) [42, 30]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   33
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+19 10 10 5 5 50 41 10 6 41 14 36 9 18 31 11 6 7 41 1 13 41 46 41 23 20 31 7 0 23 23 47 3 9 50 1 25 22 4 5 10 23 39 29 23 20 4 13 20 27 5 47 36 20 12 14 31 31 0 13 5 32 33 31 5 3 43 12 5 7 9 41 37 45 13 1 4 6 10 27 4 13 36 13 19 39 47 29 20 10 37 20 19 36 13 1 41 20 7 31
+
+--- DECRYPTED PLAINTEXT ---
+ESSEELESEEPREGOVEREDEEMEETORKEEANELDBYHESEXCETHETWEARTUPOOKEEFJOENQUEREEIZEDHESWHEREEXACTSITEREDETRO
+
+--- SCORE ---
+-779.4248
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 100 chars correct (35.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> K
+1      -> D
+3      -> N
+4      -> H
+5      -> E
+6      -> E
+7      -> R
+9      -> E
+10     -> S
+11     -> V
+12     -> U
+13     -> E
+14     -> P
+18     -> G
+19     -> E
+20     -> T
+22     -> Y
+23     -> E
+25     -> B
+27     -> W
+29     -> C
+31     -> O
+32     -> F
+33     -> J
+36     -> R
+37     -> I
+39     -> X
+41     -> E
+43     -> Q
+45     -> Z
+46     -> M
+47     -> A
+50     -> L

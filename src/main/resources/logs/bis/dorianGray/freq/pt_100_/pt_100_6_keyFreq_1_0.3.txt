@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [35, 10, 33]
+B(1) [12]
+C(2) [27]
+D(3) [31, 20]
+E(4) [38, 23, 11, 8]
+F(5) [7]
+G(6) [42]
+H(7) [30, 1]
+I(8) [24, 9, 14]
+J(9) [4]
+K(10) [39]
+L(11) [21, 41]
+M(12) [40]
+N(13) [37, 22, 43]
+O(14) [29, 19, 26]
+P(15) [36]
+Q(16) [13]
+R(17) [28, 17]
+S(18) [0, 32]
+T(19) [15, 16, 2]
+U(20) [25]
+V(21) [6]
+W(22) [5]
+X(23) [34]
+Y(24) [3]
+Z(25) [18]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+3 19 25 20 26 43 16 39 43 29 5 5 1 35 16 3 26 25 5 23 28 11 2 26 40 38 29 37 27 23 5 30 3 26 22 27 38 26 30 14 27 35 37 2 12 38 35 28 15 26 15 1 24 37 39 29 7 24 16 24 5 14 0 30 24 1 35 20 37 38 6 38 28 41 10 24 31 8 3 8 32 25 36 26 43 3 26 25 3 29 25 1 35 6 11 32 36 26 14 41 23 31
+
+--- DECRYPTED PLAINTEXT ---
+AZEFREDIENSSREDARESERYORKENTHESCARWHERCEHETOVEERERERETINGEDESEXCEREFTELERBJEQUAUMEPREAREANERELYMPREBEQ
+
+--- SCORE ---
+-540.5988
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 102 chars correct (12.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> X
+1      -> R
+2      -> O
+3      -> A
+5      -> S
+6      -> L
+7      -> G
+8      -> U
+10     -> J
+11     -> Y
+12     -> V
+14     -> E
+15     -> E
+16     -> D
+19     -> Z
+20     -> F
+22     -> W
+23     -> E
+24     -> E
+25     -> E
+26     -> R
+27     -> H
+28     -> R
+29     -> N
+30     -> C
+31     -> Q
+32     -> M
+35     -> E
+36     -> P
+37     -> T
+38     -> E
+39     -> I
+40     -> K
+41     -> B
+43     -> E

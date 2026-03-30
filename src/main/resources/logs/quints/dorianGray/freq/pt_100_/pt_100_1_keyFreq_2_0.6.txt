@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [49, 44, 37, 14, 59]
+B(1) [64]
+C(2) [6, 15]
+D(3) [63, 9, 61]
+E(4) [7, 72, 54, 36, 48, 23, 27, 20]
+F(5) [41, 31]
+G(6) [52, 8]
+H(7) [47, 17, 38, 57]
+I(8) [69, 43, 21, 24, 60]
+J(9) [39]
+K(10) [53]
+L(11) [55, 5, 67]
+M(12) [22, 74]
+N(13) [46, 28, 10, 34, 56]
+O(14) [35, 13, 11, 26, 58]
+P(15) [32, 40]
+Q(16) [51]
+R(17) [29, 18, 25, 2]
+S(18) [4, 70, 71, 3]
+T(19) [65, 0, 73, 68, 16, 12]
+U(20) [45, 66]
+V(21) [50]
+W(22) [1, 19]
+X(23) [42]
+Y(24) [30, 33]
+Z(25) [62]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+64 66 73 73 17 48 21 25 58 19 10 70 11 66 67 4 71 73 37 2 50 23 59 34 63 14 18 48 34 14 53 20 9 6 13 45 18 49 8 36 57 49 71 8 13 46 7 13 66 12 11 31 35 45 18 2 14 15 27 32 23 2 17 49 40 70 19 72 46 72 50 20 29 2 27 14 55 67 33 47 14 63 43 12 16 17 48 16 7 29 29 26 2 11 31 3 35 6 69 54 65 30
+
+--- DECRYPTED PLAINTEXT ---
+JETTRACKINGATERESTHERWITHTHATTHEPORTHEEQUESERVERESTOFTHETANDWERELANEVERESENTERINTHESTRATESSMETONFOXBYZ
+
+--- SCORE ---
+-1040.5033
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 102 chars correct (12.7%)
+
+--- KEY (cipher -> plain) ---
+2      -> E
+3      -> N
+4      -> E
+6      -> O
+7      -> E
+8      -> E
+9      -> P
+10     -> G
+11     -> T
+12     -> S
+13     -> R
+14     -> T
+15     -> A
+16     -> T
+17     -> R
+18     -> H
+19     -> N
+20     -> E
+21     -> C
+23     -> W
+25     -> K
+26     -> M
+27     -> N
+29     -> S
+30     -> Z
+31     -> O
+32     -> D
+33     -> I
+34     -> T
+35     -> F
+36     -> Q
+37     -> H
+40     -> L
+43     -> E
+45     -> T
+46     -> V
+47     -> N
+48     -> A
+49     -> E
+50     -> R
+53     -> H
+54     -> B
+55     -> E
+57     -> U
+58     -> I
+59     -> I
+63     -> H
+64     -> J
+65     -> Y
+66     -> E
+67     -> R
+69     -> X
+70     -> A
+71     -> S
+72     -> E
+73     -> T

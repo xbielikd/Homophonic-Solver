@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [33, 15]
+B(1) [35, 43]
+C(2) [40, 51]
+D(3) [16, 34]
+E(4) [18, 21]
+F(5) [44, 1]
+G(6) [27, 26]
+H(7) [12, 19]
+I(8) [32, 30]
+J(9) [5, 48]
+K(10) [50, 36]
+L(11) [28, 39]
+M(12) [25, 45]
+N(13) [38, 46]
+O(14) [41, 42]
+P(15) [31, 3]
+Q(16) [14, 24]
+R(17) [2, 0]
+S(18) [47, 11]
+T(19) [22, 37]
+U(20) [20, 17]
+V(21) [23, 6]
+W(22) [29, 9]
+X(23) [7, 49]
+Y(24) [4, 8]
+Z(25) [10, 13]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+40 15 46 33 46 4 25 15 46 35 21 37 42 25 21 33 11 51 39 21 0 6 33 39 9 33 47 41 0 15 38 4 29 41 45 33 38 33 38 42 22 19 18 0 21 39 32 10 33 43 18 22 12 21 6 18 38 29 12 21 0 18 22 19 18 15 44 44 18 51 37 30 42 38 47 33 0 21 46 41 37 11 22 2 42 38 26 39 4 25 41 6 18 34 35 4 15 38 4 47 20 31 18 2 32 42 0
+
+--- DECRYPTED PLAINTEXT ---
+ZINANAVINGEROVEASALERMALBASERINATEDANANOTHERELYJAKETHEMENTHERETHEIPPEARCONSARENERSTWONFLAVEMEXGAINASQUEWYOR
+
+--- SCORE ---
+-1018.3698
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 62 / 107 chars correct (57.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> W
+4      -> A
+6      -> M
+9      -> B
+10     -> J
+11     -> S
+12     -> H
+15     -> I
+18     -> E
+19     -> H
+20     -> Q
+21     -> E
+22     -> T
+25     -> V
+26     -> F
+29     -> T
+30     -> C
+31     -> U
+32     -> Y
+33     -> A
+34     -> X
+35     -> G
+37     -> R
+38     -> N
+39     -> L
+40     -> Z
+41     -> E
+42     -> O
+43     -> K
+44     -> P
+45     -> D
+46     -> N
+47     -> S
+51     -> A

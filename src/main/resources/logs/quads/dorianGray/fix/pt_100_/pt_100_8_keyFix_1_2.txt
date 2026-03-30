@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [45, 31]
+B(1) [15, 43]
+C(2) [20, 7]
+D(3) [37, 40]
+E(4) [23, 17]
+F(5) [42, 0]
+G(6) [6, 36]
+H(7) [32, 33]
+I(8) [46, 28]
+J(9) [9, 5]
+K(10) [14, 29]
+L(11) [38, 18]
+M(12) [3, 13]
+N(13) [22, 48]
+O(14) [30, 35]
+P(15) [34, 51]
+Q(16) [21, 8]
+R(17) [26, 24]
+S(18) [49, 19]
+T(19) [1, 11]
+U(20) [50, 2]
+V(21) [10, 39]
+W(22) [44, 16]
+X(23) [27, 12]
+Y(24) [25, 4]
+Z(25) [47, 41]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+44 23 31 24 17 22 30 11 49 17 48 1 46 22 11 30 11 32 23 16 35 26 38 40 1 35 31 28 26 30 50 24 3 30 26 31 18 34 24 23 9 2 37 28 7 17 19 28 48 23 10 23 26 1 31 14 17 31 22 4 22 30 1 28 7 23 35 0 44 33 31 1 20 30 13 13 35 48 34 23 30 34 38 23 49 31 25 31 22 37 28 22 23 39 17 26 28 48 11 17 24 0 17 26 17
+
+--- DECRYPTED PLAINTEXT ---
+TEERENOTHERSINTOTHEZERLYSEEAROURFOREXPRESQUAREWAREJERSEBEENKNOSAREEDTHESCOMMERPEOPLEHEGENUANEVERARTERDERE
+
+--- SCORE ---
+-993.9518
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 57 / 105 chars correct (54.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> D
+1      -> S
+2      -> Q
+3      -> F
+4      -> K
+7      -> R
+9      -> S
+10     -> J
+11     -> T
+13     -> M
+14     -> B
+16     -> Z
+17     -> E
+18     -> X
+19     -> W
+20     -> C
+22     -> N
+23     -> E
+24     -> R
+25     -> G
+26     -> R
+28     -> A
+30     -> O
+31     -> E
+32     -> H
+33     -> H
+34     -> P
+35     -> E
+37     -> U
+38     -> L
+39     -> V
+40     -> Y
+44     -> T
+46     -> I
+48     -> R
+49     -> H
+50     -> U

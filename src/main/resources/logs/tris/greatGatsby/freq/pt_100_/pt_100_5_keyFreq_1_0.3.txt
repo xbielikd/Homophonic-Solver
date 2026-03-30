@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 14, 27]
+B(1) [41]
+C(2) [31]
+D(3) [2, 13]
+E(4) [1, 9, 0, 34]
+F(5) [35]
+G(6) [4]
+H(7) [3, 25]
+I(8) [22, 20, 10]
+J(9) [5]
+K(10) [36]
+L(11) [24, 21]
+M(12) [33]
+N(13) [23, 7, 30]
+O(14) [18, 32, 26]
+P(15) [8]
+Q(16) [15]
+R(17) [43, 40]
+S(18) [19, 11]
+T(19) [37, 12, 16]
+U(20) [38]
+V(21) [29]
+W(22) [42]
+X(23) [6]
+Y(24) [39]
+Z(25) [17]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+10 3 14 13 41 34 34 30 27 31 37 38 14 24 21 39 22 23 29 20 12 0 13 27 31 3 14 38 35 35 9 38 40 22 7 28 38 30 10 35 32 43 33 26 35 40 26 41 22 23 19 1 4 4 41 21 38 9 31 40 32 11 11 9 13 33 39 24 14 42 7 0 27 40 24 39 12 25 28 16 11 14 37 38 40 2 14 39 33 26 40 23 20 7 4 42 22 37 3 28
+
+--- DECRYPTED PLAINTEXT ---
+WBERALLYSMARERGANDJECERSMBEREEARENVERYWEOFTHEEHANDQUEEAGRAMEOPPARTAREIVESERACKEXPEAREZEATHEDEVEINABE
+
+--- SCORE ---
+-768.2360
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 100 chars correct (4.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> U
+2      -> Z
+3      -> B
+4      -> E
+7      -> V
+9      -> A
+10     -> W
+11     -> P
+12     -> C
+13     -> R
+14     -> E
+16     -> X
+19     -> Q
+20     -> E
+21     -> G
+22     -> N
+23     -> D
+24     -> R
+25     -> K
+26     -> H
+27     -> S
+28     -> E
+29     -> J
+30     -> Y
+31     -> M
+32     -> O
+33     -> T
+34     -> L
+35     -> E
+37     -> A
+38     -> R
+39     -> A
+40     -> E
+41     -> A
+42     -> I
+43     -> F

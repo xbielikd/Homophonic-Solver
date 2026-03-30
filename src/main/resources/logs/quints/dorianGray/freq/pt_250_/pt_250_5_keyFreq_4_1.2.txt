@@ -1,0 +1,172 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [96, 50, 23, 62, 121, 61, 18, 117, 132, 83]
+B(1) [41, 124]
+C(2) [94, 130, 47, 103]
+D(3) [116, 37, 65, 46, 119, 133]
+E(4) [7, 91, 110, 98, 102, 2, 24, 5, 33, 58, 67, 51, 73, 127, 87, 35]
+F(5) [76, 28, 48]
+G(6) [93, 107, 70]
+H(7) [40, 92, 29, 75, 14, 115, 68, 104]
+I(8) [6, 36, 20, 15, 99, 60, 27, 86, 122]
+J(9) [30]
+K(10) [16]
+L(11) [108, 32, 71, 63, 49]
+M(12) [72, 125, 21]
+N(13) [38, 88, 111, 134, 54, 43, 12, 17, 26]
+O(14) [13, 31, 128, 59, 82, 120, 105, 95, 89, 66]
+P(15) [39, 74, 114]
+Q(16) [44]
+R(17) [0, 112, 90, 109, 8, 97, 80, 84]
+S(18) [100, 126, 34, 55, 9, 19, 53, 129]
+T(19) [11, 113, 4, 118, 78, 64, 1, 25, 101, 52, 3]
+U(20) [56, 131, 77, 81]
+V(21) [106, 69]
+W(22) [42, 79, 22]
+X(23) [85]
+Y(24) [10, 57, 123]
+Z(25) [45]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   112
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HELITACIGARETTEANDTHENTHREWITAWAYHISEYELIDSDROOPEDTILLTHELONGFRINGEDLASHESALMOSTTOUCHEDHISCHEEKBUTHESTILLWATCHEDTHECABINETATLASTHEGOTUPFROMTHESOFAONWHICHHEHADBEENLYINGWENTOVERTOITANDHAVINGUNLOCKEDITTOUCHEDSOMEHIDDENSPRINGATRIANGULARDRAWERPASSEDSLOWLY
+
+--- CIPHERTEXT ---
+92 51 63 60 11 62 130 27 107 61 0 35 3 113 73 132 12 65 25 115 51 43 101 115 80 51 42 6 11 18 42 132 57 75 6 9 33 10 24 63 60 133 9 116 0 31 31 74 87 133 4 122 108 71 52 115 110 32 66 54 70 48 109 60 111 93 5 133 32 50 34 14 35 19 117 49 125 128 100 113 11 59 81 94 68 5 116 68 99 53 47 68 2 73 16 41 131 101 14 58 19 4 122 32 32 42 18 78 103 14 5 119 118 29 87 94 121 41 20 134 110 3 23 4 49 18 34 113 92 102 107 59 25 77 74 76 109 13 21 78 92 91 126 31 28 83 59 38 22 115 122 103 40 104 33 104 121 116 124 127 91 54 49 57 122 134 93 22 98 26 101 31 69 2 8 101 105 20 3 62 54 133 40 132 69 86 134 93 81 43 71 128 130 16 35 46 15 101 113 59 77 47 68 110 37 9 13 21 5 68 60 37 133 73 26 53 39 90 15 111 70 23 25 80 99 23 54 107 77 108 121 8 116 97 96 79 102 90 74 61 9 100 102 119 34 71 13 22 32 123
+
+--- DECRYPTED PLAINTEXT ---
+NTERIENFORETHESANDEATHEANTSWITSANDWASTHEREATERRATESTHEPAREARLIERESSEETHETIJAZINEINTHESTEDTHEASSAVEEXISTEESTATESTINTHEATERHESATHENDONETAKENDANGERMANCEATTHESEETHEGRANTESENTERSAREDTHEREHASBESTHEINSTTHEENTHERIANDSERIESTTHEHELEENDEROTHERTYUNDEARANDTHENEEQ
+
+--- SCORE ---
+-2635.5252
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 250 chars correct (4.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> A
+3      -> H
+4      -> S
+5      -> S
+6      -> W
+8      -> R
+9      -> A
+10     -> T
+11     -> I
+12     -> N
+13     -> N
+14     -> E
+15     -> H
+16     -> S
+18     -> T
+19     -> I
+20     -> T
+21     -> D
+22     -> E
+23     -> E
+24     -> H
+25     -> E
+26     -> T
+27     -> F
+28     -> M
+29     -> N
+31     -> R
+32     -> E
+33     -> S
+34     -> H
+35     -> T
+37     -> I
+38     -> C
+39     -> H
+40     -> H
+41     -> A
+42     -> S
+43     -> H
+46     -> T
+47     -> H
+48     -> I
+49     -> A
+50     -> T
+51     -> T
+52     -> P
+53     -> T
+54     -> R
+57     -> N
+58     -> X
+59     -> N
+60     -> R
+61     -> R
+62     -> E
+63     -> E
+65     -> D
+66     -> A
+68     -> E
+69     -> S
+70     -> L
+71     -> E
+73     -> S
+74     -> A
+75     -> D
+76     -> K
+77     -> T
+78     -> A
+79     -> N
+80     -> N
+81     -> T
+83     -> A
+86     -> B
+87     -> T
+90     -> E
+91     -> G
+92     -> N
+93     -> S
+94     -> H
+96     -> U
+97     -> Y
+98     -> N
+99     -> D
+100    -> N
+101    -> E
+102    -> D
+103    -> T
+104    -> E
+105    -> D
+107    -> O
+108    -> H
+109    -> E
+110    -> R
+111    -> E
+113    -> E
+115    -> A
+116    -> T
+117    -> J
+118    -> I
+119    -> T
+121    -> E
+122    -> T
+123    -> Q
+124    -> H
+125    -> Z
+126    -> E
+127    -> E
+128    -> I
+130    -> N
+131    -> V
+132    -> A
+133    -> E
+134    -> E

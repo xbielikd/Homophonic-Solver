@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [8, 12]
+B(1) [7, 24]
+C(2) [48, 21]
+D(3) [13, 15]
+E(4) [50, 45]
+F(5) [38, 35]
+G(6) [23, 39]
+H(7) [46, 41]
+I(8) [11, 25]
+J(9) [5, 43]
+K(10) [27, 42]
+L(11) [33, 22]
+M(12) [4, 44]
+N(13) [20, 26]
+O(14) [3, 47]
+P(15) [14, 37]
+Q(16) [30, 28]
+R(17) [31, 19]
+S(18) [49, 2]
+T(19) [36, 0]
+U(20) [32, 6]
+V(21) [17, 16]
+W(22) [1, 29]
+X(23) [40, 34]
+Y(24) [51, 9]
+Z(25) [10, 18]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+11 15 45 2 25 31 50 13 0 41 12 36 11 44 11 23 46 0 14 12 2 2 44 51 33 25 35 50 47 20 36 41 8 36 7 8 19 31 50 26 19 47 21 42 1 45 12 19 11 33 9 11 36 11 49 36 31 32 45 24 6 36 6 20 25 20 0 50 19 31 32 14 36 50 13 7 9 8 20 9 2 6 15 15 50 20 49 41 3 21 42 3 38 4 11 2 50 31 51 11 38
+
+--- DECRYPTED PLAINTEXT ---
+ELERITECHEAREMEXWHEARRMEVIZEFTREERKESTEYSFONGEASEVEEREPRTHEQURUTITHESTHERECKEETERULLETPEDONDBJERETEEB
+
+--- SCORE ---
+-532.2530
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 21 / 101 chars correct (20.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> G
+2      -> R
+3      -> D
+4      -> J
+6      -> U
+7      -> K
+8      -> E
+9      -> E
+11     -> E
+12     -> A
+13     -> C
+14     -> E
+15     -> L
+19     -> S
+20     -> T
+21     -> O
+23     -> X
+24     -> Q
+25     -> I
+26     -> Y
+31     -> T
+32     -> H
+33     -> V
+35     -> Z
+36     -> R
+38     -> B
+41     -> E
+42     -> N
+44     -> M
+45     -> E
+46     -> W
+47     -> F
+49     -> P
+50     -> E
+51     -> E

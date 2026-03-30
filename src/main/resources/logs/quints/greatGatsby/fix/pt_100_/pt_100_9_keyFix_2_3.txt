@@ -1,0 +1,102 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 22, 63]
+B(1) [38, 1, 8]
+C(2) [59, 69, 20]
+D(3) [31, 26, 65]
+E(4) [40, 3, 13]
+F(5) [30, 12, 28]
+G(6) [25, 5, 24]
+H(7) [16, 29, 51]
+I(8) [74, 46, 33]
+J(9) [57, 43, 15]
+K(10) [75, 64, 21]
+L(11) [73, 47, 19]
+M(12) [10, 48, 2]
+N(13) [32, 54, 50]
+O(14) [42, 60, 76]
+P(15) [39, 61, 27]
+Q(16) [34, 56, 67]
+R(17) [11, 55, 36]
+S(18) [68, 14, 72]
+T(19) [71, 23, 4]
+U(20) [44, 17, 35]
+V(21) [49, 58, 53]
+W(22) [66, 41, 62]
+X(23) [70, 18, 6]
+Y(24) [52, 45, 37]
+Z(25) [77, 9, 0]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   42
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+24 60 22 32 65 8 44 37 71 13 54 2 42 55 40 65 60 5 72 66 46 4 16 46 71 62 40 31 11 42 53 40 60 49 13 11 71 60 12 46 30 4 16 63 53 40 50 17 3 62 7 55 2 7 50 26 14 42 30 23 63 19 2 76 72 23 61 63 14 71 76 55 63 19 76 32 23 16 40 72 17 10 2 13 11 72 44 54 26 7 37 63 28 4 40 36 50 42 76 50
+
+--- DECRYPTED PLAINTEXT ---
+JAZERWASTOLEAVERAFTHETHETHEQUAREABOUTAGENTHEREMAYHAVEAMECANSEREITSPECTIVERIESHETAKEOUTALEASEXTEDMAIM
+
+--- SCORE ---
+-1104.0604
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 100 chars correct (20.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> E
+3      -> Y
+4      -> T
+5      -> F
+7      -> A
+8      -> W
+10     -> K
+11     -> U
+12     -> G
+13     -> O
+14     -> C
+16     -> H
+17     -> A
+19     -> R
+22     -> Z
+23     -> S
+24     -> J
+26     -> E
+28     -> X
+30     -> N
+31     -> Q
+32     -> E
+36     -> D
+37     -> S
+40     -> E
+42     -> A
+44     -> A
+46     -> E
+49     -> B
+50     -> M
+53     -> R
+54     -> L
+55     -> V
+60     -> A
+61     -> P
+62     -> H
+63     -> E
+65     -> R
+66     -> H
+71     -> T
+72     -> T
+76     -> I

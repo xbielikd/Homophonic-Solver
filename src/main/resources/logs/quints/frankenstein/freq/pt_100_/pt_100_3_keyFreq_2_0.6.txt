@@ -1,0 +1,118 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 11, 14, 31, 53]
+B(1) [5]
+C(2) [64, 72]
+D(3) [67, 40, 69]
+E(4) [28, 65, 48, 33, 12, 26, 39, 70]
+F(5) [9, 29]
+G(6) [24, 7]
+H(7) [58, 4, 22, 66]
+I(8) [74, 30, 37, 42, 35]
+J(9) [47]
+K(10) [61]
+L(11) [43, 0, 59]
+M(12) [68, 17]
+N(13) [36, 45, 15, 34, 50]
+O(14) [54, 2, 27, 60, 57]
+P(15) [51, 13]
+Q(16) [52]
+R(17) [41, 55, 19, 10]
+S(18) [21, 46, 62, 44]
+T(19) [73, 8, 71, 63, 3, 25]
+U(20) [32, 56]
+V(21) [6]
+W(22) [1, 23]
+X(23) [49]
+Y(24) [38, 16]
+Z(25) [20]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   58
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+18 0 53 46 6 42 64 73 27 41 42 50 2 23 62 11 16 8 22 31 15 61 24 57 67 62 58 48 40 30 40 50 54 71 43 74 6 65 63 27 23 37 71 45 65 46 46 3 66 33 64 10 32 12 43 68 37 62 26 10 14 5 43 12 69 28 14 71 4 27 29 58 65 19 38 27 56 34 24 70 46 3 67 18 41 43 30 34 7 72 54 68 33 6 42 72 25 54 19 15 57 8
+
+--- DECRYPTED PLAINTEXT ---
+PJXTHEEVERECONSIZEDLIKETESTHESECONEWHOMENINGOTTHETEREDERISTRATEDBYANDENTOFREQUESTHEPRESUPPORTHEPROFITE
+
+--- SCORE ---
+-1062.2121
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 102 chars correct (15.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> J
+2      -> O
+3      -> H
+4      -> D
+5      -> T
+6      -> H
+7      -> P
+8      -> E
+10     -> R
+11     -> I
+12     -> D
+14     -> A
+15     -> I
+16     -> Z
+18     -> P
+19     -> F
+22     -> D
+23     -> N
+24     -> E
+25     -> R
+26     -> T
+27     -> E
+28     -> Y
+29     -> N
+30     -> S
+31     -> L
+32     -> E
+33     -> T
+34     -> U
+37     -> I
+38     -> R
+40     -> E
+41     -> R
+42     -> E
+43     -> E
+45     -> G
+46     -> T
+48     -> H
+50     -> C
+53     -> X
+54     -> O
+56     -> Q
+57     -> T
+58     -> T
+61     -> K
+62     -> S
+63     -> M
+64     -> E
+65     -> O
+66     -> E
+67     -> E
+68     -> R
+69     -> B
+70     -> S
+71     -> N
+72     -> P
+73     -> V
+74     -> W

@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [63, 9, 35]
+B(1) [6, 51, 25]
+C(2) [37, 44, 30]
+D(3) [29, 40, 46]
+E(4) [33, 20, 62]
+F(5) [13, 38, 57]
+G(6) [2, 7, 12]
+H(7) [0, 27, 41]
+I(8) [43, 4, 47]
+J(9) [36, 54, 1]
+K(10) [32, 5, 31]
+L(11) [18, 45, 75]
+M(12) [24, 11, 21]
+N(13) [71, 23, 66]
+O(14) [77, 68, 48]
+P(15) [74, 55, 26]
+Q(16) [69, 70, 65]
+R(17) [67, 52, 76]
+S(18) [14, 42, 8]
+T(19) [28, 3, 60]
+U(20) [59, 64, 34]
+V(21) [58, 56, 53]
+W(22) [61, 16, 15]
+X(23) [50, 22, 72]
+Y(24) [39, 17, 49]
+Z(25) [19, 73, 10]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+14 41 33 16 35 8 9 42 45 33 71 29 20 52 8 21 9 45 18 51 67 33 35 14 3 20 46 12 47 52 18 16 4 60 0 9 23 20 52 20 30 60 30 9 76 52 43 63 7 62 15 41 4 44 0 14 0 20 35 30 30 33 23 60 34 35 3 62 46 6 39 28 41 52 77 61 47 66 2 41 20 52 6 77 46 17 25 35 37 32 15 35 52 46 9 28 60 0 62 8 0 77 59 75 29 33 52 8
+
+--- DECRYPTED PLAINTEXT ---
+TTEWASALLEXPERSTALSIZEATTERFORSWITHADERESTSALREQUESTIGHTHEASSEDTHATERMENTRABOUTTERMARYJACKSARRANTHESHAVEPERS
+
+--- SCORE ---
+-1169.1931
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 57 / 108 chars correct (52.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+2      -> T
+3      -> T
+4      -> I
+6      -> M
+7      -> U
+8      -> S
+9      -> A
+12     -> F
+14     -> T
+15     -> S
+16     -> W
+17     -> Y
+18     -> S
+20     -> E
+21     -> T
+23     -> D
+25     -> J
+28     -> N
+29     -> P
+30     -> S
+32     -> K
+33     -> E
+34     -> H
+35     -> A
+37     -> C
+39     -> E
+41     -> T
+42     -> L
+43     -> E
+44     -> G
+45     -> L
+46     -> R
+47     -> O
+51     -> I
+52     -> R
+59     -> V
+60     -> T
+61     -> B
+62     -> E
+63     -> Q
+66     -> U
+67     -> Z
+71     -> X
+75     -> E
+76     -> L
+77     -> A

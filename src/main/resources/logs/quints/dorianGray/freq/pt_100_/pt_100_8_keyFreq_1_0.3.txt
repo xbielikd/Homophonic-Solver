@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [20, 11, 14]
+B(1) [7]
+C(2) [36]
+D(3) [29, 42]
+E(4) [33, 19, 43, 3]
+F(5) [9]
+G(6) [39]
+H(7) [1, 16]
+I(8) [8, 6, 23]
+J(9) [22]
+K(10) [27]
+L(11) [17, 21]
+M(12) [13]
+N(13) [40, 37, 10]
+O(14) [18, 12, 38]
+P(15) [2]
+Q(16) [24]
+R(17) [25, 5]
+S(18) [32, 41]
+T(19) [35, 15, 0]
+U(20) [31]
+V(21) [4]
+W(22) [34]
+X(23) [28]
+Y(24) [26]
+Z(25) [30]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+34 33 20 5 19 37 18 0 41 33 37 35 23 37 0 18 0 1 33 34 38 5 21 29 35 12 11 8 5 18 31 25 13 38 25 11 21 2 25 19 22 31 42 8 36 19 32 6 37 3 4 3 25 15 20 27 43 14 37 26 10 18 15 6 36 19 38 9 34 1 14 0 36 38 13 13 38 10 2 33 12 2 21 3 41 14 26 14 10 42 8 40 19 4 33 5 8 37 35 19 25 9 19 5 3
+
+--- DECRYPTED PLAINTEXT ---
+WEARENOTMENTINTOTHEWORRYTHEAROURPOREREREGULATEJANEVERBACKANDSOBATEOFWHATTOPPOSEEHEREMADASLAZEVERANTERFERE
+
+--- SCORE ---
+-1190.4070
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 66 / 105 chars correct (62.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> H
+2      -> E
+3      -> E
+4      -> V
+5      -> R
+6      -> A
+8      -> A
+9      -> F
+10     -> S
+11     -> E
+12     -> H
+13     -> P
+14     -> A
+15     -> B
+18     -> O
+19     -> E
+20     -> A
+21     -> R
+22     -> G
+23     -> I
+25     -> R
+26     -> D
+27     -> C
+29     -> Y
+31     -> U
+32     -> J
+33     -> E
+34     -> W
+35     -> T
+36     -> T
+37     -> N
+38     -> O
+40     -> Z
+41     -> M
+42     -> L
+43     -> K

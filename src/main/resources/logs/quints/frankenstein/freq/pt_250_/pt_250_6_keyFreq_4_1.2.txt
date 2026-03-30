@@ -1,0 +1,177 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 256
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [41, 128, 67, 10, 94, 22, 30, 23, 44, 16]
+B(1) [115, 104]
+C(2) [129, 110, 119, 56]
+D(3) [126, 26, 20, 52, 7, 3]
+E(4) [69, 4, 53, 19, 106, 8, 9, 62, 80, 76, 48, 37, 45, 32, 84, 66]
+F(5) [63, 111, 25]
+G(6) [98, 124, 36]
+H(7) [28, 50, 75, 97, 49, 65, 120, 21]
+I(8) [99, 91, 131, 107, 55, 43, 13, 33, 79]
+J(9) [78]
+K(10) [108]
+L(11) [77, 130, 71, 90, 117]
+M(12) [68, 64, 27]
+N(13) [59, 116, 93, 81, 118, 61, 114, 121, 89]
+O(14) [103, 46, 51, 17, 133, 125, 82, 5, 38, 18]
+P(15) [31, 113, 2]
+Q(16) [88]
+R(17) [95, 85, 15, 72, 123, 60, 122, 39]
+S(18) [58, 14, 40, 101, 70, 57, 73, 35]
+T(19) [0, 54, 102, 34, 42, 87, 83, 112, 92, 29, 109]
+U(20) [12, 24, 134, 86]
+V(21) [127, 11]
+W(22) [1, 47, 74]
+X(23) [105]
+Y(24) [100, 96, 6]
+Z(25) [132]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   117
+TEXT LENGTH:      256
+
+--- ORIGINAL PLAINTEXT ---
+HEWASATURKISHMERCHANTANDHADINHABITEDPARISFORMANYYEARSWHENFORSOMEREASONWHICHICOULDNOTLEARNHEBECAMEOBNOXIOUSTOTHEGOVERNMENTHEWASSEIZEDANDCASTINTOPRISONTHEVERYDAYTHATSAFIEARRIVEDFROMCONSTANTINOPLETOJOINHIMHEWASTRIEDANDCONDEMNEDTODEATHTHEINJUSTICEOFHISSENTENCE
+
+--- CIPHERTEXT ---
+120 66 47 67 14 41 34 12 122 108 91 101 97 27 76 122 119 28 23 121 34 128 81 3 28 44 126 43 59 49 22 104 107 29 37 7 113 67 15 79 58 63 51 72 68 23 118 100 100 9 22 85 73 47 21 8 59 25 46 123 14 133 27 76 60 4 128 58 46 81 74 97 43 129 65 79 129 18 86 77 3 81 18 42 117 84 30 95 114 97 45 104 37 56 41 64 9 38 104 121 103 105 131 5 134 14 102 51 83 75 62 124 82 11 76 60 121 64 32 61 42 49 37 1 128 58 101 32 55 132 80 26 22 61 3 119 16 73 112 43 61 112 51 31 15 43 40 125 59 54 97 80 127 32 122 100 126 23 100 109 75 41 83 35 10 111 79 37 41 123 95 99 11 69 20 111 72 5 27 110 38 89 58 102 41 121 92 107 121 46 2 71 45 87 5 78 5 131 59 97 91 27 65 69 1 23 35 102 85 91 9 52 30 116 7 56 125 93 20 8 68 59 62 26 29 103 26 76 23 102 65 112 97 62 131 121 78 134 101 102 99 119 37 125 63 75 33 40 70 106 81 92 53 121 110 80
+
+--- DECRYPTED PLAINTEXT ---
+KJAMINEWAYTHATHATDESEASEDTHREVERTHETIMEETINEVENTTHEREAREEREDINTHELATESTARTHETHERESHEQUEEZAGREENTHERSARESTIENTEROFTHESTEREVERATHERINTERETHEERRENTERCRESANDEATHETHENTHEBEENDENTERBESTOEXTENSITSELEGISTSEEATTHEREHERTHEENTERPREVERTHATHEEHEARESTTHENTERIENCESSINSON
+
+--- SCORE ---
+-2659.6299
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 256 chars correct (9.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> R
+2      -> L
+3      -> E
+4      -> L
+5      -> S
+7      -> T
+8      -> E
+9      -> H
+10     -> E
+11     -> T
+12     -> W
+14     -> I
+15     -> E
+16     -> H
+18     -> H
+20     -> R
+21     -> R
+22     -> E
+23     -> E
+25     -> R
+26     -> T
+27     -> T
+28     -> D
+29     -> H
+30     -> E
+31     -> T
+32     -> E
+33     -> N
+34     -> E
+35     -> H
+37     -> E
+38     -> E
+40     -> C
+41     -> N
+42     -> E
+43     -> R
+44     -> T
+45     -> G
+46     -> E
+47     -> A
+49     -> V
+51     -> N
+52     -> E
+53     -> N
+54     -> S
+55     -> R
+56     -> E
+58     -> T
+59     -> E
+60     -> E
+61     -> R
+62     -> R
+63     -> I
+64     -> T
+65     -> H
+66     -> J
+67     -> M
+68     -> V
+69     -> E
+70     -> E
+71     -> E
+72     -> E
+73     -> E
+74     -> T
+75     -> E
+76     -> H
+77     -> R
+78     -> T
+79     -> E
+80     -> N
+81     -> S
+82     -> F
+83     -> T
+84     -> U
+85     -> R
+86     -> E
+87     -> I
+89     -> X
+91     -> T
+92     -> I
+93     -> P
+95     -> E
+97     -> A
+99     -> N
+100    -> T
+101    -> H
+102    -> E
+103    -> A
+104    -> R
+105    -> R
+106    -> S
+107    -> T
+108    -> Y
+109    -> H
+110    -> O
+111    -> B
+112    -> E
+113    -> I
+114    -> Z
+116    -> N
+117    -> Q
+118    -> N
+119    -> T
+120    -> K
+121    -> S
+122    -> A
+123    -> D
+124    -> O
+125    -> R
+126    -> H
+127    -> D
+128    -> A
+129    -> T
+131    -> E
+132    -> I
+133    -> N
+134    -> T

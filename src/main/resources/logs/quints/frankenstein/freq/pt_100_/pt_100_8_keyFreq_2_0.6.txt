@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [13, 2, 39, 63, 24]
+B(1) [32]
+C(2) [73, 74]
+D(3) [40, 43, 16]
+E(4) [70, 9, 25, 33, 17, 3, 41, 18]
+F(5) [67, 45]
+G(6) [61, 8]
+H(7) [54, 15, 22, 26]
+I(8) [30, 35, 57, 5, 37]
+J(9) [52]
+K(10) [27]
+L(11) [55, 69, 48]
+M(12) [46, 56]
+N(13) [44, 34, 23, 62, 0]
+O(14) [12, 58, 49, 66, 51]
+P(15) [42, 36]
+Q(16) [6]
+R(17) [50, 71, 60, 64]
+S(18) [20, 72, 1, 14]
+T(19) [11, 68, 31, 4, 28, 10]
+U(20) [29, 59]
+V(21) [19]
+W(22) [7, 21]
+X(23) [38]
+Y(24) [65, 53]
+Z(25) [47]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+26 30 20 43 24 59 8 22 31 3 60 13 31 11 3 62 16 70 16 54 30 56 7 5 31 22 31 26 18 8 71 25 13 10 25 72 31 11 3 62 43 18 64 34 17 72 72 32 29 68 20 26 41 1 24 21 21 30 28 26 43 41 14 42 2 5 50 28 26 13 68 4 54 18 57 64 55 30 10 31 55 18 45 29 23 40 7 24 14 50 2 36 35 43 69 65 43 18 74 71 33 63 14 57 34 61
+
+--- DECRYPTED PLAINTEXT ---
+HETRAPROTEMATHERTOTHEVENTOTHERICANCETHERRETHREEBUTTHEYALLETHRENZANDTHATTHESTHENTHEJUDGEANDAWORKEREFIXINSHQ
+
+--- SCORE ---
+-1121.6720
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 39 / 106 chars correct (36.8%)
+
+--- KEY (cipher -> plain) ---
+1      -> Y
+2      -> A
+3      -> E
+4      -> T
+5      -> N
+7      -> E
+8      -> R
+10     -> N
+11     -> H
+13     -> A
+14     -> N
+16     -> T
+17     -> R
+18     -> E
+20     -> T
+21     -> L
+22     -> O
+23     -> D
+24     -> A
+25     -> C
+26     -> H
+28     -> T
+29     -> U
+30     -> E
+31     -> T
+32     -> B
+33     -> X
+34     -> H
+35     -> O
+36     -> W
+40     -> G
+41     -> E
+42     -> Z
+43     -> R
+45     -> J
+50     -> D
+54     -> H
+55     -> H
+56     -> V
+57     -> S
+59     -> P
+60     -> M
+61     -> Q
+62     -> R
+63     -> I
+64     -> T
+65     -> E
+68     -> T
+69     -> K
+70     -> O
+71     -> I
+72     -> E
+74     -> F

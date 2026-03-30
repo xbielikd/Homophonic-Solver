@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 20]
+B(1) [9, 23]
+C(2) [12, 26]
+D(3) [40, 47]
+E(4) [19, 50]
+F(5) [25, 43]
+G(6) [35, 46]
+H(7) [0, 32]
+I(8) [2, 3]
+J(9) [17, 44]
+K(10) [16, 28]
+L(11) [27, 5]
+M(12) [29, 22]
+N(13) [42, 30]
+O(14) [15, 39]
+P(15) [8, 37]
+Q(16) [34, 36]
+R(17) [4, 13]
+S(18) [48, 18]
+T(19) [31, 7]
+U(20) [11, 41]
+V(21) [14, 49]
+W(22) [21, 38]
+X(23) [33, 45]
+Y(24) [10, 1]
+Z(25) [6, 24]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+10 50 48 32 50 21 20 48 26 50 4 7 20 2 42 5 10 38 39 30 40 50 4 25 11 27 27 1 0 20 42 40 48 39 22 19 38 2 7 32 32 3 18 43 3 30 50 27 1 26 11 4 49 50 40 18 26 20 13 5 50 31 5 2 8 48 32 2 18 25 13 51 30 28 9 5 41 50 50 1 19 18 32 2 18 26 13 3 18 37 35 15 5 40 0 20 3 13 7 32 50 4 19
+
+--- DECRYPTED PLAINTEXT ---
+MEETEFTERENATHEEMORERENDILLESTERERYCOHATTHEWHEELERINGERERTEEEBEHJETHEDEKEXPEVEEECETHEREHEQUZERSTHEATENC
+
+--- SCORE ---
+-523.0522
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 103 chars correct (12.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> E
+2      -> H
+3      -> H
+4      -> N
+5      -> E
+7      -> A
+8      -> J
+9      -> P
+10     -> M
+11     -> I
+13     -> E
+15     -> Z
+18     -> E
+19     -> C
+20     -> T
+21     -> F
+22     -> Y
+25     -> D
+26     -> R
+27     -> L
+28     -> X
+30     -> E
+31     -> B
+32     -> T
+35     -> U
+37     -> Q
+38     -> O
+39     -> R
+40     -> R
+41     -> V
+42     -> E
+43     -> W
+48     -> E
+49     -> G
+50     -> E
+51     -> K

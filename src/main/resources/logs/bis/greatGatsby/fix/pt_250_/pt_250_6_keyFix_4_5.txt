@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [68, 124, 94, 66, 95]
+B(1) [53, 16, 15, 32, 3]
+C(2) [102, 78, 64, 108, 30]
+D(3) [128, 0, 127, 117, 114]
+E(4) [83, 115, 8, 11, 84]
+F(5) [48, 82, 112, 31, 10]
+G(6) [44, 28, 14, 9, 77]
+H(7) [74, 109, 113, 42, 92]
+I(8) [26, 86, 56, 21, 29]
+J(9) [34, 123, 87, 125, 61]
+K(10) [111, 27, 103, 126, 59]
+L(11) [91, 100, 38, 2, 20]
+M(12) [97, 81, 72, 49, 98]
+N(13) [12, 80, 45, 39, 19]
+O(14) [43, 79, 47, 65, 121]
+P(15) [57, 58, 129, 5, 89]
+Q(16) [107, 88, 67, 55, 25]
+R(17) [1, 71, 41, 119, 54]
+S(18) [101, 73, 105, 104, 22]
+T(19) [33, 62, 75, 24, 17]
+U(20) [63, 4, 69, 18, 23]
+V(21) [76, 116, 90, 106, 46]
+W(22) [35, 51, 37, 99, 110]
+X(23) [6, 118, 52, 50, 13]
+Y(24) [122, 7, 120, 96, 60]
+Z(25) [70, 40, 85, 36, 93]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ABREEZEBLEWTHROUGHTHEROOMBLEWCURTAINSINATONEENDANDOUTTHEOTHERLIKEPALEFLAGSTWISTINGTHEMUPTOWARDTHEFROSTEDWEDDINGCAKEOFTHECEILINGANDTHENRIPPLEDOVERTHEWINECOLOUREDRUGMAKINGASHADOWONITASWINDDOESONTHESEATHEONLYCOMPLETELYSTATIONARYOBJECTINTHEROOMWASANENORMOUS
+
+--- CIPHERTEXT ---
+66 32 41 8 84 93 11 3 100 84 37 24 109 71 47 23 9 109 62 42 84 71 121 79 72 53 20 11 110 78 69 54 24 68 56 80 73 21 12 94 24 79 80 84 8 19 117 94 80 114 79 63 24 24 113 115 65 17 74 8 54 38 29 59 84 57 95 20 115 48 38 94 28 22 75 99 26 101 33 29 19 14 62 109 11 98 4 5 17 65 37 95 1 114 17 42 11 10 54 43 101 17 83 114 110 83 114 127 29 39 77 64 94 59 11 47 112 62 42 11 102 11 21 91 21 39 44 95 45 114 24 92 83 80 54 21 129 5 2 8 127 121 116 84 71 33 74 11 99 26 12 11 102 121 38 47 63 54 83 127 119 4 28 72 66 126 21 19 28 94 104 109 124 0 47 51 43 80 21 62 95 101 110 56 19 114 117 79 115 104 79 12 33 74 8 22 84 124 33 92 83 65 39 2 60 108 121 98 57 91 11 24 8 91 7 105 62 94 75 26 79 12 124 54 122 79 16 87 115 30 62 26 45 62 109 115 1 79 79 49 99 94 73 94 45 84 39 79 54 97 43 63 105
+
+--- DECRYPTED PLAINTEXT ---
+INJEEMEDBENTHSENGHTHESTEREREROFTTHERRERETEREERREREEATTHEATHETHERERERECHEERTHEATERYTHEERETANERETHESTEATEEREERERTHEREESTHEREERERKERETHERTEWESERTHESTHEHERERTHEATERERERIZEREETHALEVERETEAREREREETERTHEREATHEARSQUTERRETERENTETEERATHEXPESTERTHEREETHERERERETHEAN
+
+--- SCORE ---
+-1161.3139
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 78 / 253 chars correct (30.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> L
+1      -> R
+2      -> S
+3      -> D
+4      -> R
+5      -> E
+7      -> E
+8      -> E
+9      -> G
+10     -> S
+11     -> E
+12     -> R
+14     -> Y
+16     -> X
+17     -> T
+19     -> R
+20     -> R
+21     -> E
+22     -> R
+23     -> N
+24     -> T
+26     -> E
+28     -> E
+29     -> E
+30     -> S
+32     -> N
+33     -> T
+37     -> N
+38     -> H
+39     -> R
+41     -> J
+42     -> H
+43     -> E
+44     -> K
+45     -> R
+47     -> E
+48     -> C
+49     -> T
+51     -> V
+53     -> E
+54     -> T
+56     -> E
+57     -> R
+59     -> R
+60     -> Q
+62     -> T
+63     -> A
+64     -> H
+65     -> A
+66     -> I
+68     -> H
+69     -> F
+71     -> S
+72     -> R
+73     -> R
+74     -> H
+75     -> T
+77     -> T
+78     -> O
+79     -> E
+80     -> R
+83     -> E
+84     -> E
+87     -> P
+91     -> R
+92     -> H
+93     -> M
+94     -> E
+95     -> E
+97     -> H
+98     -> E
+99     -> H
+100    -> B
+101    -> A
+102    -> R
+104    -> T
+105    -> N
+108    -> U
+109    -> H
+110    -> R
+112    -> S
+113    -> H
+114    -> E
+115    -> E
+116    -> H
+117    -> R
+119    -> E
+121    -> T
+122    -> H
+124    -> A
+126    -> Z
+127    -> R
+129    -> W

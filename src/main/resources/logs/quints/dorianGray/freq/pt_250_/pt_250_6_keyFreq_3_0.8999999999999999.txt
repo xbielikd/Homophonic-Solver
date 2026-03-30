@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [17, 29, 101, 12, 73, 81, 71, 50]
+B(1) [78, 49]
+C(2) [64, 26, 59]
+D(3) [62, 13, 4, 3]
+E(4) [44, 80, 67, 54, 85, 104, 28, 27, 82, 46, 41, 53]
+F(5) [23, 66, 92]
+G(6) [102, 60]
+H(7) [40, 30, 76, 93, 74, 52]
+I(8) [87, 0, 65, 15, 77, 94, 2]
+J(9) [24]
+K(10) [10]
+L(11) [14, 22, 45, 97]
+M(12) [43, 37, 61]
+N(13) [86, 56, 100, 25, 9, 19, 34]
+O(14) [6, 63, 72, 75, 90, 99, 88]
+P(15) [7, 51]
+Q(16) [84]
+R(17) [69, 42, 39, 16, 96, 91]
+S(18) [57, 55, 79, 5, 83, 20]
+T(19) [33, 18, 21, 98, 103, 68, 58, 89, 48]
+U(20) [8, 32, 47]
+V(21) [38]
+W(22) [95, 35, 11]
+X(23) [36]
+Y(24) [1, 70]
+Z(25) [31]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ORDINARYWOMENALWAYSCONSOLETHEMSELVESSOMEOFTHEMDOITBYGOINGINFORSENTIMENTALCOLOURSNEVERTRUSTAWOMANWHOWEARSMAUVEWHATEVERHERAGEMAYBEORAWOMANOVERTHIRTYFIVEWHOISFONDOFPINKRIBBONSITALWAYSMEANSTHATTHEYHAVEAHISTORYOTHERSFINDAGREATCONSOLATIONINSUDDENLYDISCOVERING
+
+--- CIPHERTEXT ---
+99 91 4 0 25 101 91 1 35 6 61 41 34 81 97 35 81 1 20 59 63 25 57 88 14 80 68 52 27 37 20 85 45 38 104 83 57 99 61 28 75 66 58 30 41 61 62 63 15 18 49 1 102 75 15 25 60 65 25 66 6 16 5 82 19 98 87 43 67 9 68 101 14 26 63 97 99 8 96 79 9 104 38 104 96 33 91 32 55 89 17 35 63 37 50 34 11 52 75 95 28 29 96 83 43 81 8 38 53 95 40 73 33 82 38 82 16 40 46 16 12 60 80 43 29 70 49 104 88 16 50 95 75 43 50 100 99 38 28 39 89 40 15 96 103 1 23 0 38 27 35 76 75 77 20 66 90 100 13 72 92 51 87 19 10 39 15 78 78 6 34 55 87 103 73 22 35 17 70 83 37 85 101 9 79 89 93 17 18 89 40 104 1 74 71 38 53 81 93 65 55 33 90 69 70 75 33 74 82 69 55 66 0 86 62 73 102 39 27 73 58 59 63 9 20 88 22 101 89 94 63 56 0 100 57 8 13 4 46 19 14 70 3 15 79 64 75 38 27 91 77 34 102
+
+--- DECRYPTED PLAINTEXT ---
+TSSEEASTATARETSATTERIESTRETURNEWHATASTATESTERASISOFTHESERVESTHETERSTOSTARTISTHEASTATENSJERMAINEEQUESTHEATTHANSEENTATHETHERETHEFTTHESETESTATERESESTYEARAKEBESTSEXPOSELESSSTEESSECAMEANWASAREMORETTERANTEVENTHEENETHESEASEHERETRISETCARDIZESSHESTERESSAGEARSBEH
+
+--- SCORE ---
+-2782.0277
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 253 chars correct (5.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> T
+3      -> S
+4      -> S
+5      -> E
+6      -> T
+8      -> H
+9      -> S
+10     -> L
+11     -> Q
+12     -> E
+13     -> E
+14     -> R
+15     -> S
+16     -> H
+17     -> M
+18     -> O
+19     -> E
+20     -> E
+22     -> C
+23     -> Y
+25     -> E
+26     -> T
+27     -> R
+28     -> T
+29     -> H
+30     -> E
+32     -> J
+33     -> N
+34     -> E
+35     -> A
+37     -> N
+38     -> A
+39     -> E
+40     -> E
+41     -> R
+43     -> T
+45     -> H
+46     -> T
+49     -> F
+50     -> E
+51     -> O
+52     -> U
+53     -> N
+55     -> E
+56     -> Z
+57     -> S
+58     -> T
+59     -> R
+60     -> R
+61     -> A
+62     -> S
+63     -> I
+64     -> G
+65     -> V
+66     -> S
+67     -> O
+68     -> T
+69     -> H
+70     -> E
+71     -> R
+72     -> X
+73     -> E
+74     -> E
+75     -> E
+76     -> K
+77     -> B
+78     -> S
+79     -> A
+80     -> E
+81     -> T
+82     -> T
+83     -> A
+85     -> W
+86     -> A
+87     -> S
+88     -> T
+89     -> R
+90     -> T
+91     -> S
+92     -> P
+93     -> E
+94     -> D
+95     -> S
+96     -> E
+97     -> S
+98     -> R
+99     -> T
+100    -> S
+101    -> A
+102    -> H
+103    -> S
+104    -> T

@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [104, 37, 8, 36, 35, 2, 29, 91]
+B(1) [26, 18]
+C(2) [59, 10, 89]
+D(3) [72, 65, 73, 97]
+E(4) [68, 42, 53, 20, 11, 81, 27, 25, 82, 67, 28, 57]
+F(5) [61, 79, 32]
+G(6) [100, 80]
+H(7) [24, 62, 83, 3, 23, 94]
+I(8) [30, 5, 48, 76, 60, 71, 63]
+J(9) [54]
+K(10) [74]
+L(11) [40, 102, 14, 90]
+M(12) [66, 85, 58]
+N(13) [46, 9, 7, 78, 87, 103, 51]
+O(14) [34, 84, 93, 0, 52, 56, 69]
+P(15) [19, 38]
+Q(16) [6]
+R(17) [16, 96, 49, 33, 101, 15]
+S(18) [75, 1, 4, 95, 44, 22]
+T(19) [47, 92, 70, 17, 55, 43, 88, 13, 41]
+U(20) [98, 31, 99]
+V(21) [12]
+W(22) [21, 77, 64]
+X(23) [50]
+Y(24) [86, 39]
+Z(25) [45]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+36 55 27 15 15 63 18 90 53 62 69 38 20 32 90 31 92 88 28 101 11 65 19 37 75 70 23 5 58 83 27 59 90 98 88 59 94 57 72 8 88 76 92 85 37 65 102 39 77 83 82 33 28 76 75 88 62 82 26 84 97 39 24 25 27 50 89 90 2 30 85 67 72 6 98 48 59 74 71 85 99 75 17 75 82 67 63 43 36 43 93 103 59 27 63 17 60 1 5 87 91 9 67 85 19 55 39 1 92 35 18 102 53 71 46 88 83 57 83 69 58 20 79 8 96 58 1 63 16 92 23 20 32 93 102 74 73 84 78 47 90 76 74 81 92 52 62 8 12 27 92 83 91 47 4 34 101 13 0 79 13 23 71 87 80 60 103 13 62 53 30 16 83 69 31 4 82 22 17 94 53 39 4 104 39 8 89 93 16 19 75 25 26 49 71 51 80 1 18 91 97 102 31 59 74 41 3 20 23 56 58 67 61 29 96 66 80 0 55 24 11 16 25 8 13 84 9 59 68 8 46 72 66 20 53 88 66 57 92 20 14 40 84 78 28 69 32 55 83 67
+
+--- DECRYPTED PLAINTEXT ---
+FEREETHEREEMERERETHETHETREREREREEATEARERTEERTHEEDESTHERTESNTHERERESEXTREEWALERERERERSETOFOTHERTESTERTHEREEETETHERESTEREEREERERTTHERERTERYTTHEERKEJEREREETHEREEREERERESHEERTHEERESBEAREEVERSTHERENGERETHTHERERIZERERECHERERERTHERETHEPRSERERTRREEQUTTHEREEE
+
+--- SCORE ---
+-1157.5588
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 250 chars correct (8.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> T
+2      -> X
+3      -> Z
+4      -> E
+5      -> E
+6      -> W
+8      -> R
+9      -> H
+11     -> T
+12     -> E
+13     -> E
+14     -> Q
+15     -> E
+16     -> H
+17     -> E
+18     -> H
+19     -> E
+20     -> E
+22     -> B
+23     -> R
+24     -> R
+25     -> E
+26     -> N
+27     -> R
+28     -> H
+29     -> H
+30     -> T
+31     -> R
+32     -> R
+33     -> T
+34     -> R
+35     -> T
+36     -> F
+37     -> T
+38     -> M
+39     -> E
+40     -> U
+41     -> I
+43     -> O
+46     -> S
+47     -> H
+48     -> L
+49     -> G
+50     -> E
+51     -> R
+52     -> J
+53     -> R
+55     -> E
+56     -> E
+57     -> R
+58     -> R
+59     -> E
+60     -> S
+61     -> C
+62     -> E
+63     -> T
+65     -> H
+66     -> R
+67     -> E
+68     -> P
+69     -> E
+70     -> E
+71     -> E
+72     -> E
+73     -> Y
+74     -> R
+75     -> R
+76     -> E
+77     -> D
+78     -> T
+79     -> E
+80     -> E
+81     -> K
+82     -> S
+83     -> E
+84     -> T
+85     -> R
+87     -> R
+88     -> T
+89     -> S
+90     -> E
+91     -> T
+92     -> E
+93     -> T
+94     -> A
+96     -> E
+97     -> H
+98     -> A
+99     -> E
+101    -> E
+102    -> E
+103    -> H
+104    -> V

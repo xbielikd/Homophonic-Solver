@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [37, 5]
+B(1) [42, 0]
+C(2) [2, 39]
+D(3) [30, 25]
+E(4) [22, 27]
+F(5) [24, 16]
+G(6) [14, 31]
+H(7) [35, 3]
+I(8) [1, 28]
+J(9) [36, 38]
+K(10) [18, 4]
+L(11) [49, 8]
+M(12) [19, 40]
+N(13) [46, 29]
+O(14) [10, 48]
+P(15) [51, 34]
+Q(16) [13, 20]
+R(17) [32, 47]
+S(18) [43, 11]
+T(19) [12, 21]
+U(20) [26, 50]
+V(21) [33, 15]
+W(22) [44, 45]
+X(23) [9, 17]
+Y(24) [23, 6]
+Z(25) [41, 7]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+35 1 43 12 5 29 29 22 25 43 4 28 46 45 5 43 30 32 37 44 29 37 21 12 32 37 39 21 1 33 27 49 6 12 1 31 35 21 48 29 3 1 11 16 5 2 22 37 46 30 35 28 11 43 3 48 32 21 35 37 1 47 8 10 10 18 27 30 37 11 12 35 10 26 31 3 1 21 45 27 32 22 21 47 1 19 19 27 30 27 33 27 47 6 25 37 6 28 2 10 26 49 25
+
+--- DECRYPTED PLAINTEXT ---
+HEATUPPEGAZEDBUATHEXPEETHEWEEVEINTETHEYPLESQUCEEDTHESALYHEHEERJOOKETESTHOFTLEEBEHEEREMMETEVERNGENECOFIG
+
+--- SCORE ---
+-551.4624
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 103 chars correct (34.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> C
+3      -> L
+4      -> Z
+5      -> U
+6      -> N
+8      -> J
+10     -> O
+11     -> S
+12     -> T
+16     -> Q
+18     -> K
+19     -> M
+21     -> E
+22     -> E
+25     -> G
+26     -> F
+27     -> E
+28     -> E
+29     -> P
+30     -> T
+31     -> T
+32     -> H
+33     -> V
+35     -> H
+37     -> E
+39     -> W
+43     -> A
+44     -> X
+45     -> B
+46     -> D
+47     -> R
+48     -> Y
+49     -> I

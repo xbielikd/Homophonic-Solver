@@ -1,0 +1,130 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [66, 32, 34, 35, 73]
+B(1) [42]
+C(2) [55, 60]
+D(3) [6, 9, 69]
+E(4) [53, 51, 33, 39, 13, 4, 10, 67]
+F(5) [47, 50]
+G(6) [40, 25]
+H(7) [18, 68, 20, 62]
+I(8) [17, 71, 44, 28, 23]
+J(9) [37]
+K(10) [0]
+L(11) [12, 30, 5]
+M(12) [52, 26]
+N(13) [63, 19, 45, 8, 49]
+O(14) [11, 7, 46, 3, 56]
+P(15) [27, 41]
+Q(16) [2]
+R(17) [70, 72, 43, 1]
+S(18) [22, 48, 29, 58]
+T(19) [14, 15, 65, 16, 57, 36]
+U(20) [74, 21]
+V(21) [24]
+W(22) [64, 59]
+X(23) [31]
+Y(24) [38, 54]
+Z(25) [61]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   70
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+32 65 39 1 43 17 42 30 10 20 46 27 53 50 12 21 36 65 39 1 4 9 41 32 22 65 68 44 26 18 4 55 30 74 57 55 20 53 9 35 57 17 16 52 34 9 5 38 64 68 13 1 67 44 29 65 18 53 42 11 69 54 62 4 4 31 55 5 34 44 26 13 6 2 21 17 60 0 17 26 21 22 65 29 13 10 44 14 32 65 56 45 55 67 44 14 17 48 44 8 35 8 67 52 41 57 38 48 16 66 42 5 39 17 45 65 18 67 68 7 52 67 50 66 1 52 58 71 72 57 18 4 50 46 12 0 6 3 8 65 12 23 0 33 65 56 18 73 24 67 36 68 32 36 58 7 72 16 56 50 15 20 23 8 25 44 8 16 62 53 17 43 68 11 74 22 13 22 16 20 33 38 58 34 54 32 60 7 70 41 29 4 42 70 28 19 25 58 42 73 69 12 21 60 0 15 62 53 20 3 52 39 47 66 1 52 25 46 15 18 53 72 67 32 14 7 63 55 39 32 19 6 52 39 4 65 26 67 16 51 5 12 11 8 51 11 47 57 68 33
+
+--- DECRYPTED PLAINTEXT ---
+ETERGARYCHEZERSEATEREATESTRATHETYBETHEADEATSEARAQREREAHTHERESTHEEXTREATERKEASTATESTHECAMETOFTEAMALANDNESTEALTERREAFTHERESERERSTPREHERESTRENTSITETOHEWEAREATERTORTHINSANTHEAGREBSESTHEATETESEETHEREJUSTRESSESTTHEHESEVERSSETHEREEMENTEEURSEETTETERSENEEVERE
+
+--- SCORE ---
+-2313.0599
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 94 / 250 chars correct (37.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> R
+2      -> K
+3      -> E
+4      -> E
+5      -> R
+6      -> R
+7      -> E
+8      -> N
+9      -> A
+10     -> C
+11     -> E
+12     -> S
+13     -> E
+14     -> M
+15     -> T
+16     -> T
+17     -> A
+18     -> H
+19     -> U
+20     -> H
+21     -> E
+22     -> S
+23     -> I
+24     -> W
+25     -> S
+26     -> T
+27     -> Z
+28     -> J
+29     -> H
+30     -> Y
+31     -> X
+32     -> E
+33     -> E
+34     -> E
+35     -> D
+36     -> A
+38     -> A
+39     -> E
+41     -> T
+42     -> R
+43     -> G
+44     -> A
+45     -> F
+46     -> E
+47     -> V
+48     -> L
+50     -> R
+51     -> E
+52     -> S
+53     -> E
+54     -> T
+55     -> T
+56     -> O
+57     -> E
+58     -> T
+60     -> S
+62     -> H
+63     -> N
+64     -> Q
+65     -> T
+66     -> E
+67     -> E
+68     -> R
+69     -> S
+70     -> E
+71     -> P
+72     -> R
+73     -> E
+74     -> B

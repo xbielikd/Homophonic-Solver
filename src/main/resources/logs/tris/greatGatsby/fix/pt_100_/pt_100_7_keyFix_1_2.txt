@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [46, 22]
+B(1) [45, 12]
+C(2) [18, 1]
+D(3) [8, 31]
+E(4) [28, 4]
+F(5) [11, 30]
+G(6) [2, 50]
+H(7) [25, 43]
+I(8) [41, 37]
+J(9) [23, 6]
+K(10) [0, 35]
+L(11) [42, 19]
+M(12) [7, 27]
+N(13) [17, 44]
+O(14) [38, 26]
+P(15) [40, 36]
+Q(16) [21, 14]
+R(17) [32, 33]
+S(18) [9, 34]
+T(19) [51, 29]
+U(20) [13, 5]
+V(21) [16, 39]
+W(22) [48, 10]
+X(23) [49, 47]
+Y(24) [15, 24]
+Z(25) [3, 20]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+12 42 37 44 35 41 17 50 46 10 46 15 29 43 4 45 33 37 50 43 51 44 4 34 9 26 30 51 25 28 9 51 33 28 4 29 38 13 51 9 41 8 28 7 24 28 15 28 34 40 37 18 35 4 31 25 41 7 26 13 29 38 12 34 18 5 32 4 19 24 41 44 51 25 4 46 17 29 28 32 38 38 7 29 46 42 35 37 44 50 29 26 46 44 38 51 25 28 32 27 46 44
+
+--- DECRYPTED PLAINTEXT ---
+GBEREENSOFORTHEYWESHAREALIZATELAWEETECALEVEDUEREAKEMEEXTEDICTEGAMPREQUERATEONTEREEDTOBEERSTIOREATERJOR
+
+--- SCORE ---
+-754.5684
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 102 chars correct (25.5%)
+
+--- KEY (cipher -> plain) ---
+4      -> E
+5      -> P
+7      -> D
+8      -> V
+9      -> L
+10     -> F
+12     -> G
+13     -> C
+15     -> R
+17     -> N
+18     -> M
+19     -> Q
+24     -> U
+25     -> T
+26     -> I
+27     -> J
+28     -> E
+29     -> T
+30     -> Z
+31     -> X
+32     -> R
+33     -> W
+34     -> A
+35     -> E
+37     -> E
+38     -> E
+40     -> K
+41     -> E
+42     -> B
+43     -> H
+44     -> R
+45     -> Y
+46     -> O
+50     -> S
+51     -> A

@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [34, 20]
+B(1) [50, 11]
+C(2) [26, 33]
+D(3) [13, 39]
+E(4) [18, 0]
+F(5) [9, 10]
+G(6) [48, 19]
+H(7) [32, 23]
+I(8) [28, 1]
+J(9) [41, 14]
+K(10) [30, 27]
+L(11) [12, 4]
+M(12) [16, 44]
+N(13) [21, 46]
+O(14) [40, 15]
+P(15) [5, 51]
+Q(16) [3, 24]
+R(17) [2, 31]
+S(18) [45, 49]
+T(19) [43, 17]
+U(20) [35, 6]
+V(21) [7, 22]
+W(22) [8, 47]
+X(23) [36, 37]
+Y(24) [29, 25]
+Z(25) [38, 42]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+34 45 49 40 15 21 34 45 28 34 2 2 28 22 0 13 1 16 20 13 18 20 21 20 17 43 0 16 5 43 17 40 10 1 46 13 44 29 23 15 45 43 11 6 17 43 23 0 17 47 15 40 2 17 32 2 0 18 5 0 15 5 4 0 15 9 47 23 40 44 1 34 45 27 18 13 32 1 45 8 23 0 31 0 20 11 15 35 43 45 49 43 20 2 0 39 34 43 44 0
+
+--- DECRYPTED PLAINTEXT ---
+UNCTAJUNIUSSIZETOMATAAJAREEMBERTYOFTHESANEWPRESEREATSRISEABEABLEAXESTHOUNDATIONGSEVEAWAKENCEASEQUEHE
+
+--- SCORE ---
+-1244.7269
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 100 chars correct (20.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> O
+2      -> S
+4      -> L
+5      -> B
+6      -> P
+8      -> G
+9      -> X
+10     -> Y
+11     -> W
+13     -> T
+15     -> A
+16     -> M
+17     -> R
+18     -> A
+20     -> A
+21     -> J
+22     -> Z
+23     -> S
+27     -> D
+28     -> I
+29     -> E
+31     -> V
+32     -> I
+34     -> U
+35     -> K
+39     -> Q
+40     -> T
+43     -> E
+44     -> H
+45     -> N
+46     -> F
+47     -> E
+49     -> C

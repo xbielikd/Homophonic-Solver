@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 252
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [15, 55, 65, 14, 88, 83, 16, 5]
+B(1) [20, 81]
+C(2) [23, 63, 59]
+D(3) [60, 76, 1, 86]
+E(4) [58, 33, 46, 13, 41, 43, 2, 28, 29, 62, 89, 93]
+F(5) [26, 32, 90]
+G(6) [44, 78]
+H(7) [75, 95, 67, 39, 27, 22]
+I(8) [94, 18, 38, 17, 25, 103, 40]
+J(9) [21]
+K(10) [0]
+L(11) [77, 47, 54, 84]
+M(12) [64, 101, 57]
+N(13) [6, 3, 73, 98, 102, 72, 45]
+O(14) [24, 4, 52, 69, 37, 53, 96]
+P(15) [61, 11]
+Q(16) [80]
+R(17) [42, 7, 48, 91, 31, 71]
+S(18) [36, 66, 79, 12, 10, 70]
+T(19) [51, 82, 8, 56, 35, 85, 49, 9, 50]
+U(20) [30, 100, 74]
+V(21) [104]
+W(22) [97, 68, 87]
+X(23) [99]
+Y(24) [34, 92]
+Z(25) [19]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      252
+
+--- ORIGINAL PLAINTEXT ---
+ANDWHYISITSOBECAUSEWHILEIWASPAINTINGITDORIANGRAYSATBESIDEMESOMESUBTLEINFLUENCEPASSEDFROMHIMTOMEANDFORTHEFIRSTTIMEINMYLIFEISAWINTHEPLAINWOODLANDTHEWONDERIHADALWAYSLOOKEDFORANDALWAYSMISSEDBASILTHISISEXTRAORDINARYIMUSTSEEDORIANGRAYHALLWARDGOTUPFROMTHESEAT
+
+--- CIPHERTEXT ---
+83 102 76 68 75 34 38 70 103 35 36 52 20 46 59 16 74 70 62 68 39 18 77 41 25 68 83 10 11 14 94 3 9 94 45 44 40 85 86 4 71 40 83 102 44 7 88 92 79 5 8 20 41 12 25 76 41 57 43 12 4 101 41 66 74 81 50 47 58 40 3 26 54 30 93 98 23 13 61 5 70 10 58 86 32 91 96 64 27 38 57 9 52 64 58 83 102 86 90 4 7 82 75 29 90 94 91 12 9 49 38 101 28 25 6 57 34 47 38 32 29 38 79 16 97 40 73 51 67 62 61 54 5 103 6 87 37 96 86 54 83 72 76 56 39 28 97 37 98 1 62 48 40 39 5 60 5 54 97 55 92 36 47 53 96 0 62 60 26 24 48 83 72 1 5 47 68 55 92 70 101 103 10 12 46 60 20 15 70 25 77 56 27 94 70 103 36 93 99 50 71 83 96 91 86 38 102 15 42 92 94 57 74 12 35 70 89 13 86 4 7 94 83 3 44 71 14 92 39 15 84 77 68 16 71 86 44 96 50 100 11 26 31 96 101 49 95 13 36 2 15 85
+
+--- DECRYPTED PLAINTEXT ---
+ERATHEERSEANTEVEERETRESTETETHEEREEBEEREEREERERJEREXTTHEATRTHEATHEWETHERERINTHERERTHERTRTHERENTHERERERTHERETHENEASETRETEREERETEQULERRESTHERERETATRSTETHERERERERTHEATORMEREFRETHETTHERASTHERTERESTHERSANDERERTEERECEEREHERKEEEREEREREEREYSTEREERETHEPRANGEAZER
+
+--- SCORE ---
+-1165.1048
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 28 / 252 chars correct (11.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> M
+1      -> H
+2      -> Z
+3      -> R
+4      -> E
+5      -> E
+6      -> T
+7      -> R
+8      -> X
+9      -> E
+10     -> T
+11     -> H
+12     -> H
+13     -> E
+14     -> E
+15     -> E
+16     -> E
+18     -> E
+20     -> T
+23     -> H
+24     -> F
+25     -> E
+26     -> E
+27     -> H
+28     -> S
+29     -> E
+30     -> I
+31     -> P
+32     -> R
+34     -> E
+35     -> E
+36     -> A
+37     -> E
+38     -> E
+39     -> R
+40     -> E
+41     -> T
+42     -> C
+43     -> T
+44     -> E
+45     -> B
+46     -> E
+47     -> T
+48     -> R
+49     -> N
+50     -> E
+51     -> U
+52     -> N
+53     -> O
+54     -> R
+55     -> H
+56     -> T
+57     -> R
+58     -> H
+59     -> V
+60     -> R
+61     -> R
+62     -> E
+64     -> T
+66     -> H
+67     -> L
+68     -> T
+70     -> R
+71     -> R
+72     -> T
+73     -> Q
+74     -> E
+75     -> H
+76     -> A
+77     -> S
+79     -> R
+81     -> W
+82     -> T
+83     -> E
+84     -> Y
+85     -> R
+86     -> E
+87     -> H
+88     -> J
+89     -> K
+90     -> R
+91     -> T
+92     -> E
+93     -> N
+94     -> E
+95     -> G
+96     -> R
+97     -> T
+98     -> T
+99     -> D
+100    -> T
+101    -> A
+102    -> R
+103    -> S

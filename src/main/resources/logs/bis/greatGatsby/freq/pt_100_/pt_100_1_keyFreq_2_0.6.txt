@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 21, 55, 61, 1]
+B(1) [14]
+C(2) [18, 5]
+D(3) [69, 72, 15]
+E(4) [26, 54, 66, 29, 71, 0, 35, 56]
+F(5) [63, 70]
+G(6) [53, 48]
+H(7) [40, 8, 37, 43]
+I(8) [67, 16, 59, 47, 32]
+J(9) [7]
+K(10) [34]
+L(11) [10, 50, 39]
+M(12) [74, 45]
+N(13) [44, 6, 73, 19, 31]
+O(14) [68, 24, 60, 65, 33]
+P(15) [58, 13]
+Q(16) [36]
+R(17) [20, 57, 25, 49]
+S(18) [22, 28, 41, 2]
+T(19) [11, 38, 17, 23, 4, 30]
+U(20) [64, 52]
+V(21) [27]
+W(22) [46, 9]
+X(23) [12]
+Y(24) [62, 3]
+Z(25) [42]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+8 66 18 55 74 66 65 31 50 3 24 6 5 35 32 73 46 43 47 30 0 34 6 67 5 34 0 49 14 65 5 34 54 20 41 1 6 72 8 21 72 51 70 59 53 37 11 46 59 4 43 21 14 52 74 6 51 45 29 69 35 23 11 3 67 19 38 8 35 48 51 20 15 29 31 70 49 24 74 63 21 57 11 40 71 57 33 64 4 65 6 23 40 0 59 41 50 51 19 69
+
+--- DECRYPTED PLAINTEXT ---
+ELIZALENTHETSTOWHEXPRETESERTHESEMANGTHETHEDEBYTHERETHEATEJONTHTHEAKETHEACONDTEAFTETEVEQURETHERENTEAN
+
+--- SCORE ---
+-487.5732
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 100 chars correct (7.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> G
+3      -> H
+4      -> R
+5      -> S
+6      -> T
+8      -> E
+11     -> T
+14     -> H
+15     -> C
+18     -> I
+19     -> A
+20     -> A
+21     -> T
+23     -> H
+24     -> E
+29     -> O
+30     -> P
+31     -> N
+32     -> O
+33     -> Q
+34     -> E
+35     -> T
+37     -> Y
+38     -> K
+40     -> E
+41     -> N
+43     -> E
+45     -> J
+46     -> H
+47     -> X
+48     -> H
+49     -> T
+50     -> T
+51     -> E
+52     -> E
+53     -> B
+54     -> M
+55     -> Z
+57     -> E
+59     -> E
+63     -> F
+64     -> U
+65     -> E
+66     -> L
+67     -> E
+69     -> N
+70     -> D
+71     -> V
+72     -> H
+73     -> W
+74     -> A

@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 30]
+B(1) [13, 11]
+C(2) [1, 22]
+D(3) [33, 34]
+E(4) [21, 15]
+F(5) [50, 41]
+G(6) [6, 23]
+H(7) [27, 49]
+I(8) [44, 7]
+J(9) [28, 17]
+K(10) [19, 8]
+L(11) [3, 43]
+M(12) [46, 29]
+N(13) [20, 25]
+O(14) [35, 24]
+P(15) [40, 39]
+Q(16) [47, 9]
+R(17) [14, 26]
+S(18) [48, 16]
+T(19) [37, 42]
+U(20) [31, 38]
+V(21) [12, 36]
+W(22) [2, 5]
+X(23) [4, 32]
+Y(24) [45, 10]
+Z(25) [0, 51]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+6 24 30 25 34 11 38 10 42 15 25 29 35 26 15 34 35 23 48 2 44 37 49 44 37 5 15 34 14 24 12 21 35 36 21 26 37 24 50 44 41 37 49 30 12 15 20 38 21 2 30 14 29 30 25 34 48 35 41 37 30 43 29 24 16 42 39 30 16 37 24 26 30 3 24 20 37 49 21 16 38 46 46 15 26 16 31 25 34 30 10 18 50 37 21 14 25 24 24 20
+
+--- DECRYPTED PLAINTEXT ---
+QEENTJULIENCARETAKEBOTHOTGETREMEAVERTESOFTHEMEDUEBERCENTEAFTEXCESIZESTEREWEDTHESUPPERSINTELYSTERNEED
+
+--- SCORE ---
+-952.9594
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 43 / 100 chars correct (43.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> B
+3      -> W
+5      -> G
+6      -> Q
+10     -> L
+11     -> J
+12     -> M
+14     -> R
+15     -> E
+16     -> S
+18     -> Y
+20     -> D
+21     -> E
+23     -> K
+24     -> E
+25     -> N
+26     -> R
+29     -> C
+30     -> E
+31     -> I
+34     -> T
+35     -> A
+36     -> V
+37     -> T
+38     -> U
+39     -> Z
+41     -> F
+42     -> I
+43     -> X
+44     -> O
+46     -> P
+48     -> E
+49     -> H
+50     -> S

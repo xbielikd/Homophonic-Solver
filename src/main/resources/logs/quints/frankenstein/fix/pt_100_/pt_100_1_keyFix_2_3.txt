@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [16, 65, 2]
+B(1) [60, 71, 4]
+C(2) [56, 5, 75]
+D(3) [22, 77, 58]
+E(4) [63, 11, 15]
+F(5) [44, 64, 47]
+G(6) [3, 49, 68]
+H(7) [24, 59, 32]
+I(8) [54, 26, 12]
+J(9) [7, 29, 72]
+K(10) [74, 6, 61]
+L(11) [42, 14, 76]
+M(12) [66, 53, 34]
+N(13) [38, 52, 20]
+O(14) [9, 33, 35]
+P(15) [19, 21, 25]
+Q(16) [18, 48, 13]
+R(17) [67, 51, 28]
+S(18) [73, 55, 17]
+T(19) [10, 46, 27]
+U(20) [45, 30, 57]
+V(21) [69, 41, 1]
+W(22) [70, 37, 23]
+X(23) [40, 8, 43]
+Y(24) [62, 31, 39]
+Z(25) [36, 0, 50]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+35 24 70 26 46 24 23 32 65 10 65 71 57 28 52 12 52 3 3 45 73 59 77 54 77 32 9 25 15 67 15 1 12 73 26 27 66 62 32 11 2 28 27 37 65 28 53 10 15 65 28 17 64 54 76 42 15 58 66 31 11 31 63 73 70 59 54 75 32 54 24 2 17 46 12 76 62 37 54 21 63 58 16 70 16 62 27 59 65 27 46 24 11 31 34 12 68 59 10 20 35 27
+
+--- DECRYPTED PLAINTEXT ---
+ZETTHEMANUNOFTHEHOOKNOWNWAYSEXEVENTTHEARATTANTQUENTSINGLETHEREINTONJANEASHEGEANDITHTHETONTHEREBECOUPZT
+
+--- SCORE ---
+-1142.9656
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 102 chars correct (14.7%)
+
+--- KEY (cipher -> plain) ---
+1      -> V
+2      -> A
+3      -> O
+9      -> Y
+10     -> U
+11     -> R
+12     -> E
+15     -> E
+16     -> H
+17     -> S
+20     -> P
+21     -> D
+23     -> M
+24     -> E
+25     -> S
+26     -> T
+27     -> T
+28     -> T
+31     -> E
+32     -> A
+34     -> B
+35     -> Z
+37     -> A
+42     -> L
+45     -> K
+46     -> H
+52     -> H
+53     -> Q
+54     -> N
+57     -> F
+58     -> T
+59     -> O
+62     -> E
+63     -> I
+64     -> I
+65     -> N
+66     -> H
+67     -> X
+68     -> C
+70     -> T
+71     -> O
+73     -> N
+75     -> J
+76     -> G
+77     -> W

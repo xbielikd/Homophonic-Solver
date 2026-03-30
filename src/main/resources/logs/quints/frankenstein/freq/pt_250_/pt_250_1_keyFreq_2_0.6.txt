@@ -1,0 +1,131 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 26, 24, 58, 31]
+B(1) [36]
+C(2) [68, 72]
+D(3) [63, 45, 19]
+E(4) [56, 47, 69, 23, 6, 22, 44, 48]
+F(5) [2, 37]
+G(6) [20, 71]
+H(7) [59, 3, 33, 46]
+I(8) [74, 25, 0, 7, 30]
+J(9) [9]
+K(10) [67]
+L(11) [62, 18, 61]
+M(12) [49, 40]
+N(13) [35, 73, 5, 17, 66]
+O(14) [54, 39, 60, 10, 32]
+P(15) [55, 38]
+Q(16) [21]
+R(17) [52, 51, 13, 42]
+S(18) [12, 28, 4, 15]
+T(19) [53, 65, 41, 16, 50, 29]
+U(20) [1, 57]
+V(21) [64]
+W(22) [8, 43]
+X(23) [27]
+Y(24) [14, 70]
+Z(25) [34]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   71
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+IWASBEWILDEREDINACLOUDOFWONDERANDHORRORTHEDEATHOFWILLIAMTHEEXECUTIONOFJUSTINETHEMURDEROFCLERVALANDLASTLYOFMYWIFEEVENATTHATMOMENTIKNEWNOTTHATMYONLYREMAININGFRIENDSWERESAFEFROMTHEMALIGNITYOFTHEFIENDMYFATHEREVENNOWMIGHTBEWRITHINGUNDERHISGRASPANDERNESTMIGHT
+
+--- CIPHERTEXT ---
+30 43 11 4 36 44 43 0 61 63 47 51 6 45 7 35 11 68 62 32 1 19 39 37 8 10 5 63 44 13 11 35 45 3 10 13 42 54 42 41 33 48 63 69 24 41 59 39 2 43 74 18 61 74 58 40 65 3 47 6 27 56 72 57 65 74 60 66 39 37 9 1 12 50 74 5 23 41 46 47 40 57 13 63 69 52 32 2 72 18 6 42 64 26 18 31 73 63 18 26 28 65 62 14 60 2 49 14 43 30 2 23 44 64 48 5 31 29 53 3 31 41 49 54 40 48 66 29 25 67 66 44 43 17 60 29 50 3 24 53 40 70 54 73 62 70 52 69 49 58 74 17 25 35 20 37 42 7 47 17 45 4 8 6 52 23 28 11 37 48 2 51 54 49 16 33 48 40 11 62 25 20 17 30 53 70 32 37 50 46 44 2 74 23 5 63 40 14 2 24 50 3 23 52 44 64 6 17 73 54 43 49 74 71 59 41 36 47 8 51 7 41 33 7 17 71 57 5 45 56 13 3 0 15 71 51 26 28 55 31 17 63 44 42 17 23 15 50 40 7 20 3 65
+
+--- DECRYPTED PLAINTEXT ---
+VEREXTENTSTASTSTRYETOFSERGASTERTTAGESTSEINSTRESSEEEATEPARATSJUSTRESASECOMEEANESTATESTATESASSINALLSANDRESSESSEVENTINALSEALESTANASTWATEASSEAREASTLESATSPEATTHESSTATERSANDRENEATSKINARETHAVESTEESTEENASASEREANATISALTESESSEXTRASEISASTATUEANDSANDBLASTSANDEASHAR
+
+--- SCORE ---
+-2926.8500
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 253 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> O
+2      -> E
+3      -> A
+4      -> E
+5      -> A
+6      -> S
+7      -> S
+8      -> R
+9      -> C
+10     -> G
+11     -> R
+12     -> M
+13     -> E
+14     -> S
+15     -> D
+16     -> K
+17     -> A
+18     -> A
+19     -> F
+20     -> H
+23     -> N
+24     -> R
+25     -> T
+26     -> N
+27     -> J
+28     -> D
+29     -> S
+30     -> V
+31     -> L
+32     -> T
+33     -> I
+35     -> T
+36     -> X
+37     -> E
+39     -> S
+40     -> A
+41     -> E
+42     -> S
+43     -> E
+44     -> T
+45     -> T
+46     -> S
+47     -> T
+48     -> N
+49     -> S
+50     -> E
+51     -> A
+52     -> A
+53     -> E
+54     -> T
+55     -> B
+56     -> U
+57     -> T
+58     -> P
+59     -> S
+60     -> S
+61     -> T
+62     -> E
+63     -> S
+64     -> I
+65     -> R
+66     -> A
+67     -> W
+68     -> Y
+69     -> T
+70     -> S
+71     -> S
+72     -> S
+73     -> L
+74     -> E

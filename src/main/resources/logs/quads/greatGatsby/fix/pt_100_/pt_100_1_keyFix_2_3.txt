@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [48, 60, 33]
+B(1) [16, 66, 74]
+C(2) [54, 51, 6]
+D(3) [57, 32, 21]
+E(4) [53, 34, 44]
+F(5) [68, 75, 26]
+G(6) [3, 31, 27]
+H(7) [73, 22, 59]
+I(8) [50, 71, 11]
+J(9) [77, 30, 19]
+K(10) [18, 42, 61]
+L(11) [67, 40, 58]
+M(12) [9, 10, 17]
+N(13) [20, 49, 47]
+O(14) [1, 70, 0]
+P(15) [72, 2, 35]
+Q(16) [46, 39, 65]
+R(17) [38, 15, 56]
+S(18) [55, 62, 12]
+T(19) [52, 8, 5]
+U(20) [24, 13, 63]
+V(21) [41, 64, 23]
+W(22) [37, 7, 76]
+X(23) [43, 4, 69]
+Y(24) [36, 25, 28]
+Z(25) [45, 14, 29]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+22 53 6 48 9 44 0 49 58 28 70 20 6 44 71 49 37 22 11 52 53 18 20 11 54 61 44 56 74 0 6 42 53 15 62 60 49 32 59 60 57 60 68 71 27 59 5 76 71 5 73 33 16 24 10 49 33 9 53 32 44 5 8 36 11 49 5 59 34 3 48 38 57 53 47 68 56 1 9 68 48 56 52 73 34 38 1 63 8 70 20 52 73 53 11 62 58 48 20 32
+
+--- DECRYPTED PLAINTEXT ---
+HECAREONLYINCEINTHETEANEQUESTOCKEXPENTHESEEIGHTWITHEDBENERETETOZENTHEFAMSEVESAREASTHEMAJOINTHEEPLANT
+
+--- SCORE ---
+-899.5069
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 54 / 100 chars correct (54.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> O
+1      -> A
+3      -> F
+5      -> T
+6      -> C
+8      -> O
+9      -> R
+10     -> E
+11     -> E
+15     -> X
+16     -> D
+18     -> A
+20     -> N
+22     -> H
+24     -> B
+27     -> G
+28     -> Y
+32     -> T
+33     -> E
+34     -> E
+36     -> Z
+37     -> T
+38     -> M
+42     -> K
+44     -> E
+47     -> V
+48     -> A
+49     -> N
+52     -> T
+53     -> E
+54     -> Q
+56     -> S
+57     -> S
+58     -> L
+59     -> H
+60     -> E
+61     -> U
+62     -> P
+63     -> J
+68     -> E
+70     -> I
+71     -> I
+73     -> H
+74     -> T
+76     -> W

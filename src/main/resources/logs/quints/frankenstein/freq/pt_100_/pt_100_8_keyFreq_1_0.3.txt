@@ -1,0 +1,93 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 19, 30]
+B(1) [16]
+C(2) [22]
+D(3) [43, 39]
+E(4) [33, 25, 10, 17]
+F(5) [9]
+G(6) [2]
+H(7) [21, 28]
+I(8) [42, 15, 41]
+J(9) [27]
+K(10) [38]
+L(11) [11, 40]
+M(12) [4]
+N(13) [1, 32, 36]
+O(14) [35, 6, 23]
+P(15) [24]
+Q(16) [20]
+R(17) [0, 37]
+S(18) [29, 26]
+T(19) [3, 8, 31]
+U(20) [13]
+V(21) [14]
+W(22) [34]
+X(23) [12]
+Y(24) [5]
+Z(25) [18]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   33
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+28 42 29 43 7 13 2 21 8 33 37 7 3 31 10 36 43 25 43 28 42 4 34 42 3 28 3 28 10 2 0 33 19 31 10 26 8 3 10 1 39 25 0 32 25 26 29 16 13 8 26 28 10 29 30 34 34 42 3 21 39 17 26 24 19 42 0 3 28 30 31 8 28 17 42 0 40 41 3 31 40 17 9 13 1 39 34 7 29 0 7 24 41 43 40 5 43 25 22 0 25 30 29 42 36 2
+
+--- DECRYPTED PLAINTEXT ---
+TESITECLEMPTSTOFINITEDRESTSTOCAMETOTESOVENAUNTSWEETTOSARRESLEYTHEEASTATETYEARESTRYBEVERTSATHEIRKINGANASEFC
+
+--- SCORE ---
+-1247.7542
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 12 / 106 chars correct (11.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> V
+2      -> C
+3      -> S
+4      -> D
+5      -> K
+7      -> T
+8      -> E
+9      -> B
+10     -> O
+13     -> E
+16     -> W
+17     -> Y
+19     -> E
+21     -> L
+22     -> G
+24     -> H
+25     -> N
+26     -> T
+28     -> T
+29     -> S
+30     -> A
+31     -> T
+32     -> U
+33     -> M
+34     -> R
+36     -> F
+37     -> P
+39     -> E
+40     -> R
+41     -> E
+42     -> E
+43     -> I

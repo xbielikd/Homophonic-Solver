@@ -1,0 +1,132 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 31, 63, 23, 73]
+B(1) [57]
+C(2) [13, 60]
+D(3) [36, 40, 38]
+E(4) [71, 3, 24, 34, 61, 50, 37, 44]
+F(5) [59, 45]
+G(6) [35, 49]
+H(7) [65, 52, 26, 16]
+I(8) [70, 20, 22, 30, 68]
+J(9) [47]
+K(10) [25]
+L(11) [1, 72, 67]
+M(12) [18, 0]
+N(13) [19, 27, 32, 10, 56]
+O(14) [9, 15, 4, 6, 46]
+P(15) [28, 21]
+Q(16) [5]
+R(17) [69, 42, 64, 2]
+S(18) [43, 58, 8, 17]
+T(19) [29, 14, 33, 12, 54, 55]
+U(20) [48, 39]
+V(21) [62]
+W(22) [41, 66]
+X(23) [74]
+Y(24) [7, 53]
+Z(25) [11]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   72
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ABREEZEBLEWTHROUGHTHEROOMBLEWCURTAINSINATONEENDANDOUTTHEOTHERLIKEPALEFLAGSTWISTINGTHEMUPTOWARDTHEFROSTEDWEDDINGCAKEOFTHECEILINGANDTHENRIPPLEDOVERTHEWINECOLOUREDRUGMAKINGASHADOWONITASWINDDOESONTHESEATHEONLYCOMPLETELYSTATIONARYOBJECTINTHEROOMWASANENORMOUS
+
+--- CIPHERTEXT ---
+51 57 69 50 61 11 24 57 72 3 41 54 52 42 4 48 35 26 12 65 71 64 9 15 0 57 1 37 66 13 39 64 29 73 30 27 8 22 10 23 55 4 19 71 44 10 36 63 56 38 4 39 55 54 52 37 9 54 52 61 2 67 68 25 24 21 23 67 71 45 67 31 35 8 29 41 22 17 55 70 19 49 12 26 50 0 39 21 54 46 41 23 69 38 33 65 61 59 2 9 17 54 37 36 41 44 40 38 70 10 49 13 73 25 37 9 45 54 16 37 13 61 70 72 20 10 35 73 10 36 14 65 61 10 42 68 21 28 67 34 36 15 62 24 64 54 26 61 41 20 10 50 13 9 1 9 39 2 50 38 64 39 49 18 63 25 30 32 49 63 58 52 63 38 4 66 6 10 22 54 23 43 66 70 19 38 36 15 44 43 4 27 14 52 3 43 44 73 29 52 71 4 10 67 7 60 6 18 21 72 44 14 71 72 7 17 33 63 55 30 6 32 63 2 7 4 57 47 24 60 14 20 32 55 26 34 2 15 6 18 41 23 17 31 32 50 19 9 64 18 46 48 43
+
+--- DECRYPTED PLAINTEXT ---
+ZEBEEFEETHESTINGOTARESEEVENTARESSETCUSTRANDERTHEJANEASTTESTERESSEAREEMETOUSESSANDEATEVEASEERBARREPRESSTHERYANTERESTEMSSTRENTSTOETHERETISAKETHELESSTEESTERENEEREASEEHESTHEEXTEANATTSSREANDAHERENCETHERESTENTEERTHATREETESREATTHERENEWERESHATTRETHERSTHEDESHEGE
+
+--- SCORE ---
+-2305.5596
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 253 chars correct (11.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> V
+1      -> N
+2      -> R
+3      -> H
+4      -> N
+6      -> T
+7      -> E
+8      -> U
+9      -> E
+10     -> T
+11     -> F
+12     -> A
+13     -> R
+14     -> E
+15     -> E
+16     -> S
+17     -> S
+18     -> H
+19     -> D
+20     -> S
+21     -> A
+22     -> S
+23     -> R
+24     -> E
+25     -> S
+26     -> T
+27     -> C
+28     -> K
+29     -> S
+30     -> T
+31     -> T
+32     -> H
+33     -> R
+34     -> T
+35     -> O
+36     -> H
+37     -> T
+38     -> A
+39     -> E
+40     -> Y
+41     -> E
+42     -> I
+43     -> E
+44     -> R
+45     -> M
+46     -> E
+47     -> W
+48     -> G
+49     -> E
+50     -> E
+51     -> Z
+52     -> T
+54     -> S
+55     -> A
+56     -> J
+57     -> E
+58     -> X
+59     -> P
+60     -> R
+61     -> E
+62     -> L
+63     -> E
+64     -> S
+65     -> R
+66     -> A
+67     -> E
+68     -> S
+69     -> B
+70     -> N
+71     -> E
+72     -> T
+73     -> E

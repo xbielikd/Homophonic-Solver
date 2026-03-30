@@ -1,0 +1,110 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 6, 56, 40, 37]
+B(1) [63]
+C(2) [4, 50]
+D(3) [73, 24, 71]
+E(4) [69, 21, 19, 55, 61, 5, 35, 68]
+F(5) [17, 47]
+G(6) [29, 15]
+H(7) [60, 33, 10, 51]
+I(8) [32, 3, 23, 36, 20]
+J(9) [57]
+K(10) [16]
+L(11) [0, 41, 12]
+M(12) [66, 46]
+N(13) [31, 13, 44, 25, 26]
+O(14) [27, 64, 74, 22, 1]
+P(15) [18, 2]
+Q(16) [30]
+R(17) [58, 11, 54, 53]
+S(18) [62, 7, 43, 14]
+T(19) [70, 38, 34, 52, 49, 72]
+U(20) [45, 67]
+V(21) [8]
+W(22) [39, 59]
+X(23) [42]
+Y(24) [9, 48]
+Z(25) [65]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   50
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+62 51 61 39 28 62 56 62 41 19 44 24 55 53 62 66 56 0 12 63 11 69 6 62 72 69 24 29 36 53 12 39 20 72 10 56 26 19 54 21 50 72 50 37 53 53 36 56 29 61 59 60 36 4 60 62 33 19 28 50 50 55 25 72 45 37 38 68 73 63 48 52 51 58 74 39 23 44 29 51 61 54 63 64 71 9 63 56 4 16 59 6 53 71 6 34 52 60 69 62 33 74 45 41 73 5 53 7
+
+--- DECRYPTED PLAINTEXT ---
+TNDRATETHERSISTHEMERCENTEESATSERVEWEREABLELESSTEADINTENTHEALLIKETEXPERSUNDERGRANDARYOFREEZINSONJUNETHETHERSQ
+
+--- SCORE ---
+-1171.8937
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 108 chars correct (9.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> M
+4      -> E
+5      -> R
+6      -> N
+7      -> Q
+9      -> F
+10     -> W
+11     -> C
+12     -> E
+16     -> Z
+19     -> E
+20     -> V
+21     -> B
+23     -> G
+24     -> S
+25     -> K
+26     -> R
+28     -> A
+29     -> A
+33     -> H
+34     -> J
+36     -> T
+37     -> E
+38     -> X
+39     -> R
+41     -> H
+44     -> R
+45     -> T
+48     -> S
+50     -> L
+51     -> N
+52     -> U
+53     -> S
+54     -> A
+55     -> I
+56     -> E
+58     -> D
+59     -> I
+60     -> N
+61     -> D
+62     -> T
+63     -> R
+64     -> Y
+66     -> H
+68     -> P
+69     -> E
+71     -> O
+72     -> E
+73     -> E
+74     -> E

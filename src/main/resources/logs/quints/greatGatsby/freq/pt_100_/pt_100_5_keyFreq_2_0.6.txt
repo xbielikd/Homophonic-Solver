@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [26, 58, 62, 24, 22]
+B(1) [59]
+C(2) [47, 30]
+D(3) [35, 29, 18]
+E(4) [68, 54, 16, 46, 21, 23, 3, 43]
+F(5) [6, 14]
+G(6) [74, 71]
+H(7) [36, 61, 25, 67]
+I(8) [51, 13, 8, 1, 56]
+J(9) [9]
+K(10) [10]
+L(11) [20, 52, 11]
+M(12) [64, 48]
+N(13) [7, 40, 57, 42, 31]
+O(14) [53, 65, 72, 63, 19]
+P(15) [50, 15]
+Q(16) [2]
+R(17) [32, 60, 73, 5]
+S(18) [44, 38, 41, 4]
+T(19) [49, 0, 27, 34, 39, 55]
+U(20) [69, 37]
+V(21) [17]
+W(22) [12, 28]
+X(23) [66]
+Y(24) [70, 45]
+Z(25) [33]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+13 36 58 29 59 68 23 40 58 47 0 69 58 11 20 70 1 7 17 1 55 23 18 62 30 67 24 37 6 6 46 69 73 1 42 22 37 7 1 14 53 60 48 63 14 60 19 59 8 7 38 46 71 71 59 11 37 23 30 5 19 41 38 16 29 48 45 11 24 12 40 43 62 60 52 45 27 67 58 27 44 24 34 37 60 29 62 70 64 19 73 40 8 7 71 28 56 55 61 24
+
+--- DECRYPTED PLAINTEXT ---
+JYASANDTAKERATESTACTEDGETHEEFFERSTOBEATENSIVESEAWARESSATEDTHEPRESINTEXTMESINTHATHELESSESSESTWASQUEZE
+
+--- SCORE ---
+-1061.5740
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 100 chars correct (13.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> T
+5      -> H
+6      -> F
+7      -> A
+8      -> W
+11     -> T
+12     -> X
+13     -> J
+14     -> E
+16     -> E
+17     -> C
+18     -> G
+19     -> E
+20     -> E
+22     -> B
+23     -> D
+24     -> E
+27     -> T
+28     -> Q
+29     -> S
+30     -> T
+34     -> L
+36     -> Y
+37     -> E
+38     -> R
+40     -> T
+41     -> P
+42     -> O
+43     -> M
+44     -> H
+45     -> N
+46     -> E
+47     -> K
+48     -> I
+52     -> I
+53     -> N
+55     -> E
+56     -> U
+58     -> A
+59     -> A
+60     -> S
+61     -> Z
+62     -> E
+63     -> V
+64     -> S
+67     -> H
+68     -> N
+69     -> R
+70     -> S
+71     -> S
+73     -> S

@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 10, 67]
+B(1) [76, 44, 65]
+C(2) [62, 25, 60]
+D(3) [11, 63, 23]
+E(4) [40, 74, 35]
+F(5) [52, 27, 54]
+G(6) [49, 2, 75]
+H(7) [36, 50, 34]
+I(8) [77, 64, 46]
+J(9) [9, 28, 39]
+K(10) [13, 0, 38]
+L(11) [61, 22, 29]
+M(12) [17, 21, 71]
+N(13) [8, 24, 41]
+O(14) [69, 30, 16]
+P(15) [56, 73, 68]
+Q(16) [4, 48, 5]
+R(17) [45, 31, 59]
+S(18) [26, 32, 51]
+T(19) [20, 42, 12]
+U(20) [1, 72, 15]
+V(21) [57, 58, 3]
+W(22) [33, 14, 70]
+X(23) [19, 37, 6]
+Y(24) [53, 55, 66]
+Z(25) [43, 47, 18]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+46 11 40 26 77 59 40 23 42 50 67 20 77 17 64 49 34 42 73 7 26 26 21 66 29 77 52 35 16 8 42 34 7 20 76 7 31 59 74 41 31 69 25 0 14 40 10 59 77 22 66 77 12 64 51 42 59 15 40 65 15 12 1 24 77 24 20 74 45 59 1 56 12 35 63 76 66 7 8 53 51 1 63 23 40 41 26 34 16 25 0 30 27 17 64 51 40 59 66 46 52
+
+--- DECRYPTED PLAINTEXT ---
+ZJEETSEREQUETHEYREGREEKOFTHESTERREPRESEVERANCEISTBOTHERESTEXTHASTSEEMSASHELPORTERALREVERSANDWHERESOZH
+
+--- SCORE ---
+-1118.9495
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 101 chars correct (9.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> A
+7      -> R
+8      -> T
+10     -> I
+11     -> J
+12     -> H
+14     -> C
+15     -> T
+16     -> S
+17     -> H
+20     -> E
+21     -> K
+22     -> B
+23     -> R
+24     -> S
+25     -> A
+26     -> E
+27     -> W
+29     -> F
+30     -> D
+31     -> E
+34     -> R
+35     -> E
+40     -> E
+41     -> V
+42     -> E
+45     -> M
+46     -> Z
+49     -> Y
+50     -> Q
+51     -> R
+52     -> H
+53     -> E
+56     -> S
+59     -> S
+63     -> L
+64     -> E
+65     -> X
+66     -> O
+67     -> U
+69     -> R
+73     -> G
+74     -> E
+76     -> P
+77     -> T

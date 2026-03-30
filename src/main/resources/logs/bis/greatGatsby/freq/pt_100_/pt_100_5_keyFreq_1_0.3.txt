@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [37, 13, 21]
+B(1) [34]
+C(2) [27]
+D(3) [15, 7]
+E(4) [24, 40, 32, 38]
+F(5) [3]
+G(6) [23]
+H(7) [17, 11]
+I(8) [20, 33, 5]
+J(9) [28]
+K(10) [16]
+L(11) [26, 9]
+M(12) [0]
+N(13) [30, 10, 6]
+O(14) [36, 4, 19]
+P(15) [41]
+Q(16) [18]
+R(17) [25, 1]
+S(18) [43, 35]
+T(19) [12, 8, 29]
+U(20) [2]
+V(21) [14]
+W(22) [31]
+X(23) [22]
+Y(24) [39]
+Z(25) [42]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+5 17 37 15 34 24 32 30 37 27 29 2 13 9 9 39 33 10 14 33 12 40 7 37 27 11 21 2 3 3 24 2 25 20 10 21 2 30 33 3 36 1 0 4 3 25 19 34 20 30 35 32 23 23 34 26 2 38 27 1 36 35 43 40 7 0 39 26 37 31 30 38 37 25 9 39 29 17 37 12 43 21 29 2 25 7 21 39 0 36 1 30 33 10 23 31 33 12 17 13
+
+--- DECRYPTED PLAINTEXT ---
+ZETJUBEATOMEDTTETEXTHWETOFREEEBESPEREATEINCKESQUPAVELLUGENONIVEWECEGTYANTSTEMETHERMESERECINATELYTHED
+
+--- SCORE ---
+-529.6791
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 2 / 100 chars correct (2.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> C
+1      -> N
+2      -> E
+3      -> E
+4      -> K
+5      -> Z
+7      -> E
+9      -> T
+10     -> E
+11     -> F
+12     -> H
+13     -> D
+14     -> X
+15     -> J
+17     -> E
+19     -> Q
+20     -> P
+21     -> R
+23     -> L
+24     -> B
+25     -> S
+26     -> G
+27     -> O
+29     -> M
+30     -> A
+31     -> Y
+32     -> E
+33     -> T
+34     -> U
+35     -> V
+36     -> I
+37     -> T
+38     -> N
+39     -> E
+40     -> W
+43     -> E

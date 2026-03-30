@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [25, 43, 19]
+B(1) [20]
+C(2) [7]
+D(3) [9, 37]
+E(4) [11, 33, 34, 36]
+F(5) [13]
+G(6) [28]
+H(7) [38, 17]
+I(8) [18, 26, 41]
+J(9) [1]
+K(10) [24]
+L(11) [40, 29]
+M(12) [10]
+N(13) [12, 4, 0]
+O(14) [22, 8, 21]
+P(15) [14]
+Q(16) [35]
+R(17) [5, 16]
+S(18) [32, 30]
+T(19) [27, 15, 6]
+U(20) [23]
+V(21) [39]
+W(22) [42]
+X(23) [2]
+Y(24) [31]
+Z(25) [3]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+18 6 42 43 30 25 30 10 19 29 29 14 43 5 15 31 28 8 27 23 14 16 25 27 38 33 5 26 4 43 38 23 16 16 31 20 31 40 43 37 31 4 25 5 20 22 16 21 23 28 17 42 17 22 42 43 30 19 39 36 5 31 7 29 11 39 34 16 42 8 10 25 12 42 18 15 38 42 38 19 6 40 8 5 37 38 34 12 5 31 23 32 33 37 6 22 37 11 30 7 16 26 20 34
+
+--- DECRYPTED PLAINTEXT ---
+XTEANENGALLYARTEDACEYRECHUROMAHERREVEWASEMERVERKEDBEBEEANAZQREPLIZEREAGEFEXTHEHATWARSHEFREEJUSTESINPROVE
+
+--- SCORE ---
+-826.6113
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 36 / 104 chars correct (34.6%)
+
+--- KEY (cipher -> plain) ---
+4      -> M
+5      -> R
+6      -> T
+7      -> P
+8      -> A
+10     -> G
+11     -> I
+12     -> F
+14     -> Y
+15     -> T
+16     -> R
+17     -> B
+18     -> X
+19     -> A
+20     -> V
+21     -> K
+22     -> E
+23     -> E
+25     -> E
+26     -> O
+27     -> C
+28     -> D
+29     -> L
+30     -> N
+31     -> E
+32     -> J
+33     -> U
+34     -> E
+36     -> Q
+37     -> S
+38     -> H
+39     -> Z
+40     -> W
+42     -> E
+43     -> A

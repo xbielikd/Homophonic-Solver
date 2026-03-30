@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [14, 22, 41]
+B(1) [24]
+C(2) [1]
+D(3) [5, 19]
+E(4) [38, 35, 26, 27]
+F(5) [39]
+G(6) [18]
+H(7) [2, 34]
+I(8) [31, 43, 30]
+J(9) [8]
+K(10) [17]
+L(11) [37, 16]
+M(12) [6]
+N(13) [13, 4, 21]
+O(14) [7, 3, 9]
+P(15) [0]
+Q(16) [29]
+R(17) [20, 15]
+S(18) [36, 11]
+T(19) [32, 33, 12]
+U(20) [42]
+V(21) [23]
+W(22) [10]
+X(23) [40]
+Y(24) [28]
+Z(25) [25]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+30 12 10 22 11 13 12 42 4 32 43 37 32 2 26 13 32 2 41 33 31 1 9 13 21 27 1 32 27 5 32 2 43 36 18 22 32 11 24 28 10 30 33 2 32 34 38 7 39 39 43 1 26 20 30 21 2 27 15 10 2 31 12 27 1 41 15 10 34 35 21 8 3 15 19 41 13 24 22 17 38 15 2 41 19 39 43 21 30 11 2 26 19 12 27 16 16 31 4 18
+
+--- DECRYPTED PLAINTEXT ---
+RMERSHMYWEEZESTHESTIONTHEANEAGESEXPRESEVERISECOURRENTFRESARESOMANTRECKEDBROTHERJORSTOREERSSTOMALLOWP
+
+--- SCORE ---
+-1154.2184
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 100 chars correct (9.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> N
+2      -> S
+3      -> B
+4      -> W
+5      -> G
+7      -> U
+8      -> D
+9      -> T
+10     -> E
+11     -> S
+12     -> M
+13     -> H
+15     -> R
+16     -> L
+17     -> J
+18     -> P
+19     -> O
+20     -> F
+21     -> E
+22     -> R
+24     -> E
+26     -> T
+27     -> A
+28     -> V
+30     -> R
+31     -> O
+32     -> E
+33     -> I
+34     -> C
+35     -> K
+36     -> X
+37     -> Z
+38     -> O
+39     -> R
+41     -> T
+42     -> Y
+43     -> E

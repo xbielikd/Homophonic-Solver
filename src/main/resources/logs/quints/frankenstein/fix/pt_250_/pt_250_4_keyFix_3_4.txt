@@ -1,0 +1,136 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [64, 34, 66, 78]
+B(1) [24, 70, 100, 81]
+C(2) [17, 29, 28, 30]
+D(3) [88, 92, 101, 55]
+E(4) [86, 15, 75, 52]
+F(5) [91, 0, 83, 54]
+G(6) [33, 103, 71, 61]
+H(7) [27, 63, 25, 69]
+I(8) [41, 32, 60, 36]
+J(9) [22, 74, 35, 50]
+K(10) [56, 99, 1, 80]
+L(11) [49, 13, 59, 51]
+M(12) [82, 76, 43, 11]
+N(13) [5, 96, 53, 57]
+O(14) [23, 26, 3, 65]
+P(15) [6, 102, 8, 31]
+Q(16) [95, 45, 38, 85]
+R(17) [87, 93, 84, 97]
+S(18) [89, 46, 58, 19]
+T(19) [18, 98, 9, 39]
+U(20) [21, 10, 16, 4]
+V(21) [44, 48, 42, 40]
+W(22) [77, 94, 2, 72]
+X(23) [47, 20, 68, 79]
+Y(24) [12, 67, 7, 14]
+Z(25) [37, 62, 90, 73]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   76
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+OURLITTLEVOYAGESOFDISCOVERYWEREOFTENPROLONGEDBYTHESUCCESSIVEOBJECTSTHATPRESENTEDTHEMSELVESWEVISITEDTHETOMBOFTHEILLUSTRIOUSHAMPDENANDTHEFIELDONWHICHTHATPATRIOTFELLFORAMOMENTMYSOULWASELEVATEDFROMITSDEBASINGANDMISERABLEFEARSTOCONTEMPLATETHEDIVINEIDEASOF
+
+--- CIPHERTEXT ---
+65 16 97 59 41 98 98 13 15 40 23 67 66 61 75 19 3 83 88 60 46 17 3 42 86 93 7 72 75 84 15 65 83 39 86 5 8 93 26 51 65 96 33 86 101 81 14 39 25 15 46 4 30 30 52 89 19 41 40 75 23 70 74 86 30 98 89 9 27 66 39 31 87 15 89 75 5 9 75 88 9 63 52 43 46 52 49 40 52 19 72 15 44 32 89 41 39 75 55 98 69 86 98 23 11 24 23 91 9 63 15 41 51 51 16 58 39 87 41 65 16 19 69 66 43 6 88 86 57 34 53 88 98 27 86 54 32 52 49 55 3 96 77 27 41 29 25 39 27 66 18 8 66 98 97 32 23 39 0 86 13 59 91 23 97 66 76 65 82 75 53 9 82 14 89 3 4 13 72 34 89 52 51 86 44 66 18 86 101 0 84 23 11 41 98 58 92 86 70 34 89 36 96 71 78 53 55 82 41 46 86 87 64 100 13 15 54 52 66 97 46 98 65 17 65 57 39 15 11 8 51 66 9 75 98 63 86 101 32 42 36 57 75 60 88 15 78 19 23 83
+
+--- DECRYPTED PLAINTEXT ---
+ITREATTHEREJAMESINDISTIMESTHEHEINTERESQLINKERFATHESACCESSAREEXPECTSTHATURESERTEDTHERSEARESHERESATEDTHETERBERTHEALLTOTRAITSHAREDENANDTHEREEADINTHATHTHAVEATREETTEHERERAZIWENTWASIAHHASELERAVERTHERATOREXASINGANDWASERYTHEREARSTITINTERELATETHEREMINEIDEASEN
+
+--- SCORE ---
+-2774.4609
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 142 / 250 chars correct (56.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+3      -> I
+4      -> A
+5      -> R
+6      -> E
+7      -> T
+8      -> E
+9      -> T
+11     -> R
+13     -> H
+14     -> A
+15     -> E
+16     -> T
+17     -> T
+18     -> V
+19     -> S
+23     -> E
+24     -> B
+25     -> H
+26     -> Q
+27     -> H
+29     -> T
+30     -> C
+31     -> U
+32     -> E
+33     -> K
+34     -> A
+36     -> I
+39     -> T
+40     -> R
+41     -> A
+42     -> M
+43     -> R
+44     -> R
+46     -> S
+49     -> A
+51     -> L
+52     -> E
+53     -> N
+54     -> R
+55     -> D
+57     -> N
+58     -> O
+59     -> E
+60     -> I
+61     -> M
+63     -> H
+64     -> Y
+65     -> I
+66     -> A
+67     -> J
+69     -> H
+70     -> X
+71     -> G
+72     -> H
+74     -> P
+75     -> E
+76     -> Z
+77     -> T
+78     -> A
+81     -> F
+82     -> W
+83     -> N
+84     -> H
+86     -> E
+87     -> R
+88     -> D
+89     -> S
+91     -> R
+92     -> R
+93     -> S
+96     -> N
+97     -> R
+98     -> T
+100    -> T
+101    -> R

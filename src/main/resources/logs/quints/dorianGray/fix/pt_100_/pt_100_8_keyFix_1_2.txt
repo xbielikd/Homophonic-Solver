@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [10, 33]
+B(1) [22, 9]
+C(2) [27, 3]
+D(3) [20, 7]
+E(4) [24, 13]
+F(5) [36, 12]
+G(6) [14, 45]
+H(7) [38, 23]
+I(8) [0, 11]
+J(9) [41, 32]
+K(10) [21, 47]
+L(11) [44, 5]
+M(12) [42, 34]
+N(13) [26, 46]
+O(14) [1, 19]
+P(15) [18, 51]
+Q(16) [4, 39]
+R(17) [25, 29]
+S(18) [16, 49]
+T(19) [40, 35]
+U(20) [2, 28]
+V(21) [37, 50]
+W(22) [30, 17]
+X(23) [31, 43]
+Y(24) [15, 6]
+Z(25) [48, 8]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+17 13 33 25 24 26 19 35 49 24 26 40 11 26 35 1 35 23 24 17 1 29 5 20 40 1 33 11 29 19 2 29 42 1 25 10 5 51 25 24 41 28 20 11 27 13 49 0 26 13 50 24 29 40 33 47 13 33 46 15 46 1 35 11 3 13 19 12 30 38 10 40 3 1 42 34 1 26 18 24 1 18 5 13 16 33 15 10 26 7 0 46 13 50 13 25 11 26 35 24 29 12 13 29 24
+
+--- DECRYPTED PLAINTEXT ---
+WEARENDTHENTINTOTHEWORLETOAIRDERMORALFREQUEIZEHENEVERTAKEANSNOTICEDBYJATCOMMONPEOPLEXASANGENEVERINTERBERE
+
+--- SCORE ---
+-1209.2575
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 84 / 105 chars correct (80.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> O
+2      -> E
+3      -> C
+5      -> L
+7      -> G
+10     -> A
+11     -> I
+12     -> B
+13     -> E
+15     -> S
+16     -> X
+17     -> W
+18     -> P
+19     -> D
+20     -> E
+23     -> H
+24     -> E
+25     -> R
+26     -> N
+27     -> Z
+28     -> U
+29     -> R
+30     -> Y
+33     -> A
+34     -> M
+35     -> T
+38     -> J
+40     -> T
+41     -> Q
+42     -> M
+46     -> N
+47     -> K
+49     -> H
+50     -> V
+51     -> F

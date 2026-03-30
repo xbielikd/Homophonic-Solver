@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [33, 30, 6]
+B(1) [25, 60, 73]
+C(2) [59, 55, 14]
+D(3) [2, 4, 75]
+E(4) [61, 24, 70]
+F(5) [37, 23, 8]
+G(6) [21, 41, 57]
+H(7) [22, 48, 58]
+I(8) [32, 19, 46]
+J(9) [36, 49, 76]
+K(10) [64, 45, 13]
+L(11) [39, 1, 43]
+M(12) [74, 44, 47]
+N(13) [35, 27, 77]
+O(14) [0, 17, 15]
+P(15) [5, 67, 62]
+Q(16) [28, 68, 56]
+R(17) [40, 38, 71]
+S(18) [9, 31, 7]
+T(19) [26, 12, 20]
+U(20) [51, 53, 3]
+V(21) [34, 54, 72]
+W(22) [66, 18, 65]
+X(23) [50, 29, 63]
+Y(24) [42, 11, 10]
+Z(25) [52, 16, 69]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+ITWASASMALLPARTYGOTUPRATHERINAHURRYBYLADYNARBOROUGHWHOWASAVERYCLEVERWOMANWITHWHATLORDHENRYUSEDTODESCRIBE
+
+--- CIPHERTEXT ---
+46 20 66 6 31 30 7 47 6 1 39 5 33 40 12 42 41 15 26 3 67 40 6 12 48 24 71 32 35 30 22 53 40 71 11 73 11 39 33 2 10 77 6 38 25 17 40 15 51 21 22 18 48 15 18 6 7 30 34 24 71 10 59 39 70 72 70 40 18 0 74 6 77 18 19 20 58 18 22 30 26 1 0 71 4 48 70 27 71 11 53 7 24 2 12 0 4 61 9 55 40 32 25 70
+
+--- DECRYPTED PLAINTEXT ---
+ZEMERENGENTITTECKEALYTEERTHEWERATHEVETTHEREPRETEQUREREEENEXTHESTEDETETHEREREBEREANTHERETHEANTHETEJOFTERE
+
+--- SCORE ---
+-497.1323
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 104 chars correct (3.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> N
+2      -> H
+3      -> L
+4      -> E
+5      -> I
+6      -> E
+7      -> N
+9      -> O
+10     -> E
+11     -> E
+12     -> E
+15     -> E
+17     -> E
+18     -> E
+19     -> R
+20     -> E
+21     -> U
+22     -> R
+24     -> T
+25     -> R
+26     -> A
+27     -> T
+30     -> E
+31     -> R
+32     -> E
+33     -> T
+34     -> X
+35     -> W
+38     -> P
+39     -> T
+40     -> T
+41     -> K
+42     -> C
+46     -> Z
+47     -> G
+48     -> R
+51     -> Q
+53     -> A
+55     -> F
+58     -> B
+59     -> S
+61     -> J
+66     -> M
+67     -> Y
+70     -> E
+71     -> H
+72     -> D
+73     -> V
+74     -> H
+77     -> R

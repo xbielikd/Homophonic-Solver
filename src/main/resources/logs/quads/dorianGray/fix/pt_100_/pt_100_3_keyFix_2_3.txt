@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [45, 25, 30]
+B(1) [63, 72, 70]
+C(2) [7, 6, 32]
+D(3) [50, 9, 4]
+E(4) [67, 76, 5]
+F(5) [8, 46, 33]
+G(6) [27, 77, 66]
+H(7) [42, 41, 34]
+I(8) [3, 36, 59]
+J(9) [53, 23, 37]
+K(10) [44, 47, 69]
+L(11) [64, 13, 20]
+M(12) [29, 22, 40]
+N(13) [14, 19, 57]
+O(14) [39, 11, 38]
+P(15) [48, 43, 26]
+Q(16) [73, 56, 60]
+R(17) [74, 55, 18]
+S(18) [51, 16, 21]
+T(19) [28, 49, 52]
+U(20) [12, 65, 0]
+V(21) [62, 54, 31]
+W(22) [68, 1, 61]
+X(23) [71, 24, 10]
+Y(24) [75, 2, 17]
+Z(25) [15, 35, 58]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+14 39 22 30 19 7 11 29 76 21 45 6 74 11 16 51 28 1 39 59 4 5 25 20 28 42 59 19 27 51 8 67 1 32 11 40 67 25 7 55 38 21 51 11 19 67 36 32 45 57 49 67 24 26 20 25 59 57 3 28 49 11 2 39 65 72 45 51 59 64 72 12 49 36 29 12 51 49 19 76 31 76 74 16 3 28 52 38 17 38 65 25 77 25 3 14 49 42 5 18 67
+
+--- DECRYPTED PLAINTEXT ---
+BEFOREATETHERATENSEEMATINGERCEWESTAKETELATEARESTHREEQUITERONEADERTHEEXTHESTHEEREVERTONJAPARTYTOBEGAZE
+
+--- SCORE ---
+-904.2593
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 101 chars correct (10.9%)
+
+--- KEY (cipher -> plain) ---
+1      -> S
+2      -> D
+3      -> O
+4      -> M
+5      -> A
+6      -> E
+7      -> E
+8      -> W
+11     -> A
+12     -> H
+14     -> B
+16     -> T
+17     -> P
+18     -> Z
+19     -> R
+20     -> I
+21     -> T
+22     -> F
+24     -> Q
+25     -> T
+26     -> U
+27     -> C
+28     -> N
+29     -> T
+30     -> O
+31     -> V
+32     -> T
+36     -> S
+38     -> A
+39     -> E
+40     -> K
+42     -> G
+45     -> H
+49     -> E
+51     -> E
+52     -> J
+55     -> L
+57     -> R
+59     -> E
+64     -> X
+65     -> R
+67     -> E
+72     -> T
+74     -> R
+76     -> E
+77     -> Y

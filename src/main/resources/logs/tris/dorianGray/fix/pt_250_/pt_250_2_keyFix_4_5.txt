@@ -1,0 +1,150 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 130
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [59, 29, 96, 91, 39]
+B(1) [5, 42, 106, 101, 124]
+C(2) [3, 37, 76, 58, 21]
+D(3) [128, 54, 50, 56, 115]
+E(4) [12, 79, 77, 9, 112]
+F(5) [47, 84, 40, 62, 82]
+G(6) [32, 4, 41, 120, 49]
+H(7) [104, 36, 89, 94, 95]
+I(8) [61, 17, 57, 111, 68]
+J(9) [93, 51, 24, 66, 26]
+K(10) [18, 13, 127, 70, 109]
+L(11) [53, 86, 19, 30, 65]
+M(12) [119, 38, 78, 88, 20]
+N(13) [92, 16, 8, 0, 74]
+O(14) [45, 99, 44, 122, 129]
+P(15) [97, 60, 126, 52, 6]
+Q(16) [117, 103, 14, 15, 48]
+R(17) [55, 11, 2, 80, 67]
+S(18) [34, 10, 72, 100, 46]
+T(19) [64, 90, 98, 22, 83]
+U(20) [81, 27, 69, 33, 73]
+V(21) [7, 23, 85, 75, 121]
+W(22) [71, 118, 114, 28, 25]
+X(23) [1, 108, 107, 110, 35]
+Y(24) [87, 125, 31, 113, 63]
+Z(25) [105, 116, 43, 123, 102]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        5.0
+CIPHER SYMBOLS:   90
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+96 83 77 67 80 61 124 30 77 94 44 52 112 47 86 81 22 64 112 80 9 54 126 96 10 98 94 17 38 95 77 21 19 73 83 58 94 79 54 39 98 111 83 88 59 115 19 63 71 104 12 2 79 17 10 22 36 112 101 45 115 125 104 79 79 110 21 19 96 17 38 9 128 14 73 57 76 18 61 38 73 100 64 46 112 9 68 90 59 98 44 8 3 9 111 83 111 46 68 0 39 0 79 20 6 98 31 100 22 91 5 30 79 111 74 22 36 79 104 122 88 9 40 39 55 38 10 17 11 64 36 9 82 44 65 13 115 122 92 83 53 111 18 9 98 99 104 59 121 77 98 89 39 83 100 99 67 22 44 62 83 104 111 74 32 57 16 64 104 12 68 67 36 99 33 10 12 34 22 89 77 63 72 39 125 91 58 122 11 60 100 9 124 67 111 0 49 10 106 59 128 19 27 58 70 83 94 12 36 44 119 77 40 39 67 119 49 45 90 94 112 80 12 29 64 99 74 58 77 29 16 56 38 77 79 90 78 9 83 112 19 65 99 8 77 122 40 83 89 112
+
+--- DECRYPTED PLAINTEXT ---
+ATETREAREHEREQUATTERERJASTHINGEINTTEHERETETTIENEWHEBEISTHEPRETHEEXINAINEOFTHERENTHTHEEATITERKEETEHARERELATTHTHEREENTHEHATEREANSINTHEMETHEANTHERETEHIZETHETHETTEDTHENTHETHEATHEYSENTHEEVETHEANTHEATERESTIONCENTHEHEHERETHERTHERENTENEENEINEETHETENTEREARTHE
+
+--- SCORE ---
+-1663.6284
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 108 / 250 chars correct (43.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> B
+3      -> K
+5      -> E
+6      -> A
+8      -> R
+9      -> E
+10     -> S
+11     -> N
+12     -> E
+13     -> H
+14     -> F
+16     -> E
+17     -> I
+18     -> R
+19     -> N
+20     -> L
+21     -> I
+22     -> T
+27     -> C
+29     -> N
+30     -> R
+31     -> T
+32     -> T
+33     -> Y
+34     -> N
+36     -> H
+38     -> N
+39     -> E
+40     -> R
+44     -> E
+45     -> R
+46     -> H
+47     -> Q
+49     -> E
+52     -> R
+53     -> H
+54     -> R
+55     -> A
+56     -> I
+57     -> H
+58     -> E
+59     -> I
+60     -> T
+61     -> E
+62     -> D
+63     -> E
+64     -> T
+65     -> T
+67     -> T
+68     -> A
+70     -> N
+71     -> W
+72     -> V
+73     -> T
+74     -> N
+76     -> E
+77     -> E
+78     -> H
+79     -> E
+80     -> R
+81     -> A
+82     -> M
+83     -> T
+86     -> U
+88     -> T
+89     -> H
+90     -> T
+91     -> H
+92     -> N
+94     -> H
+95     -> G
+96     -> A
+98     -> T
+99     -> E
+100    -> H
+101    -> P
+104    -> H
+106    -> T
+110    -> X
+111    -> E
+112    -> E
+115    -> E
+119    -> H
+121    -> Z
+122    -> A
+124    -> A
+125    -> T
+126    -> J
+128    -> O

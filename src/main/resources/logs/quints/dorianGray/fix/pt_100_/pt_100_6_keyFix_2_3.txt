@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [37, 52, 14]
+B(1) [77, 76, 7]
+C(2) [22, 34, 58]
+D(3) [33, 8, 59]
+E(4) [25, 18, 27]
+F(5) [57, 31, 44]
+G(6) [51, 3, 20]
+H(7) [42, 36, 62]
+I(8) [49, 9, 69]
+J(9) [53, 54, 35]
+K(10) [21, 28, 68]
+L(11) [45, 55, 72]
+M(12) [64, 15, 61]
+N(13) [6, 11, 48]
+O(14) [38, 29, 50]
+P(15) [63, 1, 60]
+Q(16) [75, 10, 65]
+R(17) [43, 23, 40]
+S(18) [2, 46, 56]
+T(19) [4, 41, 12]
+U(20) [17, 0, 71]
+V(21) [24, 66, 26]
+W(22) [19, 39, 5]
+X(23) [16, 47, 73]
+Y(24) [32, 13, 74]
+Z(25) [70, 67, 30]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+13 29 17 59 38 48 41 21 11 29 39 19 42 37 12 32 50 71 19 27 23 18 41 38 61 18 38 11 58 18 5 36 74 29 11 58 18 29 42 9 58 52 11 4 76 18 14 43 12 50 41 62 49 48 21 29 44 49 12 49 19 9 56 62 9 36 52 59 6 27 26 27 43 72 52 69 33 27 32 27 46 17 1 38 11 13 29 71 32 38 0 62 37 24 25 2 1 38 49 45 27 59
+
+--- DECRYPTED PLAINTEXT ---
+HELLSPARTEDSNORTERSAREASSESTHESIZETHEENTHATAGESTREAREPREVERESTARTIALWAYATJACKATABLESTHERTSFROMQUESEXAL
+
+--- SCORE ---
+-1113.9209
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 102 chars correct (8.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> E
+2      -> U
+4      -> A
+5      -> S
+6      -> W
+9      -> T
+11     -> T
+12     -> R
+13     -> H
+14     -> S
+17     -> L
+18     -> E
+19     -> S
+21     -> R
+23     -> R
+24     -> M
+25     -> Q
+26     -> Y
+27     -> A
+29     -> E
+32     -> T
+33     -> K
+36     -> I
+37     -> O
+38     -> S
+39     -> D
+41     -> A
+42     -> N
+43     -> T
+44     -> V
+45     -> X
+46     -> B
+48     -> P
+49     -> E
+50     -> E
+52     -> A
+56     -> A
+58     -> H
+59     -> L
+61     -> S
+62     -> R
+69     -> C
+71     -> R
+72     -> J
+74     -> Z
+76     -> G

@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [72, 47, 129, 111, 5, 6, 68, 94, 120, 70]
+B(1) [85, 128]
+C(2) [122, 31, 30, 123]
+D(3) [53, 49, 50, 104, 39, 75]
+E(4) [118, 93, 32, 91, 21, 107, 73, 105, 80, 44, 62, 82, 3, 100, 37, 40]
+F(5) [131, 124, 61]
+G(6) [19, 34, 59]
+H(7) [117, 23, 16, 13, 28, 48, 103, 0]
+I(8) [55, 9, 8, 20, 11, 36, 56, 71, 10]
+J(9) [77]
+K(10) [102]
+L(11) [65, 69, 125, 74, 88]
+M(12) [106, 38, 109]
+N(13) [33, 121, 22, 26, 126, 99, 54, 95, 115]
+O(14) [90, 98, 101, 24, 1, 58, 27, 7, 42, 113]
+P(15) [132, 108, 43]
+Q(16) [51]
+R(17) [41, 78, 4, 2, 134, 83, 81, 45]
+S(18) [130, 46, 119, 114, 97, 60, 87, 76]
+T(19) [66, 127, 18, 12, 96, 35, 29, 63, 84, 133, 57]
+U(20) [79, 52, 15, 25]
+V(21) [17, 89]
+W(22) [110, 14, 86]
+X(23) [112]
+Y(24) [67, 64, 92]
+Z(25) [116]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+THISCHANGEWASPARTICULARLYAGREEABLETOMETHESHUTTINGOFTHEGATESREGULARLYATTENOCLOCKANDTHEIMPOSSIBILITYOFREMAININGONTHELAKEAFTERTHATHOURHADRENDEREDOURRESIDENCEWITHINTHEWALLSOFGENEVAVERYIRKSOMETOMEIWASNOWFREEOFTENAFTERTHERESTOFTHEFAMILYHADRETIREDFORTHENIGHT
+
+--- CIPHERTEXT ---
+66 13 71 60 123 117 68 126 34 21 110 120 76 108 129 41 35 20 122 15 69 47 4 125 67 111 59 4 21 32 70 128 88 3 66 7 106 80 57 16 82 114 103 79 12 57 9 121 19 24 131 29 48 100 59 72 57 3 76 45 32 19 15 69 94 2 74 67 111 18 133 91 33 27 123 69 90 30 102 72 54 104 63 23 100 56 38 132 98 76 114 36 128 10 125 8 18 64 1 131 78 100 106 5 11 99 8 99 34 42 126 29 117 21 65 129 102 40 5 61 12 40 41 127 117 6 133 48 1 52 134 103 6 104 4 3 99 50 37 83 100 104 24 25 4 2 107 60 8 50 40 126 122 100 110 55 96 0 55 26 84 23 91 86 6 65 74 60 42 61 34 21 126 93 17 6 17 3 78 64 36 83 102 119 90 38 93 57 101 109 82 20 14 120 60 99 58 110 61 45 100 32 24 61 63 32 95 68 61 18 100 4 57 28 93 134 93 130 63 98 61 57 48 32 61 111 109 56 69 92 48 5 39 2 100 63 36 4 73 50 61 58 78 35 16 82 115 56 19 23 84
+
+--- DECRYPTED PLAINTEXT ---
+HQFACENTERONERATETHATWEENTVERSLASTHERANDASEVENTSTOTHEEVENTERSTATESINTHREJECTERIESTATEAMERESTAKETHATTHERIGHTHENTHERSAIDITEDTHEARETUREATETHERSETOBESTATEDTHEOTHETHETEXASIANTERTESASTHATSIZEMENTHATINAHTOTRESOTASINTHEENTEREPARTNESTTHATHEIRSEATESETTHEDAYATTE
+
+--- SCORE ---
+-2645.9690
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 34 / 251 chars correct (13.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> T
+2      -> S
+3      -> T
+4      -> E
+5      -> I
+6      -> A
+7      -> E
+8      -> T
+9      -> T
+10     -> K
+11     -> G
+12     -> E
+13     -> Q
+14     -> I
+15     -> A
+16     -> D
+17     -> S
+18     -> H
+19     -> T
+20     -> T
+21     -> R
+23     -> T
+24     -> O
+25     -> B
+26     -> H
+27     -> E
+28     -> T
+29     -> H
+30     -> R
+32     -> S
+33     -> J
+34     -> E
+35     -> E
+36     -> T
+37     -> R
+38     -> M
+39     -> R
+40     -> D
+41     -> T
+42     -> N
+45     -> R
+47     -> W
+48     -> E
+50     -> E
+52     -> U
+54     -> S
+55     -> T
+56     -> A
+57     -> N
+58     -> T
+59     -> V
+60     -> A
+61     -> T
+63     -> A
+64     -> A
+65     -> S
+66     -> H
+67     -> N
+68     -> N
+69     -> T
+70     -> L
+71     -> F
+72     -> E
+73     -> S
+74     -> I
+76     -> E
+78     -> H
+79     -> V
+80     -> A
+82     -> A
+83     -> S
+84     -> E
+86     -> X
+88     -> S
+90     -> E
+91     -> E
+92     -> H
+93     -> E
+94     -> E
+95     -> I
+96     -> H
+98     -> R
+99     -> H
+100    -> E
+101    -> T
+102    -> I
+103    -> E
+104    -> T
+106    -> R
+107    -> T
+108    -> R
+109    -> H
+110    -> O
+111    -> T
+114    -> S
+115    -> Y
+117    -> E
+119    -> Z
+120    -> N
+121    -> S
+122    -> H
+123    -> C
+125    -> E
+126    -> T
+127    -> H
+128    -> A
+129    -> A
+130    -> P
+131    -> T
+132    -> E
+133    -> R
+134    -> R

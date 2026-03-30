@@ -1,0 +1,93 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 14]
+B(1) [36, 12]
+C(2) [18, 11]
+D(3) [50, 25]
+E(4) [8, 6]
+F(5) [22, 40]
+G(6) [2, 7]
+H(7) [47, 34]
+I(8) [15, 28]
+J(9) [10, 31]
+K(10) [27, 33]
+L(11) [48, 17]
+M(12) [9, 24]
+N(13) [29, 19]
+O(14) [43, 3]
+P(15) [4, 23]
+Q(16) [46, 49]
+R(17) [42, 32]
+S(18) [41, 16]
+T(19) [5, 20]
+U(20) [44, 35]
+V(21) [38, 30]
+W(22) [1, 13]
+X(23) [37, 0]
+Y(24) [39, 45]
+Z(25) [26, 21]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   33
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+2 43 51 29 50 12 44 39 5 6 19 24 3 42 8 25 43 7 41 13 15 20 47 15 5 1 8 50 32 3 30 8 3 30 6 42 20 3 22 15 22 20 47 51 30 6 19 44 6 1 51 42 24 14 19 50 41 3 22 5 14 48 9 3 41 20 4 14 16 20 43 42 14 48 3 19 20 47 6 41 44 9 24 6 32 16 35 19 50 51 45 51 22 20 6 42 29 3 3 29
+
+--- DECRYPTED PLAINTEXT ---
+QUEBEGEXCEREAREJULSWITHICKEEDAVEAVERTANINTHEVEREEKEREORESANCOMPASTYOFTUROMARTHESEPEEDFOREEZENTERBAAB
+
+--- SCORE ---
+-747.5542
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 36 / 100 chars correct (36.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> K
+2      -> Q
+3      -> A
+4      -> Y
+5      -> C
+6      -> E
+7      -> L
+8      -> E
+9      -> P
+12     -> G
+13     -> W
+14     -> O
+15     -> I
+16     -> F
+19     -> R
+20     -> T
+22     -> N
+24     -> E
+25     -> J
+29     -> B
+30     -> V
+32     -> D
+35     -> O
+39     -> X
+41     -> S
+42     -> R
+43     -> U
+44     -> E
+45     -> Z
+47     -> H
+48     -> M
+50     -> E
+51     -> E

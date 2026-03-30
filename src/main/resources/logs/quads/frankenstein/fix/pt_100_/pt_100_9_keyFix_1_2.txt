@@ -1,0 +1,92 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 37]
+B(1) [24, 45]
+C(2) [14, 23]
+D(3) [7, 5]
+E(4) [1, 36]
+F(5) [35, 6]
+G(6) [44, 41]
+H(7) [4, 3]
+I(8) [38, 20]
+J(9) [18, 9]
+K(10) [48, 49]
+L(11) [50, 31]
+M(12) [33, 10]
+N(13) [11, 46]
+O(14) [22, 19]
+P(15) [25, 51]
+Q(16) [21, 47]
+R(17) [28, 42]
+S(18) [43, 30]
+T(19) [17, 27]
+U(20) [29, 26]
+V(21) [39, 0]
+W(22) [16, 2]
+X(23) [8, 40]
+Y(24) [15, 13]
+Z(25) [32, 34]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   32
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+ASILOOKEDONHIMHISCOUNTENANCEEXPRESSEDTHEUTMOSTEXTENTOFMALICEANDTREACHERYITHOUGHTWITHASENSATIONOFMADNESS
+
+--- CIPHERTEXT ---
+12 30 20 50 19 19 48 36 5 19 11 4 38 10 4 20 30 14 22 26 46 17 1 46 12 46 14 1 36 8 25 28 1 30 30 1 5 27 3 1 26 17 33 22 43 17 1 8 17 1 11 27 19 6 33 37 50 20 14 36 12 11 5 17 42 1 12 23 3 1 28 13 38 17 3 22 26 41 4 17 16 20 17 3 37 43 1 11 43 37 27 38 22 11 19 6 33 37 5 11 1 43 30
+
+--- DECRYPTED PLAINTEXT ---
+ALAGOOVEDONUSQUALMISSTESASMEEXPBELLEDTHESTRICTEXTENTOFREGAMEANDTWEAKHEBYSTHISJUTZATHECENCETSINOFREDNECL
+
+--- SCORE ---
+-1057.9942
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 54 / 103 chars correct (52.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+3      -> H
+4      -> U
+5      -> D
+6      -> F
+8      -> X
+10     -> Q
+11     -> N
+12     -> A
+13     -> Y
+14     -> M
+16     -> Z
+17     -> T
+19     -> O
+20     -> A
+22     -> I
+23     -> K
+25     -> P
+26     -> S
+27     -> T
+28     -> B
+30     -> L
+33     -> R
+36     -> E
+37     -> E
+38     -> S
+41     -> J
+42     -> W
+43     -> C
+46     -> S
+48     -> V
+50     -> G

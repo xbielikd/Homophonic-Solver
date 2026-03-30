@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 30]
+B(1) [40, 26]
+C(2) [33, 3]
+D(3) [21, 6]
+E(4) [4, 2]
+F(5) [5, 1]
+G(6) [34, 29]
+H(7) [48, 31]
+I(8) [35, 9]
+J(9) [44, 25]
+K(10) [51, 0]
+L(11) [36, 13]
+M(12) [45, 11]
+N(13) [18, 32]
+O(14) [17, 49]
+P(15) [24, 20]
+Q(16) [19, 50]
+R(17) [10, 22]
+S(18) [7, 46]
+T(19) [39, 8]
+U(20) [41, 38]
+V(21) [16, 27]
+W(22) [23, 15]
+X(23) [42, 12]
+Y(24) [47, 37]
+Z(25) [43, 14]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+23 48 4 32 9 39 31 49 38 29 31 8 49 5 48 35 45 35 29 18 30 7 31 2 21 45 37 8 2 4 8 48 11 37 2 47 2 7 40 2 33 30 45 4 35 18 5 13 28 11 4 21 30 32 6 9 30 22 21 2 32 39 13 47 15 35 46 48 4 21 39 49 4 42 39 35 32 29 41 9 46 31 39 48 28 8 13 35 1 4 15 31 35 3 48 9 31 28 21 7 17
+
+--- DECRYPTED PLAINTEXT ---
+ZETRESTEQUTHELEONOUPANTEENTHETHEATEDENGEXANTOPLECATEARKEAVEERSEDIOMETESETYSORUBEMTSECHEOFTITOWEETCENJ
+
+--- SCORE ---
+-520.2784
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 101 chars correct (10.9%)
+
+--- KEY (cipher -> plain) ---
+1      -> F
+2      -> E
+3      -> W
+4      -> T
+5      -> L
+6      -> K
+7      -> N
+8      -> H
+9      -> E
+11     -> A
+13     -> E
+15     -> I
+17     -> J
+18     -> P
+21     -> E
+22     -> V
+23     -> Z
+28     -> C
+29     -> U
+30     -> A
+31     -> T
+32     -> R
+33     -> X
+35     -> O
+37     -> T
+38     -> Q
+39     -> S
+40     -> G
+41     -> B
+42     -> Y
+45     -> N
+46     -> M
+47     -> D
+48     -> E
+49     -> E

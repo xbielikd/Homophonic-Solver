@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 66, 8, 11, 38]
+B(1) [50]
+C(2) [71, 26]
+D(3) [73, 68, 32]
+E(4) [1, 61, 47, 43, 63, 55, 15, 67]
+F(5) [28, 27]
+G(6) [19, 9]
+H(7) [21, 24, 4, 37]
+I(8) [74, 35, 57, 2, 64]
+J(9) [49]
+K(10) [31]
+L(11) [29, 60, 20]
+M(12) [62, 10]
+N(13) [13, 42, 12, 30, 5]
+O(14) [25, 58, 36, 22, 33]
+P(15) [6, 70]
+Q(16) [3]
+R(17) [72, 14, 40, 7]
+S(18) [52, 23, 48, 51]
+T(19) [39, 69, 54, 34, 41, 56]
+U(20) [65, 16]
+V(21) [53]
+W(22) [0, 44]
+X(23) [59]
+Y(24) [45, 17]
+Z(25) [46]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+21 74 23 39 18 42 42 43 73 48 31 2 13 44 8 52 73 40 38 0 13 18 69 54 72 38 26 69 74 53 1 60 17 41 2 9 4 54 25 12 37 35 51 27 11 71 67 38 13 73 24 74 52 48 37 25 72 39 24 8 2 7 20 25 33 31 47 32 66 48 54 24 33 16 9 37 2 34 44 67 72 63 39 7 2 10 10 1 32 15 53 63 72 17 68 66 45 2 26 33 16 60 73
+
+--- DECRYPTED PLAINTEXT ---
+ZEWATOOFEREESTHEEVEYSTHEHETHEREREJECKETHEDQUNGTESETEERETHATHERITHEPRERETHECEEXTTHEARELLEREREHEMEBETHERE
+
+--- SCORE ---
+-499.9888
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 103 chars correct (6.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> E
+2      -> E
+4      -> K
+7      -> R
+8      -> H
+9      -> C
+10     -> L
+11     -> N
+12     -> H
+13     -> S
+15     -> E
+16     -> E
+17     -> E
+18     -> T
+20     -> I
+21     -> Z
+23     -> W
+24     -> T
+25     -> T
+26     -> T
+27     -> U
+31     -> E
+32     -> R
+33     -> H
+34     -> X
+35     -> D
+37     -> E
+38     -> E
+39     -> A
+40     -> V
+41     -> J
+42     -> O
+43     -> F
+44     -> T
+45     -> B
+47     -> P
+48     -> R
+51     -> Q
+52     -> E
+53     -> R
+54     -> E
+60     -> R
+63     -> E
+66     -> E
+67     -> T
+68     -> M
+69     -> H
+71     -> G
+72     -> H
+73     -> E
+74     -> E

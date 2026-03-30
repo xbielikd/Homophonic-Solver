@@ -1,0 +1,118 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [44, 18, 26, 24, 43]
+B(1) [33]
+C(2) [70, 41]
+D(3) [30, 59, 67]
+E(4) [28, 45, 27, 39, 42, 57, 38, 1]
+F(5) [69, 8]
+G(6) [17, 40]
+H(7) [34, 20, 50, 47]
+I(8) [68, 46, 29, 51, 0]
+J(9) [48]
+K(10) [10]
+L(11) [72, 13, 52]
+M(12) [4, 19]
+N(13) [35, 54, 16, 21, 66]
+O(14) [36, 58, 74, 49, 22]
+P(15) [6, 15]
+Q(16) [64]
+R(17) [60, 7, 25, 3]
+S(18) [23, 73, 55, 37]
+T(19) [12, 63, 11, 65, 31, 2]
+U(20) [62, 5]
+V(21) [61]
+W(22) [56, 71]
+X(23) [9]
+Y(24) [53, 14]
+Z(25) [32]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   58
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+MYFATHERTRIEDTOAWAKENINMETHEFEELINGSOFAFFECTIONHETALKEDOFGENEVAWHICHISHOULDSOONVISITOFELIZABETHANDERNEST
+
+--- CIPHERTEXT ---
+4 14 8 24 63 50 1 60 65 3 68 45 59 12 36 44 71 24 10 38 66 68 35 19 1 11 47 38 69 1 42 13 46 54 17 37 36 8 44 8 8 38 41 31 0 74 21 47 38 11 43 13 10 27 59 74 69 17 27 35 38 61 44 56 34 0 70 47 29 37 50 74 62 52 30 55 58 49 21 61 29 55 51 2 22 69 42 13 29 32 44 33 27 11 20 18 35 30 28 60 35 1 73 2
+
+--- DECRYPTED PLAINTEXT ---
+ZYSTATEINGOFTHEENTHECONVENTERESTEXPRESESSESBEENTENDTHATERPANESEQUESTARTERMARKANSAREWERSTATESANDINALINEJW
+
+--- SCORE ---
+-1060.5590
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 104 chars correct (15.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> E
+2      -> W
+3      -> G
+4      -> Z
+8      -> S
+10     -> H
+11     -> N
+12     -> H
+13     -> T
+14     -> Y
+17     -> P
+18     -> I
+19     -> V
+20     -> D
+21     -> N
+22     -> E
+24     -> T
+27     -> A
+28     -> L
+29     -> A
+30     -> A
+31     -> B
+32     -> T
+33     -> S
+34     -> U
+35     -> N
+36     -> E
+37     -> R
+38     -> E
+41     -> S
+42     -> S
+43     -> D
+44     -> E
+45     -> F
+46     -> E
+47     -> T
+49     -> A
+50     -> T
+51     -> E
+52     -> M
+54     -> X
+55     -> R
+56     -> Q
+58     -> K
+59     -> T
+60     -> I
+61     -> S
+62     -> R
+63     -> A
+65     -> N
+66     -> C
+68     -> O
+69     -> R
+70     -> S
+71     -> N
+73     -> J
+74     -> E

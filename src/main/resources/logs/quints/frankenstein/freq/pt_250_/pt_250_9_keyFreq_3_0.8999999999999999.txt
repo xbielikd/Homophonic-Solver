@@ -1,0 +1,149 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [92, 18, 23, 11, 36, 91, 74, 41]
+B(1) [51, 4]
+C(2) [94, 26, 88]
+D(3) [65, 70, 98, 68]
+E(4) [44, 76, 103, 61, 77, 57, 73, 34, 67, 30, 22, 53]
+F(5) [87, 31, 81]
+G(6) [17, 19]
+H(7) [16, 72, 100, 24, 55, 102]
+I(8) [3, 63, 2, 96, 86, 27, 79]
+J(9) [93]
+K(10) [59]
+L(11) [90, 14, 71, 78]
+M(12) [21, 60, 29]
+N(13) [20, 13, 64, 49, 47, 40, 97]
+O(14) [25, 9, 80, 82, 38, 104, 95]
+P(15) [101, 8]
+Q(16) [75]
+R(17) [66, 28, 32, 12, 35, 6]
+S(18) [48, 5, 62, 52, 0, 46]
+T(19) [58, 1, 89, 99, 43, 33, 83, 15, 10]
+U(20) [39, 45, 7]
+V(21) [56]
+W(22) [54, 42, 50]
+X(23) [37]
+Y(24) [84, 85]
+Z(25) [69]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   89
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SUDDENLYTHEBROADDISKOFTHEMOONAROSEANDSHONEFULLUPONHISGHASTLYANDDISTORTEDSHAPEASHEFLEDWITHMORETHANMORTALSPEEDIPURSUEDHIMANDFORMANYMONTHSTHISHASBEENMYTASKGUIDEDBYASLIGHTCLUEIFOLLOWEDTHEWINDINGSOFTHERHONEBUTVAINLYTHEBLUEMEDITERRANEANAPPEAREDANDBYASTRANGE
+
+--- CIPHERTEXT ---
+52 7 65 68 44 64 90 84 89 100 22 4 35 38 11 65 98 3 46 59 104 81 10 16 53 60 9 82 40 23 28 95 0 34 41 64 98 5 55 38 47 76 81 7 71 78 45 101 95 13 24 3 52 19 55 18 0 89 14 84 23 47 68 98 96 5 43 25 35 99 61 65 48 55 11 8 77 18 0 24 76 81 14 53 65 54 3 99 102 21 38 35 30 99 72 91 47 21 38 12 10 91 71 0 101 53 77 65 2 101 45 12 5 45 73 70 55 86 60 41 97 68 81 104 6 21 91 13 85 60 25 13 89 72 0 43 72 63 5 24 41 52 51 77 44 64 29 84 58 23 0 59 17 45 27 65 61 70 51 84 92 46 71 79 17 55 83 94 90 45 22 96 87 9 90 90 95 42 67 65 43 100 30 54 96 47 65 79 49 17 46 104 87 99 16 53 66 16 25 20 22 51 7 83 56 18 63 13 14 84 99 100 57 51 78 45 73 60 44 68 3 10 67 28 66 11 13 57 11 40 18 8 8 61 74 28 73 65 91 64 68 51 84 41 0 33 35 91 49 17 57
+
+--- DECRYPTED PLAINTEXT ---
+AGEARESENTIMETRESTICSNETHEEVERTHEPRESENTEINGSATTHERTAINTENTEREASTERSEASEINRESTERINTHESTATETESATREETHERSETHSEATTHETHANDERYANSWERERESENTERTHERRANSREJEZRECETHESANEXISTENOUSTITLESSHESERTSSTEETHEISLATHATSKINGOFTHETEATANATHERATESTAREARETEESQTHEREANEREBERHEA
+
+--- SCORE ---
+-2764.0671
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 251 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> A
+3      -> T
+4      -> M
+5      -> E
+6      -> W
+7      -> G
+8      -> E
+9      -> E
+10     -> E
+11     -> R
+12     -> H
+13     -> E
+14     -> T
+16     -> T
+17     -> E
+18     -> T
+19     -> I
+20     -> K
+21     -> E
+22     -> I
+23     -> R
+24     -> R
+25     -> S
+27     -> H
+28     -> T
+29     -> J
+30     -> S
+33     -> B
+34     -> P
+35     -> E
+38     -> T
+40     -> E
+41     -> R
+42     -> E
+43     -> R
+44     -> R
+45     -> T
+46     -> I
+47     -> E
+48     -> I
+49     -> H
+51     -> N
+52     -> A
+53     -> H
+54     -> S
+55     -> N
+56     -> F
+57     -> A
+58     -> Z
+59     -> C
+60     -> E
+61     -> S
+63     -> H
+64     -> E
+65     -> E
+66     -> A
+67     -> S
+68     -> A
+70     -> A
+71     -> S
+72     -> T
+73     -> H
+74     -> Q
+76     -> I
+77     -> S
+78     -> A
+79     -> T
+81     -> N
+82     -> V
+83     -> O
+84     -> E
+85     -> R
+86     -> D
+87     -> L
+89     -> N
+90     -> S
+91     -> R
+92     -> X
+94     -> U
+95     -> H
+96     -> T
+97     -> Y
+98     -> S
+99     -> A
+100    -> T
+101    -> T
+102    -> T
+104    -> S

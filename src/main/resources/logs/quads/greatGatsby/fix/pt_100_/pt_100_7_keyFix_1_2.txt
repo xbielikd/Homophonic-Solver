@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [44, 46]
+B(1) [50, 5]
+C(2) [39, 33]
+D(3) [6, 13]
+E(4) [21, 0]
+F(5) [34, 36]
+G(6) [2, 29]
+H(7) [16, 20]
+I(8) [28, 42]
+J(9) [31, 41]
+K(10) [15, 3]
+L(11) [7, 30]
+M(12) [40, 43]
+N(13) [25, 18]
+O(14) [10, 48]
+P(15) [17, 22]
+Q(16) [38, 1]
+R(17) [23, 47]
+S(18) [11, 12]
+T(19) [8, 32]
+U(20) [26, 4]
+V(21) [35, 37]
+W(22) [14, 51]
+X(23) [27, 9]
+Y(24) [24, 19]
+Z(25) [49, 45]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+50 7 42 25 15 42 18 2 44 14 44 19 8 20 0 50 23 42 2 16 8 25 0 11 11 10 34 8 20 21 11 32 47 21 21 8 10 26 8 12 42 6 0 43 19 0 19 21 11 22 42 39 15 21 13 16 28 40 48 26 32 48 5 11 39 4 47 0 7 19 28 25 32 16 21 44 18 8 0 23 10 48 43 8 44 7 3 42 25 29 8 10 44 18 10 32 16 0 23 40 46 18
+
+--- DECRYPTED PLAINTEXT ---
+WCINVINGAZATTHEWRIGHTNESSOFTHESTPEETOUTJIMEATETESLIEVEDHISBUTBYSEXPECTINTHEANTEROBATACKINGTOANOTHERSQN
+
+--- SCORE ---
+-978.7139
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 73 / 102 chars correct (71.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> G
+3      -> K
+4      -> X
+5      -> Y
+6      -> M
+7      -> C
+8      -> T
+10     -> O
+11     -> S
+12     -> J
+13     -> D
+14     -> Z
+15     -> V
+16     -> H
+18     -> N
+19     -> T
+20     -> H
+21     -> E
+22     -> L
+23     -> R
+25     -> N
+26     -> U
+28     -> I
+29     -> G
+32     -> T
+34     -> F
+39     -> E
+40     -> S
+42     -> I
+43     -> A
+44     -> A
+46     -> Q
+47     -> P
+48     -> B
+50     -> W

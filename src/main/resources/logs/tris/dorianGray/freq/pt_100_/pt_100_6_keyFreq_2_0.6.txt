@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 69, 65, 74, 27]
+B(1) [71]
+C(2) [68, 29]
+D(3) [7, 70, 59]
+E(4) [10, 40, 44, 35, 34, 13, 36, 41]
+F(5) [43, 38]
+G(6) [50, 58]
+H(7) [62, 12, 14, 20]
+I(8) [67, 0, 48, 1, 66]
+J(9) [56]
+K(10) [2]
+L(11) [18, 15, 52]
+M(12) [49, 16]
+N(13) [9, 4, 6, 11, 5]
+O(14) [72, 33, 61, 31, 57]
+P(15) [21, 32]
+Q(16) [53]
+R(17) [55, 46, 54, 28]
+S(18) [51, 73, 17, 22]
+T(19) [26, 42, 30, 60, 45, 39]
+U(20) [24, 64]
+V(21) [19]
+W(22) [25, 8]
+X(23) [37]
+Y(24) [47, 63]
+Z(25) [3]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+YOUDONTKNOWWHATYOUWERETOMEONCEWHYONCEOHICANTBEARTOTHINKOFITIWISHIHADNEVERLAIDEYESUPONYOUYOUHAVESPOILED
+
+--- CIPHERTEXT ---
+63 31 24 70 33 4 39 2 5 61 25 25 62 69 45 47 31 64 8 35 46 40 45 33 16 44 72 9 68 41 25 12 47 72 9 29 13 57 62 66 68 65 4 42 71 36 65 46 45 61 42 62 67 9 2 31 43 0 30 0 8 1 51 12 67 12 65 70 6 34 19 44 55 52 69 66 7 41 63 36 73 64 32 57 5 47 57 64 47 72 64 62 65 19 10 51 21 57 0 15 36 59
+
+--- DECRYPTED PLAINTEXT ---
+CTHEREARENTTERATTEAGEWARYTHEPETETHESTHEEPREDFOREANDEVERTHELEAKEEVEREQUITHEREJECOMETHETHETHEERIZETHEBOX
+
+--- SCORE ---
+-689.6130
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 2 / 102 chars correct (2.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> K
+2      -> R
+4      -> E
+5      -> E
+6      -> Q
+7      -> J
+8      -> A
+9      -> E
+10     -> Z
+12     -> E
+13     -> T
+15     -> B
+16     -> Y
+19     -> I
+21     -> T
+24     -> H
+25     -> T
+29     -> S
+30     -> L
+31     -> T
+32     -> T
+33     -> R
+34     -> U
+35     -> G
+36     -> O
+39     -> A
+40     -> W
+41     -> E
+42     -> D
+43     -> H
+44     -> T
+45     -> A
+46     -> E
+47     -> T
+51     -> E
+52     -> E
+55     -> H
+57     -> H
+59     -> X
+61     -> N
+62     -> E
+63     -> C
+64     -> E
+65     -> R
+66     -> E
+67     -> V
+68     -> P
+69     -> R
+70     -> E
+71     -> F
+72     -> H
+73     -> M

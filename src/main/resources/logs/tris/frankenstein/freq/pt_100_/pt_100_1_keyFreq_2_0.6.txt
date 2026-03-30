@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [46, 1, 64, 74, 28]
+B(1) [17]
+C(2) [14, 47]
+D(3) [63, 4, 30]
+E(4) [61, 29, 8, 35, 69, 9, 26, 25]
+F(5) [0, 62]
+G(6) [22, 55]
+H(7) [11, 71, 20, 2]
+I(8) [37, 50, 6, 49, 65]
+J(9) [18]
+K(10) [45]
+L(11) [13, 51, 31]
+M(12) [68, 39]
+N(13) [12, 5, 10, 72, 60]
+O(14) [54, 67, 16, 36, 41]
+P(15) [58, 43]
+Q(16) [23]
+R(17) [44, 73, 66, 3]
+S(18) [56, 59, 33, 32]
+T(19) [38, 27, 15, 70, 53, 57]
+U(20) [48, 40]
+V(21) [21]
+W(22) [52, 7]
+X(23) [19]
+Y(24) [34, 42]
+Z(25) [24]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+41 20 52 37 70 20 7 20 74 57 64 17 48 66 12 50 12 55 55 48 33 20 30 6 30 2 41 43 61 44 29 21 65 59 65 53 68 34 11 8 28 44 38 7 1 66 68 15 25 64 66 56 0 6 51 13 25 4 68 42 26 34 29 32 52 71 37 47 11 49 11 64 33 53 49 51 42 7 37 58 25 63 1 7 64 34 38 20 74 53 57 11 61 42 39 49 55 71 70 60 36 53
+
+--- DECRYPTED PLAINTEXT ---
+ESTEESTSTRATERALATTERSEREJEWAROMBYBEITEXPRETERIZEARKERICESINGTOFTHERESEARESINTEREVETATESTEREANDSTHEQUE
+
+--- SCORE ---
+-711.4917
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 102 chars correct (13.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> E
+2      -> J
+4      -> S
+6      -> R
+7      -> T
+8      -> X
+11     -> E
+12     -> A
+13     -> C
+15     -> Z
+17     -> T
+20     -> S
+21     -> M
+25     -> E
+26     -> G
+28     -> P
+29     -> O
+30     -> E
+32     -> F
+33     -> R
+34     -> T
+36     -> U
+37     -> E
+38     -> E
+39     -> D
+41     -> E
+42     -> N
+43     -> W
+44     -> R
+47     -> R
+48     -> E
+49     -> S
+50     -> L
+51     -> I
+52     -> T
+53     -> E
+55     -> T
+56     -> K
+57     -> R
+58     -> R
+59     -> Y
+60     -> Q
+61     -> A
+63     -> V
+64     -> A
+65     -> B
+66     -> R
+68     -> I
+70     -> E
+71     -> H
+74     -> T

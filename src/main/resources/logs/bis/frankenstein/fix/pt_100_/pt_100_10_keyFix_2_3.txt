@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [1, 36, 20]
+B(1) [30, 31, 29]
+C(2) [19, 6, 45]
+D(3) [28, 10, 58]
+E(4) [57, 25, 49]
+F(5) [75, 4, 12]
+G(6) [56, 34, 67]
+H(7) [23, 43, 74]
+I(8) [76, 60, 48]
+J(9) [55, 22, 7]
+K(10) [54, 65, 17]
+L(11) [32, 16, 40]
+M(12) [27, 11, 44]
+N(13) [71, 35, 26]
+O(14) [18, 66, 47]
+P(15) [53, 33, 5]
+Q(16) [37, 41, 52]
+R(17) [39, 24, 50]
+S(18) [62, 64, 9]
+T(19) [59, 38, 77]
+U(20) [2, 69, 70]
+V(21) [15, 61, 68]
+W(22) [14, 73, 51]
+X(23) [13, 46, 8]
+Y(24) [63, 0, 3]
+Z(25) [21, 42, 72]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+73 43 49 71 60 59 74 47 69 56 23 77 66 4 43 48 44 60 67 26 36 64 23 25 10 44 3 59 25 49 59 43 27 63 49 63 25 9 29 57 45 36 27 57 48 35 4 32 1 27 57 28 20 71 28 60 1 39 58 25 26 38 32 0 73 48 9 74 25 10 77 47 57 13 59 60 35 56 2 48 9 43 77 74 36 77 16 60 4 25 73 23 48 6 23 60 23 36 58 62 47
+
+--- DECRYPTED PLAINTEXT ---
+ETHERESTINEEYSTRERQUTWETHEVETHETHEHETEMEXTHERESATHEDBEDRTJOTULAZERESTHETECERENGRETESTEPRSTEERKERETOFT
+
+--- SCORE ---
+-504.0696
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 101 chars correct (5.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> Z
+1      -> T
+2      -> G
+3      -> V
+4      -> S
+6      -> K
+9      -> E
+10     -> H
+13     -> C
+16     -> P
+20     -> B
+23     -> E
+25     -> T
+26     -> U
+27     -> H
+28     -> D
+29     -> M
+32     -> A
+35     -> E
+36     -> T
+38     -> L
+39     -> J
+43     -> T
+44     -> E
+45     -> X
+47     -> T
+48     -> R
+49     -> H
+56     -> N
+57     -> E
+58     -> O
+59     -> E
+60     -> R
+62     -> F
+63     -> E
+64     -> W
+66     -> Y
+67     -> Q
+69     -> I
+71     -> E
+73     -> E
+74     -> S
+77     -> E

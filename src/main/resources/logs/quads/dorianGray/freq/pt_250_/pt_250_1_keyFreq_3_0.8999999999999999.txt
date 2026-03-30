@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 42, 96, 41, 38, 13, 14, 52]
+B(1) [55, 4]
+C(2) [32, 66, 58]
+D(3) [53, 25, 86, 76]
+E(4) [85, 103, 37, 22, 2, 11, 60, 33, 82, 6, 15, 75]
+F(5) [23, 79, 40]
+G(6) [90, 56]
+H(7) [46, 104, 93, 0, 69, 100]
+I(8) [19, 24, 61, 3, 67, 78, 73]
+J(9) [54]
+K(10) [91]
+L(11) [50, 64, 92, 68]
+M(12) [21, 34, 87]
+N(13) [80, 47, 28, 62, 36, 65, 7]
+O(14) [99, 102, 95, 49, 97, 72, 89]
+P(15) [57, 74]
+Q(16) [101]
+R(17) [18, 39, 59, 10, 9, 45]
+S(18) [51, 17, 44, 12, 27, 77]
+T(19) [94, 71, 16, 20, 48, 84, 70, 30, 43]
+U(20) [31, 29, 81]
+V(21) [35]
+W(22) [1, 63, 88]
+X(23) [26]
+Y(24) [8, 83]
+Z(25) [98]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ASHERODEHOMEHISEYESWEREFULLOFTEARSFORHEKNEWHEWASSAFETHEREISNOUSEYOURTELLINGMETHATYOUAREGOINGTOBEGOODCRIEDLORDHENRYDIPPINGHISWHITEFINGERSINTOAREDCOPPERBOWLFILLEDWITHROSEWATERYOUAREQUITEPERFECTPRAYDONTCHANGEDORIANGRAYSHOOKHISHEADNOHARRYIHAVEDONETOOMANY
+
+--- CIPHERTEXT ---
+14 27 93 15 39 99 25 82 0 72 87 22 104 24 17 6 83 60 51 63 82 9 15 40 29 64 68 102 40 30 33 41 45 44 40 102 9 100 85 91 62 103 1 0 60 63 42 12 27 5 79 60 20 0 60 18 2 61 44 36 72 31 12 15 83 89 29 9 20 82 64 50 73 62 56 21 103 84 93 41 20 83 95 81 42 9 6 90 102 61 47 90 48 99 55 2 90 95 99 86 32 45 19 60 76 92 72 45 53 46 82 28 59 8 53 73 74 74 67 36 56 93 3 77 63 104 73 94 103 23 3 47 56 82 9 51 67 7 20 72 52 45 82 53 32 102 57 57 37 39 4 102 63 64 23 24 68 64 11 25 63 73 71 46 10 89 77 37 63 14 48 15 59 8 102 81 13 18 85 101 31 24 70 85 74 82 45 23 15 66 16 57 45 13 8 76 95 28 20 66 93 38 80 90 85 76 72 10 67 14 7 90 9 13 83 27 93 95 99 91 0 19 27 104 37 96 53 47 95 0 41 10 9 8 19 93 5 35 103 53 49 28 6 94 95 97 21 38 80 83
+
+--- DECRYPTED PLAINTEXT ---
+OSTANEAREENTHERSTANTREATHERETIZEATTEEXANDEREATHESAQAREATENTHEREATTHERREVEDEMENTERTHEHESTENTTHEBETHEYHASATHEATURESSTESSTHETARTHETERATERENTFREPARTHERRENCETERERELATEJUSTRETOHASSEENTAGREWASRARATERANSTHERTTENTATESTOFTENTSTHENESSHEATTHEESESSTAKETHESTHEMENT
+
+--- SCORE ---
+-2181.6530
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 250 chars correct (10.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> R
+2      -> E
+3      -> A
+4      -> C
+5      -> A
+6      -> S
+7      -> F
+8      -> S
+9      -> E
+10     -> S
+11     -> L
+12     -> E
+13     -> N
+14     -> O
+15     -> A
+16     -> E
+17     -> R
+18     -> T
+19     -> S
+20     -> R
+21     -> M
+22     -> T
+23     -> R
+24     -> E
+25     -> A
+27     -> S
+28     -> E
+29     -> H
+30     -> I
+31     -> R
+32     -> H
+33     -> Z
+35     -> K
+36     -> H
+37     -> E
+38     -> E
+39     -> N
+40     -> T
+41     -> E
+42     -> H
+44     -> T
+45     -> A
+46     -> U
+47     -> T
+48     -> H
+49     -> H
+50     -> V
+51     -> N
+52     -> P
+53     -> T
+55     -> B
+56     -> E
+57     -> R
+59     -> S
+60     -> A
+61     -> N
+62     -> D
+63     -> T
+64     -> E
+66     -> T
+67     -> T
+68     -> R
+70     -> W
+71     -> J
+72     -> E
+73     -> E
+74     -> S
+76     -> T
+77     -> R
+79     -> Q
+80     -> N
+81     -> E
+82     -> R
+83     -> T
+84     -> N
+85     -> A
+86     -> Y
+87     -> N
+89     -> T
+90     -> T
+91     -> N
+92     -> H
+93     -> T
+94     -> T
+95     -> H
+96     -> A
+97     -> E
+99     -> E
+100    -> X
+101    -> G
+102    -> E
+103    -> E
+104    -> H

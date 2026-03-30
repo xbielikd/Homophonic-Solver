@@ -1,0 +1,151 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [82, 27, 93, 9, 8, 41, 65, 1]
+B(1) [66, 22]
+C(2) [15, 58, 48]
+D(3) [89, 95, 32, 29]
+E(4) [94, 6, 43, 44, 98, 99, 0, 71, 60, 35, 84, 57]
+F(5) [10, 20, 76]
+G(6) [49, 16]
+H(7) [11, 74, 33, 21, 59, 40]
+I(8) [50, 34, 39, 38, 61, 67, 79]
+J(9) [70]
+K(10) [23]
+L(11) [85, 24, 81, 2]
+M(12) [56, 17, 83]
+N(13) [88, 75, 37, 72, 80, 14, 100]
+O(14) [87, 3, 90, 30, 18, 7, 19]
+P(15) [91, 47]
+Q(16) [92]
+R(17) [62, 26, 104, 53, 77, 78]
+S(18) [54, 42, 68, 46, 45, 86]
+T(19) [4, 73, 103, 52, 31, 63, 51, 64, 97]
+U(20) [102, 5, 55]
+V(21) [96]
+W(22) [36, 101, 69]
+X(23) [28]
+Y(24) [13, 12]
+Z(25) [25]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   91
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+THEGENEROUSNATUREOFSAFIEWASOUTRAGEDBYTHISCOMMANDSHEATTEMPTEDTOEXPOSTULATEWITHHERFATHERBUTHELEFTHERANGRILYREITERATINGHISTYRANNICALMANDATEAFEWDAYSAFTERTHETURKENTEREDHISDAUGHTERSAPARTMENTANDTOLDHERHASTILYTHATHEHADREASONTOBELIEVETHATHISRESIDENCEATLEGHORN
+
+--- CIPHERTEXT ---
+52 74 57 49 0 72 98 53 18 102 54 72 1 97 102 53 84 90 10 86 82 76 34 94 69 27 45 7 5 73 77 82 16 71 32 66 12 73 33 34 54 48 30 83 17 93 72 89 86 40 98 41 52 63 84 17 47 31 0 89 73 90 94 28 47 18 42 97 5 81 9 64 84 36 50 64 11 40 57 77 20 93 51 74 35 62 66 102 97 40 60 2 60 10 31 40 6 62 65 88 49 62 79 2 12 104 0 39 63 60 78 27 103 38 37 16 74 39 46 73 13 77 1 100 88 50 15 27 81 56 41 14 32 65 51 71 93 10 84 101 32 82 12 42 27 20 4 98 53 52 59 98 51 102 77 23 0 100 51 94 53 35 95 33 34 54 29 82 102 49 21 52 0 53 86 8 91 1 53 52 83 0 88 31 1 37 29 52 3 2 89 40 6 53 21 9 68 73 39 2 13 52 59 1 51 11 94 74 82 89 77 94 41 45 90 75 97 30 22 84 81 39 94 96 94 52 40 1 64 33 50 86 78 6 45 38 89 84 37 48 98 82 31 85 6 49 21 87 77 72
+
+--- DECRYPTED PLAINTEXT ---
+ESTHTSTHETRSTETHEERETWARKESJATETERESOTEAREANTESHESTEERETHETHTERTHEREANTHESTHESTEREESEESTESETERESTEREHEDTOFTERERECTHESESTHETHETHENGEZEREREREPETORERYTHESTETESTHERHEMEARETTHEETHEQUTHENTEETHEESTHSTHETITETHESTEERSTHERESEVEALENERERESTHETERTSTHEHETTEXTHEBES
+
+--- SCORE ---
+-1156.8315
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 22 / 250 chars correct (8.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> T
+2      -> T
+3      -> S
+4      -> Y
+5      -> A
+6      -> T
+7      -> J
+8      -> Q
+9      -> T
+10     -> R
+11     -> E
+12     -> O
+13     -> H
+14     -> Z
+15     -> H
+16     -> E
+17     -> T
+18     -> E
+20     -> R
+21     -> E
+22     -> L
+23     -> S
+27     -> E
+28     -> T
+29     -> E
+30     -> A
+31     -> E
+32     -> E
+33     -> E
+34     -> A
+35     -> E
+36     -> S
+37     -> H
+38     -> T
+39     -> E
+40     -> S
+41     -> E
+42     -> R
+45     -> S
+46     -> S
+47     -> H
+48     -> E
+49     -> H
+50     -> T
+51     -> E
+52     -> E
+53     -> H
+54     -> R
+56     -> G
+57     -> T
+59     -> S
+60     -> E
+62     -> E
+63     -> R
+64     -> H
+65     -> R
+66     -> S
+68     -> I
+69     -> K
+71     -> R
+72     -> S
+73     -> T
+74     -> S
+75     -> V
+76     -> W
+77     -> E
+78     -> R
+79     -> D
+81     -> N
+82     -> T
+83     -> N
+84     -> E
+85     -> X
+86     -> E
+87     -> B
+88     -> E
+89     -> H
+90     -> E
+91     -> U
+93     -> E
+94     -> R
+95     -> M
+96     -> E
+97     -> E
+98     -> T
+100    -> H
+101    -> P
+102    -> T
+103    -> C
+104    -> F

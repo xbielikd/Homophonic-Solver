@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [50, 57, 18]
+B(1) [53, 44, 27]
+C(2) [17, 30, 74]
+D(3) [37, 28, 47]
+E(4) [13, 7, 65]
+F(5) [14, 70, 56]
+G(6) [16, 66, 33]
+H(7) [1, 68, 34]
+I(8) [26, 46, 21]
+J(9) [48, 76, 2]
+K(10) [11, 60, 52]
+L(11) [77, 19, 9]
+M(12) [6, 38, 23]
+N(13) [58, 15, 71]
+O(14) [3, 69, 5]
+P(15) [8, 51, 67]
+Q(16) [29, 25, 12]
+R(17) [54, 10, 63]
+S(18) [55, 73, 22]
+T(19) [0, 72, 36]
+U(20) [75, 42, 61]
+V(21) [49, 62, 32]
+W(22) [31, 41, 45]
+X(23) [64, 20, 35]
+Y(24) [4, 59, 40]
+Z(25) [39, 43, 24]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+WHENITHOUGHTOFHIMIGNASHEDMYTEETHMYEYESBECAMEINFLAMEDANDIARDENTLYWISHEDTOEXTINGUISHTHATLIFEWHICHIHADSO
+
+--- CIPHERTEXT ---
+45 68 65 15 21 0 34 3 75 33 68 0 5 70 34 26 23 26 33 71 50 55 1 65 37 6 59 72 7 13 36 1 23 40 7 4 7 55 27 7 30 18 23 7 46 71 14 77 18 6 65 47 18 71 37 46 57 63 47 65 58 0 9 4 31 46 55 68 65 37 0 69 7 35 0 46 71 33 61 21 73 68 36 34 18 36 77 26 70 65 45 68 21 74 1 26 68 57 28 22 69
+
+--- DECRYPTED PLAINTEXT ---
+INAMETHEKINTOTHEREINGREATSQUESTERVETERFEWEREENTHESALENTEDPLAYTOTHERNATTHEXTENICEINTHETHETAINEBEENDJZH
+
+--- SCORE ---
+-1086.5054
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 23 / 101 chars correct (22.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> E
+3      -> E
+4      -> T
+5      -> O
+6      -> S
+7      -> E
+9      -> O
+13     -> S
+14     -> T
+15     -> M
+18     -> E
+21     -> E
+22     -> Z
+23     -> R
+26     -> E
+27     -> F
+28     -> J
+30     -> W
+31     -> H
+33     -> I
+34     -> H
+35     -> X
+36     -> T
+37     -> T
+40     -> V
+45     -> I
+46     -> E
+47     -> L
+50     -> G
+55     -> R
+57     -> D
+58     -> Y
+59     -> Q
+61     -> C
+63     -> P
+65     -> A
+68     -> N
+69     -> H
+70     -> T
+71     -> N
+72     -> U
+73     -> I
+74     -> B
+75     -> K
+77     -> H

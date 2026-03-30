@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [66, 53, 98, 35, 40, 93, 39, 48]
+B(1) [46, 1]
+C(2) [6, 11, 94]
+D(3) [18, 16, 61, 59]
+E(4) [85, 34, 57, 100, 47, 104, 50, 17, 32, 20, 89, 42]
+F(5) [10, 87, 3]
+G(6) [90, 51]
+H(7) [8, 80, 60, 84, 14, 7]
+I(8) [45, 26, 56, 31, 33, 25, 103]
+J(9) [9]
+K(10) [58]
+L(11) [24, 12, 0, 78]
+M(12) [65, 29, 67]
+N(13) [70, 79, 2, 91, 4, 72, 96]
+O(14) [99, 75, 13, 55, 69, 76, 49]
+P(15) [102, 101]
+Q(16) [71]
+R(17) [81, 52, 64, 30, 82, 83]
+S(18) [15, 97, 62, 27, 5, 28]
+T(19) [43, 88, 92, 68, 44, 54, 73, 23, 95]
+U(20) [21, 41, 36]
+V(21) [22]
+W(22) [77, 86, 38]
+X(23) [37]
+Y(24) [63, 19]
+Z(25) [74]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+THEGENEROUSNATUREOFSAFIEWASOUTRAGEDBYTHISCOMMANDSHEATTEMPTEDTOEXPOSTULATEWITHHERFATHERBUTHELEFTHERANGRILYREITERATINGHISTYRANNICALMANDATEAFEWDAYSAFTERTHETURKENTEREDHISDAUGHTERSAPARTMENTANDTOLDHERHASTILYTHATHEHADREASONTOBELIEVETHATHISRESIDENCEATLEGHORN
+
+--- CIPHERTEXT ---
+54 80 20 51 100 70 32 64 13 21 27 70 39 92 41 64 34 13 10 97 93 10 45 100 77 98 15 69 21 54 81 39 90 47 16 1 19 23 60 45 15 6 75 65 67 98 4 61 15 84 47 53 88 44 32 65 101 73 85 59 44 13 100 37 102 69 27 43 41 78 98 68 50 86 33 73 14 8 50 83 3 35 44 7 100 81 46 41 95 7 20 12 34 10 44 14 34 52 53 91 51 30 26 0 63 82 85 103 73 104 64 66 23 25 91 90 14 31 97 68 63 81 53 91 96 45 6 66 78 65 98 4 18 53 23 20 93 10 20 86 61 98 63 28 48 87 73 47 81 68 60 20 92 21 52 58 100 4 92 20 81 85 18 60 103 27 18 48 41 90 14 73 34 82 62 48 101 93 82 73 29 50 91 43 53 96 59 73 99 24 16 8 100 82 80 48 28 95 103 12 19 92 60 48 73 60 50 14 66 16 81 104 53 5 13 91 54 99 46 17 24 56 104 22 57 23 60 93 95 80 26 27 30 42 97 56 16 100 70 94 34 98 23 0 42 51 60 49 82 2
+
+--- DECRYPTED PLAINTEXT ---
+THETEDERIESDETAREINTENEEYEARETRESETHETHEATERJESSAREALTERSTSETIEVERSTAPETERATTHEQUETHEREATHEMENTTERANTHEHERSITERSTONSTATTERANGETSPRESTATEENERSEENEXTERTHETERCESTERSTHISTEASTTERRESERTHENTAGETHATHERHENTIMETHETHETSTREAKINTHEWASEOFTHETHESHATSTEDBEETHATHERZ
+
+--- SCORE ---
+-2175.7063
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 110 / 250 chars correct (44.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> H
+2      -> Z
+3      -> U
+4      -> S
+5      -> K
+6      -> T
+7      -> H
+8      -> H
+10     -> N
+12     -> M
+13     -> I
+14     -> T
+15     -> A
+16     -> T
+17     -> W
+18     -> T
+19     -> E
+20     -> E
+21     -> E
+22     -> O
+23     -> T
+24     -> A
+25     -> O
+26     -> E
+27     -> S
+28     -> N
+29     -> H
+30     -> H
+31     -> A
+32     -> E
+33     -> A
+34     -> E
+35     -> E
+37     -> V
+39     -> E
+41     -> A
+42     -> A
+43     -> T
+44     -> T
+45     -> E
+46     -> E
+47     -> E
+48     -> E
+49     -> E
+50     -> E
+51     -> T
+52     -> R
+53     -> A
+54     -> T
+56     -> S
+57     -> F
+58     -> C
+59     -> E
+60     -> H
+61     -> S
+62     -> R
+63     -> E
+64     -> R
+65     -> R
+66     -> S
+67     -> J
+68     -> T
+69     -> R
+70     -> D
+73     -> T
+75     -> E
+77     -> Y
+78     -> P
+80     -> H
+81     -> R
+82     -> R
+83     -> Q
+84     -> R
+85     -> S
+86     -> R
+87     -> X
+88     -> L
+90     -> S
+91     -> N
+92     -> T
+93     -> E
+94     -> B
+95     -> T
+96     -> G
+97     -> T
+98     -> E
+99     -> H
+100    -> E
+101    -> S
+102    -> E
+103    -> I
+104    -> E

@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 34, 30]
+B(1) [13]
+C(2) [32]
+D(3) [41, 42]
+E(4) [2, 19, 36, 3]
+F(5) [1]
+G(6) [11]
+H(7) [9, 6]
+I(8) [15, 8, 33]
+J(9) [20]
+K(10) [10]
+L(11) [5, 26]
+M(12) [17]
+N(13) [39, 22, 4]
+O(14) [23, 35, 0]
+P(15) [29]
+Q(16) [31]
+R(17) [16, 38]
+S(18) [43, 21]
+T(19) [25, 37, 12]
+U(20) [27]
+V(21) [18]
+W(22) [14]
+X(23) [24]
+Y(24) [40]
+Z(25) [28]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+6 33 21 42 7 27 11 6 25 19 16 34 37 37 3 4 41 36 42 6 33 17 14 15 12 6 37 6 36 11 38 2 7 12 36 21 25 12 3 22 42 19 16 39 36 43 43 13 27 12 21 9 2 43 34 14 14 8 37 6 42 36 43 29 30 33 38 25 9 30 25 12 6 19 15 16 5 15 12 25 26 19 1 27 22 42 14 30 43 38 30 29 33 42 5 40 41 19 32 16 19 34 21 8 22 11
+
+--- DECRYPTED PLAINTEXT ---
+SINTBERSDORWEELYPATSIZECESESAREMBEANDELETORGATTHEENUMTWEEVESTATERIEDURDESOCRECEDJOKEETERTEREITEXPOFROWNVER
+
+--- SCORE ---
+-812.7281
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 8 / 106 chars correct (7.5%)
+
+--- KEY (cipher -> plain) ---
+1      -> K
+2      -> M
+3      -> L
+4      -> Y
+5      -> E
+6      -> S
+7      -> B
+8      -> V
+9      -> U
+11     -> R
+12     -> E
+13     -> H
+14     -> E
+15     -> C
+16     -> R
+17     -> Z
+19     -> O
+21     -> N
+22     -> E
+25     -> D
+26     -> J
+27     -> E
+29     -> E
+30     -> R
+32     -> F
+33     -> I
+34     -> W
+36     -> A
+37     -> E
+38     -> E
+39     -> G
+40     -> X
+41     -> P
+42     -> T
+43     -> T

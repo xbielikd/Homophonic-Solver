@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [31, 14]
+B(1) [21, 25]
+C(2) [24, 38]
+D(3) [23, 35]
+E(4) [19, 42]
+F(5) [9, 34]
+G(6) [50, 28]
+H(7) [16, 39]
+I(8) [13, 36]
+J(9) [6, 32]
+K(10) [30, 33]
+L(11) [2, 41]
+M(12) [18, 47]
+N(13) [10, 46]
+O(14) [17, 12]
+P(15) [27, 3]
+Q(16) [20, 7]
+R(17) [5, 45]
+S(18) [0, 48]
+T(19) [49, 51]
+U(20) [1, 29]
+V(21) [15, 11]
+W(22) [22, 26]
+X(23) [37, 43]
+Y(24) [8, 40]
+Z(25) [44, 4]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+46 12 47 14 10 38 17 47 19 48 31 38 45 17 0 0 49 22 17 36 35 19 31 2 51 16 13 46 28 48 34 42 26 38 12 47 19 14 38 45 12 0 48 12 10 19 36 38 14 46 49 42 37 27 41 14 36 10 36 49 51 17 40 12 29 25 31 0 13 41 21 29 49 36 18 29 48 49 46 19 11 19 5 0 36 49 49 17 8 17 1 31 50 14 36 10 51 16 19 45 42
+
+--- DECRYPTED PLAINTEXT ---
+SERESTERENOTHESSTYEALEOFTHESINGEXTEREETHESNESEATESTEQUDEASATTEWEEPOSEDBETAKENTSEVEZSATTEJECOMEASTHEHE
+
+--- SCORE ---
+-730.5805
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 101 chars correct (28.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> C
+2      -> F
+5      -> Z
+8      -> J
+10     -> S
+11     -> V
+12     -> E
+13     -> E
+14     -> E
+16     -> H
+17     -> E
+18     -> K
+19     -> E
+21     -> B
+22     -> Y
+25     -> P
+26     -> X
+27     -> U
+28     -> I
+29     -> E
+31     -> O
+34     -> G
+35     -> L
+36     -> A
+37     -> Q
+38     -> T
+40     -> W
+41     -> D
+42     -> E
+45     -> H
+46     -> S
+47     -> R
+48     -> N
+49     -> T
+50     -> M
+51     -> T

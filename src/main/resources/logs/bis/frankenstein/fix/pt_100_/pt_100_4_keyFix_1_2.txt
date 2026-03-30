@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 24]
+B(1) [4, 38]
+C(2) [47, 33]
+D(3) [37, 21]
+E(4) [40, 13]
+F(5) [5, 27]
+G(6) [10, 16]
+H(7) [15, 26]
+I(8) [32, 8]
+J(9) [45, 23]
+K(10) [51, 0]
+L(11) [41, 35]
+M(12) [39, 22]
+N(13) [20, 48]
+O(14) [31, 44]
+P(15) [11, 19]
+Q(16) [50, 14]
+R(17) [49, 29]
+S(18) [43, 42]
+T(19) [6, 2]
+U(20) [30, 46]
+V(21) [36, 28]
+W(22) [1, 18]
+X(23) [9, 34]
+Y(24) [12, 17]
+Z(25) [25, 3]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+33 7 20 7 48 12 22 24 20 4 13 6 44 39 13 24 43 33 35 40 49 28 24 41 1 24 43 44 29 24 48 12 1 44 22 24 48 7 48 44 2 15 13 29 13 35 8 3 24 4 40 6 15 13 36 13 48 1 26 40 29 40 2 15 40 7 27 27 13 47 2 8 44 20 43 7 49 13 48 44 2 43 2 29 44 48 10 41 17 39 44 36 40 21 38 17 24 20 17 43 30 11 40 29 8 44 29
+
+--- DECRYPTED PLAINTEXT ---
+PEREROMERVEWEHEESPLECKEANESERERONEMERERETHERELIZEVEWHEDERNGERETHEEFFEXTIERSECERETSTRERJATHEDEQUTERTSBYERIER
+
+--- SCORE ---
+-544.3712
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 44 / 107 chars correct (41.1%)
+
+--- KEY (cipher -> plain) ---
+1      -> N
+2      -> T
+3      -> Z
+4      -> V
+6      -> W
+7      -> E
+8      -> I
+10     -> J
+11     -> Y
+12     -> O
+13     -> E
+15     -> H
+17     -> T
+20     -> R
+21     -> Q
+22     -> M
+24     -> E
+26     -> G
+27     -> F
+28     -> K
+29     -> R
+30     -> B
+33     -> P
+35     -> L
+36     -> D
+38     -> U
+39     -> H
+40     -> E
+41     -> A
+43     -> S
+44     -> E
+47     -> X
+48     -> R
+49     -> C

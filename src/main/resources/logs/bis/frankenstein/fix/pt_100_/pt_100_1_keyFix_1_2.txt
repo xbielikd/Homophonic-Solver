@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [24, 7]
+B(1) [22, 2]
+C(2) [13, 51]
+D(3) [1, 27]
+E(4) [12, 11]
+F(5) [46, 30]
+G(6) [44, 34]
+H(7) [42, 36]
+I(8) [29, 31]
+J(9) [26, 8]
+K(10) [5, 10]
+L(11) [43, 25]
+M(12) [4, 49]
+N(13) [20, 45]
+O(14) [18, 41]
+P(15) [0, 28]
+Q(16) [15, 16]
+R(17) [33, 40]
+S(18) [21, 32]
+T(19) [19, 14]
+U(20) [37, 35]
+V(21) [23, 9]
+W(22) [47, 38]
+X(23) [17, 3]
+Y(24) [39, 6]
+Z(25) [50, 48]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+18 42 47 29 19 36 38 42 7 14 7 2 37 33 20 29 45 34 34 35 21 42 1 29 27 42 18 28 12 33 11 23 29 32 29 19 49 6 42 11 24 40 14 38 24 33 4 19 12 24 33 32 30 29 43 43 12 27 4 39 12 39 12 21 38 42 29 13 42 29 42 24 32 14 29 43 6 47 29 0 12 27 24 38 7 39 19 42 7 14 19 42 11 39 49 29 34 36 19 20 41 14
+
+--- DECRYPTED PLAINTEXT ---
+ITHENARTEEEQURCEPLLYFTWERTIZEREMEDENGTTEEBERERONEERDJESSEROREREFRTEXTETEDEESTHEVERERERNTEENTERGELANCKE
+
+--- SCORE ---
+-524.9709
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 102 chars correct (13.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> V
+1      -> W
+2      -> Q
+4      -> O
+6      -> T
+7      -> E
+11     -> E
+12     -> E
+13     -> X
+14     -> E
+18     -> I
+19     -> N
+20     -> C
+21     -> F
+23     -> M
+24     -> E
+27     -> R
+28     -> Z
+29     -> E
+30     -> J
+32     -> D
+33     -> R
+34     -> L
+35     -> Y
+36     -> A
+37     -> U
+38     -> R
+39     -> R
+40     -> B
+41     -> K
+42     -> T
+43     -> S
+45     -> P
+47     -> H
+49     -> G

@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [50, 36, 37]
+B(1) [40, 13, 76]
+C(2) [26, 69, 72]
+D(3) [75, 41, 29]
+E(4) [28, 70, 59]
+F(5) [8, 57, 31]
+G(6) [0, 39, 24]
+H(7) [3, 20, 27]
+I(8) [56, 46, 77]
+J(9) [34, 32, 15]
+K(10) [17, 7, 61]
+L(11) [1, 44, 38]
+M(12) [12, 63, 49]
+N(13) [62, 30, 5]
+O(14) [68, 73, 22]
+P(15) [48, 55, 25]
+Q(16) [4, 14, 42]
+R(17) [9, 53, 23]
+S(18) [71, 74, 6]
+T(19) [66, 47, 51]
+U(20) [19, 43, 10]
+V(21) [58, 54, 52]
+W(22) [35, 65, 64]
+X(23) [16, 2, 67]
+Y(24) [45, 11, 33]
+Z(25) [60, 18, 21]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+THINLIPPEDWISDOMSPOKEATHERFROMTHEWORNCHAIRHINTEDATPRUDENCEQUOTEDFROMTHATBOOKOFCOWARDICEWHOSEAUTHORAPES
+
+--- CIPHERTEXT ---
+66 20 56 62 44 56 55 48 59 75 35 56 74 29 73 49 71 48 22 17 59 37 47 20 28 9 8 53 73 63 47 20 70 35 22 9 5 72 3 50 77 23 27 56 5 51 28 29 36 51 55 23 19 41 70 5 26 59 14 10 68 66 28 41 57 9 22 12 66 27 36 51 13 68 22 61 22 8 26 68 65 36 53 29 56 69 59 65 20 68 71 70 37 19 51 27 22 53 36 25 70 71
+
+--- DECRYPTED PLAINTEXT ---
+THEYBESEEXCEPROGREEMENTHESPROFTHECESALIZETHEATERETSTOREAREQUETERESEDTHETWEEKEPRETERREVETHERENOTHEREJER
+
+--- SCORE ---
+-892.3726
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 102 chars correct (34.3%)
+
+--- KEY (cipher -> plain) ---
+3      -> I
+5      -> A
+8      -> P
+9      -> S
+10     -> U
+12     -> D
+13     -> W
+14     -> Q
+17     -> M
+19     -> O
+20     -> H
+22     -> E
+23     -> T
+25     -> J
+26     -> R
+27     -> H
+28     -> E
+29     -> R
+35     -> C
+36     -> E
+37     -> N
+41     -> R
+44     -> B
+47     -> T
+48     -> E
+49     -> G
+50     -> Z
+51     -> T
+53     -> R
+55     -> S
+56     -> E
+57     -> E
+59     -> E
+61     -> K
+62     -> Y
+63     -> F
+65     -> T
+66     -> T
+68     -> E
+69     -> V
+70     -> E
+71     -> R
+72     -> L
+73     -> O
+74     -> P
+75     -> X
+77     -> E

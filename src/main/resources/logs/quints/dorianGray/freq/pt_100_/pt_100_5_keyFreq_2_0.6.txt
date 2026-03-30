@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 34, 9, 7, 43]
+B(1) [49]
+C(2) [30, 5]
+D(3) [13, 59, 36]
+E(4) [62, 53, 12, 64, 18, 60, 38, 67]
+F(5) [69, 65]
+G(6) [73, 46]
+H(7) [31, 39, 35, 27]
+I(8) [33, 15, 11, 16, 68]
+J(9) [56]
+K(10) [17]
+L(11) [74, 42, 28]
+M(12) [21, 4]
+N(13) [1, 0, 40, 2, 61]
+O(14) [54, 37, 44, 45, 57]
+P(15) [52, 3]
+Q(16) [58]
+R(17) [32, 19, 70, 26]
+S(18) [10, 47, 25, 51]
+T(19) [14, 6, 71, 63, 50, 48]
+U(20) [66, 55]
+V(21) [24]
+W(22) [72, 29]
+X(23) [41]
+Y(24) [22, 20]
+Z(25) [8]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+SHEUSEDTOWONDERIFHESUSPECTEDANYTHINGTHESILENCEFORHEMADENOOTHEROBSERVATIONBECAMEINTOLERABLETOHERSHEBEGAN
+
+--- CIPHERTEXT ---
+47 27 60 66 51 53 13 14 45 72 37 1 36 64 19 16 65 39 53 10 55 25 3 62 30 50 12 13 43 0 20 48 39 33 40 73 48 27 38 51 15 28 60 61 30 12 65 44 19 31 62 4 34 59 62 2 45 45 48 35 62 19 37 49 47 12 26 24 9 71 16 57 40 49 12 30 43 21 64 33 0 50 37 74 60 19 23 49 74 60 48 45 39 67 19 25 35 18 49 18 73 23 61
+
+--- DECRYPTED PLAINTEXT ---
+TEEVENTHEJAZZASANANDFORATEATTHERATEPRESEXPECTANDSMAYBEAREERWASASTAGEQUAKESATTHATHEATESISTEREALSOWASAPIC
+
+--- SCORE ---
+-1097.0405
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 103 chars correct (3.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> Z
+2      -> R
+3      -> R
+4      -> Y
+9      -> Q
+10     -> D
+12     -> A
+13     -> T
+14     -> H
+15     -> X
+16     -> A
+18     -> A
+19     -> S
+20     -> E
+21     -> H
+23     -> I
+24     -> E
+25     -> O
+26     -> G
+27     -> E
+28     -> P
+30     -> T
+31     -> M
+33     -> T
+34     -> B
+35     -> W
+36     -> Z
+37     -> A
+38     -> S
+39     -> A
+40     -> E
+43     -> T
+44     -> D
+45     -> E
+47     -> T
+48     -> R
+49     -> S
+50     -> E
+51     -> E
+53     -> N
+55     -> F
+57     -> K
+59     -> E
+60     -> E
+61     -> C
+62     -> A
+64     -> A
+65     -> N
+66     -> V
+67     -> L
+71     -> U
+72     -> J
+73     -> P
+74     -> T

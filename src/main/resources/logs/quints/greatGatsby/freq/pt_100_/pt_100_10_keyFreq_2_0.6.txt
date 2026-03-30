@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [40, 74, 4, 63, 43]
+B(1) [61]
+C(2) [0, 54]
+D(3) [19, 22, 64]
+E(4) [57, 65, 73, 55, 9, 49, 11, 62]
+F(5) [38, 37]
+G(6) [3, 46]
+H(7) [48, 8, 20, 42]
+I(8) [21, 50, 30, 47, 15]
+J(9) [58]
+K(10) [69]
+L(11) [23, 35, 25]
+M(12) [14, 72]
+N(13) [70, 52, 66, 12, 36]
+O(14) [67, 16, 34, 45, 56]
+P(15) [1, 26]
+Q(16) [59]
+R(17) [68, 6, 60, 18]
+S(18) [51, 7, 33, 27]
+T(19) [24, 71, 39, 31, 17, 32]
+U(20) [5, 44]
+V(21) [29]
+W(22) [10, 53]
+X(23) [41]
+Y(24) [28, 13]
+Z(25) [2]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+8 30 27 39 63 66 66 65 22 7 69 21 12 53 4 7 19 60 40 53 36 63 17 24 18 40 0 71 47 29 57 23 28 71 15 46 42 24 45 36 20 30 33 37 43 0 49 4 52 22 20 15 33 7 48 56 60 32 48 74 47 18 23 45 67 69 49 19 63 33 24 8 16 5 46 42 47 71 10 73 6 62 32 60 30 14 14 57 64 9 29 55 6 28 64 4 28 47 0 56 5 23 64
+
+--- DECRYPTED PLAINTEXT ---
+EEZWILLITTOJUSTTHEESTICEREARETHEBRINGEDTHESEPARTYTHISTOREMOVEREDFORHISEEKINGERTHEXMEETTHATTHEBATBEARIEA
+
+--- SCORE ---
+-1108.1172
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 103 chars correct (8.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+4      -> T
+5      -> I
+6      -> E
+7      -> T
+8      -> E
+9      -> T
+10     -> T
+12     -> U
+14     -> T
+15     -> I
+16     -> K
+17     -> C
+18     -> R
+19     -> H
+20     -> H
+21     -> J
+22     -> T
+23     -> E
+24     -> E
+27     -> Z
+28     -> B
+29     -> T
+30     -> E
+32     -> M
+33     -> S
+36     -> T
+37     -> E
+39     -> W
+40     -> E
+42     -> G
+43     -> P
+45     -> D
+46     -> N
+47     -> E
+48     -> O
+49     -> R
+52     -> Y
+53     -> S
+55     -> H
+56     -> R
+57     -> H
+60     -> E
+62     -> X
+63     -> I
+64     -> A
+65     -> I
+66     -> L
+67     -> F
+69     -> O
+71     -> R
+73     -> H
+74     -> V

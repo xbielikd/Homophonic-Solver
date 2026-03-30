@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [26, 5, 10]
+B(1) [9]
+C(2) [31]
+D(3) [27, 16]
+E(4) [33, 11, 7, 18]
+F(5) [13]
+G(6) [36]
+H(7) [4, 6]
+I(8) [24, 41, 35]
+J(9) [19]
+K(10) [14]
+L(11) [1, 29]
+M(12) [2]
+N(13) [3, 32, 23]
+O(14) [22, 42, 40]
+P(15) [39]
+Q(16) [34]
+R(17) [8, 21]
+S(18) [15, 0]
+T(19) [20, 43, 12]
+U(20) [28]
+V(21) [17]
+W(22) [25]
+X(23) [37]
+Y(24) [30]
+Z(25) [38]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+2 30 39 26 8 33 23 12 15 25 7 8 33 39 42 15 15 18 15 0 18 27 9 30 12 6 33 17 7 8 30 0 39 35 21 35 43 40 13 14 35 23 16 23 18 0 0 26 23 27 35 23 16 28 1 36 18 3 31 18 25 33 13 11 1 43 20 4 10 12 20 4 7 30 25 18 8 18 23 40 43 20 6 18 43 30 8 5 32 43 15 12 40 21 28 1 33 40 28 8
+
+--- DECRYPTED PLAINTEXT ---
+ZYMARENTSWEREMASSESSEDBYTHEVERYSMINISALKINGNESSANDINGTOFEXJEWELCOSTHATTHEYWERENASTHESYRUPSSTANTOEATR
+
+--- SCORE ---
+-1116.4671
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 68 / 100 chars correct (68.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> O
+2      -> Z
+3      -> X
+4      -> H
+5      -> U
+6      -> H
+7      -> E
+8      -> R
+9      -> B
+10     -> A
+11     -> C
+12     -> T
+13     -> L
+14     -> K
+15     -> S
+16     -> G
+17     -> V
+18     -> E
+20     -> T
+21     -> N
+23     -> N
+25     -> W
+26     -> A
+27     -> D
+28     -> T
+30     -> Y
+31     -> J
+32     -> P
+33     -> E
+35     -> I
+36     -> F
+39     -> M
+40     -> A
+42     -> A
+43     -> S

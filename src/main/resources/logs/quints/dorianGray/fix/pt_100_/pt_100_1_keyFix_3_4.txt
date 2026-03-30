@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [29, 54, 1, 48]
+B(1) [58, 73, 3, 93]
+C(2) [9, 10, 18, 79]
+D(3) [0, 43, 59, 86]
+E(4) [82, 46, 69, 15]
+F(5) [14, 56, 77, 26]
+G(6) [25, 63, 12, 2]
+H(7) [74, 21, 88, 95]
+I(8) [98, 91, 30, 70]
+J(9) [38, 85, 68, 76]
+K(10) [71, 16, 40, 99]
+L(11) [92, 102, 8, 7]
+M(12) [72, 47, 80, 41]
+N(13) [52, 32, 49, 78]
+O(14) [13, 90, 33, 23]
+P(15) [66, 87, 42, 24]
+Q(16) [35, 57, 100, 101]
+R(17) [50, 19, 28, 55]
+S(18) [34, 65, 36, 61]
+T(19) [44, 20, 64, 67]
+U(20) [31, 53, 37, 51]
+V(21) [62, 89, 45, 75]
+W(22) [94, 17, 103, 4]
+X(23) [27, 81, 5, 60]
+Y(24) [6, 11, 96, 39]
+Z(25) [22, 84, 83, 97]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+93 51 67 44 95 69 30 19 13 103 52 65 13 53 102 65 65 64 1 55 45 46 1 78 43 48 50 46 52 54 71 15 43 18 90 51 28 48 25 82 21 48 36 25 90 52 15 13 51 20 13 77 23 51 55 19 1 9 82 66 15 19 21 1 24 36 94 15 49 82 62 69 55 50 82 1 92 8 11 74 48 0 70 67 64 74 46 67 46 19 55 33 28 13 26 34 23 10 30 82 20 11
+
+--- DECRYPTED PLAINTEXT ---
+ZREQUESTABLEAGREECEANDERSANDLIKESFORMATTHATTOLEAREAPERATEDTHETHEYTHERTHEANTEVEREALRECEDEDTAXMANJEWSTER
+
+--- SCORE ---
+-1088.6809
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 15 / 102 chars correct (14.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> L
+1      -> E
+8      -> E
+9      -> D
+10     -> W
+11     -> R
+13     -> A
+15     -> E
+18     -> F
+19     -> T
+20     -> E
+21     -> H
+23     -> E
+24     -> Y
+25     -> T
+26     -> N
+28     -> M
+30     -> S
+33     -> X
+34     -> J
+36     -> T
+43     -> S
+44     -> Q
+45     -> N
+46     -> D
+48     -> A
+49     -> R
+50     -> N
+51     -> R
+52     -> L
+53     -> G
+54     -> I
+55     -> A
+62     -> H
+64     -> C
+65     -> E
+66     -> H
+67     -> E
+69     -> E
+70     -> R
+71     -> K
+74     -> E
+77     -> P
+78     -> R
+82     -> T
+90     -> O
+92     -> V
+93     -> Z
+94     -> H
+95     -> U
+102    -> R
+103    -> B

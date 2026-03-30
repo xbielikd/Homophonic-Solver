@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [41, 2, 11]
+B(1) [59, 49, 60]
+C(2) [70, 67, 53]
+D(3) [57, 3, 9]
+E(4) [74, 34, 18]
+F(5) [33, 76, 14]
+G(6) [50, 30, 58]
+H(7) [44, 35, 19]
+I(8) [65, 20, 47]
+J(9) [10, 28, 7]
+K(10) [68, 27, 54]
+L(11) [55, 31, 66]
+M(12) [1, 45, 39]
+N(13) [77, 17, 42]
+O(14) [32, 71, 29]
+P(15) [36, 48, 56]
+Q(16) [73, 5, 38]
+R(17) [21, 63, 64]
+S(18) [51, 72, 46]
+T(19) [52, 15, 26]
+U(20) [24, 62, 61]
+V(21) [22, 0, 13]
+W(22) [4, 75, 23]
+X(23) [40, 69, 8]
+Y(24) [16, 6, 37]
+Z(25) [25, 12, 43]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+44 74 35 11 57 35 11 26 34 76 62 66 1 34 45 32 64 20 74 51 29 76 19 47 1 15 19 41 52 3 29 18 72 17 29 26 1 11 15 15 74 21 19 18 2 42 51 75 74 64 34 9 47 72 47 1 36 66 6 75 2 77 15 26 71 51 18 18 26 44 74 48 66 11 70 34 26 44 11 52 20 46 41 66 55 30 20 13 18 1 18 26 44 34 68 74 16 2 17 3
+
+--- DECRYPTED PLAINTEXT ---
+HELEPLETEAVEREFOREETHATERSTERTHENTHTRESSEXTEEDTHEREMENERGETHEYSTITEETHEBEEKETHEREWEEQUEZERETHEJECETT
+
+--- SCORE ---
+-701.2279
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 30 / 100 chars correct (30.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> R
+2      -> E
+3      -> T
+6      -> T
+9      -> M
+11     -> E
+13     -> Z
+15     -> S
+16     -> C
+17     -> T
+18     -> E
+19     -> T
+20     -> E
+21     -> X
+26     -> T
+29     -> H
+30     -> U
+32     -> O
+34     -> E
+35     -> L
+36     -> G
+41     -> E
+42     -> D
+44     -> H
+45     -> F
+46     -> W
+47     -> E
+48     -> B
+51     -> T
+52     -> R
+55     -> Q
+57     -> P
+62     -> V
+64     -> R
+66     -> E
+68     -> J
+70     -> K
+71     -> I
+72     -> N
+74     -> E
+75     -> H
+76     -> A
+77     -> Y

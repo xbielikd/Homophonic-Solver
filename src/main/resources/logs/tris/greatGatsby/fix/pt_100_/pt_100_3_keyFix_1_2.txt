@@ -1,0 +1,92 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [9, 32]
+B(1) [51, 16]
+C(2) [17, 19]
+D(3) [10, 47]
+E(4) [21, 18]
+F(5) [49, 8]
+G(6) [46, 24]
+H(7) [45, 11]
+I(8) [29, 0]
+J(9) [4, 39]
+K(10) [30, 48]
+L(11) [41, 6]
+M(12) [28, 40]
+N(13) [31, 7]
+O(14) [13, 42]
+P(15) [23, 20]
+Q(16) [3, 12]
+R(17) [36, 2]
+S(18) [33, 27]
+T(19) [5, 14]
+U(20) [1, 26]
+V(21) [34, 35]
+W(22) [38, 25]
+X(23) [37, 15]
+Y(24) [50, 22]
+Z(25) [43, 44]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   32
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+29 5 25 9 27 7 5 26 31 5 0 6 5 11 18 31 5 11 9 14 29 17 13 31 7 21 17 5 18 47 14 11 29 27 24 9 5 33 51 22 25 0 14 45 5 11 18 42 49 8 0 17 18 36 0 31 11 18 36 25 11 0 14 21 17 32 36 38 11 18 7 4 13 36 47 32 31 51 9 48 18 2 45 32 47 49 0 7 0 33 45 21 10 14 18 6 6 0 31 24
+
+--- DECRYPTED PLAINTEXT ---
+UTCAMITZSTERTHESTHATURESIORTEDTHUMPATLEXCETYTHEQBJERENESHENCHETORENGHEIVENDESEAKEWYEDBEIELYOFTERRESP
+
+--- SCORE ---
+-767.3351
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 36 / 100 chars correct (36.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> W
+4      -> V
+5      -> T
+6      -> R
+7      -> I
+8      -> J
+9      -> A
+10     -> F
+11     -> H
+13     -> E
+14     -> T
+17     -> R
+18     -> E
+21     -> O
+22     -> X
+24     -> P
+25     -> C
+26     -> Z
+27     -> M
+29     -> U
+31     -> S
+32     -> E
+33     -> L
+36     -> N
+38     -> G
+42     -> Q
+45     -> Y
+47     -> D
+48     -> K
+49     -> B
+51     -> E

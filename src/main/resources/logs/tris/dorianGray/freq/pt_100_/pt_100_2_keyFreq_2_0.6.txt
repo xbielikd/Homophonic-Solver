@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [37, 29, 44, 9, 60]
+B(1) [71]
+C(2) [38, 25]
+D(3) [39, 69, 48]
+E(4) [50, 53, 35, 15, 49, 74, 57, 33]
+F(5) [0, 51]
+G(6) [12, 19]
+H(7) [65, 41, 6, 70]
+I(8) [1, 8, 30, 62, 66]
+J(9) [13]
+K(10) [61]
+L(11) [4, 40, 27]
+M(12) [68, 28]
+N(13) [7, 34, 31, 21, 72]
+O(14) [43, 36, 2, 54, 47]
+P(15) [26, 55]
+Q(16) [24]
+R(17) [46, 20, 14, 64]
+S(18) [45, 22, 73, 17]
+T(19) [59, 3, 16, 67, 63, 5]
+U(20) [56, 58]
+V(21) [52]
+W(22) [18, 10]
+X(23) [11]
+Y(24) [42, 23]
+Z(25) [32]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOODHEAVENSWHATALIFETHATISYOUHAVEGONEFROMCORRUPTIONTOCORRUPTIONANDNOWYOUHAVECULMINATEDINCRIMEINDOING
+
+--- CIPHERTEXT ---
+19 54 47 39 65 49 9 52 49 31 17 10 70 60 67 44 27 1 0 74 59 70 29 67 62 45 23 36 58 65 60 52 33 19 2 31 33 51 20 36 28 25 2 64 64 56 55 5 1 36 21 3 54 38 43 64 46 58 55 5 8 43 31 37 21 39 72 2 10 42 54 56 70 9 52 15 25 56 4 68 62 72 29 59 35 39 8 34 25 64 30 68 33 1 34 48 2 62 34 19
+
+--- DECRYPTED PLAINTEXT ---
+TEDSTTHETIVETHEQUEAKETHEEXPRETHENTHINGFROTHEESTHEREJECLEBETHELIZESTHERESTHENTSWEETHEYSESTEMENESTHEST
+
+--- SCORE ---
+-675.5710
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 1 / 100 chars correct (1.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> E
+2      -> H
+3      -> J
+4      -> W
+5      -> H
+8      -> E
+9      -> H
+10     -> E
+15     -> N
+17     -> V
+19     -> T
+20     -> F
+21     -> E
+23     -> P
+25     -> T
+27     -> U
+28     -> O
+29     -> H
+30     -> M
+31     -> I
+33     -> N
+34     -> S
+35     -> Y
+36     -> R
+37     -> Z
+38     -> C
+39     -> S
+42     -> R
+43     -> L
+44     -> Q
+45     -> X
+46     -> B
+47     -> D
+48     -> T
+49     -> T
+51     -> G
+52     -> E
+54     -> E
+55     -> T
+56     -> S
+58     -> E
+59     -> E
+60     -> H
+62     -> E
+64     -> E
+65     -> T
+67     -> E
+68     -> E
+70     -> T
+72     -> T
+74     -> K

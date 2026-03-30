@@ -1,0 +1,114 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [14, 52, 45, 19, 18]
+B(1) [24]
+C(2) [26, 41]
+D(3) [37, 70, 21]
+E(4) [66, 22, 57, 60, 74, 42, 38, 51]
+F(5) [30, 69]
+G(6) [58, 68]
+H(7) [8, 59, 62, 33]
+I(8) [44, 16, 72, 46, 64]
+J(9) [43]
+K(10) [54]
+L(11) [48, 31, 34]
+M(12) [6, 7]
+N(13) [32, 67, 73, 50, 11]
+O(14) [12, 47, 55, 25, 40]
+P(15) [53, 71]
+Q(16) [28]
+R(17) [23, 65, 56, 13]
+S(18) [3, 49, 39, 61]
+T(19) [1, 9, 15, 20, 10, 27]
+U(20) [17, 35]
+V(21) [63]
+W(22) [4, 2]
+X(23) [36]
+Y(24) [5, 29]
+Z(25) [0]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   54
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+7 5 53 19 65 57 50 10 39 2 38 56 22 53 40 39 61 22 49 49 51 70 24 29 27 8 38 63 57 13 29 61 71 16 23 44 15 47 69 54 46 67 70 67 42 3 61 18 73 70 44 50 37 35 31 58 42 67 41 38 2 66 30 57 34 10 15 33 14 9 9 59 66 5 2 38 56 51 73 55 20 10 8 51 1 29 56 45 50 1 49 1 55 65 35 31 51 55 35 13
+
+--- DECRYPTED PLAINTEXT ---
+ZANGHEETERERENJERETTETHEWHEREREROFTHEQUCKETERERESTHEVEREREDEREBESTEXPLLYEARERESTITHESERMESTSTHERETER
+
+--- SCORE ---
+-477.6679
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 25 / 100 chars correct (25.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> S
+2      -> R
+3      -> E
+5      -> A
+7      -> Z
+8      -> H
+9      -> L
+10     -> T
+13     -> R
+14     -> P
+15     -> E
+16     -> F
+18     -> E
+19     -> G
+20     -> I
+22     -> E
+23     -> T
+24     -> H
+27     -> W
+29     -> E
+30     -> B
+31     -> R
+33     -> X
+34     -> S
+35     -> E
+37     -> V
+38     -> E
+39     -> E
+40     -> J
+41     -> D
+42     -> R
+44     -> H
+45     -> M
+46     -> K
+47     -> Q
+49     -> T
+50     -> E
+51     -> E
+53     -> N
+54     -> C
+55     -> T
+56     -> R
+57     -> E
+58     -> E
+59     -> Y
+61     -> R
+63     -> R
+65     -> H
+66     -> E
+67     -> E
+69     -> U
+70     -> T
+71     -> O
+73     -> S

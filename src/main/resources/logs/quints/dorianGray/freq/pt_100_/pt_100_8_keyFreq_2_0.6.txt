@@ -1,0 +1,119 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [20, 62, 52, 68, 64]
+B(1) [30]
+C(2) [53, 42]
+D(3) [47, 29, 13]
+E(4) [17, 57, 3, 48, 32, 16, 55, 41]
+F(5) [12, 44]
+G(6) [39, 61]
+H(7) [59, 15, 40, 67]
+I(8) [54, 58, 70, 19, 46]
+J(9) [56]
+K(10) [18]
+L(11) [26, 28, 6]
+M(12) [36, 11]
+N(13) [43, 50, 2, 27, 69]
+O(14) [37, 8, 14, 71, 74]
+P(15) [49, 31]
+Q(16) [23]
+R(17) [65, 25, 38, 73]
+S(18) [66, 7, 4, 24]
+T(19) [33, 60, 1, 10, 72, 34]
+U(20) [0, 45]
+V(21) [9]
+W(22) [5, 63]
+X(23) [21]
+Y(24) [51, 22]
+Z(25) [35]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   59
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+5 3 62 38 57 50 8 60 7 57 69 72 19 43 1 14 33 40 55 5 71 25 28 13 60 71 52 70 65 74 0 25 11 74 38 20 6 49 73 57 56 45 29 19 42 57 7 46 2 17 9 3 65 72 52 18 55 68 69 51 50 71 34 19 42 32 71 12 63 67 52 10 53 74 11 36 37 50 31 57 37 49 28 17 24 68 51 52 27 13 54 27 3 9 17 73 58 69 34 17 65 44 16 38 16
+
+--- DECRYPTED PLAINTEXT ---
+GEZESERIESTHEJACKINGTOREITEAREFOREEXPENSEQUESSELLEVERHEANTTHETHESETHEMEMBERTHEYSHEREDTHEREAREVENTTHEREWEW
+
+--- SCORE ---
+-1073.0345
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 105 chars correct (12.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> A
+2      -> L
+3      -> E
+5      -> G
+6      -> P
+7      -> E
+8      -> R
+9      -> V
+10     -> M
+11     -> R
+12     -> H
+13     -> E
+14     -> C
+16     -> W
+17     -> E
+18     -> A
+19     -> E
+20     -> X
+24     -> D
+25     -> O
+27     -> R
+28     -> R
+29     -> U
+31     -> Y
+32     -> E
+33     -> K
+34     -> H
+36     -> T
+37     -> H
+38     -> E
+40     -> I
+42     -> S
+43     -> J
+44     -> E
+45     -> Q
+46     -> L
+49     -> E
+50     -> E
+51     -> H
+52     -> E
+53     -> B
+54     -> A
+55     -> N
+56     -> E
+57     -> S
+58     -> T
+60     -> I
+62     -> Z
+63     -> E
+65     -> R
+67     -> M
+68     -> T
+69     -> T
+70     -> A
+71     -> T
+72     -> H
+73     -> N
+74     -> E

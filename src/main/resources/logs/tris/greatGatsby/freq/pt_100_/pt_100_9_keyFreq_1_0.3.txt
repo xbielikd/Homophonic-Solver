@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [31, 36, 7]
+B(1) [43]
+C(2) [11]
+D(3) [35, 39]
+E(4) [18, 30, 34, 2]
+F(5) [33]
+G(6) [23]
+H(7) [38, 40]
+I(8) [5, 27, 13]
+J(9) [8]
+K(10) [6]
+L(11) [16, 1]
+M(12) [17]
+N(13) [20, 4, 22]
+O(14) [41, 21, 28]
+P(15) [26]
+Q(16) [15]
+R(17) [24, 9]
+S(18) [0, 42]
+T(19) [14, 25, 3]
+U(20) [37]
+V(21) [10]
+W(22) [29]
+X(23) [19]
+Y(24) [32]
+Z(25) [12]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+23 28 7 22 39 43 37 32 3 2 22 17 21 9 2 39 28 23 0 29 27 25 38 27 14 29 30 35 9 21 10 34 21 10 34 24 25 21 33 27 33 3 40 7 10 18 20 37 30 29 7 24 17 7 20 39 0 21 33 3 36 16 17 41 0 25 26 7 42 3 21 24 31 16 28 20 3 38 18 0 37 17 17 34 9 0 37 4 39 36 32 7 33 14 18 24 22 41 41 4
+
+--- DECRYPTED PLAINTEXT ---
+GNEPIZAKESPLAUSINGSBETHEMBYQUAREARESTAREREXEREDAYBESLEDISARECALOSTWEVEASJANDEHESALLEUSAFICKERMESPOOF
+
+--- SCORE ---
+-772.9540
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 21 / 100 chars correct (21.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+2      -> S
+3      -> E
+4      -> F
+7      -> E
+9      -> U
+10     -> R
+14     -> M
+16     -> A
+17     -> L
+18     -> E
+20     -> D
+21     -> A
+22     -> P
+23     -> G
+24     -> S
+25     -> T
+26     -> W
+27     -> E
+28     -> N
+29     -> B
+30     -> Y
+31     -> J
+32     -> K
+33     -> R
+34     -> E
+35     -> Q
+36     -> C
+37     -> A
+38     -> H
+39     -> I
+40     -> X
+41     -> O
+42     -> V
+43     -> Z

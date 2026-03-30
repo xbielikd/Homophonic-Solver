@@ -1,0 +1,179 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [103, 122, 134, 47, 19, 2, 28, 84, 30, 48]
+B(1) [104, 91]
+C(2) [64, 73, 119, 65]
+D(3) [99, 118, 83, 51, 107, 93]
+E(4) [16, 101, 31, 120, 69, 17, 94, 116, 106, 97, 49, 117, 114, 75, 13, 68]
+F(5) [100, 36, 39]
+G(6) [4, 80, 57]
+H(7) [92, 34, 102, 12, 115, 37, 54, 33]
+I(8) [38, 121, 20, 108, 74, 124, 43, 132, 67]
+J(9) [44]
+K(10) [15]
+L(11) [90, 60, 89, 1, 61]
+M(12) [95, 79, 53]
+N(13) [29, 32, 123, 24, 58, 25, 98, 21, 41]
+O(14) [71, 127, 62, 59, 52, 50, 70, 40, 76, 55]
+P(15) [78, 125, 72]
+Q(16) [113]
+R(17) [14, 10, 88, 105, 22, 77, 35, 5]
+S(18) [85, 8, 131, 0, 23, 130, 66, 86]
+T(19) [128, 109, 26, 56, 96, 9, 46, 129, 110, 45, 111]
+U(20) [27, 11, 63, 126]
+V(21) [18, 81]
+W(22) [112, 3, 7]
+X(23) [87]
+Y(24) [133, 6, 42]
+Z(25) [82]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   119
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ASHERODEHOMEHISEYESWEREFULLOFTEARSFORHEKNEWHEWASSAFETHEREISNOUSEYOURTELLINGMETHATYOUAREGOINGTOBEGOODCRIEDLORDHENRYDIPPINGHISWHITEFINGERSINTOAREDCOPPERBOWLFILLEDWITHROSEWATERYOUAREQUITEPERFECTPRAYDONTCHANGEDORIANGRAYSHOOKHISHEADNOHARRYIHAVEDONETOOMANY
+
+--- CIPHERTEXT ---
+103 23 37 101 14 59 118 114 37 52 53 97 115 124 23 116 42 97 66 3 49 14 97 39 27 61 90 40 39 110 75 122 77 130 100 59 105 54 16 15 29 31 7 102 116 112 28 23 86 28 36 106 46 33 49 35 101 124 131 58 127 27 8 69 6 76 63 10 45 31 61 1 67 41 80 79 68 109 102 47 26 42 55 27 134 22 75 57 52 67 32 80 96 50 104 114 57 71 62 118 65 10 38 69 99 89 70 5 99 54 97 25 10 42 118 74 72 72 132 24 57 102 67 130 3 34 121 96 94 100 124 58 4 116 5 66 121 32 46 50 103 88 120 51 64 52 72 72 106 5 91 127 112 90 39 43 89 90 94 93 3 121 111 115 22 76 86 49 3 134 110 69 5 42 40 11 28 22 69 113 126 67 129 97 72 16 88 100 94 119 46 125 88 28 42 99 71 98 56 73 54 134 41 57 17 118 55 10 121 19 29 4 77 2 133 0 12 70 55 15 54 20 8 102 101 122 118 41 71 92 84 105 10 42 43 115 122 81 116 83 55 21 97 26 59 59 95 103 58 42
+
+--- DECRYPTED PLAINTEXT ---
+STHERNETHEREONTERETHERENTHEINTERETINTHATATTHERETHEREEZERENCEATTERTHESTHEATERETHEIRSTARETEAREPARTTHEELEGETHERTHEWEREATTHETHATHEEPOINETERTEREASTHERETTERSARENTHEOTHEFORTHEHATERRIVEREQUAKETATIONEXTERTHESTHATTHESEEMATEDBYRESTHETHERETHESTERTORJERSHEINNESER
+
+--- SCORE ---
+-2077.1639
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 53 / 250 chars correct (21.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> E
+2      -> D
+3      -> H
+4      -> T
+5      -> R
+6      -> R
+7      -> T
+8      -> T
+10     -> E
+11     -> V
+12     -> R
+14     -> R
+15     -> T
+16     -> A
+17     -> H
+19     -> M
+20     -> E
+21     -> H
+22     -> R
+23     -> T
+24     -> E
+25     -> W
+26     -> I
+27     -> T
+28     -> E
+29     -> A
+31     -> T
+32     -> R
+33     -> Z
+34     -> E
+35     -> R
+36     -> R
+37     -> H
+38     -> G
+39     -> N
+40     -> I
+41     -> T
+42     -> R
+43     -> T
+45     -> S
+46     -> E
+47     -> E
+49     -> E
+50     -> A
+51     -> E
+52     -> E
+53     -> R
+54     -> H
+55     -> S
+56     -> S
+57     -> T
+58     -> E
+59     -> N
+61     -> H
+62     -> E
+63     -> H
+64     -> R
+65     -> L
+66     -> T
+67     -> A
+68     -> E
+69     -> E
+70     -> E
+71     -> H
+72     -> T
+73     -> T
+74     -> A
+75     -> E
+76     -> T
+77     -> E
+79     -> R
+80     -> E
+81     -> J
+83     -> R
+84     -> S
+86     -> H
+88     -> T
+89     -> H
+90     -> E
+91     -> S
+92     -> E
+93     -> T
+94     -> O
+95     -> E
+96     -> P
+97     -> E
+98     -> E
+99     -> T
+100    -> I
+101    -> E
+102    -> H
+103    -> S
+104    -> R
+105    -> T
+106    -> E
+109    -> T
+110    -> T
+111    -> F
+112    -> R
+113    -> Q
+114    -> T
+115    -> O
+116    -> E
+118    -> E
+119    -> N
+120    -> H
+121    -> E
+122    -> R
+124    -> N
+125    -> X
+126    -> U
+127    -> A
+129    -> K
+130    -> T
+131    -> C
+132    -> H
+133    -> B
+134    -> A

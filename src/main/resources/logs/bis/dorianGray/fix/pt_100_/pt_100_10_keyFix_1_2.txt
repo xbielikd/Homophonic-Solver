@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [35, 30]
+B(1) [32, 25]
+C(2) [45, 10]
+D(3) [48, 24]
+E(4) [1, 23]
+F(5) [18, 43]
+G(6) [39, 34]
+H(7) [15, 11]
+I(8) [21, 38]
+J(9) [22, 33]
+K(10) [3, 2]
+L(11) [36, 31]
+M(12) [13, 26]
+N(13) [19, 51]
+O(14) [27, 44]
+P(15) [6, 9]
+Q(16) [17, 40]
+R(17) [16, 46]
+S(18) [29, 28]
+T(19) [37, 0]
+U(20) [14, 12]
+V(21) [7, 8]
+W(22) [20, 50]
+X(23) [41, 47]
+Y(24) [5, 49]
+Z(25) [42, 4]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+THINLIPPEDWISDOMSPOKEATHERFROMTHEWORNCHAIRHINTEDATPRUDENCEQUOTEDFROMTHATBOOKOFCOWARDICEWHOSEAUTHORAPES
+
+--- CIPHERTEXT ---
+37 11 21 51 31 21 6 9 1 24 20 21 28 48 44 13 28 9 44 3 1 30 0 15 1 16 18 16 27 26 0 15 1 20 27 16 19 10 11 30 21 16 11 21 19 0 23 24 35 37 6 16 12 24 23 51 45 1 40 14 44 37 1 48 43 46 27 13 37 11 35 0 25 27 44 3 44 43 45 27 20 30 46 24 21 45 23 50 11 27 28 1 30 12 0 15 44 46 35 9 23 28
+
+--- DECRYPTED PLAINTEXT ---
+LEECKEOMENDERYEPRMEVESTHERGREXTHEDERFJESEREEFTENALORINECHEQUELEYWEEPLEATZEEVEWHEDSENEHEBEERESITHEEAMER
+
+--- SCORE ---
+-537.4385
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 102 chars correct (28.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> E
+3      -> V
+6      -> O
+9      -> M
+10     -> J
+11     -> E
+12     -> I
+13     -> P
+14     -> U
+15     -> H
+16     -> R
+18     -> G
+19     -> F
+20     -> D
+21     -> E
+23     -> E
+24     -> N
+25     -> Z
+26     -> X
+27     -> E
+28     -> R
+30     -> S
+31     -> K
+35     -> A
+37     -> L
+40     -> Q
+43     -> W
+44     -> E
+45     -> H
+46     -> E
+48     -> Y
+50     -> B
+51     -> C

@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 10]
+B(1) [20, 48]
+C(2) [51, 2]
+D(3) [7, 24]
+E(4) [1, 42]
+F(5) [44, 34]
+G(6) [5, 16]
+H(7) [37, 19]
+I(8) [3, 32]
+J(9) [47, 35]
+K(10) [39, 41]
+L(11) [50, 0]
+M(12) [9, 14]
+N(13) [17, 31]
+O(14) [15, 49]
+P(15) [33, 13]
+Q(16) [46, 26]
+R(17) [28, 23]
+S(18) [21, 8]
+T(19) [27, 11]
+U(20) [12, 43]
+V(21) [45, 4]
+W(22) [29, 36]
+X(23) [22, 38]
+Y(24) [40, 25]
+Z(25) [6, 30]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+11 37 42 43 17 24 42 28 16 23 18 24 12 10 11 42 17 15 7 7 1 7 32 31 10 2 40 31 32 2 18 50 9 42 0 10 31 2 37 15 0 25 29 18 25 11 37 42 20 18 23 36 19 1 23 1 29 1 5 50 10 17 51 1 7 44 3 28 21 27 29 18 21 51 28 49 29 7 42 7 20 43 27 5 10 27 21 48 25 36 18 21 17 15 27 27 19 42 28 42
+
+--- DECRYPTED PLAINTEXT ---
+THEANDEEXCEDWITENESSESONITYNOTERVEMINTHEMAREATHEPECKBECEREFRINGESQUEALREAGEJRSESPALFILAZAKEANELLBEEE
+
+--- SCORE ---
+-769.7481
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 100 chars correct (29.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> M
+1      -> E
+2      -> T
+3      -> U
+5      -> F
+7      -> S
+9      -> V
+10     -> I
+11     -> T
+12     -> W
+15     -> E
+16     -> X
+17     -> N
+18     -> E
+19     -> B
+20     -> P
+21     -> A
+23     -> C
+24     -> D
+25     -> A
+27     -> L
+28     -> E
+29     -> R
+31     -> N
+32     -> O
+36     -> K
+37     -> H
+40     -> Y
+42     -> E
+43     -> A
+44     -> Q
+48     -> Z
+49     -> J
+50     -> R
+51     -> G

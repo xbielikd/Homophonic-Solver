@@ -1,0 +1,110 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [20, 56, 59, 55, 54]
+B(1) [36]
+C(2) [53, 17]
+D(3) [22, 60, 37]
+E(4) [41, 12, 14, 63, 2, 47, 50, 3]
+F(5) [57, 51]
+G(6) [8, 45]
+H(7) [42, 21, 27, 9]
+I(8) [46, 48, 16, 71, 4]
+J(9) [5]
+K(10) [29]
+L(11) [74, 68, 11]
+M(12) [58, 6]
+N(13) [64, 35, 33, 32, 13]
+O(14) [43, 30, 34, 49, 15]
+P(15) [28, 25]
+Q(16) [72]
+R(17) [18, 61, 10, 39]
+S(18) [1, 26, 0, 69]
+T(19) [52, 67, 73, 23, 66, 31]
+U(20) [7, 44]
+V(21) [65]
+W(22) [70, 40]
+X(23) [62]
+Y(24) [19, 38]
+Z(25) [24]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   50
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+31 21 3 44 32 60 50 18 8 18 54 22 7 54 23 50 13 30 60 60 50 22 71 32 56 53 19 13 46 53 55 11 58 3 74 54 32 17 27 49 11 38 40 56 19 31 42 12 36 56 18 40 21 41 39 41 40 41 45 74 59 33 17 41 60 57 46 61 0 67 40 55 69 53 39 43 70 60 47 60 36 44 66 8 20 67 1 36 19 70 55 69 33 34 67 73 27 41 61 3
+
+--- DECRYPTED PLAINTEXT ---
+ESTHEEREREREPREREVEERECETTHEATELYTORENDBLERTHEQUTTERSEHEREJOFINEEWANGERESTHEREMETHERKEXTHRESIZENDENT
+
+--- SCORE ---
+-491.3381
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 100 chars correct (9.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> G
+1      -> X
+3      -> T
+7      -> P
+8      -> R
+11     -> L
+12     -> U
+13     -> E
+17     -> N
+18     -> E
+19     -> H
+20     -> K
+21     -> S
+22     -> E
+23     -> E
+27     -> D
+30     -> V
+31     -> E
+32     -> E
+33     -> I
+34     -> Z
+36     -> T
+38     -> E
+39     -> H
+40     -> R
+41     -> E
+42     -> Q
+43     -> E
+44     -> H
+45     -> J
+46     -> A
+47     -> M
+49     -> B
+50     -> R
+53     -> T
+54     -> R
+55     -> E
+56     -> T
+57     -> W
+58     -> Y
+59     -> F
+60     -> E
+61     -> N
+66     -> E
+67     -> E
+69     -> S
+70     -> R
+71     -> C
+73     -> N
+74     -> O

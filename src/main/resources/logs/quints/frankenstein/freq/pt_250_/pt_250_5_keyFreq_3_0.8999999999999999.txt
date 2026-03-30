@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [103, 79, 49, 82, 7, 59, 3, 71]
+B(1) [28, 25]
+C(2) [31, 4, 104]
+D(3) [81, 20, 22, 97]
+E(4) [44, 33, 46, 38, 99, 85, 6, 93, 23, 42, 58, 90]
+F(5) [69, 54, 66]
+G(6) [24, 50]
+H(7) [43, 95, 78, 101, 68, 13]
+I(8) [26, 45, 96, 57, 10, 5, 89]
+J(9) [34]
+K(10) [36]
+L(11) [52, 32, 75, 55]
+M(12) [92, 80, 64]
+N(13) [12, 14, 56, 11, 72, 63, 39]
+O(14) [15, 16, 21, 73, 88, 18, 76]
+P(15) [98, 27]
+Q(16) [29]
+R(17) [37, 47, 91, 0, 94, 65]
+S(18) [19, 77, 41, 61, 87, 2]
+T(19) [8, 53, 40, 1, 48, 30, 9, 62, 74]
+U(20) [35, 102, 17]
+V(21) [83]
+W(22) [51, 70, 86]
+X(23) [67]
+Y(24) [60, 100]
+Z(25) [84]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+SWEETANDBELOVEDELIZABETHIREADANDREREADHERLETTERANDSOMESOFTENEDFEELINGSSTOLEINTOMYHEARTANDDAREDTOWHISPERPARADISIACALDREAMSOFLOVEANDJOYBUTTHEAPPLEWASALREADYEATENANDTHEANGELSARMBAREDTODRIVEMEFROMALLHOPEYETIWOULDDIETOMAKEHERHAPPYIFTHEMONSTEREXECUTEDHISTHREAT
+
+--- CIPHERTEXT ---
+19 86 93 93 30 103 56 97 28 90 52 76 83 44 20 44 32 45 84 103 25 33 30 43 10 94 93 82 97 82 12 81 0 85 94 42 71 20 13 85 94 32 90 30 48 33 0 103 12 20 61 21 80 46 41 18 66 53 6 11 90 97 54 23 93 55 5 12 24 41 87 9 88 55 58 57 63 30 16 80 100 95 42 82 91 74 103 56 81 81 59 0 58 22 1 18 51 68 57 41 27 58 47 98 71 65 49 81 5 19 5 71 31 79 75 97 47 23 71 80 87 88 66 52 76 83 93 82 12 22 34 15 60 28 102 9 30 68 85 49 27 98 52 99 51 3 77 82 55 37 58 49 81 100 58 59 74 85 11 71 39 81 53 78 38 3 14 50 33 75 19 7 65 64 28 71 94 90 81 1 21 20 37 89 83 46 64 6 54 91 21 92 3 55 55 43 73 27 38 60 90 1 96 86 18 17 55 97 22 10 44 48 88 64 7 36 46 13 42 47 43 103 27 27 100 89 54 8 43 46 92 76 39 41 30 44 94 99 67 6 31 102 74 42 22 68 10 2 30 68 0 23 59 74
+
+--- DECRYPTED PLAINTEXT ---
+EESSEENAGEDINATATPRESTEEINSTATETHENEATMENTEENTHEETHATATINSAREARESTHESTSTATEAKENTHEETEVENTTOHERSITSATTERSAINTHEHASCHAREATSANDINSTERLARGETESENTSDETECTTHENTHEOVERANTSQUEOFTHEDINGANETSATHENANAREARETTEXTURESBEINTARIANANDJAMEREETTHERYEARINTEANEWASEVERSIZESHEOV
+
+--- SCORE ---
+-2805.0318
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 43 / 254 chars correct (16.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> S
+2      -> Z
+3      -> E
+5      -> H
+6      -> A
+7      -> D
+8      -> Y
+9      -> T
+10     -> I
+11     -> R
+12     -> E
+13     -> M
+14     -> O
+15     -> A
+16     -> N
+17     -> N
+18     -> I
+19     -> E
+20     -> T
+21     -> A
+22     -> R
+23     -> E
+24     -> S
+25     -> S
+27     -> T
+28     -> G
+30     -> E
+31     -> S
+32     -> T
+33     -> T
+34     -> L
+36     -> J
+37     -> H
+38     -> U
+39     -> N
+41     -> T
+42     -> E
+43     -> E
+44     -> A
+45     -> P
+46     -> A
+47     -> R
+48     -> N
+49     -> N
+50     -> F
+51     -> T
+52     -> D
+53     -> S
+54     -> R
+55     -> T
+56     -> N
+57     -> A
+58     -> E
+59     -> O
+60     -> R
+61     -> H
+63     -> K
+64     -> N
+65     -> I
+66     -> N
+67     -> W
+68     -> S
+71     -> A
+73     -> X
+74     -> V
+75     -> H
+76     -> I
+77     -> C
+78     -> Q
+79     -> C
+80     -> T
+81     -> T
+82     -> T
+83     -> N
+84     -> R
+85     -> E
+86     -> E
+87     -> S
+88     -> A
+89     -> E
+90     -> E
+91     -> E
+92     -> R
+93     -> S
+94     -> N
+95     -> E
+96     -> B
+97     -> A
+98     -> S
+99     -> E
+100    -> H
+102    -> E
+103    -> E

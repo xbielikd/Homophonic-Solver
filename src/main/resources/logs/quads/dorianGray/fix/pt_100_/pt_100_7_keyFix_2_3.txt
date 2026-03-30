@@ -1,0 +1,101 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 21, 51]
+B(1) [67, 71, 31]
+C(2) [76, 47, 16]
+D(3) [25, 53, 0]
+E(4) [10, 38, 42]
+F(5) [7, 11, 19]
+G(6) [5, 35, 45]
+H(7) [70, 23, 15]
+I(8) [26, 8, 66]
+J(9) [44, 57, 1]
+K(10) [43, 46, 30]
+L(11) [49, 60, 41]
+M(12) [59, 2, 54]
+N(13) [13, 65, 36]
+O(14) [40, 14, 39]
+P(15) [61, 34, 55]
+Q(16) [69, 68, 58]
+R(17) [22, 17, 63]
+S(18) [29, 74, 56]
+T(19) [3, 50, 77]
+U(20) [52, 75, 37]
+V(21) [18, 20, 6]
+W(22) [28, 27, 64]
+X(23) [4, 33, 32]
+Y(24) [62, 24, 9]
+Z(25) [72, 73, 48]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   41
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+23 38 23 12 25 70 12 3 10 7 52 49 59 38 59 14 17 26 42 74 39 7 70 8 59 77 23 21 77 25 39 38 74 13 14 50 59 21 3 77 42 63 70 42 51 13 56 64 10 17 10 53 8 74 8 2 34 60 9 64 51 65 77 50 40 29 42 38 3 23 42 55 60 12 47 38 3 15 12 50 26 56 51 49 60 45 26 6 42 54 42 77 23 10 46 10 9 21 13 25
+
+--- DECRYPTED PLAINTEXT ---
+RARENCEREOFSTATERIENTOCATEREENTANDERTEREEXCEEDTHEREGANALBUTHEVERYWEARREQUEPARKERITESUMIZENEEREJETEDN
+
+--- SCORE ---
+-932.5022
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 17 / 100 chars correct (17.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> L
+3      -> R
+6      -> Z
+7      -> O
+8      -> A
+9      -> T
+10     -> E
+12     -> E
+13     -> D
+14     -> E
+15     -> K
+17     -> R
+21     -> E
+23     -> R
+25     -> N
+26     -> I
+29     -> W
+34     -> B
+38     -> A
+39     -> T
+40     -> Y
+42     -> E
+45     -> M
+46     -> J
+47     -> P
+49     -> S
+50     -> R
+51     -> E
+52     -> F
+53     -> G
+54     -> N
+55     -> Q
+56     -> T
+59     -> T
+60     -> U
+63     -> X
+64     -> H
+65     -> V
+70     -> C
+74     -> N
+77     -> E

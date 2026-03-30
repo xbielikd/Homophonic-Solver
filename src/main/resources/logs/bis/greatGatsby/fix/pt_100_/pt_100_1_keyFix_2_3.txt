@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [36, 54, 21]
+B(1) [8, 40, 23]
+C(2) [2, 14, 10]
+D(3) [26, 53, 24]
+E(4) [20, 7, 4]
+F(5) [1, 75, 57]
+G(6) [42, 44, 29]
+H(7) [16, 60, 56]
+I(8) [65, 31, 13]
+J(9) [22, 6, 38]
+K(10) [46, 39, 28]
+L(11) [77, 72, 27]
+M(12) [32, 48, 66]
+N(13) [9, 71, 47]
+O(14) [68, 34, 64]
+P(15) [70, 74, 41]
+Q(16) [17, 58, 55]
+R(17) [11, 45, 33]
+S(18) [49, 59, 51]
+T(19) [35, 37, 12]
+U(20) [69, 76, 0]
+V(21) [43, 62, 25]
+W(22) [30, 18, 5]
+X(23) [15, 67, 73]
+Y(24) [3, 52, 19]
+Z(25) [50, 61, 63]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HECAMEONLYONCEINWHITEKNICKERBOCKERSANDHADAFIGHTWITHABUMNAMEDETTYINTHEGARDENFROMFARTHEROUTONTHEISLAND
+
+--- CIPHERTEXT ---
+56 20 10 54 66 4 68 9 77 3 68 47 10 7 13 47 18 16 31 12 20 46 71 13 10 28 7 33 40 34 10 28 20 33 59 21 47 24 56 36 53 54 1 13 42 16 37 18 13 35 60 21 23 76 66 71 54 32 4 53 7 37 12 52 31 9 12 56 7 44 36 45 24 20 9 57 45 64 48 1 36 11 35 16 7 11 34 0 37 64 9 35 56 7 13 59 72 54 71 24
+
+--- DECRYPTED PLAINTEXT ---
+HETEOUREXPRSTEASTHETEFRATHEAKITHEANESTHEREMACHATATHEDJOREQUREATBEETHEVEATEEWALYMESTHESIZALETHEANGERT
+
+--- SCORE ---
+-493.7078
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 100 chars correct (24.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> Z
+1      -> M
+3      -> P
+4      -> U
+7      -> E
+9      -> E
+10     -> T
+11     -> S
+12     -> T
+13     -> A
+16     -> H
+18     -> T
+20     -> E
+21     -> E
+23     -> D
+24     -> T
+28     -> H
+31     -> E
+32     -> Q
+33     -> A
+34     -> I
+35     -> T
+36     -> E
+37     -> A
+40     -> K
+42     -> C
+44     -> V
+45     -> A
+46     -> F
+47     -> S
+48     -> Y
+52     -> B
+53     -> R
+54     -> E
+56     -> H
+57     -> W
+59     -> N
+60     -> H
+64     -> L
+66     -> O
+68     -> R
+71     -> R
+72     -> G
+76     -> J
+77     -> X

@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 40, 22]
+B(1) [17]
+C(2) [12]
+D(3) [10, 25]
+E(4) [18, 13, 20, 24]
+F(5) [15]
+G(6) [33]
+H(7) [14, 16]
+I(8) [3, 27, 8]
+J(9) [0]
+K(10) [42]
+L(11) [36, 34]
+M(12) [26]
+N(13) [19, 5, 6]
+O(14) [23, 21, 29]
+P(15) [9]
+Q(16) [1]
+R(17) [11, 30]
+S(18) [32, 43]
+T(19) [28, 35, 38]
+U(20) [39]
+V(21) [4]
+W(22) [41]
+X(23) [37]
+Y(24) [7]
+Z(25) [31]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+17 39 28 28 16 18 3 11 29 41 19 43 29 39 34 43 43 35 2 30 4 13 40 6 10 40 30 20 19 2 42 13 25 12 23 39 30 2 33 20 14 40 43 33 29 19 20 23 39 35 23 15 21 39 11 11 40 12 20 9 24 11 16 40 9 43 41 13 19 13 4 24 11 11 13 40 34 34 7 16 22 10 3 28 28 16 20 35 24 11 30 29 30 29 15 43 29 12 8 24 38 7
+
+--- DECRYPTED PLAINTEXT ---
+QALLEJUSEPREEATEENITHERFORTERIZEWEDATIVEGREVEREDANDBYASSREEMESERMEPEREHESSERTTHECOULLEENESTETEBEEEKEXH
+
+--- SCORE ---
+-758.0440
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 102 chars correct (13.7%)
+
+--- KEY (cipher -> plain) ---
+2      -> I
+3      -> U
+4      -> H
+6      -> F
+7      -> H
+8      -> K
+9      -> M
+10     -> O
+11     -> S
+12     -> E
+13     -> E
+14     -> G
+15     -> B
+16     -> E
+17     -> Q
+18     -> J
+19     -> R
+20     -> E
+21     -> Y
+22     -> C
+23     -> D
+24     -> E
+25     -> W
+28     -> L
+29     -> E
+30     -> T
+33     -> V
+34     -> T
+35     -> N
+38     -> X
+39     -> A
+40     -> R
+41     -> P
+42     -> Z
+43     -> E

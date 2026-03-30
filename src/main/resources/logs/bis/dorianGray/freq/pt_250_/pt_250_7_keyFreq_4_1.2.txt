@@ -1,0 +1,170 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 255
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [3, 87, 44, 58, 104, 132, 92, 75, 34, 25]
+B(1) [95, 128]
+C(2) [84, 90, 107, 19]
+D(3) [99, 113, 49, 37, 86, 110]
+E(4) [108, 47, 114, 69, 96, 101, 120, 78, 33, 134, 57, 21, 88, 8, 41, 70]
+F(5) [60, 82, 54]
+G(6) [83, 64, 74]
+H(7) [18, 89, 53, 52, 28, 77, 14, 121]
+I(8) [62, 0, 50, 4, 102, 13, 79, 12, 61]
+J(9) [129]
+K(10) [68]
+L(11) [24, 125, 112, 97, 93]
+M(12) [36, 32, 7]
+N(13) [126, 40, 55, 116, 123, 30, 63, 65, 109]
+O(14) [10, 5, 91, 106, 81, 23, 130, 94, 59, 117]
+P(15) [1, 71, 11]
+Q(16) [26]
+R(17) [131, 56, 31, 103, 16, 127, 17, 133]
+S(18) [122, 100, 105, 67, 66, 2, 48, 35]
+T(19) [43, 72, 22, 115, 42, 80, 51, 45, 15, 38, 73]
+U(20) [98, 46, 118, 85]
+V(21) [39, 9]
+W(22) [119, 6, 76]
+X(23) [29]
+Y(24) [20, 124, 27]
+Z(25) [111]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   110
+TEXT LENGTH:      255
+
+--- ORIGINAL PLAINTEXT ---
+THELADLISTENEDSULKILYTOHERANDMADENOANSWERHEWASHEARTSICKATLEAVINGHOMEYETITWASNOTTHISALONETHATMADEHIMGLOOMYANDMOROSEINEXPERIENCEDTHOUGHHEWASHEHADSTILLASTRONGSENSEOFTHEDANGEROFSIBYLSPOSITIONTHISYOUNGDANDYWHOWASMAKINGLOVETOHERCOULDMEANHERNOGOODHEWASAGENTLEMAN
+
+--- CIPHERTEXT ---
+80 28 108 93 58 37 125 79 35 73 70 123 21 113 2 118 112 68 102 125 27 43 106 18 101 131 25 30 99 32 25 37 88 126 81 25 40 2 6 134 56 18 41 6 75 48 52 134 104 131 45 66 61 84 68 25 45 24 96 34 39 62 123 64 18 94 36 21 27 70 45 50 51 6 44 48 40 94 51 15 121 50 66 44 93 23 65 8 43 14 3 38 36 34 86 120 14 102 7 83 93 94 23 32 124 75 123 37 36 59 16 59 100 134 13 116 114 29 11 8 56 61 47 65 84 101 49 80 18 94 118 83 121 14 21 119 3 105 14 33 53 104 113 48 115 4 97 93 87 122 22 131 5 116 74 122 120 65 105 88 106 60 115 14 114 99 3 126 83 57 131 130 54 122 79 95 124 24 35 11 59 67 61 42 50 5 30 73 77 13 100 20 10 98 63 64 49 75 123 110 124 119 53 94 119 58 48 32 58 68 12 126 64 93 106 39 8 51 117 14 134 56 90 81 118 93 110 7 33 104 63 121 96 31 126 130 74 5 81 37 89 47 119 25 48 132 74 70 116 45 97 101 7 58 123
+
+--- DECRYPTED PLAINTEXT ---
+SQUTRTERETHESTHEVERETHETHESSEASTHERSTHETHTHEREDTHETEETESTHERAZESTHESTHTHEERETHEXTHERTESTHERKERERERENTHEATRETETITETHERESTHERSTHESTHENTESERTESTHTELYTTWEREEETERSTHEPLERERENGENJERETHESTHETHESTTHECOMESERESTETHEREARERESTEATERETHERETSESHETEBENTERTERESEFTHETTHERE
+
+--- SCORE ---
+-1160.4174
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 255 chars correct (3.9%)
+
+--- KEY (cipher -> plain) ---
+2      -> H
+3      -> R
+4      -> Y
+5      -> E
+6      -> E
+7      -> E
+8      -> T
+10     -> O
+11     -> S
+12     -> R
+13     -> H
+14     -> E
+15     -> X
+16     -> I
+18     -> T
+20     -> C
+21     -> S
+22     -> R
+23     -> E
+24     -> H
+25     -> S
+27     -> T
+28     -> Q
+29     -> E
+30     -> S
+31     -> B
+32     -> A
+33     -> S
+34     -> R
+35     -> E
+36     -> E
+37     -> T
+38     -> K
+39     -> A
+40     -> T
+41     -> H
+42     -> T
+43     -> H
+44     -> R
+45     -> T
+47     -> R
+48     -> E
+49     -> E
+50     -> H
+51     -> E
+52     -> D
+53     -> T
+54     -> J
+56     -> H
+57     -> G
+58     -> R
+59     -> T
+60     -> P
+61     -> E
+62     -> Z
+63     -> E
+64     -> S
+65     -> S
+66     -> E
+67     -> H
+68     -> E
+70     -> H
+73     -> T
+74     -> T
+75     -> R
+77     -> T
+79     -> R
+80     -> S
+81     -> R
+83     -> N
+84     -> T
+86     -> E
+87     -> W
+88     -> H
+89     -> E
+90     -> E
+93     -> T
+94     -> H
+95     -> E
+96     -> E
+97     -> T
+98     -> M
+99     -> E
+100    -> E
+101    -> H
+102    -> R
+104    -> H
+105    -> T
+106    -> E
+108    -> U
+110    -> S
+112    -> V
+113    -> T
+114    -> R
+115    -> L
+116    -> E
+117    -> R
+118    -> E
+119    -> E
+120    -> R
+121    -> T
+122    -> E
+123    -> E
+124    -> T
+125    -> E
+126    -> E
+130    -> N
+131    -> E
+132    -> F
+134    -> T

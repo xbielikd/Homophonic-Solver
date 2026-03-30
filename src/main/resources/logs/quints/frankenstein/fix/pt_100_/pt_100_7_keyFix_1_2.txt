@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [24, 5]
+B(1) [3, 13]
+C(2) [48, 27]
+D(3) [29, 18]
+E(4) [37, 1]
+F(5) [31, 23]
+G(6) [36, 33]
+H(7) [30, 32]
+I(8) [20, 35]
+J(9) [38, 22]
+K(10) [21, 34]
+L(11) [45, 19]
+M(12) [49, 11]
+N(13) [51, 14]
+O(14) [44, 40]
+P(15) [6, 25]
+Q(16) [41, 10]
+R(17) [17, 16]
+S(18) [9, 42]
+T(19) [0, 39]
+U(20) [7, 50]
+V(21) [4, 28]
+W(22) [15, 46]
+X(23) [12, 2]
+Y(24) [8, 43]
+Z(25) [47, 26]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+MYFATHERTRIEDTOAWAKENINMETHEFEELINGSOFAFFECTIONHETALKEDOFGENEVAWHICHISHOULDSOONVISITOFELIZABETHANDERNEST
+
+--- CIPHERTEXT ---
+11 43 23 24 0 30 1 17 0 16 20 37 18 39 44 24 46 24 34 1 14 20 14 11 1 39 30 37 23 1 1 45 20 14 33 42 44 31 5 23 31 1 48 0 35 44 14 32 37 0 5 45 34 37 29 40 23 36 37 14 37 4 5 46 32 20 48 30 35 42 30 44 50 19 18 42 44 40 51 28 35 42 35 39 44 31 1 19 20 26 5 13 37 0 32 24 51 29 37 17 14 37 9 0
+
+--- DECRYPTED PLAINTEXT ---
+JQRATHEATPIEDTOAWAKENINJETHEREELINGSOFARFECTIONHETALKEMARYENERAWHICHISHOULDSOATVISITOFELIZABETHATMEANEXT
+
+--- SCORE ---
+-1234.9227
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 85 / 104 chars correct (81.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> E
+4      -> R
+5      -> A
+9      -> X
+11     -> J
+13     -> B
+14     -> N
+16     -> P
+17     -> A
+18     -> D
+19     -> L
+20     -> I
+23     -> R
+24     -> A
+26     -> Z
+28     -> V
+29     -> M
+30     -> H
+31     -> F
+32     -> H
+33     -> G
+34     -> K
+35     -> I
+36     -> Y
+37     -> E
+39     -> T
+40     -> A
+42     -> S
+43     -> Q
+44     -> O
+45     -> L
+46     -> W
+48     -> C
+50     -> U
+51     -> T

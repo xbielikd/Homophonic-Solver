@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 24, 34]
+B(1) [72, 35, 73]
+C(2) [60, 54, 42]
+D(3) [55, 43, 39]
+E(4) [27, 0, 5]
+F(5) [75, 13, 33]
+G(6) [19, 36, 16]
+H(7) [28, 17, 4]
+I(8) [31, 32, 65]
+J(9) [48, 49, 20]
+K(10) [59, 46, 66]
+L(11) [10, 57, 63]
+M(12) [30, 52, 76]
+N(13) [61, 25, 6]
+O(14) [21, 3, 11]
+P(15) [9, 37, 15]
+Q(16) [69, 22, 68]
+R(17) [58, 50, 12]
+S(18) [74, 14, 71]
+T(19) [64, 18, 70]
+U(20) [45, 56, 44]
+V(21) [62, 2, 23]
+W(22) [1, 38, 47]
+X(23) [77, 29, 26]
+Y(24) [8, 41, 7]
+Z(25) [40, 67, 53]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+OHWITHWHATABURNINGGUSHDIDHOPEREVISITMYHEARTWARMTEARSFILLEDMYEYESWHICHIHASTILYWIPEDAWAYTHATTHEYMIGHTNOT
+
+--- CIPHERTEXT ---
+11 17 1 31 64 28 38 17 34 64 24 35 56 58 61 31 6 19 16 44 74 17 43 32 39 4 3 15 0 58 0 23 31 14 65 18 52 7 4 27 34 58 64 1 51 50 76 64 27 24 50 14 13 31 57 57 27 55 76 7 5 41 5 14 1 28 32 42 4 31 28 24 74 70 65 63 8 47 65 15 0 55 34 47 51 41 70 28 51 64 70 17 27 41 76 65 36 17 18 61 21 64
+
+--- DECRYPTED PLAINTEXT ---
+ZENTEEVETEDBYINTHESQUEJAMAKININGTOEAREANTIENSTHENDTOFTEENTHEITIONEALATEDUREXPEEINTTESTRESERENTHEWEANCE
+
+--- SCORE ---
+-714.5269
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 102 chars correct (3.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> N
+3      -> K
+4      -> A
+5      -> I
+6      -> H
+7      -> E
+8      -> P
+11     -> Z
+13     -> F
+14     -> O
+15     -> I
+16     -> S
+17     -> E
+18     -> A
+19     -> E
+21     -> C
+23     -> G
+24     -> D
+27     -> N
+28     -> E
+31     -> T
+32     -> A
+34     -> T
+35     -> B
+36     -> W
+38     -> V
+39     -> M
+41     -> T
+42     -> L
+43     -> J
+44     -> Q
+47     -> E
+50     -> T
+51     -> S
+52     -> R
+55     -> T
+56     -> Y
+57     -> E
+58     -> I
+61     -> N
+63     -> X
+64     -> E
+65     -> E
+70     -> R
+74     -> U
+76     -> H

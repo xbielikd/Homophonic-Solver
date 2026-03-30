@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [26, 13, 49]
+B(1) [77, 57, 35]
+C(2) [43, 72, 40]
+D(3) [22, 46, 7]
+E(4) [54, 2, 14]
+F(5) [69, 67, 17]
+G(6) [6, 58, 68]
+H(7) [64, 71, 70]
+I(8) [12, 32, 45]
+J(9) [16, 53, 34]
+K(10) [28, 21, 48]
+L(11) [11, 23, 10]
+M(12) [59, 9, 25]
+N(13) [19, 75, 44]
+O(14) [0, 55, 3]
+P(15) [56, 20, 38]
+Q(16) [5, 61, 33]
+R(17) [42, 47, 4]
+S(18) [74, 39, 24]
+T(19) [29, 36, 27]
+U(20) [52, 73, 41]
+V(21) [15, 1, 30]
+W(22) [8, 50, 18]
+X(23) [65, 60, 76]
+Y(24) [66, 51, 62]
+Z(25) [37, 63, 31]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOODHEAVENSWHATALIFETHATISYOUHAVEGONEFROMCORRUPTIONTOCORRUPTIONANDNOWYOUHAVECULMINATEDINCRIMEINDOING
+
+--- CIPHERTEXT ---
+58 0 0 46 71 54 13 15 2 44 39 50 70 49 36 13 11 12 69 14 27 70 26 27 12 39 62 3 73 70 13 15 2 58 55 44 14 17 42 3 59 72 3 4 42 52 20 27 32 55 19 27 55 43 55 47 4 73 38 29 32 0 44 13 75 22 44 55 8 51 55 73 70 26 30 54 72 73 11 25 32 19 49 29 14 22 32 19 72 4 12 25 54 32 19 22 0 32 75 58
+
+--- DECRYPTED PLAINTEXT ---
+LEEQUETHESIZEDSTORMATECTRIVERETHELESANDENTEEDBYTREATEJEWERFERESTATSEXPERECKETROGRADEATRATERGERATERAL
+
+--- SCORE ---
+-916.2722
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 100 chars correct (9.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> E
+3      -> E
+4      -> E
+8      -> X
+11     -> O
+12     -> R
+13     -> T
+14     -> A
+15     -> H
+17     -> N
+19     -> A
+20     -> Y
+22     -> T
+25     -> G
+26     -> C
+27     -> T
+29     -> E
+30     -> K
+32     -> R
+36     -> S
+38     -> F
+39     -> I
+42     -> D
+43     -> J
+44     -> S
+46     -> Q
+47     -> W
+49     -> D
+50     -> Z
+51     -> P
+52     -> B
+54     -> E
+55     -> E
+58     -> L
+59     -> N
+62     -> V
+69     -> M
+70     -> E
+71     -> U
+72     -> T
+73     -> R
+75     -> A

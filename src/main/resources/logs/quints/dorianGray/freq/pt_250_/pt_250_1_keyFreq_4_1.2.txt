@@ -1,0 +1,172 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [59, 64, 44, 116, 20, 122, 118, 48, 17, 23]
+B(1) [123, 108]
+C(2) [68, 90, 113, 65]
+D(3) [9, 91, 16, 29, 22, 26]
+E(4) [1, 40, 83, 25, 107, 28, 34, 14, 92, 15, 134, 96, 99, 84, 110, 126]
+F(5) [75, 6, 63]
+G(6) [41, 3, 53]
+H(7) [47, 58, 130, 115, 39, 37, 30, 38]
+I(8) [42, 98, 112, 13, 18, 43, 11, 121, 119]
+J(9) [71]
+K(10) [129]
+L(11) [4, 21, 74, 79, 72]
+M(12) [7, 36, 81]
+N(13) [67, 82, 131, 56, 86, 31, 2, 78, 94]
+O(14) [127, 51, 49, 117, 128, 66, 32, 5, 101, 103]
+P(15) [106, 105, 102]
+Q(16) [133]
+R(17) [8, 52, 19, 97, 87, 62, 46, 57]
+S(18) [124, 77, 104, 55, 80, 70, 33, 61]
+T(19) [88, 85, 76, 27, 132, 54, 93, 89, 45, 111, 10]
+U(20) [50, 100, 114, 0]
+V(21) [73, 120]
+W(22) [60, 109, 95]
+X(23) [69]
+Y(24) [24, 35, 125]
+Z(25) [12]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   112
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ASHERODEHOMEHISEYESWEREFULLOFTEARSFORHEKNEWHEWASSAFETHEREISNOUSEYOURTELLINGMETHATYOUAREGOINGTOBEGOODCRIEDLORDHENRYDIPPINGHISWHITEFINGERSINTOAREDCOPPERBOWLFILLEDWITHROSEWATERYOUAREQUITEPERFECTPRAYDONTCHANGEDORIANGRAYSHOOKHISHEADNOHARRYIHAVEDONETOOMANY
+
+--- CIPHERTEXT ---
+122 70 37 126 52 128 22 34 39 103 7 25 38 119 77 99 24 14 104 95 84 19 34 6 100 79 4 128 6 132 99 64 52 80 6 49 97 47 83 129 94 83 95 47 28 60 44 61 124 20 75 96 88 47 96 46 84 18 70 31 51 100 33 107 24 117 114 62 76 92 21 79 121 56 53 7 34 10 47 44 76 125 51 114 20 52 28 53 51 121 82 41 45 5 123 1 3 103 127 9 90 19 121 99 26 74 51 62 26 37 110 86 52 24 22 11 105 102 42 2 53 30 42 61 60 37 119 111 84 63 11 131 3 99 97 80 119 131 45 66 20 97 14 22 68 127 105 102 1 46 123 32 95 72 6 42 21 74 83 26 109 18 54 58 87 101 80 34 60 20 76 1 62 35 103 0 122 46 15 133 0 13 45 84 105 84 87 63 92 68 111 105 97 64 24 26 101 82 89 113 37 48 131 53 134 22 117 57 18 48 131 53 57 122 125 104 38 49 5 129 47 43 61 47 92 116 91 2 117 47 59 19 19 125 112 30 44 73 92 29 49 86 134 10 51 51 81 23 2 35
+
+--- DECRYPTED PLAINTEXT ---
+ENERATOTHEYSINVESTOTHETOREDTOBEEASONREAREATETHATHERESEETHENTERJUSTRALATERITYTHEALTEREATTERNATTHEREHOWERETHEATENDASOMERRATERTHENTHEMORERSNOTHERTOTHERETHATFORTHATHECHRISTHELEAGENETHINKTHEHREATTERESTINTHENOTTOTHENOTHETOINTREATEAQUATESEETHEAZAANDTHEEXPAG
+
+--- SCORE ---
+-2619.3031
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 250 chars correct (12.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> E
+2      -> A
+3      -> R
+4      -> D
+5      -> T
+6      -> O
+7      -> Y
+9      -> O
+10     -> H
+11     -> M
+13     -> K
+14     -> T
+15     -> H
+18     -> E
+19     -> E
+20     -> E
+21     -> T
+22     -> O
+23     -> P
+24     -> S
+25     -> S
+26     -> T
+28     -> T
+29     -> A
+30     -> E
+31     -> T
+32     -> A
+33     -> J
+34     -> T
+35     -> G
+37     -> E
+38     -> I
+39     -> H
+41     -> A
+42     -> R
+43     -> A
+44     -> A
+45     -> T
+46     -> T
+47     -> E
+48     -> N
+49     -> N
+51     -> E
+52     -> A
+53     -> T
+54     -> C
+56     -> I
+57     -> H
+58     -> H
+59     -> S
+60     -> H
+61     -> T
+62     -> A
+63     -> E
+64     -> E
+66     -> H
+68     -> T
+70     -> N
+72     -> F
+73     -> Z
+74     -> H
+75     -> R
+76     -> L
+77     -> V
+79     -> E
+80     -> S
+81     -> X
+82     -> N
+83     -> A
+84     -> H
+86     -> D
+87     -> R
+88     -> S
+89     -> T
+90     -> W
+91     -> U
+92     -> A
+94     -> E
+95     -> T
+96     -> E
+97     -> R
+99     -> E
+100    -> R
+101    -> I
+102    -> R
+103    -> E
+104    -> O
+105    -> E
+107    -> U
+109    -> H
+110    -> N
+111    -> T
+112    -> H
+113    -> H
+114    -> R
+116    -> Q
+117    -> T
+119    -> N
+121    -> R
+122    -> E
+123    -> H
+124    -> H
+125    -> T
+126    -> R
+127    -> H
+128    -> T
+129    -> R
+131    -> O
+132    -> B
+133    -> I
+134    -> T

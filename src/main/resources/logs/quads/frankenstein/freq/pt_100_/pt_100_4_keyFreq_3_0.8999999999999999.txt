@@ -1,0 +1,125 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [34, 77, 93, 56, 51, 23, 85, 89]
+B(1) [19, 6]
+C(2) [45, 67, 29]
+D(3) [54, 8, 88, 78]
+E(4) [53, 9, 91, 40, 25, 20, 55, 42, 44, 104, 73, 74]
+F(5) [94, 63, 41]
+G(6) [61, 48]
+H(7) [82, 103, 47, 35, 83, 16]
+I(8) [46, 38, 80, 13, 58, 28, 21]
+J(9) [65]
+K(10) [10]
+L(11) [2, 72, 15, 1]
+M(12) [101, 68, 81]
+N(13) [12, 31, 99, 66, 75, 22, 57]
+O(14) [97, 24, 26, 64, 4, 90, 52]
+P(15) [79, 102]
+Q(16) [95]
+R(17) [59, 50, 11, 0, 18, 7]
+S(18) [14, 62, 17, 70, 3, 84]
+T(19) [96, 49, 87, 71, 60, 27, 92, 76, 69]
+U(20) [32, 100, 36]
+V(21) [43]
+W(22) [33, 86, 5]
+X(23) [30]
+Y(24) [98, 39]
+Z(25) [37]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   65
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+45 23 99 56 99 39 68 23 57 6 53 96 24 101 20 34 3 67 1 73 18 43 93 15 86 85 3 4 59 56 99 39 86 26 68 34 31 23 66 97 71 103 74 11 53 15 28 37 56 19 9 92 82 73 43 55 31 86 16 91 50 55 49 82 91 51 63 63 74 29 76 13 64 66 62 34 50 20 66 4 71 70 71 59 90 22 61 72 98 101 26 43 25 54 6 98 34 57 39 17 100 79 9 50 58 52 50
+
+--- DECRYPTED PLAINTEXT ---
+ZTHEHASTHESTHESTATINTERINGATHEHANDSTATEDTHERSINCENTHENERANDWORKEWASSELYQUESTOSETTOTHEMBEREDEXPERTHAVENTOFJO
+
+--- SCORE ---
+-892.5349
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 107 chars correct (9.3%)
+
+--- KEY (cipher -> plain) ---
+1      -> I
+3      -> A
+4      -> T
+6      -> E
+9      -> T
+11     -> R
+13     -> Q
+15     -> I
+16     -> D
+17     -> V
+18     -> T
+19     -> N
+20     -> S
+22     -> M
+23     -> T
+24     -> H
+25     -> X
+26     -> D
+28     -> N
+29     -> L
+31     -> A
+34     -> T
+37     -> C
+39     -> A
+43     -> E
+45     -> Z
+49     -> K
+50     -> O
+51     -> A
+52     -> J
+53     -> S
+54     -> P
+55     -> R
+56     -> E
+57     -> H
+58     -> F
+59     -> H
+61     -> B
+62     -> S
+63     -> S
+64     -> U
+66     -> E
+67     -> T
+68     -> S
+70     -> O
+71     -> T
+72     -> E
+73     -> N
+74     -> E
+76     -> Y
+79     -> N
+82     -> E
+85     -> G
+86     -> N
+90     -> E
+91     -> W
+92     -> H
+93     -> R
+96     -> T
+97     -> D
+98     -> R
+99     -> H
+100    -> E
+101    -> E
+103    -> H

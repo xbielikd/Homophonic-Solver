@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 104
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 37]
+B(1) [15, 2]
+C(2) [31, 4]
+D(3) [49, 24]
+E(4) [32, 10]
+F(5) [33, 36]
+G(6) [46, 29]
+H(7) [1, 8]
+I(8) [45, 47]
+J(9) [34, 23]
+K(10) [17, 30]
+L(11) [28, 40]
+M(12) [27, 5]
+N(13) [18, 43]
+O(14) [25, 14]
+P(15) [41, 48]
+Q(16) [38, 19]
+R(17) [11, 0]
+S(18) [26, 42]
+T(19) [44, 13]
+U(20) [51, 35]
+V(21) [7, 20]
+W(22) [3, 6]
+X(23) [50, 21]
+Y(24) [12, 9]
+Z(25) [16, 39]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      104
+
+--- ORIGINAL PLAINTEXT ---
+MYFATHERTRIEDTOAWAKENINMETHEFEELINGSOFAFFECTIONHETALKEDOFGENEVAWHICHISHOULDSOONVISITOFELIZABETHANDERNEST
+
+--- CIPHERTEXT ---
+27 12 33 22 44 8 10 0 44 0 45 10 49 13 14 37 3 37 17 10 18 45 18 5 32 13 8 32 33 32 10 28 45 18 46 42 14 33 22 36 36 10 4 13 45 14 18 1 10 13 22 40 30 32 24 14 33 29 32 43 32 20 22 6 1 45 31 8 45 42 8 14 35 28 49 26 14 14 43 20 45 42 45 44 25 36 10 40 45 39 22 15 10 13 1 37 18 49 10 11 43 32 42 13
+
+--- DECRYPTED PLAINTEXT ---
+QBRETHERTRIEDTOAJAZENINGETHEREENINTSORELLEXTIONHETETHEFORKEREMEWHICHISHOUNDTOORMISITYLETIVERETHANDEPREST
+
+--- SCORE ---
+-745.8060
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 68 / 104 chars correct (65.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> H
+3      -> J
+4      -> X
+5      -> G
+6      -> W
+8      -> H
+10     -> E
+11     -> P
+12     -> B
+13     -> T
+14     -> O
+15     -> R
+17     -> Z
+18     -> N
+20     -> M
+22     -> E
+24     -> F
+25     -> Y
+26     -> T
+27     -> Q
+28     -> N
+29     -> K
+30     -> H
+31     -> C
+32     -> E
+33     -> R
+35     -> U
+36     -> L
+37     -> A
+39     -> V
+40     -> T
+42     -> S
+43     -> R
+44     -> T
+45     -> I
+46     -> T
+49     -> D

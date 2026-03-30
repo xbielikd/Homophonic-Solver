@@ -1,0 +1,120 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 79, 44, 5]
+B(1) [20, 90, 55, 95]
+C(2) [89, 45, 82, 50]
+D(3) [73, 59, 24, 91]
+E(4) [53, 3, 84, 37]
+F(5) [93, 16, 67, 42]
+G(6) [85, 49, 13, 88]
+H(7) [66, 54, 9, 17]
+I(8) [60, 97, 6, 58]
+J(9) [76, 100, 15, 4]
+K(10) [11, 101, 38, 98]
+L(11) [87, 56, 94, 2]
+M(12) [1, 57, 51, 0]
+N(13) [31, 62, 72, 30]
+O(14) [34, 41, 71, 26]
+P(15) [64, 75, 47, 65]
+Q(16) [14, 32, 29, 8]
+R(17) [52, 25, 96, 28]
+S(18) [27, 46, 81, 35]
+T(19) [68, 33, 19, 7]
+U(20) [40, 74, 99, 22]
+V(21) [61, 80, 78, 69]
+W(22) [10, 21, 92, 18]
+X(23) [102, 70, 103, 48]
+Y(24) [12, 39, 36, 63]
+Z(25) [83, 77, 86, 43]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   60
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+IHADBEENACTUALLYINVITEDACHAUFFEURINAUNIFORMOFROBINSEGGBLUECROSSEDMYLAWNEARLYTHATSATURDAYMORNINGWITHA
+
+--- CIPHERTEXT ---
+58 17 5 24 90 84 53 31 5 50 19 22 5 2 56 12 97 30 78 97 19 84 73 5 50 66 44 40 16 42 37 22 28 58 30 79 74 30 60 67 41 96 57 71 93 96 41 20 97 72 35 84 49 13 95 94 74 3 45 28 71 81 46 84 59 51 39 2 23 18 30 53 79 28 2 39 33 54 44 7 46 79 68 22 25 91 23 39 51 26 28 62 58 72 88 18 6 33 66 23
+
+--- DECRYPTED PLAINTEXT ---
+TWHEREITHEREHASFORMORETHESEQUAKESTREARLYRECOVERTOTHEJAZZANDSOTHEPARATERIESAREGETHEREEXTRANSATTHEBEST
+
+--- SCORE ---
+-1021.1714
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 100 chars correct (7.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> A
+3      -> N
+5      -> H
+6      -> B
+7      -> T
+12     -> F
+13     -> A
+16     -> U
+17     -> W
+18     -> E
+19     -> R
+20     -> T
+22     -> E
+23     -> T
+24     -> E
+25     -> E
+26     -> N
+28     -> S
+30     -> R
+31     -> T
+33     -> E
+35     -> H
+37     -> K
+39     -> R
+40     -> Q
+41     -> R
+42     -> A
+44     -> E
+45     -> D
+46     -> H
+49     -> J
+50     -> E
+51     -> A
+53     -> I
+54     -> G
+56     -> S
+57     -> C
+58     -> T
+59     -> P
+60     -> L
+62     -> A
+66     -> S
+67     -> Y
+68     -> R
+71     -> O
+72     -> T
+73     -> T
+74     -> A
+78     -> M
+79     -> E
+81     -> T
+84     -> E
+88     -> H
+90     -> R
+91     -> X
+93     -> V
+94     -> Z
+95     -> Z
+96     -> E
+97     -> O

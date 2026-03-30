@@ -1,0 +1,173 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [106, 13, 24, 124, 50, 39, 85, 14, 54, 111]
+B(1) [118, 5]
+C(2) [30, 48, 83, 66]
+D(3) [133, 121, 69, 25, 92, 7]
+E(4) [60, 41, 86, 38, 33, 12, 125, 51, 29, 105, 101, 45, 23, 49, 22, 132]
+F(5) [35, 109, 127]
+G(6) [4, 28, 119]
+H(7) [68, 77, 102, 112, 76, 84, 130, 95]
+I(8) [6, 32, 67, 89, 91, 43, 131, 104, 55]
+J(9) [126]
+K(10) [59]
+L(11) [52, 81, 96, 123, 18]
+M(12) [16, 64, 8]
+N(13) [73, 17, 61, 117, 100, 9, 110, 11, 103]
+O(14) [97, 2, 31, 108, 120, 128, 10, 37, 70, 114]
+P(15) [1, 44, 80]
+Q(16) [74]
+R(17) [36, 20, 62, 0, 87, 42, 116, 3]
+S(18) [129, 57, 71, 27, 53, 58, 75, 26]
+T(19) [34, 115, 107, 63, 19, 134, 122, 94, 47, 78, 65]
+U(20) [99, 56, 79, 88]
+V(21) [21, 113]
+W(22) [46, 40, 72]
+X(23) [15]
+Y(24) [93, 90, 82]
+Z(25) [98]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   113
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+AFTERTHATSHEDIDNTPLAYAROUNDWITHTHESOLDIERSANYMOREBUTONLYWITHAFEWFLATFOOTEDSHORTSIGHTEDYOUNGMENINTOWNWHOCOULDNTGETINTOTHEARMYATALLBYTHENEXTAUTUMNSHEWASGAYAGAINGAYASEVERSHEHADADBUTAFTERTHEARMISTICEANDINFEBRUARYSHEWASPRESUMABLYENGAGEDTOAMANFROMNEWORLEANS
+
+--- CIPHERTEXT ---
+124 35 47 38 0 65 130 85 107 53 76 33 121 32 69 17 19 1 18 39 93 106 20 31 79 61 92 40 55 19 84 65 95 125 75 120 96 92 43 105 62 75 39 103 82 64 10 0 41 5 56 34 128 103 18 90 72 89 78 68 111 127 12 40 35 81 85 63 109 70 10 47 125 133 58 77 10 116 134 71 89 4 68 65 86 121 93 37 99 73 119 16 51 11 131 73 63 128 40 110 46 77 10 66 120 79 81 121 117 47 119 60 78 43 103 107 70 94 102 125 24 36 16 82 85 47 54 81 81 118 93 78 68 132 110 23 15 134 54 56 122 99 64 11 129 76 45 46 14 27 119 50 82 39 28 106 6 110 4 14 82 54 71 49 113 23 36 129 84 51 95 106 121 54 69 5 99 107 50 109 47 86 87 34 68 105 14 20 16 55 26 134 91 66 125 106 117 92 104 73 127 38 5 116 79 111 87 93 27 68 60 46 39 58 80 116 132 26 79 16 13 118 81 90 29 17 28 14 28 22 7 19 2 39 64 111 110 109 42 70 8 103 105 46 120 20 123 49 111 100 129
+
+--- DECRYPTED PLAINTEXT ---
+JERSTTHEARESSIVEOTHETERSITINTOFTHEREXISTORETHATTHESTOTHEYTHANDINESECONTREPRETTERTHATESTOREASTTHECONTHETHEISSTRATHSTANDBEGASHERESSETHATTUREESTRATLETHERATHERENTHEHEREQUALFTHESEVERATORESTATERSTHETHEETIZEDSETINSTRATHERATTHISHESEVERERECOMEANTOWNATTHEREENKL
+
+--- SCORE ---
+-2123.1944
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 25 / 251 chars correct (10.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> T
+2      -> M
+4      -> H
+5      -> E
+6      -> N
+7      -> C
+8      -> A
+10     -> T
+11     -> T
+12     -> I
+13     -> H
+14     -> E
+15     -> R
+16     -> S
+17     -> E
+18     -> H
+19     -> O
+20     -> R
+22     -> E
+23     -> U
+24     -> G
+26     -> H
+27     -> R
+28     -> R
+29     -> V
+31     -> S
+32     -> I
+33     -> S
+34     -> T
+35     -> E
+36     -> A
+37     -> O
+38     -> S
+39     -> E
+40     -> N
+41     -> H
+42     -> W
+43     -> S
+45     -> T
+46     -> H
+47     -> R
+49     -> E
+50     -> T
+51     -> T
+53     -> R
+54     -> E
+55     -> T
+56     -> S
+58     -> R
+60     -> T
+61     -> T
+62     -> O
+63     -> C
+64     -> A
+65     -> T
+66     -> H
+68     -> A
+69     -> V
+70     -> N
+71     -> R
+72     -> Y
+73     -> E
+75     -> R
+76     -> E
+77     -> E
+78     -> H
+79     -> I
+80     -> A
+81     -> S
+82     -> H
+84     -> F
+85     -> E
+86     -> E
+87     -> S
+89     -> T
+90     -> E
+91     -> T
+92     -> I
+93     -> T
+94     -> D
+95     -> H
+96     -> X
+99     -> R
+100    -> K
+102    -> B
+103    -> T
+104    -> Z
+105    -> T
+106    -> E
+107    -> A
+109    -> O
+110    -> T
+111    -> N
+113    -> Q
+116    -> T
+117    -> T
+118    -> E
+119    -> A
+120    -> E
+121    -> S
+122    -> T
+123    -> E
+124    -> J
+125    -> E
+127    -> D
+128    -> O
+129    -> L
+130    -> H
+131    -> H
+132    -> T
+133    -> P
+134    -> E

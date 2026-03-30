@@ -1,0 +1,156 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [66, 75, 21, 11, 15, 85, 95, 79]
+B(1) [51, 58]
+C(2) [103, 101, 89]
+D(3) [16, 29, 80, 37]
+E(4) [40, 83, 38, 20, 33, 14, 62, 46, 45, 36, 10, 12]
+F(5) [9, 70, 7]
+G(6) [67, 49]
+H(7) [53, 28, 76, 47, 72, 3]
+I(8) [25, 42, 68, 18, 88, 35, 99]
+J(9) [74]
+K(10) [86]
+L(11) [60, 100, 54, 92]
+M(12) [39, 97, 23]
+N(13) [19, 2, 77, 69, 32, 73, 41]
+O(14) [96, 8, 57, 82, 34, 48, 56]
+P(15) [30, 6]
+Q(16) [26]
+R(17) [17, 59, 102, 61, 4, 87]
+S(18) [43, 65, 5, 24, 81, 63]
+T(19) [98, 44, 104, 64, 1, 71, 0, 84, 90]
+U(20) [52, 93, 27]
+V(21) [94]
+W(22) [31, 91, 78]
+X(23) [50]
+Y(24) [55, 22]
+Z(25) [13]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   96
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+WOLFSHIEMASMALLFLATNOSEDJEWRAISEDHISLARGEHEADANDREGARDEDMEWITHTWOFINEGROWTHSOFHAIRWHICHLUXURIATEDINEITHERNOSTRILAFTERAMOMENTIDISCOVEREDHISTINYEYESINTHEHALFDARKNESSSOITOOKONELOOKATHIMSAIDMRWOLFSHIEMSHAKINGMYHANDEARNESTLYANDWHATDOYOUTHINKIDIDWHATIINQUIRED
+
+--- CIPHERTEXT ---
+31 82 92 9 24 76 25 46 97 75 81 39 85 100 100 9 60 11 104 32 57 81 33 16 74 10 78 59 21 18 43 62 80 47 35 5 100 79 102 49 40 53 33 11 29 21 73 29 17 33 67 11 102 29 20 16 23 33 91 68 1 53 104 91 56 9 35 73 38 49 87 82 31 64 3 5 96 9 72 66 35 102 31 72 42 103 72 60 52 50 93 4 35 11 71 45 80 68 41 40 88 84 53 12 59 32 82 81 98 61 99 54 66 70 64 40 59 95 97 8 97 40 69 44 25 29 18 5 89 82 94 38 4 40 29 76 35 43 90 25 32 55 62 22 36 24 99 41 64 53 36 76 66 54 70 29 75 61 86 77 14 65 5 63 48 99 0 82 8 86 48 32 12 60 8 57 86 75 0 72 35 97 81 95 88 37 39 87 78 56 92 9 63 28 35 62 23 24 53 75 86 18 32 67 39 22 76 21 2 29 10 11 87 19 62 65 64 100 22 79 2 29 31 72 11 1 80 82 55 96 27 64 53 25 69 86 35 29 18 80 78 3 15 98 99 18 73 26 93 18 17 40 29
+
+--- DECRYPTED PLAINTEXT ---
+RESTHERJORREZOOTEETTERTABLESTTHEHATTOTHERATEETHEOTHEHEWASTHETATHATTHEENERESTATERTHREQUEEXTRATEDTHERRECARSTERTHEARTERSIONOREPRETTHEYEAREETHERTMENTHEREATERATERHAVERTONESENANTRENEARSETORIEVENEASTOFTESHARATTHENETHELENGEREONTHEREETHEMAKEAREATETHESATETHERTORE
+
+--- SCORE ---
+-2201.1351
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 253 chars correct (5.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> T
+2      -> H
+3      -> S
+4      -> A
+5      -> T
+8      -> N
+9      -> T
+10     -> L
+11     -> E
+12     -> R
+14     -> E
+15     -> A
+16     -> A
+17     -> O
+18     -> T
+19     -> G
+20     -> W
+21     -> T
+22     -> N
+23     -> S
+24     -> H
+25     -> R
+26     -> E
+27     -> K
+28     -> F
+29     -> E
+31     -> R
+32     -> T
+33     -> T
+35     -> T
+36     -> T
+37     -> V
+38     -> E
+39     -> E
+40     -> R
+41     -> R
+42     -> Q
+43     -> H
+44     -> P
+45     -> T
+46     -> J
+47     -> A
+48     -> N
+49     -> E
+50     -> T
+52     -> X
+53     -> A
+54     -> A
+55     -> M
+56     -> A
+57     -> E
+59     -> S
+60     -> E
+61     -> H
+62     -> E
+63     -> O
+64     -> E
+65     -> R
+66     -> R
+67     -> H
+68     -> E
+69     -> E
+70     -> T
+71     -> D
+72     -> E
+73     -> H
+74     -> B
+75     -> R
+76     -> E
+77     -> V
+78     -> E
+79     -> T
+80     -> H
+81     -> R
+82     -> E
+84     -> C
+85     -> Z
+86     -> A
+87     -> N
+88     -> E
+89     -> H
+90     -> E
+91     -> H
+92     -> S
+93     -> R
+94     -> Y
+95     -> I
+96     -> A
+97     -> O
+98     -> T
+99     -> E
+100    -> O
+102    -> H
+103    -> U
+104    -> T

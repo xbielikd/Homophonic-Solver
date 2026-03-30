@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [65, 71, 74]
+B(1) [69, 5, 51]
+C(2) [4, 27, 35]
+D(3) [46, 26, 7]
+E(4) [9, 42, 19]
+F(5) [6, 25, 1]
+G(6) [55, 44, 11]
+H(7) [67, 75, 57]
+I(8) [72, 15, 70]
+J(9) [30, 2, 0]
+K(10) [23, 31, 37]
+L(11) [32, 41, 10]
+M(12) [47, 66, 60]
+N(13) [20, 76, 24]
+O(14) [50, 56, 12]
+P(15) [40, 36, 33]
+Q(16) [43, 22, 77]
+R(17) [13, 34, 38]
+S(18) [73, 18, 58]
+T(19) [61, 64, 8]
+U(20) [3, 62, 16]
+V(21) [53, 63, 59]
+W(22) [29, 17, 68]
+X(23) [54, 52, 28]
+Y(24) [39, 49, 21]
+Z(25) [45, 48, 14]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+4 71 76 65 20 21 60 65 20 51 19 64 12 60 42 65 58 4 10 42 34 63 71 32 68 74 18 56 34 65 24 49 29 50 66 65 24 74 76 56 61 67 19 13 9 32 15 45 71 69 9 64 57 19 53 9 24 68 67 19 13 42 64 57 19 74 6 25 19 27 64 72 56 24 58 71 34 9 24 56 64 73 61 34 56 24 55 32 21 47 56 59 9 7 5 21 71 20 49 73 62 33 19 34 15 12 13
+
+--- DECRYPTED PLAINTEXT ---
+EATANDRANGETOREASEVERWANTSFORANDBYJANSTOTHERENTMAKETHECENTHERETHESQUESTIONSARENOTETRONANDZONELEDANDEXPERTOR
+
+--- SCORE ---
+-1114.9538
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 65 / 107 chars correct (60.7%)
+
+--- KEY (cipher -> plain) ---
+4      -> E
+5      -> E
+6      -> Q
+7      -> L
+9      -> E
+10     -> V
+12     -> O
+13     -> R
+15     -> T
+18     -> F
+19     -> E
+20     -> N
+21     -> D
+24     -> N
+25     -> U
+27     -> S
+29     -> B
+32     -> N
+33     -> P
+34     -> R
+42     -> E
+45     -> M
+47     -> Z
+49     -> D
+50     -> Y
+51     -> G
+53     -> C
+55     -> A
+56     -> O
+57     -> H
+58     -> S
+59     -> N
+60     -> R
+61     -> T
+62     -> X
+63     -> W
+64     -> T
+65     -> A
+66     -> J
+67     -> H
+68     -> T
+69     -> K
+71     -> A
+72     -> I
+73     -> E
+74     -> S
+76     -> T

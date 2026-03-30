@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 105
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [21, 29]
+B(1) [36, 7]
+C(2) [18, 9]
+D(3) [30, 10]
+E(4) [31, 25]
+F(5) [41, 42]
+G(6) [46, 22]
+H(7) [39, 51]
+I(8) [14, 43]
+J(9) [37, 33]
+K(10) [13, 28]
+L(11) [6, 32]
+M(12) [48, 1]
+N(13) [34, 20]
+O(14) [23, 24]
+P(15) [44, 16]
+Q(16) [50, 11]
+R(17) [27, 38]
+S(18) [2, 4]
+T(19) [0, 12]
+U(20) [15, 35]
+V(21) [3, 45]
+W(22) [40, 47]
+X(23) [19, 49]
+Y(24) [8, 17]
+Z(25) [5, 26]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      105
+
+--- ORIGINAL PLAINTEXT ---
+WEARENOTSENTINTOTHEWORLDTOAIROURMORALPREJUDICESINEVERTAKEANYNOTICEOFWHATCOMMONPEOPLESAYANDINEVERINTERFERE
+
+--- CIPHERTEXT ---
+47 25 21 27 25 20 24 0 2 31 34 12 43 34 12 24 12 51 25 40 24 38 6 10 12 23 29 43 38 23 15 38 1 23 27 21 6 16 27 25 33 35 10 43 18 31 4 43 34 31 3 25 38 0 21 13 31 21 34 17 20 24 12 43 9 31 23 42 40 39 21 12 18 24 48 1 23 20 44 25 23 16 6 25 2 21 17 29 20 10 43 34 31 45 31 38 43 34 12 25 38 42 31 38 31
+
+--- DECRYPTED PLAINTEXT ---
+ZEREEATOFEREERETEXENTRELESCERSPRESEREMEEQULEDEVEREBERORKERREATEEWESINGREDTHESAYESMEEFRECALEREJEREREERIERE
+
+--- SCORE ---
+-530.9881
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 26 / 105 chars correct (24.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> O
+1      -> E
+2      -> F
+3      -> B
+4      -> V
+6      -> E
+9      -> W
+10     -> L
+12     -> E
+13     -> K
+15     -> P
+16     -> M
+17     -> E
+18     -> D
+20     -> A
+21     -> R
+23     -> S
+24     -> T
+25     -> E
+27     -> E
+29     -> C
+31     -> E
+33     -> Q
+34     -> R
+35     -> U
+38     -> R
+39     -> G
+40     -> N
+42     -> I
+43     -> E
+44     -> Y
+45     -> J
+47     -> Z
+48     -> H
+51     -> X

@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [74, 43, 40]
+B(1) [54, 38, 32]
+C(2) [22, 10, 45]
+D(3) [0, 59, 27]
+E(4) [67, 8, 57]
+F(5) [66, 23, 18]
+G(6) [58, 24, 75]
+H(7) [46, 47, 72]
+I(8) [64, 44, 30]
+J(9) [6, 51, 68]
+K(10) [12, 41, 19]
+L(11) [63, 49, 39]
+M(12) [9, 15, 69]
+N(13) [34, 17, 5]
+O(14) [53, 26, 14]
+P(15) [4, 65, 55]
+Q(16) [36, 62, 1]
+R(17) [61, 52, 20]
+S(18) [48, 50, 3]
+T(19) [77, 25, 16]
+U(20) [42, 35, 21]
+V(21) [33, 28, 60]
+W(22) [37, 56, 31]
+X(23) [7, 71, 11]
+Y(24) [73, 70, 2]
+Z(25) [13, 76, 29]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+17 53 69 74 17 10 14 69 8 48 43 22 61 53 3 48 25 56 53 64 0 67 40 49 25 47 30 17 75 3 18 67 56 10 26 9 8 74 45 52 26 48 48 53 34 57 64 10 40 17 16 57 11 4 39 74 64 17 64 16 77 26 73 26 42 54 40 3 30 39 54 42 16 44 69 21 3 25 5 8 33 8 20 50 64 77 16 26 70 14 35 74 75 40 30 34 77 47 8 61 8
+
+--- DECRYPTED PLAINTEXT ---
+THETTHEEATOFTHETSTHEQUEYSERTHEJUTHEWATIZETTHEREHETERCKETETEEREDEEREEREREEBEVESPALANGEREEMEXTHEREREATA
+
+--- SCORE ---
+-496.9746
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 101 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+3      -> E
+4      -> K
+5      -> P
+8      -> A
+9      -> W
+10     -> H
+11     -> C
+14     -> E
+16     -> E
+17     -> T
+18     -> J
+20     -> N
+21     -> V
+22     -> F
+25     -> S
+26     -> E
+30     -> R
+33     -> L
+34     -> E
+35     -> X
+39     -> E
+40     -> E
+42     -> E
+43     -> O
+44     -> B
+45     -> I
+47     -> E
+48     -> T
+49     -> Y
+50     -> G
+52     -> Z
+53     -> H
+54     -> R
+56     -> T
+57     -> R
+61     -> T
+64     -> E
+67     -> U
+69     -> E
+70     -> M
+73     -> D
+74     -> T
+75     -> H
+77     -> R

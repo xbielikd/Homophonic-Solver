@@ -1,0 +1,97 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [35, 21, 0]
+B(1) [30]
+C(2) [42]
+D(3) [43, 19]
+E(4) [6, 33, 28, 39]
+F(5) [38]
+G(6) [14]
+H(7) [34, 17]
+I(8) [23, 25, 26]
+J(9) [37]
+K(10) [31]
+L(11) [20, 16]
+M(12) [32]
+N(13) [5, 40, 4]
+O(14) [9, 3, 12]
+P(15) [18]
+Q(16) [22]
+R(17) [11, 8]
+S(18) [10, 36]
+T(19) [13, 29, 24]
+U(20) [1]
+V(21) [41]
+W(22) [7]
+X(23) [27]
+Y(24) [2]
+Z(25) [15]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   37
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+40 3 32 35 5 42 3 32 39 36 21 42 11 9 10 10 24 7 9 26 19 6 21 16 29 17 23 5 14 10 38 6 7 42 3 32 39 0 42 11 3 10 36 12 4 39 23 42 21 5 29 28 27 18 16 35 26 40 25 13 24 12 2 12 1 30 35 10 25 20 30 1 24 25 32 1 36 24 40 28 41 39 11 36 23 24 24 3 2 3 1 21 14 35 25 40 24 17 6 8 6
+
+--- DECRYPTED PLAINTEXT ---
+RERENTERESITYASSTCABLEINGHANDSPECTEREXTYESSOFEATINGAJUNEBROWTOMOSEESOVESTORSSTRAKEYSATTEMESIDEORTHEZE
+
+--- SCORE ---
+-970.3369
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 32 / 101 chars correct (31.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> X
+1      -> S
+2      -> M
+3      -> E
+4      -> F
+5      -> N
+6      -> E
+7      -> C
+8      -> Z
+9      -> A
+10     -> S
+11     -> Y
+12     -> O
+13     -> W
+14     -> D
+16     -> N
+17     -> H
+18     -> U
+19     -> L
+20     -> V
+21     -> I
+23     -> A
+24     -> T
+25     -> O
+26     -> B
+27     -> J
+28     -> A
+29     -> G
+30     -> E
+32     -> R
+35     -> E
+36     -> S
+38     -> P
+39     -> E
+40     -> R
+41     -> K
+42     -> T

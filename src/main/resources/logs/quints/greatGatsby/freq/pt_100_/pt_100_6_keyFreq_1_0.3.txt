@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [39, 14, 3]
+B(1) [2]
+C(2) [41]
+D(3) [27, 8]
+E(4) [36, 26, 24, 4]
+F(5) [19]
+G(6) [31]
+H(7) [17, 13]
+I(8) [18, 15, 21]
+J(9) [43]
+K(10) [30]
+L(11) [33, 10]
+M(12) [40]
+N(13) [6, 29, 37]
+O(14) [16, 11, 9]
+P(15) [5]
+Q(16) [25]
+R(17) [32, 1]
+S(18) [12, 23]
+T(19) [38, 28, 0]
+U(20) [20]
+V(21) [35]
+W(22) [42]
+X(23) [7]
+Y(24) [34]
+Z(25) [22]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+28 13 26 20 6 27 24 32 31 32 39 8 20 14 0 24 6 16 27 8 24 8 18 29 39 41 34 6 18 41 14 10 40 36 10 14 6 41 17 16 33 34 42 39 34 38 13 26 2 3 32 42 17 4 32 36 42 24 31 33 39 29 41 4 27 19 15 32 23 28 42 14 12 41 1 9 42 8 24 27 2 20 38 31 3 0 12 2 34 42 39 12 37 16 38 28 13 24 1 4
+
+--- DECRYPTED PLAINTEXT ---
+ESPWINSTATEAWAYSIANASANDETAINTALKILAITHAVATEAMSPECTTHATITSAVEDTANBUTZETARTOFTASNEWMACYREATERGAMESSOA
+
+--- SCORE ---
+-1218.8580
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 8 / 100 chars correct (8.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> Y
+1      -> O
+2      -> E
+3      -> C
+4      -> A
+6      -> I
+8      -> A
+9      -> F
+10     -> L
+12     -> R
+13     -> S
+14     -> A
+15     -> U
+16     -> A
+17     -> H
+18     -> N
+19     -> B
+20     -> W
+23     -> Z
+24     -> S
+26     -> P
+27     -> N
+28     -> E
+29     -> D
+31     -> A
+32     -> T
+33     -> V
+34     -> A
+36     -> I
+37     -> G
+38     -> M
+39     -> E
+40     -> K
+41     -> T
+42     -> T

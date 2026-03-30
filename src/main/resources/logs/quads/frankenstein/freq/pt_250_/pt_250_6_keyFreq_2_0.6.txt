@@ -1,0 +1,131 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 256
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [6, 1, 18, 25, 21]
+B(1) [27]
+C(2) [45, 44]
+D(3) [73, 39, 4]
+E(4) [68, 74, 34, 64, 2, 41, 22, 67]
+F(5) [38, 46]
+G(6) [37, 24]
+H(7) [8, 9, 15, 49]
+I(8) [35, 56, 12, 16, 70]
+J(9) [66]
+K(10) [33]
+L(11) [13, 36, 5]
+M(12) [7, 72]
+N(13) [29, 43, 3, 30, 57]
+O(14) [60, 31, 58, 65, 11]
+P(15) [69, 62]
+Q(16) [53]
+R(17) [28, 40, 42, 61]
+S(18) [0, 14, 23, 55]
+T(19) [63, 26, 52, 32, 20, 54]
+U(20) [47, 17]
+V(21) [10]
+W(22) [19, 71]
+X(23) [51]
+Y(24) [59, 48]
+Z(25) [50]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   71
+TEXT LENGTH:      256
+
+--- ORIGINAL PLAINTEXT ---
+HEWASATURKISHMERCHANTANDHADINHABITEDPARISFORMANYYEARSWHENFORSOMEREASONWHICHICOULDNOTLEARNHEBECAMEOBNOXIOUSTOTHEGOVERNMENTHEWASSEIZEDANDCASTINTOPRISONTHEVERYDAYTHATSAFIEARRIVEDFROMCONSTANTINOPLETOJOINHIMHEWASTRIEDANDCONDEMNEDTODEATHTHEINJUSTICEOFHISSENTENCE
+
+--- CIPHERTEXT ---
+8 68 19 18 0 25 54 17 40 33 56 0 8 72 22 42 44 49 21 57 52 1 43 4 8 6 4 70 30 49 18 27 16 26 2 73 62 6 61 16 55 38 60 40 7 21 29 48 59 22 25 61 0 71 49 67 3 46 65 28 0 60 72 2 40 34 25 23 60 43 71 8 70 45 8 16 44 58 47 5 73 43 60 54 5 67 21 40 57 49 67 27 68 45 18 7 74 11 27 57 31 51 12 58 47 55 26 11 20 9 41 37 11 10 22 28 43 7 68 30 63 8 68 71 1 55 0 74 56 50 34 73 6 57 39 44 1 23 63 16 57 54 31 62 42 56 23 11 3 63 8 22 10 34 28 59 4 1 59 32 8 18 52 55 1 38 35 22 1 42 61 16 10 2 4 38 28 58 72 44 65 57 55 63 1 3 20 16 3 65 62 13 2 52 60 66 31 70 3 9 70 7 49 68 19 21 55 52 40 12 68 4 18 57 4 44 60 3 73 2 7 57 64 4 26 31 4 41 21 52 15 32 8 68 16 30 66 17 23 26 12 45 74 58 38 8 16 14 14 22 43 63 64 29 44 2
+
+--- DECRYPTED PLAINTEXT ---
+HEGETATEAKETHRENTHERRESSHESASHERESEEDECESSEATEFUSEACTTHERZEITEREASARESTHATHETERHESETHEEARHERETETHERREXTERSSEVEWHEREISTESTHETESTHEMSEERATERTERTEDNERERTHERSISSESTHERSESBEENCERESSIERTERSTERVEREDJEREPEAREATHEGESRATESERSTEREETROSSESWERYTHEESPERSTTHESHELLESTOFTE
+
+--- SCORE ---
+-2335.2746
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 58 / 256 chars correct (22.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> E
+2      -> E
+3      -> R
+4      -> S
+5      -> H
+6      -> E
+7      -> T
+8      -> H
+9      -> E
+10     -> R
+11     -> E
+12     -> T
+13     -> J
+14     -> L
+15     -> Y
+16     -> E
+17     -> E
+18     -> E
+19     -> G
+20     -> V
+21     -> E
+22     -> E
+23     -> R
+25     -> A
+26     -> S
+27     -> R
+28     -> I
+29     -> F
+30     -> S
+31     -> E
+32     -> T
+33     -> K
+34     -> S
+35     -> B
+37     -> H
+38     -> S
+39     -> A
+40     -> A
+41     -> W
+42     -> N
+43     -> S
+44     -> T
+45     -> T
+46     -> Z
+47     -> R
+48     -> U
+49     -> H
+50     -> M
+51     -> X
+52     -> R
+54     -> T
+55     -> S
+56     -> E
+57     -> R
+58     -> E
+59     -> S
+60     -> E
+61     -> C
+62     -> D
+63     -> T
+64     -> O
+65     -> E
+66     -> P
+67     -> E
+68     -> E
+70     -> A
+71     -> T
+72     -> R
+73     -> E
+74     -> H

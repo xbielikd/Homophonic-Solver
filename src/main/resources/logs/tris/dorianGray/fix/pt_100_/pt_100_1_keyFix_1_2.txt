@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [50, 44]
+B(1) [18, 33]
+C(2) [48, 49]
+D(3) [5, 23]
+E(4) [12, 15]
+F(5) [11, 9]
+G(6) [30, 42]
+H(7) [38, 2]
+I(8) [32, 4]
+J(9) [43, 1]
+K(10) [35, 8]
+L(11) [22, 27]
+M(12) [6, 28]
+N(13) [40, 7]
+O(14) [47, 13]
+P(15) [16, 29]
+Q(16) [39, 26]
+R(17) [41, 46]
+S(18) [31, 21]
+T(19) [10, 0]
+U(20) [34, 17]
+V(21) [19, 25]
+W(22) [20, 24]
+X(23) [14, 36]
+Y(24) [37, 51]
+Z(25) [3, 45]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+18 34 10 0 38 15 32 41 47 20 7 21 13 34 27 21 31 0 50 41 25 12 50 7 5 50 46 12 7 50 8 15 23 48 13 34 46 44 42 15 38 50 31 42 47 40 15 13 17 0 13 9 47 17 46 46 44 48 15 29 12 46 2 50 16 31 24 12 40 12 25 15 41 41 12 50 22 22 37 2 44 23 32 10 10 2 12 10 15 41 46 47 41 47 11 21 47 48 4 12 10 37
+
+--- DECRYPTED PLAINTEXT ---
+ZATEREFREXCUSAJUNEARMEACKATECAPEORSATEDERANDERESSESWESTTEREVETHAINGEREMERREALLYHEOFTTHETERTEREQUERBETY
+
+--- SCORE ---
+-745.5435
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 40 / 102 chars correct (39.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> H
+4      -> B
+5      -> K
+7      -> C
+8      -> P
+9      -> W
+10     -> T
+11     -> Q
+12     -> E
+13     -> S
+15     -> E
+16     -> I
+17     -> S
+18     -> Z
+20     -> X
+21     -> U
+22     -> L
+23     -> O
+24     -> G
+25     -> M
+27     -> J
+29     -> V
+31     -> N
+32     -> F
+34     -> A
+37     -> Y
+38     -> R
+40     -> R
+41     -> R
+42     -> D
+44     -> E
+46     -> T
+47     -> E
+48     -> R
+50     -> A

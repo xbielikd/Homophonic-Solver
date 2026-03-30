@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 10]
+B(1) [14, 22]
+C(2) [4, 17]
+D(3) [0, 38]
+E(4) [41, 42]
+F(5) [44, 39]
+G(6) [26, 20]
+H(7) [9, 19]
+I(8) [46, 33]
+J(9) [29, 51]
+K(10) [5, 34]
+L(11) [43, 35]
+M(12) [16, 31]
+N(13) [28, 37]
+O(14) [45, 47]
+P(15) [32, 1]
+Q(16) [21, 30]
+R(17) [12, 3]
+S(18) [49, 6]
+T(19) [23, 40]
+U(20) [15, 25]
+V(21) [48, 50]
+W(22) [27, 2]
+X(23) [24, 8]
+Y(24) [11, 13]
+Z(25) [36, 7]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+10 6 6 45 47 37 10 49 46 10 3 12 46 50 41 0 46 31 18 0 41 10 28 10 23 23 42 31 1 40 40 45 39 46 28 38 16 11 9 45 49 23 22 25 23 40 9 42 23 27 47 45 3 40 9 3 42 42 1 41 45 32 35 42 45 44 2 19 45 16 33 18 6 34 41 38 9 33 6 27 19 42 3 41 10 14 47 15 40 49 6 40 10 3 42 38 10 23 16 41
+
+--- DECRYPTED PLAINTEXT ---
+ASSEIZAREASJEWEREDAREAMATTEDBEEEXEMPLYRERTOFTERETTIESERSEEBEEQUEENCHELEASKEPRESTHESEAGIVERSEASEPATLE
+
+--- SCORE ---
+-971.4140
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 38 / 100 chars correct (38.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> B
+2      -> C
+3      -> S
+6      -> S
+9      -> R
+10     -> A
+11     -> Y
+12     -> J
+14     -> G
+15     -> V
+16     -> L
+18     -> A
+19     -> H
+22     -> O
+23     -> T
+25     -> F
+27     -> T
+28     -> M
+31     -> D
+32     -> Q
+33     -> E
+34     -> K
+35     -> U
+37     -> Z
+38     -> P
+39     -> X
+40     -> E
+41     -> E
+42     -> E
+44     -> N
+45     -> E
+46     -> E
+47     -> I
+49     -> R
+50     -> W

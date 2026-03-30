@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 3]
+B(1) [4, 6]
+C(2) [30, 22]
+D(3) [45, 31]
+E(4) [28, 43]
+F(5) [35, 17]
+G(6) [50, 51]
+H(7) [32, 39]
+I(8) [14, 33]
+J(9) [48, 0]
+K(10) [13, 29]
+L(11) [26, 11]
+M(12) [46, 1]
+N(13) [5, 27]
+O(14) [20, 40]
+P(15) [34, 24]
+Q(16) [10, 49]
+R(17) [44, 41]
+S(18) [25, 37]
+T(19) [47, 23]
+U(20) [42, 18]
+V(21) [16, 9]
+W(22) [36, 12]
+X(23) [38, 15]
+Y(24) [2, 8]
+Z(25) [21, 19]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+4 18 23 23 32 28 14 41 20 12 5 25 20 18 11 25 25 23 3 44 9 43 7 5 31 7 44 28 5 3 13 43 31 30 40 42 41 7 50 28 39 3 25 50 40 5 43 40 18 23 40 17 40 18 41 44 7 22 43 34 28 41 32 7 34 25 36 28 5 28 16 28 41 41 28 3 26 11 8 39 3 45 14 23 23 39 28 47 43 44 44 20 44 20 35 37 20 22 33 28 47 8
+
+--- DECRYPTED PLAINTEXT ---
+JATTHESTEFREEALEETERKEERIEREREMEIZEXTEREREEREREEATEBEATRENEDETHEDEVEREWETTEEPLOREYSTTRECERREREQUENGECO
+
+--- SCORE ---
+-513.7930
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 102 chars correct (30.4%)
+
+--- KEY (cipher -> plain) ---
+3      -> E
+4      -> J
+5      -> R
+7      -> E
+8      -> O
+9      -> K
+11     -> L
+12     -> F
+13     -> M
+14     -> S
+16     -> W
+17     -> B
+18     -> A
+20     -> E
+22     -> N
+23     -> T
+25     -> E
+26     -> P
+28     -> E
+30     -> Z
+31     -> I
+32     -> H
+33     -> G
+34     -> D
+35     -> Q
+36     -> V
+37     -> U
+39     -> R
+40     -> E
+41     -> T
+42     -> X
+43     -> E
+44     -> R
+45     -> Y
+47     -> C
+50     -> R

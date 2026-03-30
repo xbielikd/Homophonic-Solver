@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [74, 40, 32]
+B(1) [46, 48, 61]
+C(2) [70, 44, 35]
+D(3) [30, 67, 39]
+E(4) [52, 2, 63]
+F(5) [0, 77, 54]
+G(6) [1, 65, 23]
+H(7) [10, 16, 14]
+I(8) [31, 60, 41]
+J(9) [15, 3, 75]
+K(10) [33, 7, 21]
+L(11) [4, 26, 19]
+M(12) [62, 72, 47]
+N(13) [59, 76, 51]
+O(14) [13, 27, 5]
+P(15) [6, 24, 56]
+Q(16) [42, 34, 50]
+R(17) [29, 37, 22]
+S(18) [28, 9, 8]
+T(19) [45, 57, 64]
+U(20) [68, 20, 43]
+V(21) [58, 69, 55]
+W(22) [73, 12, 49]
+X(23) [66, 71, 18]
+Y(24) [38, 36, 11]
+Z(25) [53, 17, 25]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+31 39 52 9 31 22 52 67 64 16 32 64 60 62 31 23 16 64 56 32 8 28 47 38 19 41 54 63 13 59 64 14 40 64 48 40 29 37 2 76 22 5 44 21 49 52 74 29 60 4 38 31 57 31 28 45 37 68 2 61 43 57 20 76 60 51 45 63 22 22 68 24 45 63 67 48 36 74 76 11 9 68 39 39 63 51 8 10 13 44 7 27 0 62 41 28 2 37 36 60 77
+
+--- DECRYPTED PLAINTEXT ---
+ESTHERTHETHEATEXTECHINGTHEMEEVEPREARESTEREDBYTHEAFTERENTSETWORKEALTERRESTEHATHETHESSELIZEDJUSTENTSTAQ
+
+--- SCORE ---
+-691.7765
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 101 chars correct (10.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+2      -> T
+4      -> F
+5      -> E
+7      -> J
+8      -> I
+9      -> H
+10     -> Z
+11     -> T
+13     -> E
+14     -> P
+16     -> T
+19     -> H
+20     -> K
+21     -> B
+22     -> R
+23     -> X
+24     -> S
+27     -> U
+28     -> N
+29     -> E
+31     -> E
+32     -> H
+36     -> T
+37     -> S
+38     -> T
+39     -> S
+40     -> R
+41     -> E
+43     -> O
+44     -> D
+45     -> T
+47     -> G
+48     -> A
+49     -> Y
+51     -> L
+52     -> T
+54     -> M
+56     -> C
+57     -> R
+59     -> V
+60     -> A
+61     -> W
+62     -> T
+63     -> E
+64     -> E
+67     -> H
+68     -> E
+74     -> H
+76     -> E
+77     -> Q

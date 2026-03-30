@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [92, 45, 85, 26, 79, 35, 59, 88]
+B(1) [95, 42]
+C(2) [28, 5, 103]
+D(3) [87, 13, 102, 73]
+E(4) [37, 99, 78, 27, 60, 1, 50, 14, 39, 96, 34, 53]
+F(5) [4, 61, 68]
+G(6) [90, 9]
+H(7) [44, 3, 24, 0, 29, 46]
+I(8) [77, 81, 70, 57, 80, 86, 17]
+J(9) [91]
+K(10) [71]
+L(11) [11, 74, 66, 98]
+M(12) [25, 32, 30]
+N(13) [62, 65, 82, 40, 43, 93, 33]
+O(14) [76, 23, 48, 58, 51, 72, 12]
+P(15) [100, 22]
+Q(16) [6]
+R(17) [8, 84, 21, 101, 18, 36]
+S(18) [47, 69, 56, 63, 54, 49]
+T(19) [97, 94, 64, 2, 16, 67, 89, 52, 31]
+U(20) [10, 19, 15]
+V(21) [20]
+W(22) [38, 7, 83]
+X(23) [104]
+Y(24) [55, 41]
+Z(25) [75]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+OURLITTLEVOYAGESOFDISCOVERYWEREOFTENPROLONGEDBYTHESUCCESSIVEOBJECTSTHATPRESENTEDTHEMSELVESWEVISITEDTHETOMBOFTHEILLUSTRIOUSHAMPDENANDTHEFIELDONWHICHTHATPATRIOTFELLFORAMOMENTMYSOULWASELEVATEDFROMITSDEBASINGANDMISERABLEFEARSTOCONTEMPLATETHEDIVINEIDEASOF
+
+--- CIPHERTEXT ---
+23 15 8 11 81 94 2 98 37 20 58 55 45 90 39 49 76 68 87 70 49 5 76 20 99 8 41 83 96 8 14 58 68 64 60 43 22 21 58 98 51 65 90 34 87 42 41 67 46 34 56 10 103 5 60 49 69 80 20 1 12 42 91 1 5 31 69 52 44 26 2 22 18 99 63 96 62 67 53 73 16 46 14 30 69 78 98 20 78 49 83 34 20 70 63 80 52 27 13 94 24 60 89 72 32 95 51 68 31 24 78 57 11 98 10 47 52 36 81 51 10 63 3 85 25 100 87 96 93 45 40 102 52 44 50 4 86 34 98 13 51 62 7 3 81 103 0 16 3 59 2 100 35 52 18 17 58 89 68 37 66 66 61 51 84 59 25 58 30 53 65 16 25 55 56 72 10 11 38 26 63 99 66 78 20 92 16 60 87 61 21 51 30 81 89 54 73 37 42 59 56 86 33 90 88 65 73 30 57 49 14 21 45 95 66 34 4 39 85 18 47 97 76 103 12 62 94 34 25 22 66 45 64 27 64 0 14 13 80 20 77 33 34 81 73 37 92 69 76 4
+
+--- DECRYPTED PLAINTEXT ---
+ZSTATERRAREFORATESTOTHERETHEATEESTAKERERETRATTHEPARETHATTERTOTHTHATEVEREDENARETHEPEATERRETEARONEEATERASEQUESARETARETEXTEENSIRETAJOBLEVESTARTERESTTHESARECEDRESSATTHEYAREATTERFREEAGENETERSEATHREATSWHATARTERSTHATTEROUTASAIDTHETOREARETOTATHETERMEATHASTES
+
+--- SCORE ---
+-2751.4407
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 25 / 250 chars correct (10.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> T
+2      -> R
+3      -> S
+4      -> S
+5      -> H
+7      -> E
+8      -> T
+10     -> E
+11     -> A
+12     -> O
+13     -> T
+14     -> E
+15     -> S
+16     -> E
+17     -> R
+18     -> D
+20     -> R
+21     -> R
+22     -> E
+23     -> Z
+24     -> R
+25     -> R
+26     -> E
+27     -> A
+30     -> A
+31     -> A
+32     -> Q
+33     -> E
+34     -> A
+35     -> C
+36     -> X
+37     -> A
+38     -> G
+39     -> A
+40     -> B
+41     -> H
+42     -> T
+43     -> K
+44     -> V
+45     -> O
+46     -> P
+47     -> T
+49     -> T
+50     -> E
+51     -> E
+52     -> E
+53     -> T
+54     -> W
+55     -> F
+56     -> R
+57     -> T
+58     -> E
+59     -> A
+60     -> A
+61     -> H
+62     -> R
+63     -> N
+64     -> T
+65     -> T
+66     -> T
+67     -> E
+68     -> S
+69     -> T
+70     -> O
+72     -> E
+73     -> H
+76     -> E
+77     -> M
+78     -> E
+80     -> E
+81     -> T
+83     -> E
+84     -> Y
+85     -> I
+86     -> T
+87     -> T
+88     -> S
+89     -> S
+90     -> R
+91     -> H
+92     -> S
+93     -> J
+94     -> E
+95     -> U
+96     -> A
+97     -> H
+98     -> R
+99     -> E
+100    -> E
+102    -> L
+103    -> T

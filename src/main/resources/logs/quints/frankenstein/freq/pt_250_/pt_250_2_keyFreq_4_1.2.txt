@@ -1,0 +1,170 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [90, 47, 9, 39, 93, 116, 16, 72, 58, 91]
+B(1) [85, 76]
+C(2) [99, 70, 2, 134]
+D(3) [124, 131, 123, 105, 41, 96]
+E(4) [67, 26, 71, 29, 114, 57, 88, 102, 61, 56, 66, 27, 60, 121, 62, 97]
+F(5) [34, 107, 64]
+G(6) [50, 19, 22]
+H(7) [37, 49, 119, 113, 28, 68, 100, 109]
+I(8) [65, 69, 44, 42, 52, 103, 83, 54, 14]
+J(9) [8]
+K(10) [20]
+L(11) [31, 112, 11, 81, 63]
+M(12) [18, 0, 129]
+N(13) [43, 21, 55, 6, 36, 40, 117, 1, 5]
+O(14) [122, 110, 84, 79, 51, 75, 13, 132, 77, 118]
+P(15) [120, 25, 32]
+Q(16) [78]
+R(17) [59, 24, 23, 3, 115, 30, 33, 35]
+S(18) [86, 73, 80, 48, 95, 111, 127, 126]
+T(19) [108, 128, 94, 130, 10, 82, 4, 98, 106, 53, 89]
+U(20) [46, 74, 125, 104]
+V(21) [133, 17]
+W(22) [7, 92, 12]
+X(23) [87]
+Y(24) [45, 15, 101]
+Z(25) [38]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   110
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+INTHATHOURISHOULDDIEANDATONCESATISFYANDEXTINGUISHHISMALICETHEPROSPECTDIDNOTMOVEMETOFEARYETWHENITHOUGHTOFMYBELOVEDELIZABETHOFHERTEARSANDENDLESSSORROWWHENSHESHOULDFINDHERLOVERSOBARBAROUSLYSNATCHEDFROMHERTEARSTHEFIRSTIHADSHEDFORMANYMONTHSSTREAMEDFROMMYEYES
+
+--- CIPHERTEXT ---
+42 43 106 109 93 4 100 77 104 35 54 95 37 122 125 11 123 105 44 56 90 5 105 90 10 75 36 99 88 48 116 106 69 86 34 15 72 1 123 61 87 94 65 6 19 104 54 48 49 109 14 95 129 90 112 44 70 26 98 68 61 25 23 84 127 120 26 99 98 105 14 105 36 84 94 18 84 17 71 129 102 89 84 64 62 90 59 15 121 53 92 49 27 21 69 10 119 110 104 19 113 98 110 107 0 45 85 56 31 75 17 121 123 27 31 83 38 91 85 121 130 49 132 34 113 29 24 94 60 72 24 111 91 36 131 71 40 124 112 56 80 126 111 84 33 33 84 7 7 109 60 21 80 68 67 48 37 75 104 81 41 107 103 5 96 113 27 33 81 122 133 61 33 126 118 85 9 33 85 72 59 79 104 126 81 15 86 36 90 108 99 49 26 123 34 3 13 129 100 66 23 82 57 116 59 95 82 37 29 34 83 30 126 53 69 49 9 41 86 119 102 131 64 110 24 0 91 40 101 129 110 5 130 119 95 95 94 30 97 58 0 56 123 64 24 13 0 18 45 67 101 26 111
+
+--- DECRYPTED PLAINTEXT ---
+ZWEEKSDESCREATETHEATTHETENNERESERIENTTHEINTHISRESEVENTSAMESBEQUEFREESEVENENTEDINTHEEXTENTERSESRESTSINSTORESTANDTHEAREASTESPENTENSTERANDITISTITRESSESSESSIBLEANSETOTHENESETHESTASISSTERSTENINTHESEHESANDJULYSEELATERATERSITISTDETERATINTHESEENAGERTHEEARTELIER
+
+--- SCORE ---
+-2711.2073
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 253 chars correct (7.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> T
+3      -> S
+4      -> S
+5      -> H
+6      -> H
+7      -> S
+9      -> I
+10     -> E
+11     -> T
+13     -> A
+14     -> V
+15     -> N
+17     -> D
+18     -> T
+19     -> I
+21     -> S
+23     -> U
+24     -> E
+25     -> Q
+26     -> E
+27     -> E
+29     -> T
+30     -> A
+31     -> A
+33     -> S
+34     -> E
+35     -> C
+36     -> N
+37     -> A
+38     -> E
+40     -> T
+41     -> T
+42     -> Z
+43     -> W
+44     -> A
+45     -> E
+48     -> E
+49     -> S
+53     -> E
+54     -> R
+56     -> T
+57     -> Y
+58     -> E
+59     -> E
+60     -> S
+61     -> E
+62     -> X
+64     -> E
+65     -> T
+66     -> J
+67     -> L
+68     -> B
+69     -> R
+70     -> M
+71     -> I
+72     -> T
+75     -> N
+77     -> E
+79     -> R
+80     -> I
+81     -> E
+82     -> L
+83     -> R
+84     -> E
+85     -> S
+86     -> I
+87     -> I
+88     -> R
+89     -> H
+90     -> T
+91     -> A
+92     -> R
+93     -> K
+94     -> N
+95     -> E
+96     -> E
+97     -> G
+98     -> S
+99     -> E
+100    -> D
+101    -> I
+102    -> T
+103    -> T
+104    -> S
+105    -> E
+106    -> E
+107    -> O
+108    -> H
+109    -> E
+110    -> T
+111    -> R
+112    -> S
+113    -> N
+116    -> S
+118    -> A
+119    -> S
+120    -> R
+121    -> T
+122    -> T
+123    -> H
+124    -> I
+125    -> E
+126    -> T
+127    -> F
+129    -> N
+130    -> E
+131    -> D
+132    -> P
+133    -> H

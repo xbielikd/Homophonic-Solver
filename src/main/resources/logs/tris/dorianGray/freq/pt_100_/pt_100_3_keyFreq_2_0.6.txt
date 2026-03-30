@@ -1,0 +1,116 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [65, 72, 28, 30, 38]
+B(1) [54]
+C(2) [53, 15]
+D(3) [16, 58, 18]
+E(4) [37, 3, 22, 70, 26, 4, 63, 13]
+F(5) [25, 23]
+G(6) [8, 27]
+H(7) [33, 36, 57, 45]
+I(8) [47, 50, 52, 74, 7]
+J(9) [17]
+K(10) [71]
+L(11) [66, 5, 62]
+M(12) [67, 73]
+N(13) [29, 24, 44, 9, 19]
+O(14) [31, 68, 42, 39, 6]
+P(15) [49, 59]
+Q(16) [48]
+R(17) [10, 40, 0, 43]
+S(18) [46, 14, 2, 61]
+T(19) [60, 12, 64, 41, 1, 35]
+U(20) [55, 34]
+V(21) [21]
+W(22) [56, 11]
+X(23) [32]
+Y(24) [20, 51]
+Z(25) [69]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   56
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+NOMANCOMESACROSSTWOIDEALTHINGSFEWCOMEACROSSONEICANTEXPLAINITTOYOUBASILBUTIMUSTNEVERSITTOYOUAGAINTHERE
+
+--- CIPHERTEXT ---
+19 68 73 72 29 53 6 73 4 2 72 53 43 6 2 2 60 56 68 50 18 4 72 5 41 45 74 29 8 2 25 63 11 53 68 67 70 65 15 0 39 61 14 31 29 13 50 53 72 29 12 70 32 49 66 30 47 29 47 1 60 6 51 68 34 54 38 14 52 66 54 55 60 52 67 34 61 64 9 70 21 13 10 46 47 12 60 42 20 6 34 28 27 28 50 9 1 57 4 10 26
+
+--- DECRYPTED PLAINTEXT ---
+ZERTHEARESTEXASSTHERGETYWITHESTOBEESAREQUARTHERETHEANDTHEHESTAKETHERETHATESTALEAMENCEETOFATEVERESPENJ
+
+--- SCORE ---
+-675.0158
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 101 chars correct (13.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+1      -> S
+2      -> S
+4      -> E
+5      -> Y
+6      -> A
+8      -> E
+9      -> E
+10     -> N
+11     -> B
+12     -> E
+13     -> E
+14     -> R
+15     -> E
+18     -> G
+19     -> Z
+20     -> F
+21     -> M
+25     -> T
+26     -> J
+27     -> V
+28     -> E
+29     -> H
+30     -> H
+31     -> T
+32     -> N
+34     -> T
+38     -> E
+39     -> U
+41     -> W
+42     -> O
+43     -> X
+45     -> I
+46     -> C
+47     -> E
+49     -> D
+50     -> R
+51     -> K
+52     -> E
+53     -> E
+54     -> H
+55     -> A
+56     -> H
+57     -> P
+60     -> T
+61     -> A
+63     -> O
+64     -> L
+65     -> R
+66     -> T
+67     -> S
+68     -> E
+70     -> A
+72     -> T
+73     -> R
+74     -> T

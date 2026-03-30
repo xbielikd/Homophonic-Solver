@@ -1,0 +1,103 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [39, 21, 60]
+B(1) [16, 50, 69]
+C(2) [54, 72, 65]
+D(3) [17, 36, 48]
+E(4) [59, 11, 52]
+F(5) [12, 56, 32]
+G(6) [43, 47, 70]
+H(7) [73, 38, 66]
+I(8) [14, 67, 74]
+J(9) [28, 53, 58]
+K(10) [13, 4, 49]
+L(11) [71, 44, 5]
+M(12) [57, 3, 62]
+N(13) [77, 2, 34]
+O(14) [45, 19, 35]
+P(15) [37, 18, 75]
+Q(16) [51, 0, 55]
+R(17) [42, 6, 9]
+S(18) [26, 23, 24]
+T(19) [61, 10, 27]
+U(20) [7, 76, 30]
+V(21) [40, 33, 63]
+W(22) [64, 41, 31]
+X(23) [29, 8, 46]
+Y(24) [15, 68, 1]
+Z(25) [22, 25, 20]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   43
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+14 27 41 60 24 2 61 30 77 27 14 5 10 38 11 77 27 38 21 61 74 54 45 2 34 11 72 10 59 48 10 73 14 23 70 60 27 24 69 15 64 14 27 38 10 73 11 45 12 32 14 72 11 9 74 34 66 52 42 41 73 74 27 11 72 21 42 64 73 59 34 28 45 42 48 60 77 16 60 13 59 6 66 21 17 56 67 77 67 23 38 11 36 27 52 5 71 74 34 47
+
+--- DECRYPTED PLAINTEXT ---
+ITTOANDENTINTHENTHEDEVENTERTATTHISPOTACKWITHTHEEQUIREMETLASTHETERESWHATHESTONJOYABLEXFINISHESTANGETZ
+
+--- SCORE ---
+-1071.1396
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 43 / 100 chars correct (43.0%)
+
+--- KEY (cipher -> plain) ---
+2      -> N
+5      -> N
+6      -> B
+9      -> M
+10     -> T
+11     -> E
+12     -> Q
+13     -> Y
+14     -> I
+15     -> K
+16     -> J
+17     -> X
+21     -> E
+23     -> S
+24     -> A
+27     -> T
+28     -> H
+30     -> E
+32     -> U
+34     -> T
+36     -> S
+38     -> H
+41     -> T
+42     -> S
+45     -> E
+47     -> Z
+48     -> T
+52     -> A
+54     -> V
+56     -> F
+59     -> A
+60     -> O
+61     -> D
+64     -> W
+66     -> L
+67     -> I
+69     -> C
+70     -> P
+71     -> G
+72     -> R
+73     -> H
+74     -> E
+77     -> N

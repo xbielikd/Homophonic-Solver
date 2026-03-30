@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 49]
+B(1) [20, 39]
+C(2) [35, 33]
+D(3) [11, 7]
+E(4) [22, 30]
+F(5) [19, 3]
+G(6) [25, 13]
+H(7) [34, 40]
+I(8) [10, 14]
+J(9) [24, 4]
+K(10) [26, 15]
+L(11) [6, 32]
+M(12) [16, 48]
+N(13) [1, 9]
+O(14) [29, 36]
+P(15) [2, 31]
+Q(16) [45, 8]
+R(17) [41, 47]
+S(18) [12, 21]
+T(19) [43, 0]
+U(20) [5, 18]
+V(21) [23, 27]
+W(22) [51, 50]
+X(23) [42, 44]
+Y(24) [37, 38]
+Z(25) [17, 46]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+34 22 40 28 7 40 49 43 30 3 18 32 48 22 48 29 47 10 22 21 29 3 34 10 48 0 34 49 43 7 29 22 21 9 29 43 16 49 0 0 22 47 34 22 49 1 21 51 22 41 30 7 14 12 14 48 31 6 37 51 49 9 43 43 29 21 22 22 43 40 22 2 32 28 35 22 43 34 49 43 14 12 28 32 32 13 10 23 30 16 30 0 40 22 26 30 38 28 9 11
+
+--- DECRYPTED PLAINTEXT ---
+HEHADHATEFULSESORIESOFHISTHATDOESNOTMATTERHEARSWEXEDABASKEYWANTTOSEETHEPLACETHATABALLGIVEMETHEJEZANQ
+
+--- SCORE ---
+-1141.7357
+
+--- CORRECT? ---
+YES - MATCH
+
+ACCURACY: 84 / 100 chars correct (84.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> R
+2      -> P
+3      -> F
+6      -> E
+7      -> D
+9      -> N
+10     -> I
+11     -> Q
+12     -> B
+13     -> G
+14     -> A
+16     -> M
+18     -> U
+21     -> S
+22     -> E
+23     -> V
+26     -> J
+28     -> A
+29     -> O
+30     -> E
+31     -> K
+32     -> L
+34     -> H
+35     -> C
+37     -> Y
+38     -> Z
+40     -> H
+41     -> X
+43     -> T
+47     -> R
+48     -> S
+49     -> A
+51     -> W

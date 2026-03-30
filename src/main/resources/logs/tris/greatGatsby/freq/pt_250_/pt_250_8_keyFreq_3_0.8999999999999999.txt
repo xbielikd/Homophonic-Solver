@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 257
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [78, 39, 38, 83, 56, 29, 7, 44]
+B(1) [66, 20]
+C(2) [12, 85, 6]
+D(3) [103, 74, 68, 2]
+E(4) [94, 72, 67, 80, 64, 100, 18, 11, 22, 60, 69, 3]
+F(5) [43, 61, 81]
+G(6) [51, 55]
+H(7) [41, 77, 52, 93, 17, 46]
+I(8) [79, 5, 70, 59, 48, 95, 92]
+J(9) [13]
+K(10) [1]
+L(11) [101, 58, 15, 57]
+M(12) [23, 90, 28]
+N(13) [40, 98, 99, 21, 97, 42, 65]
+O(14) [14, 27, 8, 4, 24, 53, 84]
+P(15) [76, 26]
+Q(16) [88]
+R(17) [45, 36, 87, 49, 32, 104]
+S(18) [0, 9, 82, 75, 37, 86]
+T(19) [31, 89, 35, 33, 50, 16, 71, 30, 34]
+U(20) [91, 73, 25]
+V(21) [63]
+W(22) [54, 102, 62]
+X(23) [19]
+Y(24) [96, 47]
+Z(25) [10]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      257
+
+--- ORIGINAL PLAINTEXT ---
+WHENICAMEBACKFROMTHEEASTLASTAUTUMNIFELTTHATIWANTEDTHEWORLDTOBEINUNIFORMANDATASORTOFMORALATTENTIONFOREVERIWANTEDNOMORERIOTOUSEXCURSIONSWITHPRIVILEGEDGLIMPSESINTOTHEHUMANHEARTONLYGATSBYTHEMANWHOGIVESHISNAMETOTHISBOOKWASEXEMPTFROMMYREACTIONGATSBYWHOREPRESENTED
+
+--- CIPHERTEXT ---
+102 52 100 98 5 85 78 90 60 20 38 85 1 61 87 53 23 31 46 18 18 38 82 16 15 7 37 30 38 73 16 91 23 65 5 43 100 101 34 35 93 56 35 79 102 83 40 71 67 2 71 77 18 54 14 32 57 2 50 4 66 67 79 98 91 99 92 43 24 104 28 29 97 68 29 89 38 75 53 87 71 27 43 23 8 49 83 101 56 16 71 80 99 35 70 53 40 61 8 45 80 63 80 104 5 102 56 65 34 72 74 97 27 23 84 45 67 49 95 24 31 4 25 9 3 19 6 91 45 9 92 4 40 37 54 92 30 52 76 36 95 63 5 15 72 55 18 103 55 15 95 23 76 75 22 82 70 99 31 14 89 41 60 52 91 90 44 21 17 67 7 32 33 24 98 101 47 55 29 71 75 20 47 33 46 67 28 56 21 102 52 24 51 95 63 67 82 52 5 82 99 7 28 60 50 14 71 77 70 37 20 4 8 1 62 83 82 18 19 80 23 26 30 81 32 27 28 90 47 36 80 83 12 30 95 53 97 51 56 71 9 66 96 102 93 27 104 100 76 32 11 82 11 97 31 3 74
+
+--- DECRYPTED PLAINTEXT ---
+HEEASTJOURATTEREENTHHATSTRETALSTERSTERESTESTHEREAKETHEBECKMENATATENTETTHATHEATERESTESTERESERESHERESERERTSHERESWASEVEATHENEZIDEXTEINEREENTERTHESTSTHATTHERTYTHENBEQUETOFTHARESEARETHETRESTATETHEETHEATESTERTUMBETHERESTHETHERENTHESTOETREPTHEATEEINGHTSTERESTSANDW
+
+--- SCORE ---
+-1745.4088
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 14 / 257 chars correct (5.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+2      -> K
+3      -> D
+4      -> E
+5      -> S
+6      -> X
+7      -> R
+8      -> S
+9      -> I
+11     -> S
+12     -> P
+14     -> B
+15     -> T
+16     -> S
+17     -> H
+18     -> H
+19     -> E
+20     -> R
+21     -> T
+22     -> Y
+23     -> E
+24     -> E
+25     -> Z
+26     -> N
+27     -> S
+28     -> T
+29     -> H
+30     -> T
+31     -> N
+32     -> E
+33     -> S
+34     -> E
+35     -> S
+36     -> T
+37     -> E
+38     -> A
+40     -> R
+41     -> Q
+43     -> T
+44     -> F
+45     -> E
+46     -> T
+47     -> E
+49     -> T
+50     -> M
+51     -> T
+52     -> E
+53     -> E
+54     -> E
+55     -> T
+56     -> E
+57     -> C
+60     -> U
+61     -> E
+62     -> H
+63     -> E
+65     -> R
+66     -> N
+67     -> A
+68     -> T
+70     -> H
+71     -> E
+72     -> S
+73     -> L
+74     -> W
+75     -> T
+76     -> R
+77     -> T
+78     -> J
+79     -> T
+80     -> R
+81     -> H
+82     -> T
+83     -> E
+84     -> V
+85     -> T
+87     -> R
+89     -> E
+90     -> O
+91     -> T
+92     -> N
+93     -> T
+95     -> H
+96     -> G
+97     -> A
+98     -> A
+99     -> E
+100    -> E
+101    -> R
+102    -> H
+103    -> A
+104    -> T

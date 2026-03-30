@@ -1,0 +1,104 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [51, 35, 1]
+B(1) [6, 66, 16]
+C(2) [3, 31, 34]
+D(3) [22, 18, 9]
+E(4) [58, 71, 69]
+F(5) [72, 59, 74]
+G(6) [25, 27, 44]
+H(7) [42, 12, 55]
+I(8) [10, 47, 0]
+J(9) [63, 60, 38]
+K(10) [21, 4, 20]
+L(11) [68, 13, 65]
+M(12) [15, 67, 26]
+N(13) [39, 29, 50]
+O(14) [28, 30, 77]
+P(15) [76, 11, 36]
+Q(16) [54, 46, 33]
+R(17) [23, 17, 57]
+S(18) [37, 8, 14]
+T(19) [5, 24, 32]
+U(20) [43, 40, 62]
+V(21) [45, 52, 61]
+W(22) [48, 19, 73]
+X(23) [64, 70, 56]
+Y(24) [7, 49, 2]
+Z(25) [41, 53, 75]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   44
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+MYPARENTSWEREPOSSESSEDBYTHEVERYSPIRITOFKINDNESSANDINDULGENCEWEFELTTHATTHEYWERENOTTHETYRANTSTORULEOUR
+
+--- CIPHERTEXT ---
+26 49 76 1 17 69 50 32 37 19 69 23 69 11 30 37 8 58 8 8 58 18 66 2 5 55 69 61 58 23 2 37 11 10 17 0 32 30 72 20 0 29 22 39 71 8 14 51 50 22 10 39 9 40 13 25 58 50 31 69 73 58 74 71 68 24 24 55 51 24 24 12 58 2 19 58 23 71 50 28 5 32 12 69 32 2 17 51 50 32 14 5 77 17 43 13 69 30 43 23
+
+--- DECRYPTED PLAINTEXT ---
+ZKYARENTEVERETHERERREQUESHEWEREETHRETHEBESTEARIANTHEJUMPENGELEXACTTHATTHEEVERANDSTHETERANTISFROMEHOR
+
+--- SCORE ---
+-890.1227
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 45 / 100 chars correct (45.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> A
+2      -> E
+5      -> S
+8      -> R
+9      -> J
+10     -> H
+11     -> T
+12     -> H
+13     -> M
+14     -> I
+17     -> R
+18     -> Q
+19     -> V
+20     -> B
+22     -> T
+23     -> R
+24     -> T
+25     -> P
+26     -> Z
+28     -> D
+29     -> S
+30     -> H
+31     -> G
+32     -> T
+37     -> E
+39     -> E
+40     -> U
+43     -> O
+49     -> K
+50     -> N
+51     -> A
+55     -> H
+58     -> E
+61     -> W
+66     -> U
+68     -> C
+69     -> E
+71     -> A
+72     -> E
+73     -> L
+74     -> X
+76     -> Y
+77     -> F

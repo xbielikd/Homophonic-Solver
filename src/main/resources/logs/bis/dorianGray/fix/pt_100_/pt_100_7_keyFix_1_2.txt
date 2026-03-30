@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [3, 50]
+B(1) [6, 31]
+C(2) [41, 8]
+D(3) [23, 22]
+E(4) [28, 27]
+F(5) [5, 39]
+G(6) [33, 10]
+H(7) [44, 37]
+I(8) [24, 40]
+J(9) [34, 7]
+K(10) [14, 9]
+L(11) [20, 45]
+M(12) [47, 11]
+N(13) [16, 46]
+O(14) [0, 1]
+P(15) [48, 15]
+Q(16) [30, 4]
+R(17) [29, 42]
+S(18) [38, 13]
+T(19) [19, 21]
+U(20) [43, 26]
+V(21) [35, 25]
+W(22) [51, 36]
+X(23) [49, 17]
+Y(24) [12, 18]
+Z(25) [32, 2]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+HEHADHATEFULMEMORIESOFHIMTHATDOESNOTMATTERHEANSWEREDISIMPLYWANTTOSEETHEPLACETHATISALLGIVEMETHEKEYAND
+
+--- CIPHERTEXT ---
+44 28 37 50 23 44 3 21 27 39 43 20 11 27 11 1 42 40 27 38 0 5 37 40 11 19 44 50 21 22 0 27 38 46 0 19 11 50 21 19 28 42 44 28 50 46 13 51 28 42 27 23 24 13 40 47 48 20 18 36 3 16 19 21 1 13 28 28 19 37 27 15 45 3 41 28 19 44 3 19 40 13 50 20 45 33 40 35 27 11 28 19 37 28 14 27 12 3 16 23
+
+--- DECRYPTED PLAINTEXT ---
+HEHETHEREXPORERECEEDNGHERTHERINEDANTRERTECHEEARKECETERELYOFJESTREREETHEQUEBETHETEREOUZEVERETHEMEWEST
+
+--- SCORE ---
+-500.1248
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 100 chars correct (35.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> E
+3      -> E
+5      -> G
+11     -> R
+12     -> W
+13     -> R
+14     -> M
+15     -> Q
+16     -> S
+18     -> F
+19     -> T
+20     -> O
+21     -> R
+22     -> I
+23     -> T
+24     -> E
+27     -> E
+28     -> E
+33     -> Z
+35     -> V
+36     -> J
+37     -> H
+38     -> D
+39     -> X
+40     -> E
+41     -> B
+42     -> C
+43     -> P
+44     -> H
+45     -> U
+46     -> A
+47     -> L
+48     -> Y
+50     -> E
+51     -> K

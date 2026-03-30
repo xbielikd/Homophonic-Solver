@@ -1,0 +1,108 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [26, 74, 38]
+B(1) [43, 34, 20]
+C(2) [28, 19, 47]
+D(3) [39, 57, 72]
+E(4) [45, 16, 51]
+F(5) [44, 3, 68]
+G(6) [53, 1, 23]
+H(7) [63, 62, 52]
+I(8) [21, 40, 9]
+J(9) [24, 37, 35]
+K(10) [66, 55, 75]
+L(11) [8, 2, 58]
+M(12) [7, 18, 22]
+N(13) [76, 77, 54]
+O(14) [0, 25, 64]
+P(15) [17, 50, 11]
+Q(16) [69, 49, 27]
+R(17) [59, 60, 5]
+S(18) [56, 73, 6]
+T(19) [70, 65, 10]
+U(20) [29, 4, 32]
+V(21) [48, 42, 46]
+W(22) [31, 30, 67]
+X(23) [71, 33, 36]
+Y(24) [12, 14, 15]
+Z(25) [61, 41, 13]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   48
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+62 21 6 65 26 76 77 51 57 6 75 9 77 67 74 56 39 59 38 67 77 38 65 70 5 26 28 65 21 46 16 2 12 65 21 53 63 70 64 77 52 40 56 3 38 28 16 74 54 39 63 21 73 73 63 25 5 70 63 26 40 60 58 64 25 66 16 39 26 56 10 52 64 32 1 52 21 70 31 16 59 45 65 5 9 22 22 16 72 45 42 51 60 15 57 74 12 9 28 0 4 8 72
+
+--- DECRYPTED PLAINTEXT ---
+ZATHEPRENTWOREDERSTERTHREETHAMENTHAVERERENEXTTEDEREALLETEREENCIETHEREEKEEQUEARGESTHEOFFEATHECANDTOTBYJA
+
+--- SCORE ---
+-714.5153
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 103 chars correct (6.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+1      -> U
+2      -> N
+3      -> X
+4      -> Y
+5      -> E
+6      -> T
+8      -> J
+9      -> O
+10     -> K
+12     -> T
+15     -> A
+16     -> E
+21     -> A
+22     -> F
+25     -> T
+26     -> E
+28     -> T
+31     -> G
+32     -> Q
+38     -> T
+39     -> R
+40     -> N
+42     -> H
+45     -> T
+46     -> M
+51     -> E
+52     -> E
+53     -> V
+54     -> E
+56     -> E
+57     -> N
+58     -> I
+59     -> S
+60     -> C
+62     -> Z
+63     -> E
+64     -> E
+65     -> H
+66     -> H
+67     -> E
+70     -> R
+72     -> A
+73     -> L
+74     -> D
+75     -> W
+76     -> P
+77     -> R

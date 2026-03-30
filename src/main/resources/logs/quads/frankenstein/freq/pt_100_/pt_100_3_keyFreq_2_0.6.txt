@@ -1,0 +1,120 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [8, 35, 15, 43, 10]
+B(1) [69]
+C(2) [16, 39]
+D(3) [54, 5, 23]
+E(4) [25, 26, 20, 49, 29, 50, 53, 13]
+F(5) [59, 57]
+G(6) [12, 56]
+H(7) [63, 31, 34, 37]
+I(8) [55, 3, 40, 46, 71]
+J(9) [58]
+K(10) [7]
+L(11) [65, 44, 14]
+M(12) [21, 45]
+N(13) [41, 48, 19, 18, 28]
+O(14) [4, 74, 38, 68, 73]
+P(15) [72, 0]
+Q(16) [2]
+R(17) [11, 22, 66, 67]
+S(18) [64, 52, 61, 27]
+T(19) [51, 62, 70, 47, 9, 32]
+U(20) [30, 6]
+V(21) [17]
+W(22) [60, 1]
+X(23) [36]
+Y(24) [24, 33]
+Z(25) [42]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   60
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+ALASVICTORINOWSAYTHANKGODSHEDIDNOTLIVETOWITNESSTHECRUELMISERABLEDEATHOFHERYOUNGESTDARLINGCOMEVICTORNOT
+
+--- CIPHERTEXT ---
+15 65 35 64 17 46 16 32 74 11 46 48 74 60 61 8 33 51 34 8 41 7 12 73 5 61 34 53 23 71 5 41 38 62 65 3 17 25 70 74 60 46 62 28 26 52 61 62 37 25 16 66 30 29 44 21 40 27 20 11 43 69 44 29 54 13 10 51 37 73 59 34 53 22 24 4 6 18 12 29 61 70 23 35 67 44 55 19 12 39 68 45 25 17 46 39 9 73 66 41 68 70
+
+--- DECRYPTED PLAINTEXT ---
+ZEANTELYTHESTHERKEDRESEAREDTHEREGRESTATTHEREXPERSALSAREFORTHEREREQUESANDTHEJEWERETHAVEMBERICATEREASEIT
+
+--- SCORE ---
+-852.2268
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 102 chars correct (4.9%)
+
+--- KEY (cipher -> plain) ---
+3      -> S
+4      -> J
+5      -> R
+6      -> E
+7      -> S
+8      -> R
+9      -> E
+10     -> U
+11     -> H
+12     -> E
+13     -> Q
+15     -> Z
+16     -> L
+17     -> T
+18     -> W
+19     -> B
+20     -> T
+21     -> F
+22     -> H
+23     -> H
+24     -> E
+25     -> A
+26     -> X
+27     -> R
+28     -> E
+29     -> R
+30     -> A
+32     -> Y
+33     -> K
+34     -> D
+35     -> A
+37     -> S
+38     -> G
+39     -> R
+40     -> O
+41     -> E
+43     -> E
+44     -> E
+45     -> C
+46     -> E
+48     -> S
+51     -> E
+52     -> P
+53     -> T
+54     -> E
+55     -> M
+59     -> N
+60     -> H
+61     -> E
+62     -> R
+64     -> N
+65     -> E
+66     -> S
+67     -> V
+68     -> I
+69     -> R
+70     -> T
+71     -> E
+73     -> A
+74     -> T

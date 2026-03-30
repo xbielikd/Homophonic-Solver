@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [40, 32, 5, 16, 3]
+B(1) [31]
+C(2) [60, 52]
+D(3) [14, 33, 25]
+E(4) [63, 6, 42, 0, 29, 28, 27, 48]
+F(5) [24, 19]
+G(6) [34, 7]
+H(7) [53, 13, 18, 57]
+I(8) [55, 9, 15, 67, 39]
+J(9) [38]
+K(10) [69]
+L(11) [70, 74, 44]
+M(12) [59, 30]
+N(13) [72, 21, 62, 73, 65]
+O(14) [51, 54, 50, 45, 41]
+P(15) [1, 2]
+Q(16) [8]
+R(17) [17, 35, 71, 4]
+S(18) [46, 23, 58, 56]
+T(19) [26, 37, 66, 22, 11, 20]
+U(20) [43, 12]
+V(21) [64]
+W(22) [68, 10]
+X(23) [49]
+Y(24) [47, 61]
+Z(25) [36]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+55 25 29 58 9 4 28 33 26 18 32 20 55 59 55 7 13 11 2 5 58 46 59 61 70 39 19 28 41 73 22 13 40 20 31 3 17 35 29 21 71 41 60 69 10 0 16 71 67 70 61 39 26 39 58 11 71 12 0 31 43 11 12 73 9 72 20 27 71 35 12 1 26 48 14 31 61 5 72 47 58 43 14 14 0 72 46 57 45 60 69 54 24 59 67 23 42 4 61 67 24
+
+--- DECRYPTED PLAINTEXT ---
+EJETAKINIQUEEREWEHASTEREINGINTHEREDBYREMENERANDERIENINTHEANDTHATATEVERALIZEDESTATTEENTEXPERFORRICKERO
+
+--- SCORE ---
+-891.9668
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 4 / 101 chars correct (4.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> N
+1      -> L
+2      -> A
+3      -> B
+4      -> K
+5      -> S
+7      -> W
+9      -> A
+10     -> A
+11     -> H
+12     -> A
+13     -> E
+14     -> E
+16     -> D
+17     -> Y
+18     -> Q
+19     -> G
+20     -> E
+21     -> M
+22     -> H
+23     -> I
+24     -> O
+25     -> J
+26     -> I
+27     -> V
+28     -> I
+29     -> E
+31     -> D
+32     -> U
+33     -> N
+35     -> R
+39     -> N
+40     -> R
+41     -> N
+42     -> C
+43     -> T
+45     -> P
+46     -> E
+47     -> A
+48     -> Z
+54     -> F
+55     -> E
+57     -> X
+58     -> T
+59     -> R
+60     -> E
+61     -> E
+67     -> R
+69     -> R
+70     -> I
+71     -> E
+72     -> T
+73     -> T

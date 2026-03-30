@@ -1,0 +1,136 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 4, 44, 85]
+B(1) [76, 82, 19, 62]
+C(2) [86, 29, 40, 57]
+D(3) [11, 45, 31, 27]
+E(4) [59, 96, 70, 81]
+F(5) [61, 94, 77, 63]
+G(6) [25, 56, 92, 54]
+H(7) [3, 39, 0, 75]
+I(8) [34, 7, 48, 22]
+J(9) [100, 47, 66, 24]
+K(10) [2, 93, 6, 64]
+L(11) [5, 91, 15, 1]
+M(12) [87, 53, 32, 58]
+N(13) [50, 16, 71, 79]
+O(14) [35, 69, 23, 17]
+P(15) [65, 74, 42, 38]
+Q(16) [33, 30, 103, 60]
+R(17) [10, 52, 51, 97]
+S(18) [89, 67, 36, 101]
+T(19) [73, 80, 20, 95]
+U(20) [9, 55, 13, 41]
+V(21) [78, 43, 98, 83]
+W(22) [72, 90, 18, 46]
+X(23) [84, 21, 28, 37]
+Y(24) [99, 14, 26, 49]
+Z(25) [8, 88, 102, 68]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   76
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+HISLIMBSWEREINPROPORTIONANDIHADSELECTEDHISFEATURESASBEAUTIFULBEAUTIFULGREATGODHISYELLOWSKINSCARCELYCOVEREDTHEWORKOFMUSCLESANDARTERIESBENEATHHISHAIRWASOFALUSTROUSBLACKANDFLOWINGHISTEETHOFAPEARLYWHITENESSBUTTHESELUXURIANCESONLYFORMEDAMOREHORRIDCONTRAST
+
+--- CIPHERTEXT ---
+39 34 36 91 48 53 19 67 46 81 51 59 22 71 38 97 23 42 17 10 73 22 17 16 4 71 45 22 0 44 31 67 96 5 59 57 20 70 11 0 22 101 94 59 85 20 9 52 59 36 12 89 76 96 85 13 20 34 63 9 5 62 59 44 55 73 48 61 13 5 25 97 81 85 95 92 17 45 3 22 101 26 70 1 15 69 46 36 64 7 79 101 86 12 51 57 59 15 99 40 17 98 70 52 59 11 20 0 70 72 23 10 2 35 61 87 55 89 40 1 59 67 4 71 27 12 52 73 81 10 7 81 67 62 81 71 70 85 73 0 0 48 89 0 44 34 10 18 4 89 23 61 44 15 55 89 73 51 69 13 101 19 15 12 40 64 4 79 31 77 1 35 72 22 71 25 75 22 36 73 70 81 80 3 17 63 85 74 96 4 10 5 26 72 0 34 73 81 50 96 101 36 76 41 95 20 39 81 36 59 1 41 84 55 97 48 12 16 40 70 36 35 16 91 26 61 69 51 58 70 45 12 32 17 97 96 0 69 52 52 34 31 40 69 16 95 52 12 89 80
+
+--- DECRYPTED PLAINTEXT ---
+BESPIKESSAREINPRIZENTIESANDISTASITESTENSITYENTERESENTINATERETHETOTINATERANAMEDHITEETRESSEDSTHERSERUSEWERENTSERINTENCONSTESANDERTANDASHANENTSSINSTENJANINTRONTREATERESEASAFTERINEXISTEATHERNQIANTERSETALITSTHATBASETHEORIESSESESPENERGEDEVERISERREASESARENT
+
+--- SCORE ---
+-2835.7819
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 85 / 250 chars correct (34.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> T
+2      -> T
+3      -> H
+4      -> A
+5      -> T
+7      -> D
+9      -> E
+10     -> N
+11     -> N
+12     -> E
+13     -> A
+15     -> R
+16     -> S
+17     -> E
+18     -> J
+19     -> E
+20     -> T
+22     -> I
+23     -> I
+25     -> E
+26     -> E
+27     -> D
+31     -> A
+32     -> V
+34     -> E
+35     -> E
+36     -> S
+38     -> P
+39     -> B
+40     -> S
+41     -> H
+42     -> Z
+44     -> T
+45     -> D
+46     -> S
+48     -> I
+50     -> L
+51     -> R
+52     -> R
+53     -> K
+55     -> O
+57     -> S
+58     -> G
+59     -> E
+61     -> N
+62     -> H
+63     -> R
+64     -> E
+67     -> S
+69     -> E
+70     -> E
+71     -> N
+72     -> R
+73     -> T
+74     -> Q
+75     -> X
+76     -> T
+77     -> F
+79     -> S
+80     -> T
+81     -> A
+84     -> E
+85     -> N
+86     -> H
+87     -> C
+89     -> N
+91     -> P
+92     -> M
+94     -> Y
+95     -> A
+96     -> I
+97     -> R
+98     -> W
+99     -> U
+101    -> T

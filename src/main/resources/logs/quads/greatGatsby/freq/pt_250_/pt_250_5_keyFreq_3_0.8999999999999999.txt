@@ -1,0 +1,152 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 257
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [81, 32, 99, 3, 7, 28, 51, 47]
+B(1) [1, 44]
+C(2) [33, 2, 42]
+D(3) [60, 100, 17, 82]
+E(4) [59, 35, 18, 50, 71, 38, 79, 46, 31, 40, 103, 16]
+F(5) [80, 61, 87]
+G(6) [9, 65]
+H(7) [91, 75, 43, 83, 6, 48]
+I(8) [19, 64, 104, 93, 4, 78, 15]
+J(9) [90]
+K(10) [73]
+L(11) [41, 69, 22, 37]
+M(12) [72, 20, 85]
+N(13) [95, 57, 10, 102, 8, 53, 98]
+O(14) [23, 74, 66, 13, 68, 55, 92]
+P(15) [49, 56]
+Q(16) [63]
+R(17) [88, 62, 12, 58, 101, 26]
+S(18) [97, 96, 5, 21, 67, 0]
+T(19) [86, 94, 27, 84, 39, 11, 14, 24, 36]
+U(20) [89, 54, 29]
+V(21) [77]
+W(22) [25, 52, 34]
+X(23) [45]
+Y(24) [70, 30]
+Z(25) [76]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   92
+TEXT LENGTH:      257
+
+--- ORIGINAL PLAINTEXT ---
+IFHELEFTTHEROOMFORAMINUTESHEDLOOKAROUNDUNEASILYANDSAYWHERESTOMGONEANDWEARTHEMOSTABSTRACTEDEXPRESSIONUNTILSHESAWHIMCOMINGINTHEDOORSHEUSEDTOSITONTHESANDWITHHISHEADINHERLAPBYTHEHOURRUBBINGHERFINGERSOVERHISEYESANDLOOKINGATHIMWITHUNFATHOMABLEDELIGHTITWASTOUCHING
+
+--- CIPHERTEXT ---
+64 61 48 103 41 35 61 94 27 75 31 26 74 68 20 61 74 88 7 85 78 57 29 14 40 5 43 40 100 37 55 23 73 81 88 66 29 95 17 89 95 79 47 67 93 22 70 3 10 82 67 81 30 25 43 35 88 40 97 36 66 72 9 68 98 59 47 57 60 25 103 51 26 24 83 59 72 66 21 86 7 1 21 39 12 32 42 84 16 60 31 45 56 26 40 0 5 15 23 98 29 57 24 104 22 5 6 46 67 28 34 75 4 72 42 74 20 19 98 9 78 53 36 91 40 17 92 13 12 97 6 16 54 97 38 82 14 23 0 4 86 66 10 84 43 38 96 3 57 82 34 78 86 43 75 78 0 91 31 32 60 64 95 83 103 58 41 28 56 1 30 39 43 18 75 55 54 26 12 89 1 44 104 102 9 91 71 101 80 19 102 65 46 101 5 74 77 46 12 6 4 97 18 30 71 0 32 98 100 41 55 74 73 93 53 65 32 36 75 64 72 25 4 94 83 54 10 80 3 86 75 66 85 3 1 22 18 60 31 22 64 65 48 36 93 14 34 81 5 84 74 89 2 43 78 53 65
+
+--- DECRYPTED PLAINTEXT ---
+EALASTANCHERTHEATHEVERPREATERMEETTHEPREERZONESWERENTBETTHESTERTHEFORHEAGREDFRESTERSEETASTHEJERETAKEEPREASASINTSHARATERETERTHEEQUESSTASTERETATERSTTHERESETTHETHETHERDAYSTERBETTHEAREEREATTHENERTAINATRIESASTBETTERSETTERATTHEREANDAREETHEVERSTHESEALTERSTASTEXTERA
+
+--- SCORE ---
+-2255.3996
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 38 / 257 chars correct (14.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> R
+2      -> X
+3      -> E
+4      -> A
+5      -> A
+6      -> S
+7      -> E
+9      -> T
+10     -> R
+12     -> E
+13     -> U
+14     -> R
+15     -> K
+16     -> T
+17     -> E
+18     -> T
+19     -> R
+20     -> E
+21     -> S
+22     -> S
+23     -> E
+24     -> E
+25     -> E
+26     -> R
+27     -> C
+28     -> T
+29     -> P
+30     -> B
+31     -> E
+32     -> T
+34     -> S
+35     -> T
+36     -> T
+37     -> M
+38     -> T
+39     -> E
+40     -> E
+41     -> S
+42     -> A
+43     -> T
+44     -> E
+45     -> J
+46     -> I
+47     -> O
+48     -> L
+51     -> G
+53     -> R
+54     -> A
+55     -> E
+56     -> E
+57     -> R
+58     -> Y
+59     -> F
+60     -> H
+61     -> A
+64     -> E
+65     -> A
+66     -> E
+67     -> N
+68     -> H
+70     -> W
+71     -> E
+72     -> R
+73     -> T
+74     -> T
+75     -> H
+77     -> R
+78     -> E
+79     -> Z
+80     -> E
+81     -> T
+82     -> E
+83     -> D
+84     -> S
+85     -> V
+86     -> T
+88     -> H
+89     -> E
+91     -> H
+92     -> Q
+93     -> E
+94     -> N
+95     -> R
+96     -> H
+97     -> S
+98     -> E
+100    -> R
+101    -> N
+102    -> T
+103    -> A
+104    -> A

@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [57, 81, 85, 50, 89, 36, 94, 37]
+B(1) [64, 18]
+C(2) [28, 14, 46]
+D(3) [70, 24, 58, 17]
+E(4) [15, 78, 100, 21, 91, 73, 104, 102, 103, 7, 90, 8]
+F(5) [83, 32, 27]
+G(6) [60, 51]
+H(7) [9, 29, 74, 95, 40, 67]
+I(8) [66, 87, 10, 47, 42, 0, 23]
+J(9) [5]
+K(10) [49]
+L(11) [82, 56, 88, 65]
+M(12) [30, 44, 6]
+N(13) [3, 77, 55, 52, 39, 38, 62]
+O(14) [35, 4, 45, 54, 13, 22, 48]
+P(15) [16, 11]
+Q(16) [19]
+R(17) [63, 92, 20, 69, 1, 101]
+S(18) [71, 76, 31, 34, 75, 43]
+T(19) [93, 61, 2, 68, 12, 84, 98, 99, 41]
+U(20) [80, 59, 96]
+V(21) [79]
+W(22) [26, 86, 53]
+X(23) [97]
+Y(24) [25, 33]
+Z(25) [72]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+INTHATHOURISHOULDDIEANDATONCESATISFYANDEXTINGUISHHISMALICETHEPROSPECTDIDNOTMOVEMETOFEARYETWHENITHOUGHTOFMYBELOVEDELIZABETHOFHERTEARSANDENDLESSSORROWWHENSHESHOULDFINDHERLOVERSOBARBAROUSLYSNATCHEDFROMHERTEARSTHEFIRSTIHADSHEDFORMANYMONTHSSTREAMEDFROMMYEYES
+
+--- CIPHERTEXT ---
+0 55 93 74 36 2 95 22 96 1 47 31 74 4 96 82 17 24 23 103 94 52 58 50 41 54 52 14 91 31 37 12 66 43 32 25 85 55 58 91 97 93 47 3 60 96 0 31 74 9 42 76 44 85 88 10 28 102 93 40 90 16 20 45 71 16 90 46 99 17 42 70 62 4 84 6 22 79 103 6 91 93 35 27 90 57 101 33 7 93 53 95 8 77 87 61 95 54 59 51 40 2 35 83 44 33 18 90 82 4 79 7 70 21 82 47 72 50 18 73 12 95 35 83 95 91 69 99 100 50 1 43 89 77 58 100 39 70 88 91 71 76 75 4 63 92 4 26 86 67 102 55 76 9 103 75 9 22 59 88 70 27 23 62 58 29 15 69 65 35 79 78 69 75 35 18 57 1 64 37 69 4 59 31 88 25 76 3 81 93 28 40 104 17 32 1 22 44 95 15 20 98 15 37 20 75 61 40 78 83 0 63 71 93 87 74 85 17 34 74 78 58 83 35 1 6 81 39 33 44 54 77 99 74 71 76 12 1 15 94 30 78 24 83 1 22 30 44 25 104 25 7 34
+
+--- DECRYPTED PLAINTEXT ---
+ONTHETHERTHTHERTERETINTALINJETETHISEENTEDTHEFROTHERSTERATITHERAZERECTERESETHERTHETERESWESTTHENTTHINGHTESTERETERSEXTHEARYTHESHESTEATIONTEVEREESTEMBEEQUINSETTEENRERESTHESPERESTERSTHESENTRESEATTHRESTETHEAKEEATTHESOMETTHEETHETSETHAVETINTHESTTEINERSTENTEREST
+
+--- SCORE ---
+-1683.1570
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 75 / 253 chars correct (29.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> O
+1      -> T
+2      -> T
+3      -> E
+4      -> E
+6      -> H
+7      -> S
+8      -> E
+9      -> E
+10     -> A
+12     -> T
+14     -> J
+15     -> E
+16     -> R
+17     -> E
+18     -> R
+20     -> A
+21     -> X
+22     -> E
+23     -> E
+24     -> R
+25     -> E
+26     -> E
+27     -> R
+28     -> T
+29     -> H
+30     -> N
+31     -> T
+32     -> S
+33     -> E
+34     -> T
+35     -> E
+36     -> E
+37     -> E
+39     -> V
+40     -> H
+41     -> L
+42     -> R
+43     -> I
+44     -> T
+45     -> Z
+46     -> C
+47     -> H
+50     -> A
+51     -> G
+52     -> N
+53     -> T
+54     -> I
+55     -> N
+57     -> S
+58     -> T
+59     -> N
+60     -> F
+61     -> T
+62     -> S
+63     -> M
+64     -> H
+65     -> P
+66     -> H
+67     -> U
+69     -> S
+70     -> E
+71     -> E
+72     -> E
+73     -> Y
+74     -> H
+75     -> T
+76     -> S
+77     -> N
+78     -> E
+79     -> R
+81     -> A
+82     -> T
+83     -> S
+84     -> T
+85     -> E
+86     -> Q
+87     -> T
+88     -> R
+89     -> O
+90     -> E
+91     -> E
+92     -> B
+93     -> T
+94     -> I
+95     -> H
+96     -> R
+97     -> D
+98     -> K
+99     -> T
+100    -> E
+101    -> W
+102    -> I
+103    -> T
+104    -> R

@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4, 34, 39]
+B(1) [43]
+C(2) [19]
+D(3) [21, 17]
+E(4) [27, 36, 28, 41]
+F(5) [31]
+G(6) [7]
+H(7) [23, 1]
+I(8) [32, 35, 20]
+J(9) [11]
+K(10) [30]
+L(11) [0, 33]
+M(12) [15]
+N(13) [25, 24, 8]
+O(14) [18, 22, 42]
+P(15) [14]
+Q(16) [26]
+R(17) [12, 9]
+S(18) [6, 38]
+T(19) [13, 5, 2]
+U(20) [37]
+V(21) [40]
+W(22) [16]
+X(23) [10]
+Y(24) [29]
+Z(25) [3]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+2 1 36 37 8 17 27 12 7 12 4 21 37 39 5 36 25 18 17 17 36 21 20 25 39 19 29 8 32 19 34 0 15 41 33 4 8 19 23 18 33 29 16 34 29 13 23 41 43 34 12 16 23 28 9 28 16 41 7 0 4 24 19 27 17 31 35 12 38 5 16 34 38 19 12 22 16 17 36 17 43 37 2 7 34 2 38 43 29 16 34 6 8 18 5 13 23 41 9 41
+
+--- DECRYPTED PLAINTEXT ---
+APRETEBANAICEVEREHEERCKEVEATYEEDJOWITETHWAREASTOMEARTOFORONDIZEBEQUALERELEAGREREMEANEALMAREXTHESTOFO
+
+--- SCORE ---
+-521.7343
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 0 / 100 chars correct (0.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> D
+1      -> P
+2      -> A
+4      -> I
+5      -> E
+6      -> X
+7      -> N
+8      -> T
+9      -> F
+12     -> A
+13     -> S
+15     -> J
+16     -> R
+17     -> E
+18     -> H
+19     -> E
+20     -> K
+21     -> C
+22     -> G
+23     -> T
+24     -> Z
+25     -> E
+27     -> B
+28     -> O
+29     -> A
+31     -> Q
+32     -> Y
+33     -> W
+34     -> E
+35     -> U
+36     -> R
+37     -> E
+38     -> L
+39     -> V
+41     -> O
+43     -> M

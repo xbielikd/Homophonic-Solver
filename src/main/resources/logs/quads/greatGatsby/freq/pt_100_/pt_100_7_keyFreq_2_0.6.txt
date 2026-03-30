@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [32, 46, 40, 55, 66]
+B(1) [6]
+C(2) [1, 34]
+D(3) [49, 14, 9]
+E(4) [37, 35, 38, 36, 29, 73, 33, 54]
+F(5) [27, 22]
+G(6) [47, 68]
+H(7) [30, 5, 72, 56]
+I(8) [39, 50, 58, 25, 45]
+J(9) [67]
+K(10) [0]
+L(11) [11, 13, 43]
+M(12) [41, 31]
+N(13) [26, 19, 28, 74, 59]
+O(14) [21, 12, 15, 69, 4]
+P(15) [48, 51]
+Q(16) [24]
+R(17) [60, 65, 44, 42]
+S(18) [17, 70, 2, 8]
+T(19) [16, 71, 10, 64, 20, 63]
+U(20) [3, 57]
+V(21) [52]
+W(22) [62, 18]
+X(23) [7]
+Y(24) [53, 61]
+Z(25) [23]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+6 43 50 19 0 25 28 68 46 18 32 61 10 5 35 6 44 45 47 30 10 28 35 8 8 69 27 20 72 33 8 71 42 38 35 16 15 3 10 2 50 49 35 41 53 73 61 54 2 48 50 1 0 35 49 5 50 41 12 3 64 21 6 70 1 3 42 35 13 53 45 19 20 5 29 55 28 20 29 44 4 21 31 63 32 43 0 58 28 68 64 4 55 26 21 20 72 29 60 31 55 28
+
+--- DECRYPTED PLAINTEXT ---
+ONTHESTHEJOURFROMTHERTREEXPEDBECARRIVERSTOREEQUESTTHEROFTEREELOTHEARKETHEFANTEAMILIZONEWTHEINGLEDAYINT
+
+--- SCORE ---
+-904.4524
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 3 / 102 chars correct (2.9%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> H
+2      -> S
+3      -> E
+4      -> I
+5      -> F
+6      -> O
+8      -> E
+10     -> R
+12     -> R
+13     -> K
+15     -> V
+16     -> I
+18     -> J
+19     -> H
+20     -> E
+21     -> L
+25     -> S
+26     -> G
+27     -> P
+28     -> T
+29     -> A
+30     -> E
+31     -> I
+32     -> O
+33     -> B
+35     -> R
+38     -> R
+41     -> E
+42     -> A
+43     -> N
+44     -> M
+45     -> T
+46     -> E
+47     -> H
+48     -> T
+49     -> O
+50     -> T
+53     -> E
+54     -> E
+55     -> N
+58     -> W
+60     -> Y
+61     -> U
+63     -> Z
+64     -> E
+68     -> H
+69     -> X
+70     -> T
+71     -> C
+72     -> D
+73     -> Q

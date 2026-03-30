@@ -1,0 +1,104 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [1, 60, 45]
+B(1) [13, 18, 41]
+C(2) [48, 59, 27]
+D(3) [28, 47, 42]
+E(4) [29, 24, 23]
+F(5) [37, 31, 33]
+G(6) [74, 76, 2]
+H(7) [5, 49, 43]
+I(8) [7, 63, 4]
+J(9) [61, 17, 3]
+K(10) [14, 75, 67]
+L(11) [50, 15, 38]
+M(12) [46, 11, 69]
+N(13) [6, 57, 58]
+O(14) [20, 35, 73]
+P(15) [72, 36, 21]
+Q(16) [0, 66, 64]
+R(17) [22, 77, 32]
+S(18) [16, 55, 10]
+T(19) [62, 70, 9]
+U(20) [40, 30, 65]
+V(21) [8, 39, 53]
+W(22) [56, 26, 71]
+X(23) [68, 12, 44]
+Y(24) [54, 51, 34]
+Z(25) [19, 52, 25]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   44
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+FORALONGTIMEICOULDNOTCONCEIVEHOWONEMANCOULDGOFORTHTOMURDERHISFELLOWOREVENWHYTHEREWERELAWSANDGOVERNMENTS
+
+--- CIPHERTEXT ---
+33 73 32 1 15 73 6 76 62 4 46 29 4 48 73 30 15 47 57 35 62 48 73 6 48 29 7 53 24 49 73 26 35 58 23 46 60 57 48 73 30 50 42 74 35 31 73 77 70 43 62 20 46 40 77 28 24 22 49 7 55 33 23 38 15 73 71 35 77 24 53 23 6 26 49 54 62 5 29 77 24 26 23 22 29 38 1 56 55 45 58 47 76 35 39 23 22 6 46 29 58 70 16
+
+--- DECRYPTED PLAINTEXT ---
+MEWATETHETHETHESTTTEEHETHENDEIEREREHETHESQUGEPEREVECHERKERINOMESTEBEREDETRIZEJERERERESAYOFRTHELERTHEREX
+
+--- SCORE ---
+-503.5121
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 103 chars correct (23.3%)
+
+--- KEY (cipher -> plain) ---
+1      -> A
+4      -> T
+5      -> J
+6      -> T
+7      -> N
+15     -> T
+16     -> X
+20     -> C
+22     -> R
+23     -> E
+24     -> E
+26     -> R
+28     -> K
+29     -> E
+30     -> S
+31     -> P
+32     -> W
+33     -> M
+35     -> E
+38     -> S
+39     -> L
+40     -> E
+42     -> U
+43     -> V
+45     -> F
+46     -> H
+47     -> T
+48     -> H
+49     -> I
+50     -> Q
+53     -> D
+54     -> Z
+55     -> O
+56     -> Y
+57     -> T
+58     -> R
+60     -> E
+62     -> E
+70     -> E
+71     -> B
+73     -> E
+74     -> G
+76     -> H
+77     -> R

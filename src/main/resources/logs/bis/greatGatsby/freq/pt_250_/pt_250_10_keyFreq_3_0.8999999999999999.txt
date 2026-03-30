@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 256
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [68, 29, 103, 62, 28, 31, 73, 57]
+B(1) [99, 104]
+C(2) [53, 41, 50]
+D(3) [75, 94, 67, 0]
+E(4) [34, 35, 86, 9, 51, 70, 23, 17, 32, 24, 16, 80]
+F(5) [38, 56, 48]
+G(6) [101, 98]
+H(7) [59, 18, 36, 30, 13, 45]
+I(8) [47, 96, 42, 7, 97, 52, 58]
+J(9) [25]
+K(10) [92]
+L(11) [88, 21, 11, 95]
+M(12) [87, 27, 3]
+N(13) [4, 76, 79, 77, 85, 26, 102]
+O(14) [81, 93, 91, 19, 74, 2, 69]
+P(15) [1, 64]
+Q(16) [83]
+R(17) [100, 14, 84, 61, 5, 44]
+S(18) [43, 63, 60, 15, 40, 39]
+T(19) [12, 10, 71, 37, 90, 22, 8, 6, 55]
+U(20) [78, 49, 33]
+V(21) [72]
+W(22) [66, 46, 65]
+X(23) [54]
+Y(24) [20, 89]
+Z(25) [82]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      256
+
+--- ORIGINAL PLAINTEXT ---
+MCKEEWASAPALEFEMININEMANFROMTHEFLATBELOWHEHADJUSTSHAVEDFORTHEREWASAWHITESPOTOFLATHERONHISCHEEKBONEANDHEWASMOSTRESPECTFULINHISGREETINGTOEVERYONEINTHEROOMHEINFORMEDMETHATHEWASINTHEARTISTICGAMEANDIGATHEREDLATERTHATHEWASAPHOTOGRAPHERANDHADMADETHEDIMENLARGEMENT
+
+--- CIPHERTEXT ---
+27 53 92 80 51 46 57 40 29 64 62 88 51 48 86 87 58 85 58 77 86 27 31 79 38 61 2 87 90 59 9 38 88 28 37 104 70 11 81 46 18 51 45 29 75 25 49 39 22 15 36 57 72 70 67 38 74 14 8 18 34 84 35 65 57 39 68 66 45 7 22 35 63 1 69 10 19 38 11 73 37 45 9 44 93 26 30 7 39 53 13 86 80 92 104 93 102 34 62 76 75 13 32 66 103 15 27 74 63 55 44 35 43 1 24 50 55 56 49 21 52 79 59 42 15 101 84 16 70 10 52 26 101 37 81 86 72 86 5 20 93 77 51 58 76 55 36 35 44 81 81 87 36 9 97 4 48 93 14 3 9 0 27 51 55 45 73 37 30 34 66 62 60 96 79 6 59 86 73 84 6 58 39 8 97 50 98 103 27 32 29 76 67 97 101 57 22 30 32 100 17 67 11 31 90 70 84 71 18 73 37 18 23 46 62 40 29 1 30 91 37 2 98 100 103 1 45 86 100 62 26 67 13 28 0 27 29 94 23 6 59 24 75 47 3 23 79 88 62 14 101 16 3 32 77 6
+
+--- DECRYPTED PLAINTEXT ---
+HEEREREREBEHERETEVEREHATTINTTHETHEETHEERTEREEJORSTHETHETETETHEERERKERESERAZEDTERERERETTERERERETETHEREREETTHEREREWATHEFOMATHETHETHEATHEEETEQUEREEREHEREETHETERETHETHEERRETHEELYTTHERETERETHETHEERETHESTENGEEATHEXTRETEREREATHENENTARENETERETHEPETHTECHETHETHTHERT
+
+--- SCORE ---
+-1177.5174
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 47 / 256 chars correct (18.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> A
+2      -> N
+3      -> H
+4      -> E
+5      -> Q
+6      -> T
+7      -> E
+8      -> E
+9      -> E
+10     -> E
+11     -> E
+13     -> R
+14     -> T
+15     -> T
+16     -> T
+17     -> G
+18     -> T
+19     -> D
+20     -> U
+21     -> M
+22     -> S
+23     -> E
+24     -> T
+25     -> J
+26     -> T
+27     -> H
+28     -> E
+29     -> E
+30     -> T
+31     -> A
+32     -> E
+34     -> H
+35     -> E
+36     -> H
+37     -> E
+38     -> T
+39     -> R
+40     -> R
+42     -> E
+43     -> W
+44     -> R
+45     -> R
+46     -> R
+47     -> C
+48     -> R
+49     -> O
+50     -> H
+51     -> E
+52     -> A
+53     -> E
+55     -> E
+56     -> F
+57     -> E
+58     -> E
+59     -> H
+60     -> L
+61     -> I
+62     -> E
+63     -> R
+64     -> B
+65     -> R
+66     -> E
+67     -> E
+68     -> K
+69     -> Z
+70     -> H
+71     -> X
+72     -> T
+73     -> R
+74     -> E
+75     -> E
+76     -> R
+77     -> R
+79     -> T
+80     -> R
+81     -> E
+84     -> E
+85     -> V
+86     -> E
+87     -> T
+88     -> H
+90     -> T
+91     -> H
+92     -> E
+93     -> E
+94     -> P
+96     -> Y
+97     -> T
+98     -> E
+100    -> N
+101    -> H
+102    -> T
+103    -> T
+104    -> T

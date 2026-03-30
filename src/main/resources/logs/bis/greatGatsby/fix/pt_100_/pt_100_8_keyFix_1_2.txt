@@ -1,0 +1,94 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 51]
+B(1) [6, 2]
+C(2) [17, 41]
+D(3) [35, 9]
+E(4) [46, 3]
+F(5) [24, 25]
+G(6) [47, 16]
+H(7) [7, 1]
+I(8) [21, 27]
+J(9) [10, 5]
+K(10) [31, 44]
+L(11) [20, 50]
+M(12) [42, 39]
+N(13) [13, 28]
+O(14) [32, 33]
+P(15) [11, 19]
+Q(16) [36, 48]
+R(17) [0, 45]
+S(18) [40, 22]
+T(19) [43, 38]
+U(20) [15, 26]
+V(21) [30, 49]
+W(22) [18, 14]
+X(23) [29, 37]
+Y(24) [4, 34]
+Z(25) [12, 8]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   34
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+40 7 46 18 23 40 51 22 20 46 13 35 3 0 22 42 23 20 50 2 0 3 23 40 43 46 9 16 21 0 50 18 21 43 7 51 13 46 45 3 17 38 41 23 45 0 27 51 47 3 18 7 27 17 1 22 1 46 23 17 41 3 13 43 26 51 43 3 35 6 34 38 7 0 32 18 21 13 47 1 46 0 6 33 35 34 2 23 41 44 14 23 0 9 51 38 43 1 46 22 7 33 15 20 35 46 45 22
+
+--- DECRYPTED PLAINTEXT ---
+VENTEVESINEORESJEILYEREVENDWHELTHEEEENGREREEGEMEPRTEMEASANEEEREEZEEROFBREEXTHEPANEFCOBYEEQUEEDEREANSECKIONGS
+
+--- SCORE ---
+-575.1340
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 9 / 108 chars correct (8.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> A
+2      -> Y
+3      -> R
+6      -> F
+7      -> E
+9      -> D
+13     -> E
+14     -> U
+15     -> K
+16     -> W
+17     -> E
+18     -> T
+20     -> I
+21     -> H
+22     -> S
+23     -> E
+26     -> Z
+27     -> M
+32     -> X
+33     -> C
+34     -> B
+35     -> O
+38     -> R
+40     -> V
+41     -> E
+42     -> J
+43     -> E
+44     -> Q
+45     -> G
+46     -> N
+47     -> P
+50     -> L
+51     -> E

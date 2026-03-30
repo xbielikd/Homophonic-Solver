@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 33, 20, 61, 21]
+B(1) [2]
+C(2) [24, 72]
+D(3) [58, 56, 30]
+E(4) [67, 60, 3, 5, 49, 37, 36, 29]
+F(5) [27, 55]
+G(6) [63, 26]
+H(7) [11, 47, 74, 1]
+I(8) [15, 12, 6, 22, 25]
+J(9) [51]
+K(10) [45]
+L(11) [73, 23, 32]
+M(12) [54, 16]
+N(13) [69, 0, 13, 59, 18]
+O(14) [65, 34, 4, 10, 42]
+P(15) [62, 66]
+Q(16) [31]
+R(17) [14, 48, 71, 40]
+S(18) [17, 46, 41, 39]
+T(19) [50, 64, 8, 9, 44, 53]
+U(20) [43, 68]
+V(21) [35]
+W(22) [28, 70]
+X(23) [52]
+Y(24) [19, 38]
+Z(25) [57]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BLINKINGAWAYTHEBRIGHTNESSOFTHESTREETOUTSIDEMYEYESPICKEDHIMOUTOBSCURELYINTHEANTEROOMTALKINGTOANOTHERMAN
+
+--- CIPHERTEXT ---
+2 73 15 13 45 22 59 63 7 70 33 19 64 47 67 2 48 25 26 47 53 59 60 41 41 34 55 44 1 60 39 44 48 49 3 8 4 68 9 39 15 58 67 54 38 36 38 37 39 62 12 24 45 67 56 11 12 54 4 43 9 34 2 39 72 68 71 5 73 38 12 13 44 1 3 20 69 64 37 71 4 4 16 8 20 23 45 6 69 63 64 10 33 13 65 53 1 67 14 16 20 18
+
+--- DECRYPTED PLAINTEXT ---
+RLANEARESTIMATEREDATTRESSINTHESTEVENTUESARERECESSFOREEXPORTHEIRSQUABLEONTHETWASATTENTHEYWEAKINGTHEJETZ
+
+--- SCORE ---
+-1062.5240
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 29 / 102 chars correct (28.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> H
+2      -> R
+3      -> E
+4      -> T
+5      -> B
+6      -> Y
+7      -> S
+8      -> N
+9      -> E
+10     -> K
+11     -> P
+12     -> O
+13     -> N
+14     -> J
+15     -> A
+16     -> E
+18     -> Z
+19     -> M
+20     -> T
+22     -> A
+23     -> H
+24     -> R
+25     -> D
+26     -> A
+33     -> I
+34     -> I
+36     -> C
+37     -> S
+38     -> E
+39     -> S
+41     -> S
+43     -> H
+44     -> T
+45     -> E
+47     -> T
+48     -> E
+49     -> V
+53     -> T
+54     -> R
+55     -> N
+56     -> X
+58     -> R
+59     -> R
+60     -> E
+62     -> F
+63     -> E
+64     -> A
+65     -> G
+67     -> E
+68     -> U
+69     -> W
+70     -> T
+71     -> A
+72     -> Q
+73     -> L

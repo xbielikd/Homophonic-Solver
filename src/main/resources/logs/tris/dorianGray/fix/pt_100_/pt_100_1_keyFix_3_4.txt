@@ -1,0 +1,112 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [28, 22, 2, 67]
+B(1) [57, 24, 34, 1]
+C(2) [76, 14, 97, 77]
+D(3) [30, 84, 36, 101]
+E(4) [56, 23, 46, 62]
+F(5) [10, 64, 55, 6]
+G(6) [4, 87, 58, 78]
+H(7) [79, 70, 38, 41]
+I(8) [21, 26, 83, 93]
+J(9) [35, 81, 15, 94]
+K(10) [61, 82, 90, 100]
+L(11) [53, 18, 16, 37]
+M(12) [88, 74, 11, 85]
+N(13) [42, 39, 8, 49]
+O(14) [60, 63, 17, 95]
+P(15) [50, 65, 91, 102]
+Q(16) [72, 43, 73, 75]
+R(17) [19, 5, 66, 92]
+S(18) [89, 9, 86, 47]
+T(19) [68, 45, 29, 3]
+U(20) [71, 7, 31, 40]
+V(21) [98, 20, 96, 59]
+W(22) [0, 12, 54, 25]
+X(23) [51, 32, 48, 99]
+Y(24) [69, 80, 103, 13]
+Z(25) [44, 27, 33, 52]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   52
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+1 31 29 45 70 62 93 19 63 0 42 47 17 71 37 9 9 68 67 92 98 23 28 42 36 67 5 46 49 28 100 23 36 14 60 7 5 28 4 56 41 2 86 78 17 42 62 60 31 45 63 55 60 31 19 5 67 97 23 65 46 5 70 2 65 89 25 23 8 56 98 46 66 5 56 28 37 53 103 41 28 30 21 3 29 70 56 45 56 66 92 63 66 60 55 89 95 76 83 46 3 13
+
+--- DECRYPTED PLAINTEXT ---
+ZATTHEPRETHETHELLYACKETHEATEDTHEENEXTTWASINGTHEEATEREARTAVENETHINTHEMAKENTATEJUSTOBETHATANCENERTHEFEEQ
+
+--- SCORE ---
+-690.1378
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 24 / 102 chars correct (23.5%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> Z
+2      -> I
+3      -> E
+4      -> W
+5      -> T
+7      -> X
+8      -> M
+9      -> L
+13     -> Q
+14     -> N
+17     -> T
+19     -> R
+21     -> B
+23     -> E
+25     -> H
+28     -> T
+29     -> T
+30     -> O
+31     -> A
+36     -> E
+37     -> E
+41     -> S
+42     -> H
+45     -> T
+46     -> E
+47     -> E
+49     -> D
+53     -> J
+55     -> R
+56     -> A
+60     -> E
+62     -> E
+63     -> E
+65     -> N
+66     -> N
+67     -> A
+68     -> Y
+70     -> H
+71     -> H
+76     -> E
+78     -> G
+83     -> F
+86     -> N
+89     -> T
+92     -> C
+93     -> P
+95     -> H
+97     -> V
+98     -> K
+100    -> H
+103    -> U

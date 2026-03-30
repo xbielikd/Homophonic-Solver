@@ -1,0 +1,182 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 257
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [128, 56, 74, 0, 113, 32, 69, 76, 111, 38]
+B(1) [132, 34]
+C(2) [107, 24, 82, 49]
+D(3) [120, 75, 77, 85, 114, 47]
+E(4) [41, 115, 106, 78, 104, 2, 108, 19, 30, 70, 100, 123, 25, 73, 40, 67]
+F(5) [21, 134, 98]
+G(6) [17, 15, 99]
+H(7) [3, 80, 13, 22, 29, 55, 62, 68]
+I(8) [26, 54, 129, 9, 131, 87, 53, 89, 16]
+J(9) [37]
+K(10) [42]
+L(11) [11, 39, 127, 61, 45]
+M(12) [33, 52, 133]
+N(13) [124, 1, 57, 66, 81, 6, 84, 50, 58]
+O(14) [101, 20, 12, 65, 83, 51, 48, 116, 118, 7]
+P(15) [90, 23, 122]
+Q(16) [119]
+R(17) [126, 121, 130, 79, 46, 5, 105, 72]
+S(18) [96, 8, 93, 103, 31, 18, 63, 94]
+T(19) [44, 110, 109, 36, 28, 27, 86, 117, 60, 95, 64]
+U(20) [71, 91, 97, 59]
+V(21) [35, 14]
+W(22) [43, 112, 102]
+X(23) [92]
+Y(24) [88, 4, 125]
+Z(25) [10]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   122
+TEXT LENGTH:      257
+
+--- ORIGINAL PLAINTEXT ---
+IFHELEFTTHEROOMFORAMINUTESHEDLOOKAROUNDUNEASILYANDSAYWHERESTOMGONEANDWEARTHEMOSTABSTRACTEDEXPRESSIONUNTILSHESAWHIMCOMINGINTHEDOORSHEUSEDTOSITONTHESANDWITHHISHEADINHERLAPBYTHEHOURRUBBINGHERFINGERSOVERHISEYESANDLOOKINGATHIMWITHUNFATHOMABLEDELIGHTITWASTOUCHING
+
+--- CIPHERTEXT ---
+129 98 62 25 127 70 98 109 117 68 123 105 116 118 133 134 20 72 74 33 129 50 59 64 106 8 68 108 75 45 51 116 42 113 5 118 97 57 85 97 124 25 128 103 16 61 88 111 57 114 31 113 4 43 29 19 126 100 31 28 7 33 17 12 124 41 56 57 120 102 2 76 105 95 29 67 33 51 96 86 32 34 63 117 121 111 82 36 73 77 123 92 90 130 70 63 63 131 83 124 71 6 27 131 39 93 13 41 31 32 102 62 129 133 24 7 33 131 1 99 53 58 110 62 78 47 65 20 130 8 80 100 97 63 30 114 86 116 31 53 28 20 124 44 22 106 63 74 58 77 43 53 117 62 3 9 96 29 40 128 77 26 1 22 104 79 127 32 122 132 88 64 22 19 29 51 71 79 5 91 132 132 89 81 99 55 41 130 98 129 1 17 115 46 94 7 35 30 46 13 16 18 115 125 70 94 38 124 114 11 101 20 42 89 124 15 69 95 13 9 133 112 87 28 68 71 6 134 76 117 55 118 33 111 34 45 106 77 78 39 131 17 22 27 16 64 43 74 8 86 20 97 107 22 26 84 15
+
+--- DECRYPTED PLAINTEXT ---
+ERSTTERETHEREETHEMATESARETHATTHERTHEREARSTEREVEREASTHETOBESTATERSEREGOVERETOTHETHESTORYEAREJURESSESSETHESARESHOSETHATESTACKSEXPERTHERSTATESATESATESACREATSUSETHERESTATTHETERTOTHETHATTENTHERRESETOWASTOREDTHEWASALLERESIZERSTOFTHETHETHETRETERESEETHEREATTERATEQI
+
+--- SCORE ---
+-2147.0758
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 51 / 257 chars correct (19.8%)
+
+--- KEY (cipher -> plain) ---
+1      -> S
+2      -> V
+3      -> U
+4      -> H
+5      -> H
+6      -> T
+7      -> A
+8      -> T
+9      -> S
+11     -> L
+12     -> R
+13     -> R
+15     -> I
+16     -> E
+17     -> E
+18     -> D
+19     -> O
+20     -> E
+22     -> T
+24     -> H
+25     -> T
+26     -> E
+27     -> H
+28     -> T
+29     -> T
+30     -> T
+31     -> S
+32     -> H
+33     -> T
+34     -> E
+35     -> S
+36     -> E
+38     -> A
+39     -> S
+40     -> H
+41     -> E
+42     -> R
+43     -> E
+44     -> A
+45     -> T
+46     -> O
+47     -> X
+50     -> S
+51     -> H
+53     -> A
+55     -> H
+56     -> R
+57     -> E
+58     -> C
+59     -> A
+61     -> V
+62     -> S
+63     -> S
+64     -> R
+65     -> P
+67     -> O
+68     -> H
+69     -> Z
+70     -> E
+71     -> E
+72     -> M
+73     -> A
+74     -> A
+75     -> T
+76     -> E
+77     -> R
+78     -> E
+79     -> T
+80     -> H
+81     -> N
+82     -> Y
+83     -> S
+84     -> Q
+85     -> A
+86     -> T
+87     -> F
+88     -> E
+89     -> E
+90     -> U
+91     -> A
+92     -> J
+93     -> A
+94     -> W
+95     -> E
+96     -> E
+97     -> R
+98     -> R
+99     -> T
+100    -> E
+101    -> L
+102    -> O
+103    -> R
+104    -> A
+105    -> R
+106    -> E
+107    -> A
+108    -> A
+109    -> E
+110    -> K
+111    -> R
+112    -> O
+113    -> T
+114    -> A
+115    -> T
+116    -> E
+117    -> T
+118    -> E
+120    -> G
+121    -> O
+122    -> E
+123    -> E
+124    -> S
+125    -> H
+126    -> B
+127    -> T
+128    -> E
+129    -> E
+130    -> R
+131    -> E
+132    -> T
+133    -> T
+134    -> H

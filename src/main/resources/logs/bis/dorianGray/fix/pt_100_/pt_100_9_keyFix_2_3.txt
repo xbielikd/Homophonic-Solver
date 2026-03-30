@@ -1,0 +1,107 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [3, 38, 17]
+B(1) [6, 31, 13]
+C(2) [44, 59, 69]
+D(3) [11, 10, 77]
+E(4) [33, 36, 75]
+F(5) [41, 61, 28]
+G(6) [72, 46, 52]
+H(7) [7, 4, 27]
+I(8) [39, 37, 48]
+J(9) [56, 60, 62]
+K(10) [14, 70, 16]
+L(11) [58, 53, 66]
+M(12) [73, 35, 24]
+N(13) [51, 8, 67]
+O(14) [63, 68, 15]
+P(15) [26, 5, 12]
+Q(16) [29, 34, 25]
+R(17) [32, 0, 19]
+S(18) [49, 74, 30]
+T(19) [45, 22, 57]
+U(20) [55, 50, 40]
+V(21) [76, 43, 23]
+W(22) [64, 2, 1]
+X(23) [9, 21, 42]
+Y(24) [65, 20, 18]
+Z(25) [47, 54, 71]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   47
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+20 36 74 4 75 2 17 74 44 33 0 45 17 39 8 53 18 1 68 67 77 33 19 61 40 53 58 65 7 3 67 11 30 63 24 33 2 39 22 7 4 37 49 41 48 51 36 53 18 44 40 19 76 33 77 74 44 38 0 58 75 22 58 37 5 30 7 48 49 61 0 38 51 70 13 58 40 33 33 18 33 74 27 39 30 69 19 48 30 5 72 15 66 11 7 3 48 32 22 7 36 32 36
+
+--- DECRYPTED PLAINTEXT ---
+ZESTOMESTESJEABEROFEREETHETITHEANCKEMANTTHAYEDEERTHEVERSTESTONTHENTEATSEDQUTHEERESWANGEENEXPLATHERNTERE
+
+--- SCORE ---
+-504.6171
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 19 / 103 chars correct (18.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> O
+2      -> M
+3      -> H
+4      -> T
+5      -> E
+7      -> T
+8      -> B
+11     -> A
+13     -> U
+15     -> P
+17     -> E
+18     -> R
+19     -> E
+20     -> Z
+22     -> N
+24     -> K
+27     -> W
+30     -> N
+32     -> R
+33     -> E
+36     -> E
+37     -> H
+38     -> E
+39     -> A
+40     -> H
+41     -> Y
+44     -> T
+45     -> J
+48     -> E
+49     -> A
+51     -> D
+53     -> E
+58     -> T
+61     -> T
+63     -> C
+65     -> I
+66     -> L
+67     -> E
+68     -> F
+69     -> G
+70     -> Q
+72     -> X
+74     -> S
+75     -> O
+76     -> V
+77     -> R

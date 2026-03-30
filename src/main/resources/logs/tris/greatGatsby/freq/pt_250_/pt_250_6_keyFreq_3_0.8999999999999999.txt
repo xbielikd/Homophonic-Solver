@@ -1,0 +1,156 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [79, 6, 1, 59, 50, 60, 91, 64]
+B(1) [24, 19]
+C(2) [87, 57, 14]
+D(3) [75, 41, 52, 45]
+E(4) [68, 98, 103, 49, 11, 93, 73, 71, 2, 31, 77, 17]
+F(5) [15, 30, 89]
+G(6) [33, 96]
+H(7) [29, 26, 28, 25, 95, 12]
+I(8) [46, 80, 7, 81, 78, 63, 67]
+J(9) [36]
+K(10) [8]
+L(11) [23, 20, 9, 37]
+M(12) [66, 65, 48]
+N(13) [82, 43, 72, 76, 90, 18, 35]
+O(14) [94, 51, 44, 61, 16, 83, 70]
+P(15) [97, 40]
+Q(16) [55]
+R(17) [88, 58, 53, 38, 21, 32]
+S(18) [102, 56, 104, 99, 27, 5]
+T(19) [10, 62, 4, 101, 42, 84, 3, 86, 85]
+U(20) [69, 34, 47]
+V(21) [0]
+W(22) [92, 13, 100]
+X(23) [74]
+Y(24) [39, 54]
+Z(25) [22]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   96
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ABREEZEBLEWTHROUGHTHEROOMBLEWCURTAINSINATONEENDANDOUTTHEOTHERLIKEPALEFLAGSTWISTINGTHEMUPTOWARDTHEFROSTEDWEDDINGCAKEOFTHECEILINGANDTHENRIPPLEDOVERTHEWINECOLOUREDRUGMAKINGASHADOWONITASWINDDOESONTHESEATHEONLYCOMPLETELYSTATIONARYOBJECTINTHEROOMWASANENORMOUS
+
+--- CIPHERTEXT ---
+91 24 38 73 93 22 98 19 20 2 92 42 26 21 44 69 33 95 4 12 77 32 83 94 48 24 9 31 92 57 47 88 86 79 7 76 104 7 43 64 86 83 82 93 71 82 52 79 43 41 44 47 101 62 29 73 94 4 95 73 32 23 46 8 68 97 50 20 68 15 20 1 96 5 84 100 7 5 85 46 76 33 4 95 71 48 34 40 101 83 92 60 88 75 10 29 93 30 58 94 27 10 73 45 13 98 52 75 7 72 33 57 79 8 11 83 30 62 95 11 87 49 63 9 67 90 96 91 82 45 84 29 17 18 38 78 97 97 9 73 41 94 0 68 32 42 29 31 100 78 43 31 87 70 37 94 47 32 103 45 38 47 33 65 6 8 46 82 33 1 27 29 6 45 16 13 83 43 81 42 79 56 100 67 72 52 52 61 49 56 70 90 86 29 93 104 98 79 10 28 49 51 82 23 54 57 16 66 97 20 49 10 2 9 39 5 3 6 42 7 70 72 91 53 54 94 19 36 31 57 4 67 90 4 26 49 88 83 16 65 13 64 56 60 76 73 76 94 32 65 70 69 102
+
+--- DECRYPTED PLAINTEXT ---
+ELETHESTEREANDESENEXPERELLSEERREATTHETTWARTHATETTHEREATTEENTESTHEEMEEVERERENTRYTHEENALIKERETERETHEGESETHESERTHERTHEREANESTOSTHEETHETIZESEESTHEBEEATENSTESTHERETHERENTHTTERSTTHEERTHATINTHEENTITHATHESTECTITSUREFEETERSERSTATTHEQUETHERETHENTERENEWITHTHEENTSJ
+
+--- SCORE ---
+-1675.4744
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 253 chars correct (4.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+1      -> R
+2      -> R
+3      -> S
+4      -> E
+5      -> R
+6      -> T
+7      -> T
+8      -> H
+9      -> S
+10     -> E
+11     -> E
+12     -> X
+13     -> E
+15     -> V
+16     -> E
+17     -> I
+18     -> Z
+19     -> T
+20     -> E
+21     -> D
+22     -> E
+23     -> S
+24     -> L
+26     -> N
+27     -> S
+28     -> C
+29     -> T
+30     -> E
+31     -> E
+32     -> E
+33     -> E
+34     -> I
+36     -> H
+37     -> H
+38     -> E
+39     -> E
+40     -> K
+41     -> H
+42     -> A
+43     -> T
+44     -> E
+45     -> H
+46     -> T
+47     -> R
+48     -> L
+49     -> T
+50     -> M
+51     -> I
+52     -> E
+53     -> Q
+54     -> U
+56     -> I
+57     -> R
+58     -> G
+60     -> T
+61     -> N
+62     -> A
+63     -> O
+64     -> W
+65     -> N
+66     -> F
+67     -> T
+68     -> E
+69     -> S
+70     -> T
+71     -> A
+72     -> H
+73     -> T
+75     -> R
+76     -> H
+77     -> P
+78     -> S
+79     -> T
+81     -> H
+82     -> T
+83     -> R
+84     -> E
+85     -> Y
+86     -> A
+87     -> S
+88     -> E
+90     -> H
+91     -> E
+92     -> E
+93     -> H
+94     -> E
+95     -> N
+96     -> E
+97     -> E
+98     -> S
+100    -> N
+101    -> E
+102    -> J
+103    -> T
+104    -> E

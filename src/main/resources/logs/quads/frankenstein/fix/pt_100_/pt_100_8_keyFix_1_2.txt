@@ -1,0 +1,92 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [46, 21]
+B(1) [45, 48]
+C(2) [3, 12]
+D(3) [41, 31]
+E(4) [23, 39]
+F(5) [50, 38]
+G(6) [9, 8]
+H(7) [22, 32]
+I(8) [24, 34]
+J(9) [37, 0]
+K(10) [35, 29]
+L(11) [49, 44]
+M(12) [2, 28]
+N(13) [25, 7]
+O(14) [6, 33]
+P(15) [18, 43]
+Q(16) [40, 14]
+R(17) [51, 1]
+S(18) [27, 26]
+T(19) [13, 30]
+U(20) [5, 17]
+V(21) [19, 36]
+W(22) [10, 4]
+X(23) [16, 47]
+Y(24) [11, 42]
+Z(25) [20, 15]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   32
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+32 24 26 41 21 5 8 32 13 23 51 21 13 13 23 7 41 39 31 22 34 2 10 34 30 22 13 32 23 9 1 23 46 30 39 27 13 13 23 25 41 39 1 7 39 26 26 45 5 30 27 22 39 27 46 4 4 34 30 22 41 39 27 43 46 34 51 13 32 46 13 30 22 39 24 1 44 24 13 13 44 23 50 17 7 31 10 46 26 1 46 43 34 31 49 42 41 39 3 1 23 46 27 24 25 9
+
+--- DECRYPTED PLAINTEXT ---
+HISTOUGHTENOTTECTEDHIKWITHTHEPREATESTTEXTERCESSBUTSHESAFFITHTESMAINTHATTHEIRLITTLEYQCDWASRAMIDJVTEZREASIXP
+
+--- SCORE ---
+-1087.4888
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 80 / 106 chars correct (75.5%)
+
+--- KEY (cipher -> plain) ---
+1      -> R
+2      -> K
+3      -> Z
+4      -> F
+5      -> U
+7      -> C
+8      -> G
+9      -> P
+10     -> W
+13     -> T
+17     -> Q
+21     -> O
+22     -> H
+23     -> E
+24     -> I
+25     -> X
+26     -> S
+27     -> S
+30     -> T
+31     -> D
+32     -> H
+34     -> I
+39     -> E
+41     -> T
+42     -> V
+43     -> M
+44     -> L
+45     -> B
+46     -> A
+49     -> J
+50     -> Y
+51     -> N

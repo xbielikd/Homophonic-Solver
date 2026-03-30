@@ -1,0 +1,174 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [46, 35, 44, 69, 71, 45, 85, 12, 22, 53]
+B(1) [112, 102]
+C(2) [8, 19, 80, 1]
+D(3) [131, 11, 56, 33, 132, 2]
+E(4) [82, 94, 116, 90, 81, 37, 88, 87, 86, 73, 72, 0, 129, 6, 4, 47]
+F(5) [50, 92, 107]
+G(6) [3, 48, 9]
+H(7) [84, 117, 52, 126, 17, 59, 62, 57]
+I(8) [91, 34, 43, 120, 27, 114, 7, 110, 63]
+J(9) [134]
+K(10) [5]
+L(11) [95, 32, 96, 109, 111]
+M(12) [127, 23, 101]
+N(13) [115, 21, 121, 128, 51, 108, 55, 133, 125]
+O(14) [103, 25, 42, 70, 113, 66, 14, 60, 15, 39]
+P(15) [20, 10, 83]
+Q(16) [122]
+R(17) [89, 130, 119, 68, 123, 36, 28, 124]
+S(18) [118, 93, 98, 16, 24, 77, 49, 65]
+T(19) [64, 61, 58, 105, 97, 67, 100, 106, 13, 41, 104]
+U(20) [30, 76, 29, 31]
+V(21) [40, 75]
+W(22) [74, 78, 79]
+X(23) [38]
+Y(24) [99, 18, 26]
+Z(25) [54]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   114
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+ORDINARYWOMENALWAYSCONSOLETHEMSELVESSOMEOFTHEMDOITBYGOINGINFORSENTIMENTALCOLOURSNEVERTRUSTAWOMANWHOWEARSMAUVEWHATEVERHERAGEMAYBEORAWOMANOVERTHIRTYFIVEWHOISFONDOFPINKRIBBONSITALWAYSMEANSTHATTHEYHAVEAHISTORYOTHERSFINDAGREATCONSOLATIONINSUDDENLYDISCOVERING
+
+--- CIPHERTEXT ---
+42 119 2 91 128 22 36 99 78 70 127 81 51 69 32 79 85 26 118 19 39 125 24 25 109 129 13 84 0 23 98 37 111 75 88 65 49 42 127 88 113 107 58 62 116 127 56 113 110 106 102 99 48 42 120 115 3 43 21 50 15 36 16 6 55 106 120 23 4 108 61 12 111 1 25 96 60 30 89 77 55 129 40 73 130 13 68 31 93 41 71 78 103 23 85 121 78 17 14 74 116 35 68 49 23 69 29 40 47 79 52 71 64 81 75 4 119 52 6 68 69 9 37 127 35 18 112 90 25 130 22 78 66 23 12 128 42 75 81 36 41 52 7 119 58 26 107 34 40 129 74 52 14 91 93 92 113 121 132 14 107 83 7 51 5 130 7 112 112 42 125 93 43 100 22 111 74 45 99 16 23 0 71 51 98 61 84 12 67 64 126 4 99 17 12 75 6 69 84 114 16 105 39 89 99 25 41 17 47 124 93 107 34 51 131 12 48 28 0 12 97 80 103 128 65 39 95 53 64 110 39 108 110 121 118 30 11 33 82 108 111 99 33 63 98 80 103 40 90 123 34 115 3
+
+--- DECRYPTED PLAINTEXT ---
+TEARSTEEENTHERESSTOFTHINGTHETEPARTHESTTHETAINTHENTHENTHECOUTHERESTHEHERARANDITHESTENTHEWITHERESTEREANTESERSEASTHEHTHETEEREATTHEANTTEREASTTHETTHEATTHETATERIZETHETTHENTHEETHIONTRAVERETHEPREALETHERATEREARYTHENTRAQITHEJANSTAKERSETOMENTENTOTHEBEREEXPEREATHEC
+
+--- SCORE ---
+-1647.2500
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 253 chars correct (6.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> A
+2      -> A
+3      -> C
+4      -> H
+5      -> N
+6      -> E
+7      -> H
+9      -> E
+11     -> H
+12     -> A
+13     -> H
+14     -> E
+15     -> H
+16     -> R
+17     -> R
+18     -> H
+19     -> F
+21     -> U
+22     -> T
+23     -> E
+24     -> I
+25     -> N
+26     -> T
+28     -> S
+29     -> S
+30     -> T
+31     -> W
+32     -> E
+33     -> E
+34     -> H
+35     -> T
+36     -> E
+37     -> A
+39     -> T
+40     -> E
+41     -> T
+42     -> T
+43     -> O
+45     -> V
+47     -> A
+48     -> N
+49     -> S
+50     -> T
+51     -> E
+52     -> T
+53     -> M
+55     -> S
+56     -> H
+58     -> A
+60     -> I
+61     -> R
+62     -> I
+63     -> X
+64     -> E
+65     -> E
+66     -> R
+67     -> L
+68     -> E
+69     -> R
+70     -> N
+71     -> H
+73     -> N
+74     -> A
+75     -> T
+77     -> E
+78     -> E
+79     -> S
+80     -> E
+81     -> H
+82     -> B
+83     -> T
+84     -> E
+85     -> S
+88     -> H
+89     -> H
+90     -> A
+91     -> R
+92     -> Z
+93     -> I
+95     -> O
+96     -> D
+97     -> K
+98     -> P
+99     -> E
+100    -> N
+102    -> H
+103    -> R
+105    -> Y
+106    -> T
+107    -> T
+108    -> E
+109    -> G
+110    -> N
+111    -> R
+112    -> E
+113    -> E
+114    -> A
+115    -> E
+116    -> N
+118    -> O
+119    -> E
+120    -> H
+121    -> T
+123    -> T
+124    -> Q
+125    -> H
+126    -> T
+127    -> T
+128    -> S
+129    -> T
+130    -> T
+131    -> J
+132    -> H

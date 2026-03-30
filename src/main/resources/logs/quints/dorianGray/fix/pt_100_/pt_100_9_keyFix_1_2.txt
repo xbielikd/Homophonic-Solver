@@ -1,0 +1,98 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [34, 7]
+B(1) [25, 30]
+C(2) [15, 21]
+D(3) [24, 49]
+E(4) [20, 32]
+F(5) [39, 3]
+G(6) [4, 2]
+H(7) [35, 23]
+I(8) [51, 6]
+J(9) [38, 16]
+K(10) [19, 27]
+L(11) [17, 22]
+M(12) [42, 33]
+N(13) [41, 11]
+O(14) [31, 5]
+P(15) [44, 14]
+Q(16) [36, 0]
+R(17) [47, 13]
+S(18) [37, 29]
+T(19) [26, 43]
+U(20) [40, 10]
+V(21) [50, 28]
+W(22) [12, 18]
+X(23) [1, 45]
+Y(24) [8, 46]
+Z(25) [9, 48]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   38
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+YESHEWASCERTAINLYWONDERFULLYHANDSOMEWITHHISFINELYCURVEDSCARLETLIPSHISFRANKBLUEEYESHISCRISPGOLDHAIRTHERE
+
+--- CIPHERTEXT ---
+46 32 29 35 20 18 7 29 21 20 13 26 7 51 41 22 46 12 31 41 24 20 13 3 10 17 17 8 23 7 41 49 29 31 33 20 12 51 26 23 23 51 29 39 6 41 20 17 46 21 10 47 28 32 24 29 15 34 13 22 20 43 22 6 44 37 35 6 29 3 13 34 11 27 25 22 40 20 20 46 20 37 23 51 37 15 13 51 29 14 2 31 22 49 23 7 6 13 26 35 20 47 20
+
+--- DECRYPTED PLAINTEXT ---
+DESHEMESBERTEINEDWINTERPALLTHENTSIZEWITHHISJANELDBACKETSFOREEVEALSHASPROXYGENEEDESHISFRISQUIETHEARTHECE
+
+--- SCORE ---
+-1215.5380
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 54 / 103 chars correct (52.4%)
+
+--- KEY (cipher -> plain) ---
+2      -> U
+3      -> P
+6      -> A
+7      -> E
+8      -> T
+10     -> A
+11     -> X
+12     -> W
+13     -> R
+14     -> Q
+15     -> F
+17     -> L
+18     -> M
+20     -> E
+21     -> B
+22     -> E
+23     -> H
+24     -> T
+25     -> G
+26     -> T
+27     -> Y
+28     -> K
+29     -> S
+31     -> I
+32     -> E
+33     -> Z
+34     -> O
+35     -> H
+37     -> S
+39     -> J
+40     -> N
+41     -> N
+43     -> V
+44     -> L
+46     -> D
+47     -> C
+49     -> T
+51     -> I

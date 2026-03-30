@@ -1,0 +1,175 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [131, 124, 121, 70, 20, 40, 16, 98, 132, 14]
+B(1) [23, 63]
+C(2) [46, 38, 94, 64]
+D(3) [108, 82, 86, 45, 133, 103]
+E(4) [7, 92, 52, 89, 25, 122, 106, 19, 102, 79, 4, 44, 101, 96, 69, 87]
+F(5) [35, 5, 59]
+G(6) [8, 41, 116]
+H(7) [127, 65, 80, 123, 21, 3, 113, 28]
+I(8) [34, 18, 126, 74, 84, 93, 11, 90, 29]
+J(9) [111]
+K(10) [119]
+L(11) [117, 1, 15, 51, 39]
+M(12) [36, 37, 17]
+N(13) [33, 42, 12, 13, 27, 67, 134, 130, 91]
+O(14) [115, 50, 66, 114, 54, 55, 110, 48, 32, 104]
+P(15) [24, 58, 68]
+Q(16) [99]
+R(17) [75, 100, 125, 31, 77, 105, 56, 57]
+S(18) [49, 78, 10, 109, 62, 53, 128, 97]
+T(19) [30, 129, 85, 81, 26, 9, 73, 22, 71, 83, 43]
+U(20) [61, 72, 112, 95]
+V(21) [47, 107]
+W(22) [88, 0, 60]
+X(23) [6]
+Y(24) [118, 120, 76]
+Z(25) [2]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   115
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+SUDDENLYTHEBROADDISKOFTHEMOONAROSEANDSHONEFULLUPONHISGHASTLYANDDISTORTEDSHAPEASHEFLEDWITHMORETHANMORTALSPEEDIPURSUEDHIMANDFORMANYMONTHSTHISHASBEENMYTASKGUIDEDBYASLIGHTCLUEIFOLLOWEDTHEWINDINGSOFTHERHONEBUTVAINLYTHEBLUEMEDITERRANEANAPPEAREDANDBYASTRANGE
+
+--- CIPHERTEXT ---
+78 72 133 45 25 134 51 76 30 80 25 23 56 32 20 45 103 34 97 119 48 59 73 28 102 37 54 114 12 40 75 110 78 52 70 12 45 109 21 48 42 79 59 61 51 1 112 24 55 12 80 93 97 116 123 98 62 43 51 118 131 42 45 103 18 10 43 50 100 43 44 108 78 123 132 58 89 121 97 113 122 35 117 7 86 88 84 26 80 37 54 77 89 129 80 131 12 17 50 125 22 98 15 53 24 101 69 108 84 58 95 75 53 112 106 103 21 34 37 121 33 103 59 50 75 36 20 67 76 36 48 33 71 127 49 81 28 29 128 127 14 128 23 7 92 42 37 118 83 131 10 119 116 95 93 103 79 45 23 118 131 109 1 11 41 113 73 38 1 112 52 74 59 55 39 39 115 60 92 45 83 3 102 60 93 134 108 18 134 41 49 48 35 22 65 52 100 65 48 42 7 63 112 43 47 131 90 27 15 120 43 113 96 63 39 72 101 17 102 86 18 83 79 105 57 131 13 106 121 130 131 68 68 69 124 77 92 82 131 130 133 23 76 40 62 9 75 16 33 41 101
+
+--- DECRYPTED PLAINTEXT ---
+ORESENTEARESQUESTESTEANATTHEAREFOREASTHEREANTHESTARESINTINTHERSTEANTINGTONTERESEARYTHTHERTHEREREASTESTERSESTHEMERESTHETESTATEREJERESTTHEAKETHESTERTHTEATIMETESSHETHATENTHEREATEETHESTOTHENTENTHERSTRITERTHENCEDBEINETHERESTHETEXPERSERELLSWEEVERESERIZERSTE
+
+--- SCORE ---
+-1632.8806
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 23 / 251 chars correct (9.2%)
+
+--- KEY (cipher -> plain) ---
+1      -> H
+3      -> O
+7      -> T
+9      -> Z
+10     -> A
+11     -> A
+12     -> A
+13     -> R
+14     -> H
+15     -> E
+16     -> R
+17     -> S
+18     -> E
+20     -> E
+21     -> H
+22     -> S
+23     -> S
+24     -> S
+25     -> E
+26     -> E
+27     -> B
+28     -> A
+29     -> K
+30     -> A
+32     -> U
+33     -> S
+34     -> E
+35     -> R
+36     -> R
+37     -> T
+38     -> T
+39     -> E
+40     -> R
+41     -> T
+42     -> R
+43     -> N
+44     -> G
+45     -> S
+47     -> C
+48     -> E
+49     -> H
+50     -> T
+51     -> T
+52     -> R
+53     -> R
+54     -> H
+55     -> T
+56     -> Q
+57     -> P
+58     -> E
+59     -> A
+60     -> H
+61     -> N
+62     -> I
+63     -> H
+65     -> T
+67     -> J
+68     -> L
+69     -> S
+70     -> E
+71     -> T
+72     -> R
+73     -> N
+74     -> E
+75     -> E
+76     -> E
+77     -> E
+78     -> O
+79     -> E
+80     -> R
+81     -> E
+82     -> V
+83     -> T
+84     -> H
+86     -> H
+88     -> T
+89     -> R
+90     -> D
+92     -> E
+93     -> E
+95     -> M
+96     -> T
+97     -> S
+98     -> T
+100    -> I
+101    -> E
+102    -> T
+103    -> T
+105    -> X
+106    -> S
+108    -> T
+109    -> T
+110    -> F
+112    -> E
+113    -> E
+114    -> E
+115    -> T
+116    -> I
+117    -> Y
+118    -> H
+119    -> T
+120    -> I
+121    -> E
+122    -> A
+123    -> N
+124    -> W
+125    -> E
+127    -> T
+128    -> E
+129    -> E
+130    -> R
+131    -> E
+132    -> T
+133    -> E
+134    -> N

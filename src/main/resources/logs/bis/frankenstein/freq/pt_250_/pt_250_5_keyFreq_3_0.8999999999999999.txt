@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 254
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 65, 82, 102, 33, 87, 95, 10]
+B(1) [11, 83]
+C(2) [32, 58, 88]
+D(3) [63, 40, 72, 70]
+E(4) [3, 19, 28, 35, 23, 47, 14, 104, 22, 86, 17, 45]
+F(5) [1, 77, 42]
+G(6) [37, 29]
+H(7) [15, 43, 103, 79, 9, 98]
+I(8) [68, 92, 54, 21, 25, 90, 62]
+J(9) [48]
+K(10) [16]
+L(11) [71, 39, 6, 2]
+M(12) [38, 34, 49]
+N(13) [20, 50, 52, 51, 27, 41, 74]
+O(14) [75, 76, 85, 66, 78, 69, 12]
+P(15) [46, 81]
+Q(16) [26]
+R(17) [5, 13, 18, 57, 67, 53]
+S(18) [97, 44, 0, 89, 56, 55]
+T(19) [24, 59, 7, 91, 100, 4, 93, 36, 80]
+U(20) [84, 94, 61]
+V(21) [101]
+W(22) [64, 31, 60]
+X(23) [8]
+Y(24) [99, 73]
+Z(25) [96]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      254
+
+--- ORIGINAL PLAINTEXT ---
+SWEETANDBELOVEDELIZABETHIREADANDREREADHERLETTERANDSOMESOFTENEDFEELINGSSTOLEINTOMYHEARTANDDAREDTOWHISPERPARADISIACALDREAMSOFLOVEANDJOYBUTTHEAPPLEWASALREADYEATENANDTHEANGELSARMBAREDTODRIVEMEFROMALLHOPEYETIWOULDDIETOMAKEHERHAPPYIFTHEMONSTEREXECUTEDHISTHREAT
+
+--- CIPHERTEXT ---
+44 31 23 3 100 10 51 40 83 35 2 85 101 47 63 104 39 90 96 10 11 104 7 15 54 53 23 87 63 30 50 72 53 45 18 86 102 40 9 35 5 39 35 7 80 28 5 10 74 40 0 66 49 3 55 66 1 100 104 51 19 72 77 19 35 2 90 41 29 44 56 59 69 2 35 25 52 100 12 38 99 98 104 95 53 59 102 51 40 63 65 53 17 72 7 69 64 79 21 44 81 23 13 46 82 18 95 72 25 0 62 102 32 82 2 72 5 23 82 49 44 85 77 39 66 101 86 10 50 63 48 12 73 11 94 80 4 79 104 82 81 81 6 14 64 87 44 33 39 53 86 65 70 73 47 102 80 17 52 95 27 40 24 98 28 87 27 37 28 71 97 33 57 34 11 10 18 45 70 36 69 63 5 54 101 45 34 47 1 5 12 49 10 39 6 15 85 46 23 99 104 80 21 64 78 84 6 63 63 21 47 91 69 34 30 16 19 43 17 13 98 102 81 81 99 92 1 36 103 22 34 75 27 97 93 22 57 86 8 45 32 94 80 22 40 43 90 97 93 9 53 28 95 91
+
+--- DECRYPTED PLAINTEXT ---
+EREERESTHERTHHEETEREHEANTHEREOREHEREETTERTEARERESTITRESTERESTESTERECKELETREREREXTHETHEESTETHEEATERTESETHERTERIZEREREREERETSTTHEEREPETHEREREESSEBERENTHETATHEREETETWHEREMEJANDTHEREANTERTHETHERERETENTHETERTEQUEEETHETTOFTHETHESSTYENGETHEANEDEVERERETHEANTHETE
+
+--- SCORE ---
+-1173.0648
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 51 / 254 chars correct (20.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> I
+1      -> E
+2      -> R
+3      -> E
+4      -> E
+5      -> R
+6      -> E
+7      -> A
+8      -> V
+9      -> T
+10     -> E
+11     -> H
+12     -> E
+13     -> T
+14     -> B
+15     -> N
+16     -> F
+17     -> E
+18     -> R
+19     -> T
+21     -> T
+22     -> E
+23     -> E
+24     -> W
+25     -> R
+27     -> E
+28     -> E
+29     -> K
+30     -> O
+31     -> R
+32     -> R
+33     -> N
+34     -> T
+35     -> E
+36     -> N
+37     -> M
+38     -> X
+39     -> T
+40     -> T
+41     -> C
+43     -> H
+44     -> E
+45     -> E
+46     -> H
+47     -> H
+48     -> P
+49     -> R
+50     -> R
+51     -> S
+52     -> E
+53     -> H
+54     -> T
+55     -> S
+56     -> L
+57     -> D
+59     -> E
+62     -> Z
+63     -> E
+64     -> E
+65     -> T
+66     -> T
+69     -> T
+70     -> A
+71     -> J
+72     -> E
+73     -> T
+74     -> S
+75     -> H
+77     -> S
+78     -> Q
+79     -> R
+80     -> R
+81     -> S
+82     -> E
+83     -> H
+84     -> U
+85     -> T
+86     -> E
+87     -> R
+90     -> E
+91     -> E
+92     -> Y
+93     -> N
+94     -> E
+95     -> T
+96     -> R
+97     -> A
+98     -> H
+99     -> T
+100    -> R
+101    -> H
+102    -> E
+103    -> G
+104    -> E

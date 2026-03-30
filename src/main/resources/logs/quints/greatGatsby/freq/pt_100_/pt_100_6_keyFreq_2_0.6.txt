@@ -1,0 +1,114 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [12, 26, 35, 34, 53]
+B(1) [45]
+C(2) [42, 23]
+D(3) [72, 13, 15]
+E(4) [1, 21, 69, 46, 44, 37, 28, 27]
+F(5) [22, 66]
+G(6) [11, 56]
+H(7) [17, 6, 39, 14]
+I(8) [58, 43, 73, 30, 74]
+J(9) [48]
+K(10) [68]
+L(11) [31, 59, 61]
+M(12) [63, 36]
+N(13) [29, 10, 67, 3, 19]
+O(14) [55, 18, 5, 20, 2]
+P(15) [47, 25]
+Q(16) [38]
+R(17) [71, 70, 9, 64]
+S(18) [41, 33, 32, 57]
+T(19) [7, 24, 54, 0, 8, 4]
+U(20) [49, 62]
+V(21) [60]
+W(22) [51, 52]
+X(23) [65]
+Y(24) [50, 40]
+Z(25) [16]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   54
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+THEUNDERGRADUATENODDEDINACYNICALMELANCHOLYWAYTHEBARWHEREWEGLANCEDFIRSTWASCROWDEDBUTGATSBYWASNOTTHERE
+
+--- CIPHERTEXT ---
+8 17 46 62 29 15 28 9 11 9 26 13 62 53 54 21 10 55 15 72 69 13 58 29 35 42 50 19 30 42 26 31 63 27 59 35 10 23 6 18 59 50 51 34 50 0 14 27 45 35 71 51 39 28 71 37 51 46 56 59 26 67 42 28 15 66 43 9 33 54 51 34 32 42 71 5 52 15 46 72 45 49 0 56 26 24 33 45 40 52 34 57 67 5 0 4 39 1 64 37
+
+--- DECRYPTED PLAINTEXT ---
+ZCENTEREVERINGTHELENDISTRATQUARETHEREMAKETHETOTHERSHERSTHEREREAREXPERTHEWASTHEENEFORRYRETHERETOBEJET
+
+--- SCORE ---
+-1025.3457
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 100 chars correct (5.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> O
+1      -> J
+4      -> B
+5      -> T
+6      -> A
+8      -> Z
+9      -> E
+10     -> E
+11     -> V
+13     -> I
+14     -> T
+15     -> E
+17     -> C
+18     -> K
+19     -> Q
+21     -> H
+23     -> M
+24     -> Y
+26     -> R
+27     -> H
+28     -> R
+29     -> T
+30     -> U
+31     -> E
+32     -> W
+33     -> R
+34     -> E
+35     -> R
+37     -> T
+39     -> E
+40     -> T
+42     -> A
+43     -> P
+45     -> E
+46     -> E
+49     -> F
+50     -> T
+51     -> H
+52     -> H
+53     -> G
+54     -> T
+55     -> L
+56     -> R
+57     -> R
+58     -> S
+59     -> E
+62     -> N
+63     -> T
+64     -> E
+66     -> X
+67     -> E
+69     -> D
+71     -> S
+72     -> N

@@ -1,0 +1,113 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 103
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [40, 73, 32, 39, 26]
+B(1) [25]
+C(2) [68, 24]
+D(3) [52, 1, 21]
+E(4) [29, 71, 62, 70, 63, 58, 14, 38]
+F(5) [50, 0]
+G(6) [45, 44]
+H(7) [57, 3, 49, 19]
+I(8) [47, 5, 41, 13, 16]
+J(9) [9]
+K(10) [53]
+L(11) [8, 17, 72]
+M(12) [22, 34]
+N(13) [66, 54, 10, 37, 18]
+O(14) [2, 23, 51, 4, 27]
+P(15) [59, 64]
+Q(16) [30]
+R(17) [31, 61, 35, 20]
+S(18) [65, 60, 48, 46]
+T(19) [74, 67, 33, 15, 7, 36]
+U(20) [69, 6]
+V(21) [12]
+W(22) [56, 42]
+X(23) [28]
+Y(24) [11, 43]
+Z(25) [55]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   53
+TEXT LENGTH:      103
+
+--- ORIGINAL PLAINTEXT ---
+HISTANNEDSKINWASDRAWNATTRACTIVELYTIGHTONHISFACEANDHISSHORTHAIRLOOKEDASTHOUGHITWERETRIMMEDEVERYDAYICOULD
+
+--- CIPHERTEXT ---
+49 13 60 74 73 37 54 70 52 65 53 47 37 56 39 60 52 31 40 42 66 73 33 74 61 32 68 7 47 12 62 72 11 36 47 44 57 33 4 10 57 41 60 50 26 68 62 26 10 21 57 16 48 46 3 23 35 15 3 26 41 61 72 2 2 53 38 21 40 65 7 57 4 6 44 57 5 15 42 71 31 62 74 35 5 34 34 70 52 70 12 29 35 11 1 32 11 16 24 27 6 72 1
+
+--- DECRYPTED PLAINTEXT ---
+QUIRENGINTOENJOINTHEVEAREATHECHANWEREASSERIZETHESTEDBYTHESTEREALLOFTHTHESPREASEDTHREAMMINICKENTANDEXPAT
+
+--- SCORE ---
+-902.1617
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 6 / 103 chars correct (5.8%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+2      -> L
+3      -> T
+4      -> S
+5      -> A
+6      -> P
+7      -> H
+10     -> S
+11     -> N
+12     -> C
+13     -> U
+15     -> S
+16     -> D
+21     -> T
+23     -> H
+24     -> E
+26     -> E
+27     -> X
+29     -> K
+31     -> T
+32     -> A
+33     -> A
+34     -> M
+35     -> E
+36     -> W
+37     -> N
+38     -> F
+39     -> O
+40     -> H
+41     -> R
+42     -> E
+44     -> R
+46     -> Y
+47     -> E
+48     -> B
+49     -> Q
+50     -> Z
+52     -> N
+53     -> O
+54     -> G
+56     -> J
+57     -> E
+60     -> I
+61     -> E
+62     -> H
+65     -> T
+66     -> V
+68     -> T
+70     -> I
+71     -> D
+72     -> A
+73     -> E
+74     -> R

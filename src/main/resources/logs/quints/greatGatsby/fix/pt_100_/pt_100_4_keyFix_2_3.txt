@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [7, 38, 21]
+B(1) [66, 25, 1]
+C(2) [62, 36, 37]
+D(3) [26, 23, 39]
+E(4) [15, 57, 32]
+F(5) [19, 17, 27]
+G(6) [74, 59, 46]
+H(7) [73, 24, 40]
+I(8) [75, 8, 42]
+J(9) [50, 30, 20]
+K(10) [60, 54, 77]
+L(11) [5, 6, 48]
+M(12) [55, 51, 9]
+N(13) [16, 14, 53]
+O(14) [72, 0, 76]
+P(15) [31, 13, 65]
+Q(16) [34, 2, 41]
+R(17) [22, 61, 18]
+S(18) [56, 44, 10]
+T(19) [12, 69, 67]
+U(20) [49, 71, 4]
+V(21) [45, 35, 63]
+W(22) [43, 33, 58]
+X(23) [29, 70, 64]
+Y(24) [28, 3, 68]
+Z(25) [47, 11, 52]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+ANDASIWALKEDONIWASLONELYNOLONGERIWASAGUIDEAPATHFINDERANORIGINALSETTLERHEHADCASUALLYCONFERREDONMETHEFREEDOM
+
+--- CIPHERTEXT ---
+38 14 39 21 44 75 33 38 48 54 15 39 76 14 75 58 21 56 48 76 16 15 6 28 16 76 5 0 53 46 15 22 8 58 21 10 7 74 49 75 26 32 7 31 38 67 24 27 75 14 26 57 18 21 14 76 61 42 74 42 16 38 48 56 32 12 67 5 15 22 24 57 40 38 39 62 38 56 71 7 6 48 68 62 76 53 19 32 22 18 15 39 72 14 55 57 12 24 57 19 61 57 32 23 72 55
+
+--- DECRYPTED PLAINTEXT ---
+ENTOMAKETWITHNATORTHEINCEHAVEZINGTOPOFJADEONELEXANDSTONHERFREETRESLAINESBETTERYONTOTHESENTITUNESSESSESEQUE
+
+--- SCORE ---
+-1201.2498
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 11 / 106 chars correct (10.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> V
+5      -> A
+6      -> N
+7      -> O
+8      -> G
+10     -> P
+12     -> S
+14     -> N
+15     -> I
+16     -> E
+18     -> T
+19     -> S
+21     -> O
+22     -> N
+23     -> Q
+24     -> E
+26     -> D
+27     -> X
+28     -> C
+31     -> N
+32     -> E
+33     -> K
+38     -> E
+39     -> T
+40     -> B
+42     -> R
+44     -> M
+46     -> Z
+48     -> T
+49     -> J
+53     -> E
+54     -> W
+55     -> E
+56     -> R
+57     -> S
+58     -> T
+61     -> E
+62     -> T
+67     -> L
+68     -> O
+71     -> Y
+72     -> U
+74     -> F
+75     -> A
+76     -> H

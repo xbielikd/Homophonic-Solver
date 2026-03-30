@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [2, 29, 22]
+B(1) [33]
+C(2) [43]
+D(3) [30, 28]
+E(4) [41, 18, 21, 20]
+F(5) [42]
+G(6) [23]
+H(7) [34, 1]
+I(8) [36, 17, 35]
+J(9) [10]
+K(10) [26]
+L(11) [12, 40]
+M(12) [31]
+N(13) [11, 32, 24]
+O(14) [4, 5, 8]
+P(15) [15]
+Q(16) [7]
+R(17) [6, 0]
+S(18) [27, 19]
+T(19) [13, 16, 25]
+U(20) [39]
+V(21) [37]
+W(22) [38]
+X(23) [3]
+Y(24) [14]
+Z(25) [9]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+19 1 18 38 29 19 22 27 40 18 11 30 41 0 27 31 2 40 40 33 0 41 2 27 25 21 28 23 35 0 12 38 36 16 34 22 11 41 0 41 43 16 43 29 6 6 36 29 23 20 38 1 36 43 34 19 34 18 29 43 43 21 24 16 39 29 16 41 30 33 14 13 34 0 8 38 36 32 23 1 18 0 33 4 30 14 33 22 43 26 38 2 6 30 22 13 13 1 21 19 34 8 39 12 30 41 6 27
+
+--- DECRYPTED PLAINTEXT ---
+ENTERETELTHEREEXPLLIERPEYCQUGEMEDESTHREREEEREEDRUBENDESESTREECKEAREREIFOSEWEDJUNTEIZEFITEVEPEETOONCESWAMEREE
+
+--- SCORE ---
+-571.1213
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 3 / 108 chars correct (2.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> N
+2      -> P
+4      -> Z
+6      -> E
+8      -> W
+11     -> H
+12     -> M
+13     -> O
+14     -> F
+16     -> E
+18     -> T
+19     -> E
+20     -> B
+21     -> C
+22     -> T
+23     -> U
+24     -> K
+25     -> Y
+26     -> V
+27     -> E
+28     -> Q
+29     -> R
+30     -> E
+31     -> X
+32     -> J
+33     -> I
+34     -> S
+35     -> G
+36     -> D
+38     -> E
+39     -> A
+40     -> L
+41     -> R
+43     -> E

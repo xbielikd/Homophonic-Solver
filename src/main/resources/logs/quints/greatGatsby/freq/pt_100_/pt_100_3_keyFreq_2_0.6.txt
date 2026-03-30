@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [62, 33, 74, 55, 37]
+B(1) [16]
+C(2) [61, 15]
+D(3) [50, 26, 53]
+E(4) [10, 59, 71, 70, 6, 73, 19, 42]
+F(5) [13, 21]
+G(6) [5, 46]
+H(7) [67, 68, 31, 57]
+I(8) [63, 34, 12, 3, 45]
+J(9) [9]
+K(10) [66]
+L(11) [30, 58, 22]
+M(12) [51, 2]
+N(13) [60, 4, 25, 35, 36]
+O(14) [54, 52, 0, 27, 38]
+P(15) [29, 69]
+Q(16) [18]
+R(17) [17, 72, 8, 44]
+S(18) [39, 47, 1, 7]
+T(19) [24, 64, 28, 14, 23, 11]
+U(20) [56, 40]
+V(21) [41]
+W(22) [65, 49]
+X(23) [32]
+Y(24) [48, 20]
+Z(25) [43]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ITWASNTUNTILTHENTHATICONNECTEDTHISGATSBYWITHTHEOFFICERINHERWHITECARWHENJORDANBAKERHADFINISHEDTELLING
+
+--- CIPHERTEXT ---
+34 64 49 33 1 35 23 40 35 28 3 30 28 57 70 4 28 31 62 28 63 15 54 25 25 6 61 23 70 26 11 67 3 7 46 55 11 1 16 48 49 3 64 68 24 67 19 54 21 21 12 61 6 72 34 36 67 19 72 65 31 12 28 70 61 55 44 49 31 71 4 9 38 8 53 74 4 16 33 66 42 44 57 74 50 21 34 60 12 1 57 73 50 23 73 22 22 3 36 46
+
+--- DECRYPTED PLAINTEXT ---
+INTATERJETINTHESTEXTOFALLARREYSAIDWASTHATINGMANARRERATICANTBEETERATTERSQUAKESHAVETHEPRIZETHEPRESSICW
+
+--- SCORE ---
+-1090.2060
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 25 / 100 chars correct (25.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+3      -> I
+4      -> S
+6      -> A
+7      -> D
+8      -> A
+9      -> Q
+11     -> S
+12     -> E
+15     -> F
+16     -> H
+19     -> N
+21     -> R
+22     -> S
+23     -> R
+24     -> M
+25     -> L
+26     -> Y
+28     -> T
+30     -> N
+31     -> E
+33     -> A
+34     -> I
+35     -> E
+36     -> C
+38     -> U
+40     -> J
+42     -> E
+44     -> T
+46     -> W
+48     -> A
+49     -> T
+50     -> P
+53     -> K
+54     -> A
+55     -> A
+57     -> H
+60     -> Z
+61     -> R
+62     -> X
+63     -> O
+64     -> N
+65     -> B
+66     -> V
+67     -> A
+68     -> G
+70     -> E
+71     -> R
+72     -> T
+73     -> E
+74     -> E

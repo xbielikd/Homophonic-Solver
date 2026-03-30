@@ -1,0 +1,177 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 252
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [57, 114, 20, 26, 103, 15, 18, 33, 37, 94]
+B(1) [104, 73]
+C(2) [34, 38, 109, 39]
+D(3) [42, 60, 76, 49, 84, 119]
+E(4) [58, 80, 110, 90, 83, 118, 16, 91, 62, 108, 112, 0, 28, 12, 47, 77]
+F(5) [117, 5, 8]
+G(6) [123, 1, 43]
+H(7) [79, 35, 100, 120, 134, 21, 132, 121]
+I(8) [30, 127, 25, 92, 72, 125, 46, 3, 129]
+J(9) [71]
+K(10) [88]
+L(11) [124, 107, 102, 17, 61]
+M(12) [19, 51, 63]
+N(13) [113, 82, 131, 36, 4, 98, 2, 45, 44]
+O(14) [67, 86, 24, 11, 126, 48, 14, 6, 7, 52]
+P(15) [93, 70, 101]
+Q(16) [68]
+R(17) [122, 9, 54, 69, 41, 13, 106, 50]
+S(18) [133, 56, 78, 22, 31, 75, 115, 116]
+T(19) [97, 66, 32, 64, 96, 128, 23, 10, 53, 29, 99]
+U(20) [55, 65, 85, 81]
+V(21) [130, 95]
+W(22) [111, 40, 89]
+X(23) [74]
+Y(24) [27, 59, 105]
+Z(25) [87]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   117
+TEXT LENGTH:      252
+
+--- ORIGINAL PLAINTEXT ---
+THEHALLWASATPRESENTOCCUPIEDBYTWODEPLORABLYSOBERMENANDTHEIRHIGHLYINDIGNANTWIVESTHEWIVESWERESYMPATHIZINGWITHEACHOTHERINSLIGHTLYRAISEDVOICESWHENEVERHESEESIMHAVINGAGOODTIMEHEWANTSTOGOHOMENEVERHEARDANYTHINGSOSELFISHINMYLIFEWEREALWAYSTHEFIRSTONESTOLEAVESOARE
+
+--- CIPHERTEXT ---
+99 79 62 79 18 17 61 111 114 75 37 97 70 13 47 133 112 45 66 86 34 38 81 93 125 12 119 104 105 10 89 126 84 83 101 107 52 41 94 104 61 59 56 11 73 91 13 19 112 2 20 36 76 99 21 16 25 50 35 46 123 100 61 59 25 98 49 129 43 82 103 45 96 111 3 130 118 31 23 134 80 40 46 95 12 115 40 77 106 58 115 59 19 101 57 29 35 30 87 30 4 123 89 125 97 120 118 33 34 100 24 53 132 91 9 25 98 56 124 92 43 132 64 107 105 122 103 72 56 47 42 95 52 25 38 28 75 111 134 108 131 112 95 0 9 100 118 115 91 91 115 125 51 79 26 130 129 98 123 57 1 48 24 119 32 92 51 0 100 12 89 33 98 97 115 23 52 123 7 121 67 51 62 45 16 95 62 13 132 90 20 69 119 103 44 27 53 100 30 98 43 56 14 116 62 17 8 127 22 21 72 4 19 105 61 30 117 58 89 62 122 118 57 102 89 57 27 78 97 120 28 117 30 13 56 10 126 2 118 115 53 14 102 83 33 95 108 78 7 57 9 108
+
+--- DECRYPTED PLAINTEXT ---
+HATALSTATERETHEPRENTHEJOHNONSTTHEARERYINTHEWASHEREENTHERTHEREETHTHETHENEXAMENTENTERENTERENTHERIZETOTHETHEANTHETHESSTHENTHERESINTEEVERTEREANTERERSENTSSTHEAKETHEINGTOFTERENTTHETEREEDBETERETHERECONSTHETHHEENTSEQUETHESTTENTTININTITHEARETHETHENTHENATETHEIST
+
+--- SCORE ---
+-1624.9717
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 5 / 252 chars correct (2.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+1      -> N
+2      -> E
+3      -> M
+4      -> H
+7      -> E
+8      -> E
+9      -> S
+10     -> T
+11     -> W
+12     -> N
+13     -> H
+14     -> E
+16     -> R
+17     -> S
+18     -> L
+19     -> E
+20     -> E
+21     -> E
+22     -> U
+23     -> E
+24     -> T
+25     -> T
+26     -> K
+27     -> T
+28     -> R
+29     -> Z
+30     -> T
+31     -> T
+32     -> F
+33     -> T
+34     -> H
+35     -> E
+36     -> N
+37     -> R
+38     -> E
+40     -> E
+41     -> Y
+42     -> V
+43     -> H
+44     -> S
+45     -> E
+46     -> R
+47     -> E
+48     -> G
+49     -> E
+50     -> H
+51     -> E
+52     -> R
+53     -> H
+56     -> E
+57     -> I
+58     -> N
+59     -> H
+61     -> T
+62     -> T
+64     -> R
+66     -> N
+67     -> B
+69     -> C
+70     -> T
+72     -> T
+73     -> A
+75     -> E
+76     -> T
+77     -> R
+78     -> H
+79     -> A
+80     -> T
+81     -> J
+82     -> E
+83     -> A
+84     -> E
+86     -> T
+87     -> O
+89     -> T
+90     -> R
+91     -> S
+92     -> T
+93     -> O
+94     -> I
+95     -> E
+96     -> X
+97     -> E
+98     -> H
+99     -> H
+100    -> E
+101    -> R
+102    -> N
+103    -> N
+104    -> N
+105    -> S
+106    -> E
+107    -> E
+108    -> T
+111    -> A
+112    -> R
+114    -> T
+115    -> T
+116    -> N
+117    -> E
+118    -> N
+119    -> O
+120    -> A
+121    -> D
+122    -> I
+123    -> E
+124    -> N
+125    -> H
+126    -> H
+127    -> Q
+129    -> T
+130    -> E
+131    -> E
+132    -> E
+133    -> P
+134    -> N

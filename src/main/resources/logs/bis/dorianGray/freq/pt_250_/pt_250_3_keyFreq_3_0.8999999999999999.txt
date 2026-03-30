@@ -1,0 +1,154 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [29, 51, 23, 97, 62, 19, 18, 26]
+B(1) [59, 92]
+C(2) [37, 4, 38]
+D(3) [2, 16, 75, 36]
+E(4) [78, 101, 24, 96, 99, 48, 6, 64, 80, 95, 54, 102]
+F(5) [3, 81, 45]
+G(6) [103, 9]
+H(7) [84, 74, 40, 60, 100, 31]
+I(8) [98, 17, 34, 85, 94, 25, 42]
+J(9) [28]
+K(10) [5]
+L(11) [72, 50, 35, 47]
+M(12) [22, 93, 43]
+N(13) [56, 30, 104, 91, 87, 15, 14]
+O(14) [53, 20, 27, 44, 10, 69, 67]
+P(15) [65, 90]
+Q(16) [88]
+R(17) [57, 13, 7, 70, 12, 55]
+S(18) [76, 68, 83, 86, 79, 33]
+T(19) [49, 66, 71, 63, 39, 77, 11, 61, 1]
+U(20) [41, 32, 58]
+V(21) [52]
+W(22) [21, 8, 82]
+X(23) [0]
+Y(24) [73, 46]
+Z(25) [89]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   94
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+HEUSEDTOWONDERATTHESHALLOWPSYCHOLOGYOFTHOSEWHOCONCEIVETHEEGOINMANASATHINGSIMPLEPERMANENTRELIABLEANDOFONEESSENCETOHIMMANWASABEINGWITHMYRIADLIVESANDMYRIADSENSATIONSACOMPLEXMULTIFORMCREATURETHATBOREWITHINITSELFSTRANGELEGACIESOFTHOUGHTANDPASSIONANDWHOSEVERY
+
+--- CIPHERTEXT ---
+100 64 41 33 101 2 71 53 21 44 104 16 6 57 51 63 11 84 78 33 100 26 35 72 27 8 90 68 46 38 100 27 72 10 9 46 20 81 1 60 20 33 102 8 60 20 37 20 56 37 6 98 52 6 61 60 54 96 9 20 94 14 93 62 14 97 68 26 71 60 42 104 103 68 17 43 90 72 96 90 80 12 93 18 87 78 104 77 70 48 50 17 19 92 47 54 23 56 16 44 81 10 87 78 48 76 33 96 91 37 99 1 27 40 25 22 43 26 104 21 19 79 18 92 95 85 15 9 8 94 61 40 43 73 7 42 62 2 72 17 52 64 33 18 56 36 93 73 12 85 62 2 86 95 104 33 18 61 34 67 87 68 26 37 10 22 65 50 24 0 43 58 35 71 17 81 69 70 22 38 70 99 18 49 32 70 24 39 74 23 1 59 44 7 96 21 17 49 84 17 104 94 61 79 54 35 81 83 49 12 23 56 103 96 72 6 9 26 37 42 96 83 44 81 71 100 53 32 9 100 71 19 91 16 90 97 79 79 25 44 30 51 87 75 82 40 53 79 6 52 78 55 73
+
+--- DECRYPTED PLAINTEXT ---
+HESTHETEREAREDIZERSTHEARETETHTHERETHENTHETITHEREEREPREEHEETERETHESTETHEANTEREREEMATHESATHERESEVERERENEESEXTEERETETHEREARSTHENTOTTRETREREHERERETHESTEATHEANATHECKETEREEAREFRJATENGHETHEHESHEQURTHEREREEREARETEANTEARENERETEREETENTHESTHTSERESTTHEWIELYTETERSBE
+
+--- SCORE ---
+-1170.4742
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 42 / 253 chars correct (16.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> F
+1      -> T
+2      -> E
+6      -> E
+7      -> R
+8      -> T
+9      -> T
+10     -> E
+11     -> E
+12     -> A
+14     -> E
+15     -> O
+16     -> R
+17     -> E
+18     -> H
+19     -> S
+20     -> E
+21     -> R
+22     -> E
+23     -> R
+24     -> E
+25     -> H
+26     -> E
+27     -> E
+30     -> W
+32     -> S
+33     -> T
+34     -> C
+35     -> A
+36     -> S
+37     -> R
+38     -> T
+39     -> Q
+40     -> T
+41     -> S
+42     -> E
+43     -> R
+44     -> E
+46     -> H
+47     -> V
+48     -> E
+49     -> E
+50     -> R
+51     -> I
+52     -> R
+53     -> E
+54     -> E
+55     -> B
+56     -> E
+57     -> D
+58     -> J
+59     -> H
+60     -> H
+61     -> E
+62     -> H
+63     -> Z
+64     -> E
+65     -> A
+67     -> K
+68     -> T
+69     -> G
+70     -> H
+71     -> T
+72     -> R
+73     -> E
+74     -> U
+75     -> L
+76     -> X
+77     -> T
+78     -> S
+79     -> T
+80     -> M
+81     -> N
+82     -> Y
+83     -> T
+84     -> R
+85     -> T
+86     -> A
+87     -> E
+90     -> E
+91     -> E
+92     -> E
+93     -> T
+94     -> R
+95     -> N
+96     -> E
+97     -> S
+98     -> P
+99     -> E
+100    -> H
+101    -> H
+102    -> I
+103    -> N
+104    -> A

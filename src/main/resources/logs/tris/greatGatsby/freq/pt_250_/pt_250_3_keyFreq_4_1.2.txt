@@ -1,0 +1,169 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [35, 45, 120, 43, 134, 60, 29, 73, 38, 101]
+B(1) [79, 94]
+C(2) [104, 25, 22, 24]
+D(3) [131, 1, 30, 110, 5, 80]
+E(4) [39, 116, 102, 122, 96, 2, 32, 91, 49, 105, 111, 89, 57, 69, 0, 106]
+F(5) [61, 130, 59]
+G(6) [132, 8, 129]
+H(7) [127, 83, 115, 36, 98, 71, 50, 48]
+I(8) [62, 67, 28, 90, 81, 88, 55, 19, 119]
+J(9) [11]
+K(10) [121]
+L(11) [20, 34, 133, 47, 41]
+M(12) [118, 95, 31]
+N(13) [109, 112, 107, 93, 21, 85, 125, 52, 44]
+O(14) [65, 23, 77, 56, 16, 70, 113, 51, 13, 26]
+P(15) [76, 114, 124]
+Q(16) [74]
+R(17) [86, 99, 6, 9, 17, 18, 78, 54]
+S(18) [58, 92, 63, 87, 100, 4, 128, 72]
+T(19) [14, 64, 42, 68, 53, 75, 66, 126, 117, 7, 37]
+U(20) [15, 46, 12, 40]
+V(21) [84, 82]
+W(22) [103, 3, 97]
+X(23) [10]
+Y(24) [123, 108, 33]
+Z(25) [27]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   109
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+AFTERTHATSHEDIDNTPLAYAROUNDWITHTHESOLDIERSANYMOREBUTONLYWITHAFEWFLATFOOTEDSHORTSIGHTEDYOUNGMENINTOWNWHOCOULDNTGETINTOTHEARMYATALLBYTHENEXTAUTUMNSHEWASGAYAGAINGAYASEVERSHEHADADBUTAFTERTHEARMISTICEANDINFEBRUARYSHEWASPRESUMABLYENGAGEDTOAMANFROMNEWORLEANS
+
+--- CIPHERTEXT ---
+38 130 14 111 54 75 50 35 14 100 48 102 5 19 110 52 7 124 47 43 123 60 9 23 40 52 30 97 119 117 115 66 48 122 92 13 20 131 88 2 99 92 73 44 33 31 13 9 91 79 12 68 51 125 47 33 3 81 53 48 101 59 49 97 130 20 101 7 59 26 16 117 49 5 128 98 77 17 68 4 119 132 36 64 2 110 33 70 40 93 129 95 106 109 28 52 37 70 103 52 3 127 13 104 16 15 34 5 112 7 129 39 53 90 85 37 23 42 98 2 73 9 95 108 60 37 29 34 47 94 33 68 98 111 125 89 10 68 45 15 117 40 118 125 58 98 105 3 134 58 132 134 108 35 129 101 55 125 129 60 33 73 128 106 82 111 18 4 71 57 36 43 30 120 5 94 15 37 38 130 117 57 99 126 50 116 29 54 118 90 58 66 119 25 91 29 109 30 81 93 61 91 94 9 15 43 86 123 72 115 116 3 29 4 124 17 2 100 15 31 134 79 20 123 32 85 8 120 129 0 110 42 26 101 31 43 109 59 54 70 31 107 96 103 23 86 47 91 35 125 58
+
+--- DECRYPTED PLAINTEXT ---
+OTHESINTHATHESTRETETENATERENTHENTHEREQUERESATERANTHETHETERSTREENTEREEDTHEEARTHEITINGETTHESENTHERTHEREFRATTHEWEEKSHATTERESANANTTHESTEREHAVENTHETHERMENEINATERTHENTSATHELIZENTERESTTOTHERENSTSTHENTINTHERSONSATTHECESETITHEATENTEEJAPREXTEDRETHESHEYBETHENTHE
+
+--- SCORE ---
+-1632.4334
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 17 / 251 chars correct (6.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> X
+2      -> E
+3      -> E
+4      -> I
+5      -> E
+7      -> E
+8      -> P
+9      -> A
+10     -> V
+12     -> H
+13     -> R
+14     -> H
+15     -> T
+16     -> T
+17     -> H
+18     -> L
+19     -> S
+20     -> E
+23     -> T
+25     -> I
+26     -> D
+28     -> E
+29     -> T
+30     -> E
+31     -> E
+32     -> J
+33     -> T
+34     -> H
+35     -> T
+36     -> N
+37     -> T
+38     -> O
+39     -> K
+40     -> E
+42     -> E
+43     -> T
+44     -> A
+45     -> N
+47     -> E
+48     -> T
+49     -> E
+50     -> N
+51     -> T
+52     -> R
+53     -> S
+54     -> S
+55     -> T
+57     -> E
+58     -> E
+59     -> E
+60     -> N
+61     -> O
+64     -> G
+66     -> N
+68     -> E
+70     -> H
+71     -> Z
+72     -> C
+73     -> S
+75     -> I
+77     -> T
+79     -> T
+81     -> R
+82     -> H
+85     -> A
+86     -> H
+88     -> U
+89     -> A
+90     -> H
+91     -> N
+92     -> E
+93     -> S
+94     -> S
+95     -> N
+96     -> B
+97     -> N
+98     -> R
+99     -> R
+100    -> A
+101    -> R
+102    -> H
+103    -> E
+104    -> A
+105    -> M
+106    -> T
+107    -> Y
+108    -> A
+109    -> H
+110    -> T
+111    -> E
+112    -> W
+115    -> E
+116    -> S
+117    -> H
+118    -> T
+119    -> T
+120    -> R
+122    -> H
+123    -> E
+124    -> T
+125    -> H
+126    -> E
+127    -> F
+128    -> A
+129    -> E
+130    -> T
+131    -> Q
+132    -> I
+134    -> N

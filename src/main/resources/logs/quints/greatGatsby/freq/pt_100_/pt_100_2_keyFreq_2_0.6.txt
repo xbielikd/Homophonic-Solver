@@ -1,0 +1,111 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [72, 39, 60, 41, 31]
+B(1) [61]
+C(2) [18, 0]
+D(3) [73, 54, 52]
+E(4) [38, 55, 26, 63, 4, 2, 69, 9]
+F(5) [35, 45]
+G(6) [12, 11]
+H(7) [66, 37, 15, 58]
+I(8) [3, 57, 44, 25, 59]
+J(9) [27]
+K(10) [10]
+L(11) [28, 14, 56]
+M(12) [22, 6]
+N(13) [51, 50, 65, 70, 29]
+O(14) [16, 67, 53, 40, 43]
+P(15) [48, 64]
+Q(16) [68]
+R(17) [36, 1, 20, 33]
+S(18) [19, 17, 24, 32]
+T(19) [7, 8, 74, 23, 30, 49]
+U(20) [47, 13]
+V(21) [62]
+W(22) [46, 21]
+X(23) [5]
+Y(24) [34, 42]
+Z(25) [71]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   51
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+ASSOONASIARRIVEDIMADEANATTEMPTTOFINDMYHOSTBUTTHETWOORTHREEPEOPLEOFWHOMIASKEDHISWHEREABOUTSSTAREDATME
+
+--- CIPHERTEXT ---
+60 19 19 53 43 65 41 32 44 31 33 1 57 62 26 52 44 6 72 54 9 72 51 60 23 49 55 22 64 30 49 43 45 44 29 54 6 42 15 67 19 30 61 47 7 23 66 26 49 21 43 53 1 7 15 20 38 63 64 26 43 48 56 55 53 35 21 58 43 22 3 60 19 10 26 52 66 3 24 21 66 2 33 69 39 61 43 47 23 17 17 74 31 1 69 52 60 74 6 69
+
+--- DECRYPTED PLAINTEXT ---
+SEENEMYFORNELATIONWIZWASAHANSTHEJOKINGSBETHERANTHEENERSQUESTEXPANDEVENTSECTINTHENANDTHEEATTEREDISEND
+
+--- SCORE ---
+-1091.5545
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 3 / 100 chars correct (3.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> E
+2      -> A
+3      -> T
+6      -> N
+7      -> R
+9      -> Z
+10     -> C
+15     -> S
+17     -> T
+19     -> E
+20     -> Q
+21     -> E
+22     -> N
+23     -> A
+24     -> H
+26     -> T
+29     -> K
+30     -> T
+31     -> R
+32     -> F
+33     -> N
+35     -> D
+38     -> U
+39     -> T
+41     -> Y
+42     -> G
+43     -> E
+44     -> O
+45     -> J
+47     -> E
+48     -> X
+49     -> H
+51     -> A
+52     -> I
+53     -> N
+54     -> I
+55     -> A
+56     -> P
+57     -> L
+58     -> V
+60     -> S
+61     -> H
+62     -> A
+63     -> E
+64     -> S
+65     -> M
+66     -> N
+67     -> B
+69     -> D
+72     -> W
+74     -> E

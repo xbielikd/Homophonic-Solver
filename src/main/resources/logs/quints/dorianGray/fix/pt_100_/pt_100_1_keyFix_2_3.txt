@@ -1,0 +1,105 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [5, 35, 39]
+B(1) [25, 65, 62]
+C(2) [44, 47, 43]
+D(3) [66, 34, 29]
+E(4) [4, 53, 15]
+F(5) [45, 11, 19]
+G(6) [30, 57, 72]
+H(7) [18, 69, 24]
+I(8) [10, 60, 36]
+J(9) [32, 77, 23]
+K(10) [76, 12, 75]
+L(11) [71, 6, 56]
+M(12) [70, 73, 27]
+N(13) [63, 20, 0]
+O(14) [67, 17, 68]
+P(15) [13, 21, 14]
+Q(16) [58, 52, 54]
+R(17) [26, 16, 40]
+S(18) [59, 46, 74]
+T(19) [37, 38, 7]
+U(20) [64, 3, 51]
+V(21) [33, 55, 48]
+W(22) [31, 22, 61]
+X(23) [8, 28, 42]
+Y(24) [2, 50, 49]
+Z(25) [41, 9, 1]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   45
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+62 51 38 37 24 15 36 26 67 31 20 59 68 3 6 74 74 38 39 26 33 53 5 0 34 5 26 53 20 35 75 4 29 44 17 3 40 5 30 4 24 39 74 30 17 0 53 68 3 38 68 45 67 64 16 40 35 47 53 13 15 40 24 35 13 59 61 15 0 15 55 4 16 26 4 35 71 6 49 69 35 66 10 7 37 18 4 7 4 40 26 67 16 17 11 74 68 47 10 4 38 49
+
+--- DECRYPTED PLAINTEXT ---
+XQASSEDTOBRANTHEEATTHEASTATERAGEOFITSARESTERISENTANJOURSASEMESSAMAKESEVERTEACHPLAYERSWERESTORIZENSEEAP
+
+--- SCORE ---
+-1117.4873
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 102 chars correct (30.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+3      -> T
+4      -> E
+5      -> A
+6      -> H
+7      -> R
+10     -> E
+11     -> Z
+13     -> M
+15     -> E
+16     -> R
+17     -> I
+18     -> W
+20     -> R
+24     -> S
+26     -> T
+29     -> O
+30     -> R
+31     -> B
+33     -> H
+34     -> T
+35     -> A
+36     -> D
+37     -> S
+38     -> A
+39     -> T
+40     -> S
+44     -> F
+45     -> J
+47     -> S
+49     -> P
+51     -> Q
+53     -> E
+55     -> V
+59     -> A
+61     -> K
+62     -> X
+64     -> U
+66     -> Y
+67     -> O
+68     -> N
+69     -> L
+71     -> C
+74     -> E
+75     -> G

@@ -1,0 +1,95 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 100
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [11, 31]
+B(1) [48, 13]
+C(2) [32, 15]
+D(3) [45, 46]
+E(4) [1, 16]
+F(5) [50, 30]
+G(6) [36, 19]
+H(7) [44, 17]
+I(8) [34, 51]
+J(9) [49, 9]
+K(10) [43, 25]
+L(11) [42, 27]
+M(12) [12, 6]
+N(13) [28, 20]
+O(14) [41, 35]
+P(15) [47, 10]
+Q(16) [39, 14]
+R(17) [37, 21]
+S(18) [40, 5]
+T(19) [33, 4]
+U(20) [3, 7]
+V(21) [22, 2]
+W(22) [8, 29]
+X(23) [0, 24]
+Y(24) [23, 38]
+Z(25) [18, 26]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   35
+TEXT LENGTH:      100
+
+--- ORIGINAL PLAINTEXT ---
+GOANDBUYTENMOREDOGSWITHITWEDROVEOVERTOFIFTHAVENUEWARMANDSOFTALMOSTPASTORALONTHESUMMERSUNDAYAFTERNOON
+
+--- CIPHERTEXT ---
+36 41 31 20 45 13 7 23 4 1 20 6 35 21 16 45 35 36 40 29 34 33 17 51 33 29 1 46 37 35 22 16 35 2 1 21 33 35 30 51 30 4 44 31 2 1 28 3 1 29 31 21 6 11 28 45 5 35 30 4 31 42 6 41 5 33 10 31 5 33 35 37 31 27 35 28 4 17 16 40 3 12 12 1 21 40 3 28 46 11 23 11 50 4 1 37 20 41 35 20
+
+--- DECRYPTED PLAINTEXT ---
+KEATEQUPEATHATEEAKINGEDBENAYSAZEAMATEALBLEXAMAROANATHERERALEACHEREWAREASAJAREDEIOFFATIORYEPEVEASTEAT
+
+--- SCORE ---
+-521.3465
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 10 / 100 chars correct (10.0%)
+
+--- KEY (cipher -> plain) ---
+1      -> A
+2      -> M
+3      -> O
+4      -> E
+5      -> R
+6      -> H
+7      -> U
+10     -> W
+11     -> E
+12     -> F
+13     -> Q
+16     -> E
+17     -> D
+20     -> T
+21     -> T
+22     -> Z
+23     -> P
+27     -> J
+28     -> R
+29     -> N
+30     -> L
+31     -> A
+33     -> E
+34     -> G
+35     -> A
+36     -> K
+37     -> S
+40     -> I
+41     -> E
+42     -> C
+44     -> X
+45     -> E
+46     -> Y
+50     -> V
+51     -> B

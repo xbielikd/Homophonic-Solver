@@ -1,0 +1,115 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 106
+Total homophones: 75
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [52, 5, 14, 17, 69]
+B(1) [63]
+C(2) [47, 15]
+D(3) [3, 72, 29]
+E(4) [59, 25, 4, 27, 42, 0, 7, 61]
+F(5) [19, 40]
+G(6) [58, 57]
+H(7) [38, 41, 11, 12]
+I(8) [66, 73, 9, 55, 56]
+J(9) [43]
+K(10) [24]
+L(11) [68, 31, 8]
+M(12) [13, 51]
+N(13) [39, 1, 50, 34, 35]
+O(14) [48, 28, 22, 18, 10]
+P(15) [44, 36]
+Q(16) [26]
+R(17) [62, 71, 6, 65]
+S(18) [74, 46, 33, 30]
+T(19) [2, 53, 16, 64, 20, 60]
+U(20) [67, 54]
+V(21) [32]
+W(22) [21, 70]
+X(23) [45]
+Y(24) [23, 49]
+Z(25) [37]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.6
+CIPHER SYMBOLS:   55
+TEXT LENGTH:      106
+
+--- ORIGINAL PLAINTEXT ---
+HISDAUGHTERATTENDEDHIMWITHTHEGREATESTTENDERNESSBUTSHESAWWITHDESPAIRTHATTHEIRLITTLEFUNDWASRAPIDLYDECREASING
+
+--- CIPHERTEXT ---
+12 55 74 72 14 54 58 41 60 0 6 69 53 2 7 50 29 61 72 41 73 51 70 73 60 11 60 12 42 57 6 42 5 2 25 74 60 53 61 35 3 59 6 39 27 33 74 63 54 16 46 12 42 30 69 70 21 55 2 38 3 61 74 44 14 56 71 20 11 17 2 53 38 7 56 6 31 66 53 2 31 27 40 67 35 29 70 14 30 62 52 36 73 29 68 49 29 25 47 71 4 5 33 73 34 58
+
+--- DECRYPTED PLAINTEXT ---
+IVEREALESBETTEEXTHREETHESTSINMENTERESTHETWENTHEJACKINGTHEVERTHEREDONTHETREDERATERTIZETHEGEQUETONTRYOFTHEPL
+
+--- SCORE ---
+-912.4236
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 7 / 106 chars correct (6.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> B
+2      -> E
+3      -> T
+4      -> F
+5      -> T
+6      -> E
+7      -> E
+11     -> T
+12     -> I
+14     -> E
+16     -> C
+17     -> H
+20     -> N
+21     -> E
+25     -> R
+27     -> T
+29     -> T
+30     -> G
+31     -> R
+33     -> H
+34     -> P
+35     -> E
+36     -> U
+38     -> R
+39     -> N
+40     -> I
+41     -> E
+42     -> N
+44     -> R
+46     -> K
+47     -> Y
+49     -> N
+50     -> X
+51     -> T
+52     -> Q
+53     -> T
+54     -> A
+55     -> V
+56     -> D
+57     -> M
+58     -> L
+59     -> W
+60     -> S
+61     -> H
+62     -> E
+63     -> J
+66     -> A
+67     -> Z
+68     -> O
+69     -> T
+70     -> H
+71     -> O
+72     -> R
+73     -> E
+74     -> E

@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 107
+Total homophones: 44
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [22, 37, 15]
+B(1) [7]
+C(2) [24]
+D(3) [13, 26]
+E(4) [20, 31, 8, 18]
+F(5) [16]
+G(6) [23]
+H(7) [0, 28]
+I(8) [17, 21, 32]
+J(9) [33]
+K(10) [9]
+L(11) [41, 10]
+M(12) [43]
+N(13) [2, 40, 19]
+O(14) [29, 3, 5]
+P(15) [11]
+Q(16) [6]
+R(17) [39, 30]
+S(18) [38, 1]
+T(19) [4, 42, 12]
+U(20) [36]
+V(21) [35]
+W(22) [14]
+X(23) [34]
+Y(24) [27]
+Z(25) [25]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.3
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      107
+
+--- ORIGINAL PLAINTEXT ---
+CANANYMANBETOMEASCLERVALWASORANYWOMANANOTHERELIZABETHEVENWHERETHEAFFECTIONSARENOTSTRONGLYMOVEDBYANYSUPERIOR
+
+--- CIPHERTEXT ---
+24 37 2 37 2 27 43 15 19 7 18 12 5 43 18 22 38 24 10 31 39 35 37 41 14 37 1 5 30 37 19 27 14 5 43 15 2 37 2 5 12 28 20 30 8 41 21 25 37 7 31 12 28 18 35 8 40 14 0 20 30 31 4 28 18 22 16 16 31 24 4 32 5 19 38 22 30 18 19 3 4 1 4 39 3 19 23 10 27 43 5 35 31 13 7 27 22 40 27 38 36 11 18 30 21 3 39
+
+--- DECRYPTED PLAINTEXT ---
+TERERERENPEDEREASTHEFREWEEVERENEEEREREREDBURYWIZEPEDBERYMEQUREEBEALLETEJENSARENOEVEFONGHEREREXPEAMESCKERIOF
+
+--- SCORE ---
+-554.5813
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 107 chars correct (32.7%)
+
+--- KEY (cipher -> plain) ---
+0      -> Q
+1      -> V
+2      -> R
+3      -> O
+4      -> E
+5      -> E
+7      -> P
+8      -> Y
+10     -> H
+11     -> K
+12     -> D
+13     -> X
+14     -> E
+15     -> E
+16     -> L
+18     -> E
+19     -> N
+20     -> U
+21     -> I
+22     -> A
+23     -> G
+24     -> T
+25     -> Z
+27     -> E
+28     -> B
+30     -> R
+31     -> E
+32     -> J
+35     -> R
+36     -> C
+37     -> E
+38     -> S
+39     -> F
+40     -> M
+41     -> W
+43     -> R

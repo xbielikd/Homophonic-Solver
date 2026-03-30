@@ -1,0 +1,109 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 101
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [26, 20, 65]
+B(1) [25, 55, 40]
+C(2) [63, 77, 59]
+D(3) [27, 75, 76]
+E(4) [33, 67, 9]
+F(5) [37, 8, 23]
+G(6) [54, 48, 62]
+H(7) [5, 43, 13]
+I(8) [31, 10, 2]
+J(9) [12, 49, 18]
+K(10) [57, 72, 15]
+L(11) [4, 52, 14]
+M(12) [69, 44, 45]
+N(13) [60, 64, 22]
+O(14) [28, 58, 39]
+P(15) [61, 71, 73]
+Q(16) [1, 53, 41]
+R(17) [0, 47, 30]
+S(18) [51, 21, 19]
+T(19) [42, 70, 35]
+U(20) [6, 74, 38]
+V(21) [3, 32, 29]
+W(22) [68, 16, 66]
+X(23) [56, 17, 7]
+Y(24) [46, 36, 11]
+Z(25) [50, 34, 24]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   49
+TEXT LENGTH:      101
+
+--- ORIGINAL PLAINTEXT ---
+IDESIREDTHATIMIGHTPASSMYLIFEONTHATBARRENROCKWEARILYITISTRUEBUTUNINTERRUPTEDBYANYSUDDENSHOCKOFMISERYIF
+
+--- CIPHERTEXT ---
+10 76 9 51 31 0 67 27 42 13 20 70 10 45 2 48 5 42 71 26 51 19 45 36 52 2 8 67 39 22 35 43 26 35 55 65 47 30 67 64 47 58 63 15 68 33 20 0 2 52 11 2 70 31 51 70 47 38 9 55 6 70 74 64 31 64 70 9 30 47 6 61 42 9 76 40 46 20 64 46 51 74 75 75 67 64 51 13 28 59 15 58 8 69 2 21 67 47 46 10 37
+
+--- DECRYPTED PLAINTEXT ---
+TESSARELATEDTHEQUARESTHECESEVERPERAJAMENATINGHERECKEDASDAYSANDONANDSMANBASEXTENTSOFFENSTHENTSWEREATTZ
+
+--- SCORE ---
+-897.5984
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 17 / 101 chars correct (16.8%)
+
+--- KEY (cipher -> plain) ---
+0      -> R
+2      -> E
+5      -> U
+6      -> N
+8      -> S
+9      -> S
+10     -> T
+11     -> K
+13     -> T
+15     -> N
+19     -> T
+20     -> E
+21     -> R
+22     -> E
+26     -> E
+27     -> L
+28     -> H
+30     -> M
+31     -> A
+33     -> H
+35     -> R
+36     -> E
+37     -> Z
+38     -> Y
+39     -> V
+40     -> X
+42     -> A
+43     -> P
+45     -> H
+46     -> T
+47     -> A
+48     -> Q
+51     -> S
+52     -> C
+55     -> A
+58     -> T
+59     -> E
+61     -> B
+63     -> I
+64     -> N
+65     -> J
+67     -> E
+68     -> G
+69     -> W
+70     -> D
+71     -> R
+74     -> O
+75     -> F
+76     -> E

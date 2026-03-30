@@ -1,0 +1,96 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 52
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [23, 42]
+B(1) [18, 0]
+C(2) [15, 19]
+D(3) [17, 11]
+E(4) [30, 49]
+F(5) [37, 38]
+G(6) [46, 51]
+H(7) [27, 43]
+I(8) [32, 9]
+J(9) [16, 34]
+K(10) [24, 4]
+L(11) [2, 26]
+M(12) [50, 8]
+N(13) [1, 36]
+O(14) [21, 3]
+P(15) [41, 33]
+Q(16) [48, 22]
+R(17) [47, 7]
+S(18) [10, 20]
+T(19) [6, 29]
+U(20) [25, 13]
+V(21) [12, 44]
+W(22) [31, 28]
+X(23) [35, 39]
+Y(24) [45, 40]
+Z(25) [14, 5]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        2.0
+CIPHER SYMBOLS:   36
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+THINLIPPEDWISDOMSPOKEATHERFROMTHEWORNCHAIRHINTEDATPRUDENCEQUOTEDFROMTHATBOOKOFCOWARDICEWHOSEAUTHORAPES
+
+--- CIPHERTEXT ---
+29 43 32 36 26 32 41 41 30 17 28 9 20 17 21 8 10 33 21 4 30 23 29 43 30 7 38 7 3 50 6 27 49 31 3 7 1 19 43 42 9 7 43 9 36 29 49 17 42 29 33 47 25 11 49 36 19 49 48 13 21 29 30 17 37 47 3 8 6 43 23 6 0 21 21 4 3 37 19 3 31 23 7 17 9 15 30 31 27 3 20 49 23 25 6 43 3 7 42 41 49 10
+
+--- DECRYPTED PLAINTEXT ---
+CHINGISSESJOBSEDQUEVEACHERFREKTHETERYTHEORHONCESECULTZENTEXPECESALEDTHATWEEVEATETARSOMETHEBEATTHERESEQ
+
+--- SCORE ---
+-982.8689
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 39 / 102 chars correct (38.2%)
+
+--- KEY (cipher -> plain) ---
+0      -> W
+1      -> Y
+3      -> E
+4      -> V
+6      -> T
+7      -> R
+8      -> D
+9      -> O
+10     -> Q
+11     -> Z
+13     -> P
+15     -> M
+17     -> S
+19     -> T
+20     -> B
+21     -> E
+23     -> A
+25     -> T
+26     -> G
+27     -> H
+28     -> J
+29     -> C
+30     -> E
+31     -> T
+32     -> I
+33     -> U
+36     -> N
+37     -> A
+38     -> F
+41     -> S
+42     -> E
+43     -> H
+47     -> L
+48     -> X
+49     -> E
+50     -> K

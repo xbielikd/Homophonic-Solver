@@ -1,0 +1,175 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [112, 90, 132, 81, 78, 113, 69, 87, 73, 7]
+B(1) [123, 33]
+C(2) [119, 102, 98, 50]
+D(3) [23, 124, 93, 6, 31, 2]
+E(4) [24, 27, 116, 129, 72, 99, 63, 11, 77, 85, 49, 104, 86, 95, 35, 100]
+F(5) [117, 58, 56]
+G(6) [79, 19, 126]
+H(7) [92, 44, 128, 122, 8, 62, 74, 125]
+I(8) [118, 39, 103, 1, 26, 131, 110, 52, 106]
+J(9) [89]
+K(10) [53]
+L(11) [29, 0, 54, 133, 105]
+M(12) [20, 61, 41]
+N(13) [16, 75, 60, 48, 94, 12, 134, 34, 10]
+O(14) [109, 59, 97, 57, 120, 14, 18, 40, 76, 25]
+P(15) [37, 4, 45]
+Q(16) [71]
+R(17) [22, 46, 64, 107, 91, 13, 101, 88]
+S(18) [47, 42, 30, 84, 82, 70, 32, 130]
+T(19) [43, 114, 3, 17, 36, 111, 127, 96, 55, 38, 5]
+U(20) [21, 67, 68, 28]
+V(21) [66, 51]
+W(22) [115, 83, 65]
+X(23) [121]
+Y(24) [80, 15, 108]
+Z(25) [9]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   115
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+ATERRIBLEHOPEFLUTTEREDPASTHIMHECLUTCHEDATITMADLYWHEREISTHEBODYHEEXCLAIMEDQUICKIMUSTSEEITATONCEITISINANEMPTYSTABLEINTHEHOMEFARMSIRTHEFOLKDONTLIKETOHAVETHATSORTOFTHINGINTHEIRHOUSESTHEYSAYACORPSEBRINGSBADLUCKTHEHOMEFARMGOTHEREATONCEANDMEETMETELLONEOFTHE
+
+--- CIPHERTEXT ---
+112 114 99 88 46 26 123 105 129 92 14 37 49 56 29 28 43 96 104 13 104 6 45 78 30 38 92 1 61 92 85 102 133 68 114 119 74 116 31 69 5 52 127 41 78 6 29 15 65 122 27 107 77 103 130 36 92 27 123 97 2 15 8 63 27 121 50 0 7 106 20 116 31 71 68 52 119 53 26 20 67 47 5 32 104 99 110 38 87 36 18 75 119 35 26 55 110 47 110 94 81 12 129 41 45 17 80 130 17 132 33 0 11 26 10 43 8 104 92 59 41 27 117 112 13 61 30 131 91 96 62 35 117 40 105 53 2 25 34 96 105 1 53 49 111 97 74 87 51 63 43 128 87 55 82 59 64 114 109 117 114 74 106 134 19 131 12 36 44 129 52 107 92 57 28 70 85 42 36 8 72 108 42 78 80 87 119 57 88 4 47 100 123 101 39 134 79 84 33 87 2 54 21 119 53 43 62 63 44 59 41 72 117 112 22 41 19 109 3 125 35 22 104 132 3 14 34 98 99 78 12 31 20 11 27 5 41 27 127 104 54 54 25 16 27 76 56 3 128 35
+
+--- DECRYPTED PLAINTEXT ---
+NSTERESTERESEAREASEDEDTOHERSTREAKESTOREXANDTODRANGEOFSTARESPEARSEQUEENTREVENTHETHEARETHESAMETHETHEHASBETTENTENTERESARERATEANDTHERSTHATTHEIRSTSHERPOSESAYSTHATSEASONTHEBATENORHERECAREECONSTHEJEWSINTHATSELLTHATSTATEANDTHENTHDENNERSTOBETREATEDELLIZEDANYH
+
+--- SCORE ---
+-2630.7080
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 31 / 250 chars correct (12.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> S
+2      -> E
+3      -> N
+4      -> J
+5      -> A
+6      -> D
+7      -> E
+8      -> R
+10     -> S
+11     -> R
+12     -> B
+13     -> D
+14     -> E
+15     -> A
+16     -> Z
+17     -> E
+18     -> M
+19     -> H
+20     -> T
+21     -> L
+22     -> D
+25     -> I
+26     -> E
+27     -> E
+28     -> E
+29     -> R
+30     -> H
+31     -> E
+32     -> R
+33     -> T
+34     -> R
+35     -> H
+36     -> A
+37     -> S
+38     -> E
+39     -> N
+40     -> T
+41     -> T
+42     -> C
+43     -> A
+44     -> T
+45     -> T
+46     -> R
+47     -> E
+49     -> E
+50     -> U
+51     -> E
+52     -> N
+53     -> H
+54     -> L
+55     -> T
+56     -> A
+57     -> H
+59     -> A
+61     -> T
+62     -> T
+63     -> S
+64     -> T
+65     -> N
+67     -> H
+68     -> E
+69     -> X
+70     -> R
+71     -> V
+72     -> E
+74     -> O
+75     -> E
+76     -> D
+77     -> F
+78     -> O
+79     -> H
+80     -> N
+81     -> S
+82     -> H
+84     -> A
+85     -> E
+87     -> S
+88     -> E
+91     -> R
+92     -> R
+94     -> A
+96     -> S
+97     -> P
+98     -> S
+99     -> T
+100    -> W
+101    -> I
+102    -> A
+103    -> S
+104    -> E
+105    -> T
+106    -> N
+107    -> O
+108    -> E
+109    -> E
+110    -> H
+111    -> R
+112    -> N
+114    -> S
+116    -> R
+117    -> A
+119    -> T
+121    -> Q
+122    -> G
+123    -> S
+125    -> T
+127    -> D
+128    -> Y
+129    -> E
+130    -> T
+131    -> E
+132    -> N
+133    -> K
+134    -> T

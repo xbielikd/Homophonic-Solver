@@ -1,0 +1,157 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 256
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [78, 89, 100, 67, 24, 38, 71, 7]
+B(1) [95, 53]
+C(2) [57, 2, 97]
+D(3) [30, 101, 25, 86]
+E(4) [5, 27, 59, 15, 60, 88, 4, 33, 43, 35, 103, 46]
+F(5) [79, 44, 36]
+G(6) [29, 23]
+H(7) [50, 32, 63, 13, 10, 81]
+I(8) [9, 45, 77, 1, 70, 18, 96]
+J(9) [58]
+K(10) [34]
+L(11) [48, 65, 75, 49]
+M(12) [16, 28, 92]
+N(13) [61, 94, 40, 42, 69, 87, 31]
+O(14) [19, 66, 52, 51, 83, 99, 54]
+P(15) [12, 102]
+Q(16) [82]
+R(17) [64, 47, 8, 93, 17, 14]
+S(18) [26, 74, 76, 85, 39, 55]
+T(19) [73, 62, 72, 91, 98, 37, 90, 68, 20]
+U(20) [22, 6, 3]
+V(21) [41]
+W(22) [104, 0, 84]
+X(23) [11]
+Y(24) [21, 56]
+Z(25) [80]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   97
+TEXT LENGTH:      256
+
+--- ORIGINAL PLAINTEXT ---
+HEWASATURKISHMERCHANTANDHADINHABITEDPARISFORMANYYEARSWHENFORSOMEREASONWHICHICOULDNOTLEARNHEBECAMEOBNOXIOUSTOTHEGOVERNMENTHEWASSEIZEDANDCASTINTOPRISONTHEVERYDAYTHATSAFIEARRIVEDFROMCONSTANTINOPLETOJOINHIMHEWASTRIEDANDCONDEMNEDTODEATHTHEINJUSTICEOFHISSENTENCE
+
+--- CIPHERTEXT ---
+13 103 0 100 55 7 68 3 14 34 18 85 13 28 4 8 57 50 89 94 62 71 42 30 13 24 25 70 42 10 38 53 45 98 59 30 102 71 8 96 76 44 52 14 28 89 94 21 21 35 67 93 74 0 32 59 40 44 66 14 39 19 92 4 64 5 71 74 54 61 104 13 70 57 10 77 57 54 6 49 86 94 66 62 75 46 38 47 69 32 59 95 33 2 78 16 103 19 53 42 51 11 70 51 22 85 72 66 72 81 27 23 83 41 43 14 40 16 60 94 20 10 4 0 24 55 26 33 9 80 4 30 100 87 86 2 89 76 37 9 69 72 52 12 14 45 26 83 87 20 63 59 41 103 64 56 25 67 21 91 63 7 90 26 71 36 45 60 67 64 17 77 41 33 86 36 47 66 28 97 52 31 55 90 24 31 62 77 87 54 12 49 88 62 66 58 54 18 61 81 9 16 10 46 84 7 26 73 17 1 35 30 100 94 25 2 54 40 25 5 16 61 60 25 91 66 30 60 7 20 63 37 32 88 18 69 58 22 26 20 1 2 43 66 44 63 18 76 39 33 61 37 88 61 57 43
+
+--- DECRYPTED PLAINTEXT ---
+AISHREQUALSTATESTTHERESTATERSEENTINTHESWEREATHESSTANDSENTREADOZENSEDATCARTESTAKENEERPRESTENJATATIONSOFROMTHEHAVERTHATTHEREESTREATHETHENTHESTTHERATERERENTINGEASSEESEEDTHANISTANDSETYEARSTARSEAREAREEASTATTERBEEXISTTHEETATESTTHESETHERESEASTEMERSTHERESEDATSATTH
+
+--- SCORE ---
+-2223.6511
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 13 / 256 chars correct (5.1%)
+
+--- KEY (cipher -> plain) ---
+0      -> S
+1      -> S
+2      -> T
+3      -> U
+4      -> E
+5      -> S
+6      -> K
+7      -> E
+8      -> S
+9      -> T
+10     -> E
+11     -> F
+12     -> R
+13     -> A
+14     -> A
+16     -> T
+17     -> I
+18     -> S
+19     -> O
+20     -> R
+21     -> S
+22     -> M
+23     -> E
+24     -> T
+25     -> E
+26     -> E
+27     -> V
+28     -> T
+30     -> T
+31     -> A
+32     -> E
+33     -> A
+34     -> L
+35     -> T
+36     -> D
+37     -> S
+38     -> E
+39     -> D
+40     -> T
+41     -> T
+42     -> S
+43     -> H
+44     -> R
+45     -> T
+46     -> R
+47     -> S
+49     -> E
+50     -> T
+51     -> O
+52     -> E
+53     -> N
+54     -> A
+55     -> R
+56     -> G
+57     -> T
+58     -> E
+59     -> N
+60     -> H
+61     -> T
+62     -> R
+63     -> E
+64     -> N
+66     -> E
+67     -> A
+68     -> Q
+69     -> T
+70     -> R
+71     -> E
+72     -> H
+73     -> X
+74     -> D
+75     -> P
+76     -> E
+77     -> S
+78     -> A
+80     -> H
+81     -> A
+83     -> R
+84     -> B
+85     -> T
+86     -> N
+87     -> E
+88     -> A
+89     -> H
+90     -> S
+91     -> S
+92     -> Z
+93     -> N
+94     -> E
+95     -> J
+96     -> W
+97     -> Y
+98     -> I
+100    -> H
+102    -> H
+103    -> I
+104    -> C

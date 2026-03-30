@@ -1,0 +1,151 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 255
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [78, 0, 52, 89, 92, 6, 19, 28]
+B(1) [38, 46]
+C(2) [26, 10, 11]
+D(3) [91, 82, 33, 97]
+E(4) [65, 35, 57, 49, 51, 44, 75, 100, 47, 45, 27, 25]
+F(5) [95, 77, 14]
+G(6) [103, 88]
+H(7) [15, 98, 30, 62, 73, 86]
+I(8) [40, 50, 2, 85, 29, 18, 68]
+J(9) [1]
+K(10) [9]
+L(11) [4, 66, 20, 16]
+M(12) [37, 96, 3]
+N(13) [31, 87, 23, 42, 12, 54, 56]
+O(14) [69, 5, 83, 13, 84, 81, 8]
+P(15) [36, 79]
+Q(16) [55]
+R(17) [101, 71, 67, 41, 63, 93]
+S(18) [60, 22, 7, 102, 104, 64]
+T(19) [43, 80, 39, 99, 17, 53, 34, 48, 61]
+U(20) [94, 21, 70]
+V(21) [59]
+W(22) [72, 90, 32]
+X(23) [58]
+Y(24) [24, 76]
+Z(25) [74]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   91
+TEXT LENGTH:      255
+
+--- ORIGINAL PLAINTEXT ---
+THELADLISTENEDSULKILYTOHERANDMADENOANSWERHEWASHEARTSICKATLEAVINGHOMEYETITWASNOTTHISALONETHATMADEHIMGLOOMYANDMOROSEINEXPERIENCEDTHOUGHHEWASHEHADSTILLASTRONGSENSEOFTHEDANGEROFSIBYLSPOSITIONTHISYOUNGDANDYWHOWASMAKINGLOVETOHERCOULDMEANHERNOGOODHEWASAGENTLEMAN
+
+--- CIPHERTEXT ---
+80 30 44 16 0 82 66 29 104 99 35 31 35 97 60 21 20 9 2 66 76 99 69 73 75 41 0 23 97 37 78 82 51 12 8 28 42 102 72 65 71 15 35 72 19 64 98 57 92 41 61 22 85 10 9 92 61 16 57 28 59 50 56 88 30 5 3 45 24 49 48 29 48 32 89 60 31 81 43 17 15 29 104 6 16 69 42 75 80 98 6 99 96 19 82 75 62 50 3 103 16 83 83 37 76 19 87 91 37 8 41 84 7 25 2 56 51 58 36 75 41 18 27 56 26 49 33 39 62 84 94 103 30 62 44 72 92 22 62 51 73 78 91 64 99 2 4 4 0 104 80 71 83 12 103 60 44 12 64 75 84 77 80 62 49 82 89 12 88 27 101 81 14 7 2 46 76 66 22 79 69 64 18 17 29 5 23 17 98 29 104 24 83 70 31 88 33 89 23 97 76 90 98 83 72 92 102 3 52 9 50 54 103 16 83 59 25 17 84 86 25 93 26 8 21 4 82 96 49 6 56 86 44 71 56 13 103 81 8 91 86 35 32 0 7 52 103 57 23 99 16 45 96 78 87
+
+--- DECRYPTED PLAINTEXT ---
+AEAREETERRESENSEQUITERESTHEANDSEENTASINGTHENTATETHEABOUTEREASERTERSESTRERVESSAYTHERERESTATERATETRESTREEDETHEDTHERTIREWITHFORETHERECTERANTARESSEARILLERATENTSANATEMARTEENTOJAPRIZETAKEAFTERATTERSEASTHEANEXTENTISSUESTRESTTERTHETELEATERRATRETATEREVERSTEARREASH
+
+--- SCORE ---
+-2266.8440
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 34 / 255 chars correct (13.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> I
+3      -> S
+4      -> L
+5      -> R
+6      -> E
+7      -> R
+8      -> T
+9      -> U
+10     -> O
+12     -> N
+13     -> E
+14     -> P
+15     -> H
+16     -> R
+17     -> T
+18     -> F
+19     -> T
+20     -> Q
+21     -> E
+22     -> A
+23     -> A
+24     -> S
+25     -> T
+26     -> E
+27     -> O
+28     -> A
+29     -> E
+30     -> E
+31     -> S
+32     -> V
+33     -> H
+35     -> E
+36     -> I
+37     -> D
+39     -> E
+41     -> H
+42     -> S
+43     -> Y
+44     -> A
+45     -> E
+46     -> Z
+48     -> R
+49     -> T
+50     -> E
+51     -> E
+52     -> S
+54     -> S
+56     -> R
+57     -> E
+58     -> W
+59     -> S
+60     -> S
+61     -> E
+62     -> R
+64     -> A
+65     -> G
+66     -> T
+69     -> E
+70     -> A
+71     -> T
+72     -> N
+73     -> S
+75     -> T
+76     -> E
+77     -> M
+78     -> S
+79     -> K
+80     -> A
+81     -> A
+82     -> E
+83     -> E
+84     -> E
+85     -> B
+86     -> R
+87     -> H
+88     -> T
+89     -> E
+90     -> X
+91     -> E
+92     -> T
+93     -> H
+94     -> C
+96     -> A
+97     -> N
+98     -> T
+99     -> R
+101    -> J
+102    -> I
+103    -> T
+104    -> R

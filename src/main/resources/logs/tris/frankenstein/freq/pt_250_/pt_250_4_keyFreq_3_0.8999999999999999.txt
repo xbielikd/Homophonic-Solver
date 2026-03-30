@@ -1,0 +1,156 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [30, 11, 80, 18, 46, 45, 87, 102]
+B(1) [90, 52]
+C(2) [36, 101, 62]
+D(3) [38, 104, 65, 51]
+E(4) [58, 15, 64, 53, 0, 39, 97, 70, 63, 84, 54, 68]
+F(5) [81, 23, 27]
+G(6) [66, 35]
+H(7) [1, 40, 20, 99, 48, 93]
+I(8) [83, 37, 75, 6, 86, 100, 34]
+J(9) [8]
+K(10) [19]
+L(11) [42, 44, 9, 98]
+M(12) [3, 7, 76]
+N(13) [29, 4, 74, 25, 41, 60, 2]
+O(14) [21, 31, 47, 33, 78, 95, 79]
+P(15) [72, 91]
+Q(16) [49]
+R(17) [82, 57, 56, 85, 43, 88]
+S(18) [16, 12, 61, 13, 96, 5]
+T(19) [103, 17, 94, 71, 77, 55, 22, 50, 10]
+U(20) [73, 67, 59]
+V(21) [14]
+W(22) [28, 89, 92]
+X(23) [24]
+Y(24) [32, 26]
+Z(25) [69]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   96
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+OURLITTLEVOYAGESOFDISCOVERYWEREOFTENPROLONGEDBYTHESUCCESSIVEOBJECTSTHATPRESENTEDTHEMSELVESWEVISITEDTHETOMBOFTHEILLUSTRIOUSHAMPDENANDTHEFIELDONWHICHTHATPATRIOTFELLFORAMOMENTMYSOULWASELEVATEDFROMITSDEBASINGANDMISERABLEFEARSTOCONTEMPLATETHEDIVINEIDEASOF
+
+--- CIPHERTEXT ---
+31 67 56 44 6 71 103 42 64 14 47 26 87 35 15 13 79 23 38 83 16 101 78 14 15 88 26 28 70 85 68 78 27 103 64 74 91 82 21 98 79 29 66 39 104 90 26 55 1 39 13 73 36 101 68 16 12 75 14 15 33 90 8 70 62 94 16 10 40 46 10 72 57 58 5 70 25 94 63 51 10 1 84 7 13 84 44 14 97 16 28 97 14 83 61 34 10 0 65 17 1 58 22 31 76 52 33 23 22 1 70 100 98 9 67 13 22 57 83 47 67 61 93 102 7 91 104 84 41 46 74 104 94 1 15 23 75 15 9 65 33 2 89 20 83 36 20 22 20 46 94 72 18 71 82 37 78 10 27 68 42 98 23 79 85 102 7 33 7 0 41 77 7 32 5 95 59 98 89 45 12 39 9 0 14 46 77 97 65 27 43 33 3 86 103 13 104 54 90 11 12 86 4 35 18 60 104 7 34 13 63 88 87 90 42 84 27 39 80 82 5 103 21 36 21 4 50 0 7 91 42 30 71 70 17 1 0 38 34 14 34 60 58 34 104 97 46 96 95 23
+
+--- DECRYPTED PLAINTEXT ---
+HEMAGRETERSTTHESERSEATERENTHETHETEENSTREEQUETATTHESTATHATEREEARESTATHATTHEHECTOFTHERSEAREAHERESETESTHETHEZERTHEJERESTHESESPERSTESANTTHEREERSEVEREARTRATTERTHETTHTERETERERESTRYHEBEEXTERERATESTHELIESTWASTITHESTRESONTATETEDTHERARTHERSTERETHESERESEETEAKER
+
+--- SCORE ---
+-1666.0522
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 75 / 250 chars correct (30.0%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> H
+2      -> V
+3      -> L
+4      -> T
+5      -> H
+6      -> G
+7      -> R
+8      -> R
+9      -> R
+10     -> T
+11     -> S
+12     -> T
+13     -> S
+14     -> R
+15     -> E
+16     -> A
+17     -> T
+18     -> E
+20     -> R
+21     -> R
+22     -> T
+23     -> R
+25     -> C
+26     -> T
+27     -> T
+28     -> H
+29     -> Q
+30     -> E
+31     -> H
+32     -> Y
+33     -> E
+34     -> E
+35     -> H
+36     -> A
+37     -> H
+38     -> S
+39     -> E
+40     -> H
+41     -> S
+42     -> T
+43     -> H
+44     -> A
+45     -> X
+46     -> A
+47     -> S
+50     -> H
+51     -> F
+52     -> Z
+54     -> W
+55     -> T
+56     -> M
+57     -> H
+58     -> E
+59     -> B
+60     -> S
+61     -> S
+62     -> S
+63     -> O
+64     -> E
+65     -> S
+66     -> U
+67     -> E
+68     -> H
+70     -> E
+71     -> R
+72     -> T
+73     -> T
+74     -> N
+75     -> E
+76     -> E
+77     -> T
+78     -> E
+79     -> E
+80     -> D
+82     -> T
+83     -> E
+84     -> E
+85     -> T
+86     -> I
+87     -> T
+88     -> N
+89     -> E
+90     -> A
+91     -> S
+93     -> P
+94     -> T
+95     -> E
+96     -> K
+97     -> E
+98     -> E
+100    -> J
+101    -> T
+102    -> E
+103    -> E
+104    -> T

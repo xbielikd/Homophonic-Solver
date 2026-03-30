@@ -1,0 +1,155 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 258
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [63, 41, 15, 55, 20, 59, 26, 21]
+B(1) [49, 1]
+C(2) [28, 60, 101]
+D(3) [30, 76, 13, 91]
+E(4) [75, 40, 66, 84, 77, 38, 34, 6, 89, 35, 9, 19]
+F(5) [94, 16, 56]
+G(6) [87, 70]
+H(7) [82, 68, 0, 64, 95, 25]
+I(8) [61, 97, 62, 99, 29, 92, 3]
+J(9) [58]
+K(10) [102]
+L(11) [36, 71, 37, 85]
+M(12) [7, 27, 12]
+N(13) [50, 73, 39, 103, 90, 22, 48]
+O(14) [43, 74, 96, 10, 47, 44, 88]
+P(15) [46, 65]
+Q(16) [14]
+R(17) [81, 51, 4, 83, 104, 93]
+S(18) [79, 17, 67, 100, 53, 80]
+T(19) [5, 24, 32, 11, 31, 69, 86, 57, 78]
+U(20) [98, 33, 52]
+V(21) [45]
+W(22) [18, 8, 54]
+X(23) [42]
+Y(24) [2, 72]
+Z(25) [23]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   95
+TEXT LENGTH:      258
+
+--- ORIGINAL PLAINTEXT ---
+WHILEILISTENEDTOTHEINSTRUCTIONSWHICHFELIXBESTOWEDUPONTHEARABIANTHESTRANGESYSTEMOFHUMANSOCIETYWASEXPLAINEDTOMEIHEARDOFTHEDIVISIONOFPROPERTYOFIMMENSEWEALTHANDSQUALIDPOVERTYOFRANKDESCENTANDNOBLEBLOODTHEWORDSINDUCEDMETOTURNTOWARDSMYSELFILEARNEDTHATTHEPOSSESSIONS
+
+--- CIPHERTEXT ---
+18 68 92 37 35 97 85 61 67 5 75 39 89 30 24 47 5 82 35 97 22 17 69 104 98 28 32 61 47 48 79 54 0 99 101 68 16 66 85 29 42 1 34 53 69 10 18 19 30 33 65 10 22 11 0 75 21 4 55 49 3 21 73 24 95 35 53 24 93 26 103 70 9 80 2 53 69 75 12 88 94 95 33 12 63 50 80 43 101 92 35 5 2 18 63 17 19 42 46 36 55 99 73 77 76 57 88 7 19 99 95 6 41 104 91 43 94 24 25 89 13 97 45 62 53 3 47 50 43 16 65 93 47 46 35 83 57 72 44 16 62 27 12 40 48 67 77 18 77 21 71 24 82 41 39 76 79 14 98 21 36 92 76 46 96 45 75 83 78 72 96 16 51 20 103 102 76 77 53 101 19 48 78 55 103 76 22 43 49 85 84 49 71 74 44 30 5 82 66 8 47 4 76 80 62 39 30 33 101 9 13 7 66 86 10 5 33 4 73 57 96 18 55 81 76 79 12 2 53 40 71 16 3 71 84 63 4 73 38 91 11 68 55 31 32 95 6 46 74 67 53 84 80 100 62 44 39 67
+
+--- DECRYPTED PLAINTEXT ---
+RERKEATHETERESTETHEATHERESTHERAZESTERETWEQUREARESETATHEERRERERETHERTHENJOREREERESHERERRETRETEREHEEREESEEETEDESHEERTESTHENAREREERERTHERESTHEREPREREERERETHEREALERERERERESTHERYINGEERTERTENETERTERERESTHEVERERERSETONDECATERETEREBEAREREEREEEEREFTHEEXTHERRERERMEERE
+
+--- SCORE ---
+-1190.7966
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 63 / 258 chars correct (24.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+1      -> Q
+2      -> E
+3      -> E
+4      -> R
+5      -> T
+6      -> E
+7      -> D
+8      -> V
+9      -> O
+10     -> A
+11     -> H
+12     -> R
+13     -> N
+14     -> L
+16     -> R
+17     -> H
+18     -> R
+19     -> E
+20     -> I
+21     -> R
+22     -> T
+24     -> T
+25     -> H
+26     -> E
+27     -> P
+28     -> S
+29     -> W
+30     -> S
+31     -> X
+32     -> T
+33     -> E
+34     -> U
+35     -> E
+36     -> E
+37     -> K
+38     -> F
+39     -> R
+40     -> E
+41     -> E
+42     -> E
+43     -> E
+44     -> E
+45     -> R
+46     -> R
+47     -> E
+48     -> R
+49     -> R
+50     -> R
+51     -> Y
+53     -> R
+54     -> Z
+55     -> E
+57     -> T
+61     -> H
+62     -> E
+63     -> E
+65     -> T
+66     -> E
+67     -> E
+68     -> E
+69     -> E
+70     -> J
+71     -> E
+72     -> H
+73     -> E
+74     -> R
+75     -> E
+76     -> E
+77     -> E
+78     -> T
+79     -> A
+80     -> R
+81     -> B
+82     -> H
+83     -> S
+84     -> E
+85     -> T
+86     -> C
+88     -> E
+89     -> E
+91     -> T
+92     -> R
+93     -> H
+94     -> S
+95     -> H
+96     -> E
+97     -> A
+98     -> E
+99     -> S
+100    -> M
+101    -> T
+102    -> G
+103    -> N
+104    -> R

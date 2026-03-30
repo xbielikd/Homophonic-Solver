@@ -1,0 +1,153 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [18, 67, 35, 69, 87, 80, 15, 71]
+B(1) [63, 91]
+C(2) [68, 101, 98]
+D(3) [56, 30, 44, 83]
+E(4) [55, 11, 84, 4, 40, 96, 49, 3, 1, 58, 23, 94]
+F(5) [99, 64, 32]
+G(6) [41, 28]
+H(7) [46, 53, 60, 50, 48, 26]
+I(8) [89, 76, 37, 77, 19, 29, 75]
+J(9) [12]
+K(10) [9]
+L(11) [10, 17, 100, 21]
+M(12) [36, 38, 103]
+N(13) [74, 16, 22, 102, 82, 31, 39]
+O(14) [45, 47, 0, 95, 88, 85, 104]
+P(15) [2, 52]
+Q(16) [20]
+R(17) [90, 25, 34, 59, 79, 51]
+S(18) [66, 14, 27, 42, 70, 72]
+T(19) [86, 61, 8, 65, 33, 43, 24, 57, 97]
+U(20) [13, 5, 62]
+V(21) [92]
+W(22) [81, 78, 7]
+X(23) [73]
+Y(24) [54, 93]
+Z(25) [6]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   93
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+THISCHANGEWASPARTICULARLYAGREEABLETOMETHESHUTTINGOFTHEGATESREGULARLYATTENOCLOCKANDTHEIMPOSSIBILITYOFREMAININGONTHELAKEAFTERTHATHOURHADRENDEREDOURRESIDENCEWITHINTHEWALLSOFGENEVAVERYIRKSOMETOMEIWASNOWFREEOFTENAFTERTHERESTOFTHEFAMILYHADRETIREDFORTHENIGHT
+
+--- CIPHERTEXT ---
+43 60 89 42 68 50 67 82 28 1 78 18 72 52 67 51 24 76 101 62 21 15 51 100 54 87 41 90 49 94 87 91 17 94 8 88 38 11 43 50 96 27 46 5 33 97 77 22 41 104 64 97 46 49 41 87 57 40 42 25 40 28 5 17 87 51 17 54 80 33 65 49 31 104 101 10 95 68 9 67 22 56 33 26 23 29 36 52 95 14 27 29 91 19 10 19 61 93 45 64 79 49 38 87 77 16 76 16 28 88 82 97 26 58 21 71 9 23 18 99 86 23 59 65 60 87 61 46 45 5 59 53 69 83 51 96 102 56 4 59 23 30 104 5 34 51 40 72 29 56 49 31 98 94 7 29 61 26 29 102 24 50 58 81 18 100 10 72 45 32 41 84 82 96 92 71 92 55 34 54 76 25 9 14 47 38 3 65 85 103 40 29 78 69 70 16 104 7 99 90 84 55 104 64 86 3 31 35 99 86 3 51 97 48 84 59 94 42 33 45 64 65 60 1 64 15 38 29 100 93 53 15 56 59 58 65 76 51 3 44 99 47 90 24 26 4 31 75 28 60 57
+
+--- DECRYPTED PLAINTEXT ---
+BRANDESTOTHENESTRACKERTHESEERESSEEPREMBETHENTHESEATHERESTINGIONESTEEXTEREACANDESSETERTHENTHTSTATHEITERESETATORTHESETERETEREERSHEINEREATTHELERJANSTINTEREVENTHETHRESWEHANIZERTTHTHESEAGETHEREQUITHESTANTEREATERESTERTHEREENTITERTTRETHERREESEATRYTHERELEFORT
+
+--- SCORE ---
+-1674.8455
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 251 chars correct (6.4%)
+
+--- KEY (cipher -> plain) ---
+1      -> T
+3      -> R
+4      -> L
+5      -> N
+7      -> N
+8      -> P
+9      -> E
+10     -> A
+11     -> M
+14     -> T
+15     -> R
+16     -> T
+17     -> E
+18     -> E
+19     -> T
+21     -> E
+22     -> S
+23     -> R
+24     -> R
+25     -> G
+26     -> E
+27     -> H
+28     -> O
+29     -> T
+30     -> J
+31     -> E
+32     -> Z
+33     -> T
+34     -> S
+35     -> S
+36     -> H
+38     -> E
+40     -> I
+41     -> E
+42     -> N
+43     -> B
+44     -> Y
+45     -> I
+46     -> E
+47     -> H
+48     -> E
+49     -> R
+50     -> E
+51     -> T
+52     -> E
+53     -> R
+54     -> E
+55     -> E
+56     -> E
+57     -> T
+58     -> S
+59     -> E
+60     -> R
+61     -> H
+62     -> K
+64     -> T
+65     -> E
+67     -> S
+68     -> D
+69     -> E
+70     -> S
+71     -> T
+72     -> N
+75     -> F
+76     -> A
+77     -> E
+78     -> H
+79     -> E
+80     -> X
+81     -> W
+82     -> T
+83     -> A
+84     -> R
+85     -> Q
+86     -> E
+87     -> S
+88     -> R
+89     -> A
+90     -> E
+91     -> S
+92     -> H
+93     -> E
+94     -> E
+95     -> N
+96     -> T
+97     -> H
+98     -> V
+99     -> T
+100    -> H
+101    -> C
+102    -> H
+103    -> U
+104    -> A

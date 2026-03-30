@@ -1,0 +1,151 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 251
+Total homophones: 105
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [80, 98, 12, 50, 22, 25, 31, 71]
+B(1) [21, 45]
+C(2) [38, 64, 27]
+D(3) [42, 89, 87, 79]
+E(4) [18, 103, 29, 10, 84, 7, 1, 54, 30, 63, 40, 77]
+F(5) [88, 65, 97]
+G(6) [99, 62]
+H(7) [44, 96, 11, 57, 55, 13]
+I(8) [0, 74, 2, 66, 85, 47, 58]
+J(9) [101]
+K(10) [52]
+L(11) [49, 36, 20, 24]
+M(12) [15, 75, 3]
+N(13) [53, 70, 60, 39, 82, 83, 41]
+O(14) [61, 37, 16, 9, 48, 102, 68]
+P(15) [46, 35]
+Q(16) [92]
+R(17) [8, 17, 19, 34, 100, 95]
+S(18) [43, 67, 14, 56, 4, 5]
+T(19) [104, 94, 32, 90, 78, 23, 86, 69, 81]
+U(20) [93, 6, 59]
+V(21) [76]
+W(22) [28, 72, 73]
+X(23) [51]
+Y(24) [91, 26]
+Z(25) [33]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        0.8999999999999999
+CIPHER SYMBOLS:   91
+TEXT LENGTH:      251
+
+--- ORIGINAL PLAINTEXT ---
+ITWOULDBEABSURDFORHIMTOMARRYSOMUCHBENEATHHIMIFYOUWANTTOMAKEHIMMARRYTHISGIRLTELLHIMTHATBASILHEISSURETODOITTHENWHENEVERAMANDOESATHOROUGHLYSTUPIDTHINGITISALWAYSFROMTHENOBLESTMOTIVESIHOPETHEGIRLISGOODHARRYIDONTWANTTOSEEDORIANTIEDTOSOMEVILECREATUREWHOMIGHT
+
+--- CIPHERTEXT ---
+66 32 72 102 59 24 42 21 77 31 21 14 93 8 89 88 37 8 44 58 15 23 61 75 31 8 100 26 56 68 15 6 27 96 21 77 41 63 80 94 57 44 0 15 2 88 91 16 59 28 12 70 78 23 48 15 22 52 84 57 47 3 75 12 17 100 26 32 57 74 56 62 58 34 49 69 30 36 49 11 0 3 78 55 25 78 45 71 67 74 24 44 103 74 14 5 93 17 18 104 68 87 9 74 23 69 96 63 70 72 11 29 83 29 76 30 34 12 75 25 53 42 48 10 4 12 86 11 9 100 61 93 99 11 36 26 5 94 93 46 58 89 104 11 0 70 99 66 81 2 43 80 20 73 25 26 67 65 19 9 75 32 44 77 53 37 45 36 84 56 94 15 68 78 66 76 103 5 47 44 48 46 103 78 96 54 99 85 8 20 2 43 62 37 37 87 13 25 34 95 26 58 79 102 83 94 72 12 60 81 86 37 56 84 103 42 16 19 85 22 70 81 66 30 87 32 48 5 68 75 54 76 2 24 30 38 95 103 98 32 6 17 63 72 44 102 75 2 62 55 32
+
+--- DECRYPTED PLAINTEXT ---
+RTTENTTHEPHISENOTEHISHERPERSHESSBEHERELASHESNOWINGESTHASIZESTAREERSTSTHEISTREETHEATMETRYATTHATITSEXTESETHREESTHEREEESERESTANCETHERESTHESTASTINTHESTRANSLIKESAFTERTHESTREEHASETREATTHATATESTHEINSETTSJESUSIVERATEDATTHEATITHISARESTATERSENTEQUARTSEETHERNEMT
+
+--- SCORE ---
+-2767.2675
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 51 / 251 chars correct (20.3%)
+
+--- KEY (cipher -> plain) ---
+0      -> E
+2      -> N
+3      -> A
+4      -> C
+5      -> T
+6      -> S
+8      -> E
+9      -> E
+10     -> N
+11     -> H
+12     -> E
+13     -> J
+14     -> I
+15     -> S
+16     -> I
+17     -> E
+18     -> X
+19     -> T
+20     -> I
+21     -> H
+22     -> I
+23     -> H
+24     -> T
+25     -> E
+26     -> S
+27     -> B
+28     -> G
+29     -> E
+30     -> E
+31     -> P
+32     -> T
+34     -> S
+36     -> E
+37     -> T
+38     -> Q
+41     -> R
+42     -> T
+43     -> S
+44     -> H
+45     -> R
+46     -> T
+47     -> T
+48     -> A
+49     -> T
+52     -> Z
+53     -> S
+54     -> S
+55     -> M
+56     -> H
+57     -> S
+58     -> I
+59     -> N
+60     -> D
+61     -> E
+62     -> E
+63     -> E
+65     -> F
+66     -> R
+67     -> A
+68     -> E
+69     -> R
+70     -> S
+71     -> Y
+72     -> T
+73     -> K
+74     -> T
+75     -> R
+76     -> E
+77     -> E
+78     -> T
+79     -> V
+80     -> L
+81     -> A
+83     -> R
+84     -> E
+85     -> H
+86     -> T
+87     -> S
+88     -> O
+89     -> N
+91     -> W
+93     -> S
+94     -> A
+95     -> U
+96     -> E
+98     -> R
+99     -> T
+100    -> R
+102    -> E
+103    -> A
+104    -> T

@@ -1,0 +1,106 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 108
+Total homophones: 78
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [13, 0, 10]
+B(1) [32, 58, 52]
+C(2) [1, 12, 50]
+D(3) [3, 55, 68]
+E(4) [42, 36, 34]
+F(5) [5, 43, 45]
+G(6) [57, 19, 70]
+H(7) [25, 54, 35]
+I(8) [16, 53, 2]
+J(9) [65, 29, 38]
+K(10) [73, 22, 76]
+L(11) [24, 47, 17]
+M(12) [26, 14, 64]
+N(13) [62, 11, 44]
+O(14) [66, 8, 33]
+P(15) [75, 30, 46]
+Q(16) [56, 27, 60]
+R(17) [41, 28, 49]
+S(18) [67, 69, 72]
+T(19) [7, 6, 51]
+U(20) [71, 63, 40]
+V(21) [77, 23, 15]
+W(22) [59, 20, 37]
+X(23) [31, 21, 48]
+Y(24) [18, 61, 9]
+Z(25) [74, 4, 39]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        3.0
+CIPHER SYMBOLS:   46
+TEXT LENGTH:      108
+
+--- ORIGINAL PLAINTEXT ---
+SHEWASASLENDERSMALLBREASTEDGIRLWITHANERECTCARRIAGEWHICHSHEACCENTUATEDBYTHROWINGHERBODYBACKWARDATTHESHOULDERS
+
+--- CIPHERTEXT ---
+69 35 42 59 13 69 10 72 24 34 44 3 36 41 69 14 0 24 24 58 49 42 0 69 7 36 68 57 53 28 47 37 53 6 54 0 44 36 28 36 12 6 12 10 41 49 16 10 57 42 20 54 2 1 25 69 35 36 13 12 50 42 44 51 71 10 6 36 3 32 61 7 35 49 8 37 53 44 70 35 34 49 58 33 68 61 52 0 1 73 20 10 41 68 13 7 7 54 34 67 25 8 63 17 55 36 41 67
+
+--- DECRYPTED PLAINTEXT ---
+THEMATEXPERSESTJAPPLEEATTETRADBEATHAREDERTRESEVERETHENOTHEARKERIZETESWITHEREARTHEELYTICANGTESTATTHEFOREQUESF
+
+--- SCORE ---
+-758.1693
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 35 / 108 chars correct (32.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> A
+1      -> N
+2      -> E
+3      -> S
+6      -> T
+7      -> T
+8      -> R
+10     -> E
+12     -> R
+13     -> A
+14     -> J
+16     -> V
+17     -> Q
+20     -> T
+24     -> P
+25     -> O
+28     -> D
+32     -> W
+33     -> Y
+34     -> E
+35     -> H
+36     -> E
+37     -> E
+41     -> S
+42     -> E
+44     -> R
+47     -> B
+49     -> E
+50     -> K
+51     -> I
+52     -> C
+53     -> A
+54     -> H
+55     -> U
+57     -> R
+58     -> L
+59     -> M
+61     -> I
+63     -> E
+67     -> F
+68     -> T
+69     -> T
+70     -> T
+71     -> Z
+72     -> X
+73     -> G

@@ -1,0 +1,135 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 253
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [4, 35, 5, 91]
+B(1) [16, 63, 39, 7]
+C(2) [98, 80, 37, 10]
+D(3) [44, 0, 26, 79]
+E(4) [73, 70, 2, 66]
+F(5) [96, 58, 87, 12]
+G(6) [88, 59, 29, 81]
+H(7) [47, 49, 71, 6]
+I(8) [69, 25, 76, 32]
+J(9) [45, 24, 95, 100]
+K(10) [86, 65, 82, 83]
+L(11) [57, 55, 68, 9]
+M(12) [102, 64, 67, 89]
+N(13) [43, 77, 99, 101]
+O(14) [61, 42, 72, 3]
+P(15) [84, 40, 46, 90]
+Q(16) [75, 22, 54, 93]
+R(17) [51, 33, 62, 27]
+S(18) [92, 48, 53, 18]
+T(19) [8, 78, 85, 21]
+U(20) [41, 94, 74, 20]
+V(21) [50, 1, 15, 103]
+W(22) [60, 23, 19, 11]
+X(23) [52, 14, 28, 31]
+Y(24) [30, 38, 34, 17]
+Z(25) [13, 56, 36, 97]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   75
+TEXT LENGTH:      253
+
+--- ORIGINAL PLAINTEXT ---
+IWASBEWILDEREDINACLOUDOFWONDERANDHORRORTHEDEATHOFWILLIAMTHEEXECUTIONOFJUSTINETHEMURDEROFCLERVALANDLASTLYOFMYWIFEEVENATTHATMOMENTIKNEWNOTTHATMYONLYREMAININGFRIENDSWERESAFEFROMTHEMALIGNITYOFTHEFIENDMYFATHEREVENNOWMIGHTBEWRITHINGUNDERHISGRASPANDERNESTMIGHT
+
+--- CIPHERTEXT ---
+25 11 4 53 7 66 19 69 68 79 66 33 2 79 32 43 35 80 9 72 41 0 72 58 19 3 101 0 66 33 4 43 79 47 61 62 62 42 33 78 49 66 44 2 5 8 49 42 12 60 25 57 55 76 35 67 8 71 73 70 52 2 80 74 21 76 42 99 72 96 100 94 18 21 69 101 2 78 47 70 102 20 27 79 73 51 72 96 37 68 73 27 50 35 9 5 101 0 68 5 18 21 55 34 3 58 67 30 60 76 58 66 2 50 66 43 5 21 8 49 5 85 67 3 89 2 99 21 32 65 77 70 23 101 61 78 85 47 4 21 67 17 72 101 9 17 62 2 64 91 32 43 32 99 88 58 51 25 73 77 79 18 60 70 51 70 48 5 12 70 12 27 42 67 8 6 2 89 35 68 69 59 101 25 8 34 61 87 78 47 73 58 25 70 99 0 64 17 87 35 8 71 73 27 66 1 73 99 99 72 11 89 32 81 71 8 39 66 11 51 32 8 49 25 43 59 41 101 0 73 33 49 69 18 29 33 4 53 46 91 43 44 73 51 101 70 18 21 67 69 88 71 8
+
+--- DECRYPTED PLAINTEXT ---
+ERECLEVERTERETEREORETHERVETHERERTHATTERTHESEETHESTEDTHERTHEEZEOFTHETESQUATETETHEMISTERESPRESWERETHREATTHERRYTHREEWERETTHETRESETTERNEXTATTHETREETRETEREERETERREENTATEREBESESSERTHESEREATETHASTHEREETHRESETHESEJETTERSETHTHERRETHERATTHERHEAGRECKERSERTEATREEHT
+
+--- SCORE ---
+-2245.9479
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 85 / 253 chars correct (33.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> H
+1      -> J
+2      -> E
+3      -> E
+4      -> E
+5      -> E
+6      -> H
+7      -> L
+8      -> T
+9      -> R
+11     -> R
+12     -> S
+17     -> E
+18     -> A
+19     -> V
+20     -> I
+21     -> T
+23     -> X
+25     -> E
+27     -> S
+29     -> G
+30     -> Y
+32     -> E
+33     -> R
+34     -> H
+35     -> E
+37     -> P
+39     -> H
+41     -> T
+42     -> E
+43     -> R
+44     -> S
+46     -> K
+47     -> H
+48     -> B
+49     -> H
+50     -> W
+51     -> R
+52     -> Z
+53     -> C
+55     -> T
+57     -> D
+58     -> R
+59     -> A
+60     -> T
+61     -> A
+62     -> T
+64     -> R
+65     -> R
+66     -> E
+67     -> R
+68     -> R
+69     -> E
+70     -> E
+71     -> H
+72     -> E
+73     -> E
+74     -> F
+76     -> H
+77     -> N
+78     -> T
+79     -> T
+80     -> O
+81     -> T
+85     -> T
+87     -> S
+88     -> E
+89     -> S
+91     -> E
+94     -> U
+96     -> S
+99     -> T
+100    -> Q
+101    -> T
+102    -> M

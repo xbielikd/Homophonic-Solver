@@ -1,0 +1,167 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 250
+Total homophones: 135
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [8, 29, 100, 121, 87, 14, 40, 16, 72, 22]
+B(1) [118, 98]
+C(2) [127, 24, 49, 109]
+D(3) [99, 76, 105, 55, 97, 131]
+E(4) [58, 38, 1, 51, 106, 6, 42, 74, 45, 18, 80, 62, 68, 59, 134, 3]
+F(5) [132, 102, 103]
+G(6) [77, 48, 64]
+H(7) [93, 108, 133, 125, 85, 110, 57, 27]
+I(8) [21, 117, 31, 122, 89, 11, 13, 112, 43]
+J(9) [73]
+K(10) [82]
+L(11) [79, 69, 54, 36, 75]
+M(12) [0, 61, 88]
+N(13) [92, 26, 39, 25, 86, 34, 4, 107, 128]
+O(14) [111, 126, 30, 47, 28, 7, 20, 44, 41, 17]
+P(15) [66, 101, 10]
+Q(16) [124]
+R(17) [130, 81, 50, 115, 78, 129, 71, 33]
+S(18) [46, 104, 95, 90, 37, 84, 94, 23]
+T(19) [19, 32, 12, 83, 56, 120, 119, 52, 96, 65, 91]
+U(20) [15, 9, 60, 5]
+V(21) [114, 63]
+W(22) [67, 70, 116]
+X(23) [113]
+Y(24) [35, 53, 2]
+Z(25) [123]
+
+
+KEY TYPE:         FREQ
+KEY CONST:        1.2
+CIPHER SYMBOLS:   107
+TEXT LENGTH:      250
+
+--- ORIGINAL PLAINTEXT ---
+THELARGESTOFTHEBANNERSANDTHELARGESTOFTHELAWNSBELONGEDTODAISYFAYSHOUSESHEWASJUSTEIGHTEENTWOYEARSOLDERTHANMEANDBYFARTHEMOSTPOPULAROFALLTHEYOUNGGIRLSINLOUISVILLESHEDRESSEDINWHITEANDHADALITTLEWHITEROADSTERANDALLDAYLONGTHETELEPHONERANGINHERHOUSEANDEXCITED
+
+--- CIPHERTEXT ---
+96 108 45 54 100 129 77 38 104 52 30 102 83 110 80 98 87 34 34 6 81 46 121 92 76 65 85 18 54 29 33 48 18 23 52 28 102 52 125 68 75 16 67 92 104 118 38 36 126 92 64 18 97 52 47 99 16 31 104 53 103 29 2 46 27 47 5 46 38 104 93 6 67 72 37 73 9 37 19 80 31 77 85 91 106 3 25 96 116 30 53 18 100 33 37 7 69 99 59 50 65 110 100 25 0 68 14 26 105 98 35 103 121 71 19 133 62 61 111 104 19 10 41 10 60 36 16 130 17 102 72 36 54 65 110 74 53 44 60 26 64 64 112 129 54 95 89 26 54 41 9 13 84 114 89 54 36 68 95 57 74 105 50 6 90 104 80 131 112 34 116 27 43 56 38 22 4 131 57 100 105 100 79 122 120 83 36 18 116 110 43 32 59 81 7 87 55 46 96 38 33 16 92 55 29 79 75 76 121 53 75 28 4 48 19 108 62 96 3 69 51 101 57 30 4 68 81 22 107 48 11 86 85 74 33 133 44 9 84 80 16 92 131 45 113 24 13 83 62 99
+
+--- DECRYPTED PLAINTEXT ---
+TERETHETEETHESTHESSINSTHEEARETHERGETHEPERTTHENTSTHERVERSTHEENTESTRESTEDITEEXTERTHEAJOHATETERTHERESERESTAKETHEHENTEREALBERANATSTOTHESEESTENTHEETHERTHENTHECTESERSTERIZETETSETOFTTHESTETHERESRESOMENREASTTHTHATHRETERTHEREATHEWASTHENTHEQUATHENTETTHERYTHEAS
+
+--- SCORE ---
+-1638.7307
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 16 / 250 chars correct (6.4%)
+
+--- KEY (cipher -> plain) ---
+0      -> K
+2      -> E
+3      -> H
+4      -> H
+5      -> E
+6      -> I
+7      -> R
+9      -> T
+10     -> A
+11     -> Q
+13     -> H
+14     -> T
+16     -> T
+17     -> T
+18     -> R
+19     -> R
+22     -> T
+23     -> G
+24     -> T
+25     -> A
+26     -> H
+27     -> T
+28     -> T
+29     -> T
+30     -> T
+31     -> H
+32     -> M
+33     -> H
+34     -> S
+35     -> E
+36     -> S
+37     -> E
+38     -> T
+41     -> N
+43     -> O
+44     -> N
+45     -> R
+46     -> S
+47     -> R
+48     -> E
+50     -> R
+51     -> W
+52     -> E
+53     -> E
+54     -> E
+55     -> A
+56     -> F
+57     -> S
+59     -> E
+60     -> T
+61     -> L
+62     -> A
+64     -> E
+65     -> E
+67     -> T
+68     -> E
+69     -> E
+71     -> E
+72     -> E
+73     -> X
+74     -> T
+75     -> R
+76     -> E
+77     -> E
+79     -> H
+80     -> T
+81     -> N
+83     -> E
+84     -> E
+85     -> A
+86     -> U
+87     -> E
+89     -> T
+90     -> Z
+91     -> J
+92     -> H
+93     -> D
+95     -> R
+96     -> T
+97     -> V
+98     -> H
+99     -> S
+100    -> T
+101    -> A
+102    -> H
+103    -> N
+104    -> E
+105    -> E
+106    -> O
+107    -> H
+108    -> E
+110    -> S
+111    -> B
+112    -> T
+113    -> Y
+114    -> C
+116    -> E
+118    -> N
+120    -> R
+121    -> T
+122    -> E
+125    -> P
+126    -> T
+129    -> H
+130    -> O
+131    -> E
+133    -> E

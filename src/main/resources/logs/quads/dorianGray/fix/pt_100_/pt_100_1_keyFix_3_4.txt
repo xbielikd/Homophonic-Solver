@@ -1,0 +1,121 @@
+=====================================
+  HOMOPHONIC SOLVER LOG
+=====================================
+
+--- GENERATOR INFO ---
+Plaintext length: 102
+Total homophones: 104
+
+--- HOMOPHONE KEY DISTRIBUTION ---
+A(0) [53, 39, 68, 69]
+B(1) [56, 4, 38, 41]
+C(2) [67, 17, 70, 82]
+D(3) [14, 51, 5, 66]
+E(4) [31, 92, 61, 48]
+F(5) [99, 32, 10, 13]
+G(6) [27, 72, 37, 65]
+H(7) [86, 1, 55, 94]
+I(8) [44, 57, 40, 29]
+J(9) [95, 98, 30, 102]
+K(10) [35, 21, 103, 9]
+L(11) [78, 25, 71, 43]
+M(12) [90, 24, 91, 101]
+N(13) [64, 80, 60, 81]
+O(14) [97, 26, 96, 59]
+P(15) [77, 93, 12, 84]
+Q(16) [76, 62, 54, 50]
+R(17) [23, 75, 28, 85]
+S(18) [45, 46, 2, 11]
+T(19) [83, 73, 49, 0]
+U(20) [18, 87, 33, 74]
+V(21) [63, 34, 19, 15]
+W(22) [42, 3, 100, 36]
+X(23) [52, 79, 88, 89]
+Y(24) [16, 20, 6, 8]
+Z(25) [58, 22, 47, 7]
+
+
+KEY TYPE:         FIXED
+KEY CONST:        4.0
+CIPHER SYMBOLS:   61
+TEXT LENGTH:      102
+
+--- ORIGINAL PLAINTEXT ---
+BUTTHEIROWNSOULSSTARVEANDARENAKEDCOURAGEHASGONEOUTOFOURRACEPERHAPSWENEVERREALLYHADITTHETERROROFSOCIETY
+
+--- CIPHERTEXT ---
+56 87 0 0 55 61 40 28 96 100 60 45 26 87 78 46 2 0 68 28 34 61 69 81 51 39 75 61 80 68 35 48 14 67 59 74 85 53 65 48 86 69 11 72 97 64 31 26 18 49 96 32 26 33 85 85 39 70 48 12 92 75 1 68 77 45 42 48 60 61 15 92 28 23 48 39 71 43 6 55 68 5 44 49 83 94 48 49 61 28 75 96 28 26 13 11 26 17 57 61 83 20
+
+--- DECRYPTED PLAINTEXT ---
+ZETTHEPRESTHEEQUITERKETHENTELESANDTHEYWASTHERECENTEREBEENGANOTHETHEATEFORMANINTHEEXTREATERTERETHEEVERJ
+
+--- SCORE ---
+-841.4404
+
+--- CORRECT? ---
+NO - MISMATCH
+
+ACCURACY: 20 / 102 chars correct (19.6%)
+
+--- KEY (cipher -> plain) ---
+0      -> T
+1      -> H
+2      -> I
+5      -> E
+6      -> T
+11     -> H
+12     -> N
+13     -> T
+14     -> N
+15     -> F
+17     -> E
+18     -> N
+20     -> J
+23     -> M
+26     -> E
+28     -> R
+31     -> C
+32     -> R
+33     -> B
+34     -> K
+35     -> S
+39     -> N
+40     -> P
+42     -> E
+43     -> N
+44     -> X
+45     -> H
+46     -> U
+48     -> A
+49     -> T
+51     -> E
+53     -> Y
+55     -> H
+56     -> Z
+57     -> V
+59     -> T
+60     -> T
+61     -> E
+64     -> E
+65     -> W
+67     -> D
+68     -> E
+69     -> T
+70     -> G
+71     -> I
+72     -> E
+74     -> H
+75     -> T
+77     -> T
+78     -> Q
+80     -> L
+81     -> H
+83     -> R
+85     -> E
+86     -> S
+87     -> E
+92     -> O
+94     -> E
+96     -> E
+97     -> R
+100    -> S
